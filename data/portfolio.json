@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-10-10",
-  "price_date": "2026-10-09",
+  "updated_at": "2026-10-14",
+  "price_date": "2026-10-13",
   "holdings": [
     {
       "isin": "US83406F1021",
       "name": "SoFi Technologies",
       "ticker": "6B0.DE",
       "broker": "Scalable",
-      "weight": 0.2025
-    },
-    {
-      "isin": "US11135F1012",
-      "name": "Broadcom",
-      "ticker": "1YD.DE",
-      "broker": "Scalable",
-      "weight": 0.1445
+      "weight": 0.181
     },
     {
       "isin": "US30303M1027",
       "name": "Meta Platforms A",
       "ticker": "FB2A.DE",
       "broker": "Scalable",
-      "weight": 0.1431
+      "weight": 0.1405
+    },
+    {
+      "isin": "US11135F1012",
+      "name": "Broadcom",
+      "ticker": "1YD.DE",
+      "broker": "Scalable",
+      "weight": 0.1298
     },
     {
       "isin": "US05605H1005",
       "name": "BWX Technologies",
       "ticker": "4BW.DE",
       "broker": "Scalable",
-      "weight": 0.1196
+      "weight": 0.1057
     },
     {
       "isin": "US75734B1008",
       "name": "Reddit A",
       "ticker": "6VO.DE",
       "broker": "Trade Republic",
-      "weight": 0.1024
-    },
-    {
-      "isin": "IE00BD8PGZ49",
-      "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
-      "ticker": "IUSV.DE",
-      "broker": "Scalable",
-      "weight": 0.0762
-    },
-    {
-      "isin": "LU1900067601",
-      "name": "Amundi MSCI Turkey (Acc)",
-      "ticker": "LTUR.DE",
-      "broker": "Scalable",
-      "weight": 0.0651
+      "weight": 0.0942
     },
     {
       "isin": "US34631F1021",
       "name": "FORGENT POWER SOLUTIONS INC.",
       "ticker": "9FS.DU",
       "broker": "Scalable",
-      "weight": 0.0474
+      "weight": 0.0718
+    },
+    {
+      "isin": "IE00BD8PGZ49",
+      "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+      "ticker": "IUSV.DE",
+      "broker": "Scalable",
+      "weight": 0.0711
+    },
+    {
+      "isin": "LU1900067601",
+      "name": "Amundi MSCI Turkey (Acc)",
+      "ticker": "LTUR.DE",
+      "broker": "Scalable",
+      "weight": 0.0605
     }
   ],
-  "cash_weight": 0.0992
+  "cash_weight": 0.1453
 }
