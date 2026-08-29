@@ -43,7 +43,10 @@ export async function fetchTweets(
     `https://api.apify.com/v2/acts/${ACTOR}/run-sync-get-dataset-items?timeout=240`,
     {
       method: "POST",
-      headers: { "content-type": "application/json" },
+      headers: {
+        "content-type": "application/json",
+        ...(process.env.APIFY_TOKEN ? { authorization: `Bearer ${process.env.APIFY_TOKEN}` } : {}),
+      },
       body: JSON.stringify({ username: handle, minDate, maxItems, retweets: "exclude" }),
     },
   );
