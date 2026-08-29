@@ -1,7 +1,7 @@
 import { readdirSync, writeFileSync } from "node:fs";
 
 const dates = readdirSync("data")
-  .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+  .filter((f) => /^\d{4}-\d{2}-\d{2}\.tr\.json$/.test(f))
   .map((f) => f.slice(0, 10))
   .sort()
   .reverse();
