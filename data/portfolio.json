@@ -7,7 +7,7 @@
       "name": "SoFi Technologies",
       "ticker": "6B0.DE",
       "broker": "Scalable",
-      "weight": 0.2226
+      "weight": 0.2225
     },
     {
       "isin": "US30303M1027",
@@ -21,7 +21,7 @@
       "name": "Broadcom",
       "ticker": "1YD.DE",
       "broker": "Scalable",
-      "weight": 0.1449
+      "weight": 0.1448
     },
     {
       "isin": "US05605H1005",
@@ -35,7 +35,7 @@
       "name": "Reddit A",
       "ticker": "6VO.DE",
       "broker": "Trade Republic",
-      "weight": 0.1007
+      "weight": 0.1006
     },
     {
       "isin": "US92840M1027",
@@ -52,6 +52,13 @@
       "weight": 0.0716
     },
     {
+      "isin": "IE00BD8PGZ49",
+      "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+      "ticker": "IUSV.DE",
+      "broker": "Scalable",
+      "weight": 0.0485
+    },
+    {
       "isin": "US34631F1021",
       "name": "FORGENT POWER SOLUTIONS INC.",
       "ticker": "9FS.DU",
@@ -59,5 +66,5 @@
       "weight": 0.0475
     }
   ],
-  "cash_weight": 0.0482
+  "cash_weight": 0.0001
 }
