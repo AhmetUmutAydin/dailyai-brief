@@ -1,0 +1,22 @@
+{
+  "name": "dailyai-brief",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "fetch": "tsx scripts/fetch.ts",
+    "validate": "tsx scripts/validate.ts",
+    "index": "tsx scripts/index.ts"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.0",
+    "youtube-caption-extractor": "^1.10.2",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.8.0"
+  }
+}
