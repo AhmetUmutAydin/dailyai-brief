@@ -49,7 +49,7 @@ export const ReportSchema = z.object({
     z.object({
       name: z.string().min(1),
       group: z.string().optional(),
-      digest: z.array(z.string().min(1)).optional(),
+      digest: z.union([z.string(), z.array(z.string().min(1))]).optional(),
       items: z.array(
         z.object({
           platform: z.enum(["youtube", "x"]),

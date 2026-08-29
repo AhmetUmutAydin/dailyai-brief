@@ -87,8 +87,10 @@
   .low .body li { margin: 4px 0; }
   .hidden { display: none !important; }
 
-  .digest { margin: 0; padding-left: 20px; }
-  .digest li { margin: 6px 0; }
+  .digest { border-left: 3px solid var(--pc); }
+  .digest p { margin: 0; font-size: 16px; line-height: 1.65; }
+  .digest p + p { margin-top: 10px; }
+  .digest b { font-weight: 600; color: var(--ink); }
   .item .title { font-weight: 600; font-size: 16px; }
   .item p { margin: 8px 0 0; color: var(--ink-2); font-size: 15px; }
   .ia { list-style: none; margin: 12px 0 0; padding: 10px 0 0; border-top: 1px solid var(--line); display: grid; gap: 6px; }
@@ -247,8 +249,9 @@ function person(p, compact = false) {
   if (!p) return `<p class="empty">Unknown tab.</p>`;
   const videos = p.items.filter((i) => i.platform === "youtube");
   const posts = p.items.filter((i) => i.platform !== "youtube");
-  const digest = p.digest?.length
-    ? `<div class="card" ${pc(p.name)}><ol class="digest">${p.digest.map((d) => `<li>${esc(d)}</li>`).join("")}</ol></div>`
+  const paras = typeof p.digest === "string" ? p.digest.split(/\n\s*\n/).map((x) => x.trim()).filter(Boolean) : p.digest?.length ? [p.digest.join(" ")] : [];
+  const digest = paras.length
+    ? `<div class="card digest" ${pc(p.name)}>${paras.map((d) => `<p>${esc(d).replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>")}</p>`).join("")}</div>`
     : posts.length ? `<div class="card"><ol class="digest">${posts.map((i) => `<li>${esc(i.summary)} ${link(i.url, "source")}</li>`).join("")}</ol></div>` : "";
   const vids = videos.map((i) => `
     <div class="card item">
