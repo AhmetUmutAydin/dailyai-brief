@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>dailyai-brief</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --panel: #ffffff; --ink: #1c2430; --ink-2: #4f5b68; --muted: #85909c; --line: #e2e6eb;
+    --accent: #2f6fed; --up: #1f9c6c; --down: #d1483f; --flat: #a3adb8;
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #121417; --panel: #1a1d22; --ink: #e6e9ed; --ink-2: #aeb6c0; --muted: #737d89; --line: #2a2f36; --accent: #7aa2ff; --up: #3dbf8a; --down: #e8615a; --flat: #5f6975; }
+  }
+  * { box-sizing: border-box; }
+  html { color-scheme: light dark; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--font); -webkit-font-smoothing: antialiased; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+  main { max-width: 680px; margin: 0 auto; padding: 24px 16px 64px; }
+
+  .top { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 16px; }
+  .top h1 { margin: 0; font-size: 17px; font-weight: 600; letter-spacing: -.01em; }
+  .date { font: 14px var(--mono); background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; }
+
+  .tabs { display: flex; gap: 4px; overflow-x: auto; padding-bottom: 2px; margin-bottom: 20px; border-bottom: 1px solid var(--line); scrollbar-width: none; }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tabs button { flex: none; font: inherit; font-size: 15px; background: none; border: 0; border-bottom: 2px solid transparent; color: var(--muted); padding: 8px 10px; margin-bottom: -1px; cursor: pointer; white-space: nowrap; }
+  .tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--ink); font-weight: 600; }
+  .tabs button .n { font-size: 12px; color: var(--muted); margin-left: 4px; }
+
+  h2 { margin: 28px 0 10px; font-size: 13px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+  h2:first-child { margin-top: 0; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; margin: 8px 0; }
+  .card + .card { margin-top: 8px; }
+  .meta { font: 13px var(--mono); color: var(--muted); }
+  .empty { color: var(--muted); font-size: 15px; margin: 4px 0; }
+  q { quotes: "“" "”"; color: var(--ink-2); }
+
+  .attn { display: flex; flex-direction: column; gap: 8px; }
+  .attn .card { display: grid; grid-template-columns: 24px 1fr; gap: 10px; }
+  .attn .rank { font: 600 14px var(--mono); color: var(--muted); padding-top: 3px; }
+  .attn b { display: block; font-weight: 600; }
+  .attn .why { color: var(--ink-2); font-size: 15px; margin: 2px 0 4px; }
+
+  .topic .name { font-weight: 600; margin-bottom: 8px; }
+  .view { padding: 8px 0; border-top: 1px solid var(--line); }
+  .view:first-of-type { border-top: 0; padding-top: 0; }
+  .view .who { font-size: 14px; color: var(--muted); }
+  .view .stance { font-weight: 500; }
+  .view q { display: block; font-size: 15px; margin: 2px 0 4px; }
+
+  .filters { display: inline-flex; gap: 4px; margin-left: 10px; vertical-align: middle; }
+  .filters button { font: inherit; font-size: 12px; background: none; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 3px 9px; cursor: pointer; }
+  .filters button[aria-pressed="true"] { color: var(--ink); border-color: var(--ink); }
+  .row { border-top: 1px solid var(--line); }
+  .row:first-of-type { border-top: 0; }
+  .row summary { list-style: none; display: grid; grid-template-columns: 84px 1fr auto; align-items: center; gap: 10px; padding: 10px 0; cursor: pointer; }
+  .row summary::-webkit-details-marker { display: none; }
+  .sym { font: 500 14px var(--mono); }
+  .nm { color: var(--ink-2); font-size: 15px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .dots { display: flex; gap: 4px; }
+  .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--flat); }
+  .dot.up { background: var(--up); } .dot.down { background: var(--down); }
+  .row ul { list-style: none; margin: 0 0 10px; padding: 0 0 0 94px; }
+  .row li { margin: 6px 0; font-size: 15px; }
+  .row li q { display: block; }
+  .tag { font: 500 12px var(--mono); margin-left: 6px; }
+  .tag.up { color: var(--up); } .tag.down { color: var(--down); } .tag.flat { color: var(--flat); }
+  .src { font: 13px var(--mono); }
+  .hidden { display: none; }
+
+  .item .title { font-weight: 600; font-size: 16px; }
+  .item p { margin: 8px 0 0; color: var(--ink-2); font-size: 15px; }
+  .ia { list-style: none; margin: 12px 0 0; padding: 10px 0 0; border-top: 1px solid var(--line); display: grid; gap: 6px; }
+  .ia li { display: grid; grid-template-columns: 84px auto 1fr; gap: 8px; align-items: baseline; font-size: 14px; }
+  .ia .note { color: var(--ink-2); }
+  @media (max-width: 480px) {
+    .row summary { grid-template-columns: 72px 1fr auto; }
+    .row ul { padding-left: 0; }
+    .ia li { grid-template-columns: 72px auto; } .ia .note { grid-column: 1 / -1; }
+  }
+  footer { margin-top: 40px; font: 12px/1.6 var(--mono); color: var(--muted); }
+  @media (prefers-reduced-motion: no-preference) { details[open] > *:not(summary) { animation: in .15s ease-out; } @keyframes in { from { opacity: 0; } } }
+</style>
+</head>
+<body>
+<main>
+  <header class="top">
+    <h1>dailyai-brief</h1>
+    <select id="date" class="date" aria-label="Report date"></select>
+  </header>
+  <nav id="tabs" class="tabs" role="tablist"></nav>
+  <div id="root" role="tabpanel"><p class="empty">Loading…</p></div>
+  <footer id="foot"></footer>
+</main>
+<script>
+const base = location.pathname.includes("/web/") ? "../data/" : "data/";
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const link = (url, text, cls = "src") => `<a class="${cls}" href="${esc(url)}" target="_blank" rel="noopener">${esc(text)}</a>`;
+const cls = (s) => (s === "positive" ? "up" : s === "negative" ? "down" : "flat");
+const label = { positive: "positive", negative: "negative", neutral: "neutral" };
+const fmt = (iso) => iso.slice(0, 16).replace("T", " ");
+const tr = { ı: "i", İ: "i", ş: "s", Ş: "s", ğ: "g", Ğ: "g", ç: "c", Ç: "c", ö: "o", Ö: "o", ü: "u", Ü: "u" };
+const slug = (s) => s.replace(/[ıİşŞğĞçÇöÖüÜ]/g, (c) => tr[c]).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+let report = null;
+let tab = "overview";
+let filter = "all";
+
+function state() {
+  const [d, t] = location.hash.slice(1).split("/");
+  return { date: d || "", tab: t || "overview" };
+}
+function setHash(date, t) { history.replaceState(null, "", `#${date}/${t}`); }
+
+async function loadIndex() {
+  const { dates } = await (await fetch(base + "index.json", { cache: "no-store" })).json();
+  const sel = document.getElementById("date");
+  sel.innerHTML = dates.map((d) => `<option value="${d}">${d}</option>`).join("");
+  sel.onchange = () => loadReport(sel.value);
+  if (dates.length === 0) {
+    document.getElementById("root").innerHTML = `<p class="empty">No reports yet. The first one appears after the routine runs.</p>`;
+    return;
+  }
+  const s = state();
+  sel.value = dates.includes(s.date) ? s.date : dates[0];
+  tab = s.tab;
+  loadReport(sel.value);
+}
+
+async function loadReport(date) {
+  report = await (await fetch(`${base}${date}.json`, { cache: "no-store" })).json();
+  renderTabs();
+  render();
+  const total = report.persons.reduce((n, p) => n + p.items.length, 0);
+  document.getElementById("foot").textContent = `${total} items · ${report.assets.length} assets · generated ${fmt(report.generated_at)} UTC`;
+}
+
+function renderTabs() {
+  const tabs = [{ id: "overview", name: "Overview" }, ...report.persons.map((p) => ({ id: slug(p.name), name: p.name, n: p.items.length }))];
+  if (!tabs.some((t) => t.id === tab)) tab = "overview";
+  document.getElementById("tabs").innerHTML = tabs.map((t) => `<button role="tab" data-tab="${t.id}" aria-selected="${t.id === tab}">${esc(t.name)}${t.n !== undefined ? `<span class="n">${t.n}</span>` : ""}</button>`).join("");
+  document.querySelectorAll("#tabs button").forEach((b) => (b.onclick = () => { tab = b.dataset.tab; renderTabs(); render(); }));
+}
+
+function render() {
+  setHash(report.date, tab);
+  const root = document.getElementById("root");
+  root.innerHTML = tab === "overview" ? overview() : person(report.persons.find((p) => slug(p.name) === tab));
+  document.querySelectorAll(".filters button").forEach((b) => (b.onclick = () => { filter = b.dataset.f; applyFilter(); }));
+  applyFilter();
+  window.scrollTo(0, 0);
+}
+
+function overview() {
+  const attn = report.attention.length
+    ? `<div class="attn">${report.attention.map((x, i) => `<div class="card"><span class="rank">${i + 1}</span><div><b>${esc(x.title)}</b><div class="why">${esc(x.why)}</div><span class="meta">${esc(x.person)} · ${link(x.source_url, "source")}</span></div></div>`).join("")}</div>`
+    : `<p class="empty">Nothing stands out today.</p>`;
+  const macro = report.macro.length
+    ? report.macro.map((t) => `<div class="card topic"><div class="name">${esc(t.topic)}</div>${t.views.map((v) => `<div class="view"><div class="who">${esc(v.person)}</div><div class="stance">${esc(v.view)}</div><q>${esc(v.quote)}</q>${link(v.source_url, "source")}</div>`).join("")}</div>`).join("")
+    : `<p class="empty">No macro commentary.</p>`;
+  const assets = report.assets.length
+    ? `<div class="card">${report.assets.map(assetRow).join("")}</div>`
+    : `<p class="empty">No assets mentioned.</p>`;
+  return `
+    <h2>Attention</h2>${attn}
+    <h2>Macro</h2>${macro}
+    <h2>Assets<span class="filters"><button data-f="all">All</button><button data-f="up">Positive</button><button data-f="down">Negative</button></span></h2>${assets}
+  `;
+}
+
+function assetRow(a) {
+  const dots = a.mentions.map((m) => `<span class="dot ${cls(m.sentiment)}" title="${esc(m.person)}: ${label[m.sentiment]}"></span>`).join("");
+  const items = a.mentions.map((m) => `<li><b>${esc(m.person)}</b><span class="tag ${cls(m.sentiment)}">${label[m.sentiment]}</span><q>${esc(m.quote)}</q>${link(m.source_url, "source")}</li>`).join("");
+  const has = (s) => a.mentions.some((m) => m.sentiment === s);
+  return `<details class="row" data-up="${has("positive")}" data-down="${has("negative")}"><summary><span class="sym">${esc(a.symbol)}</span><span class="nm">${esc(a.name)}</span><span class="dots">${dots}</span></summary><ul>${items}</ul></details>`;
+}
+
+function applyFilter() {
+  document.querySelectorAll(".row").forEach((r) => {
+    const show = filter === "all" || (filter === "up" && r.dataset.up === "true") || (filter === "down" && r.dataset.down === "true");
+    r.classList.toggle("hidden", !show);
+  });
+  document.querySelectorAll(".filters button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.f === filter)));
+}
+
+function person(p) {
+  if (!p) return `<p class="empty">Unknown tab.</p>`;
+  if (p.items.length === 0) return `<p class="empty">No posts yesterday.</p>`;
+  return p.items.map((i) => `
+    <div class="card item">
+      <div class="meta">${esc(i.platform)} · ${esc(fmt(i.published_at))}</div>
+      <div class="title">${link(i.url, i.title, "")}</div>
+      <p>${esc(i.summary)}</p>
+      ${i.assets.length ? `<ul class="ia">${i.assets.map((a) => `<li><span class="sym">${esc(a.symbol)}</span><span class="tag ${cls(a.sentiment)}">${label[a.sentiment]}</span><span class="note">${esc(a.note)}</span></li>`).join("")}</ul>` : ""}
+    </div>`).join("");
+}
+
+loadIndex().catch((e) => { document.getElementById("root").innerHTML = `<p class="empty">Could not load: ${esc(e.message)}. Reload the page.</p>`; });
+</script>
+</body>
+</html>

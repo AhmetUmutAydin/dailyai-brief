@@ -52,6 +52,13 @@ export const ReportSchema = z.object({
           url,
           published_at: isoDateTime,
           summary: z.string().min(1),
+          assets: z.array(
+            z.object({
+              symbol: z.string().min(1),
+              sentiment: z.enum(["positive", "negative", "neutral"]),
+              note: z.string().min(1),
+            }),
+          ),
         }),
       ),
     }),
