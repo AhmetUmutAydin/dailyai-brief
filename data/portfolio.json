@@ -1,25 +1,32 @@
 {
-  "updated_at": "2026-10-22",
-  "price_date": "2026-10-20",
+  "updated_at": "2026-10-24",
+  "price_date": "2026-10-22",
   "holdings": [
     {
       "isin": "US83406F1021",
       "name": "SoFi Technologies",
       "ticker": "6B0.DE",
       "broker": "Scalable",
-      "weight": 0.1837
+      "weight": 0.1877
     },
     {
-      "isin": "US30303M1027",
-      "name": "Meta Platforms A",
-      "ticker": "FB2A.DE",
+      "isin": "LU1900067601",
+      "name": "Amundi MSCI Turkey (Acc)",
+      "ticker": "LTUR.DE",
       "broker": "Scalable",
-      "weight": 0.1351
+      "weight": 0.1293
     },
     {
       "isin": "US11135F1012",
       "name": "Broadcom",
       "ticker": "1YD.DE",
+      "broker": "Scalable",
+      "weight": 0.1291
+    },
+    {
+      "isin": "US30303M1027",
+      "name": "Meta Platforms A",
+      "ticker": "FB2A.DE",
       "broker": "Scalable",
       "weight": 0.1278
     },
@@ -28,43 +35,36 @@
       "name": "BWX Technologies",
       "ticker": "4BW.DE",
       "broker": "Scalable",
-      "weight": 0.108
+      "weight": 0.1051
     },
     {
       "isin": "US75734B1008",
       "name": "Reddit A",
       "ticker": "6VO.DE",
       "broker": "Trade Republic",
-      "weight": 0.0974
+      "weight": 0.0943
     },
     {
       "isin": "US64110L1061",
       "name": "Netflix",
       "ticker": "NFC.DE",
       "broker": "Scalable",
-      "weight": 0.0855
+      "weight": 0.0935
     },
     {
       "isin": "IE00BD8PGZ49",
       "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
       "ticker": "IUSV.DE",
       "broker": "Scalable",
-      "weight": 0.0752
+      "weight": 0.0799
     },
     {
       "isin": "US34631F1021",
       "name": "FORGENT POWER SOLUTIONS INC.",
       "ticker": "9FS.DU",
       "broker": "Scalable",
-      "weight": 0.0622
-    },
-    {
-      "isin": "LU1900067601",
-      "name": "Amundi MSCI Turkey (Acc)",
-      "ticker": "LTUR.DE",
-      "broker": "Scalable",
-      "weight": 0.0599
+      "weight": 0.0527
     }
   ],
-  "cash_weight": 0.0651
+  "cash_weight": 0.0007
 }
