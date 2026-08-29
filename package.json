@@ -7,7 +7,8 @@
   "scripts": {
     "fetch": "tsx scripts/fetch.ts",
     "validate": "tsx scripts/validate.ts",
-    "index": "tsx scripts/index.ts"
+    "index": "tsx scripts/index.ts",
+    "pp": "tsx scripts/pp.ts"
   },
   "dependencies": {
     "fast-xml-parser": "^5.2.0",
