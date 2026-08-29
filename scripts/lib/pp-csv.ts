@@ -60,6 +60,8 @@ const CASH_TYPES: Record<string, string> = {
 
 const SIDE_TYPE: Record<string, "Buy" | "Sell" | undefined> = { BUY: "Buy", SELL: "Sell" };
 
+const FINAL_STATUS = new Set(["SETTLED", "FILLED"]);
+
 const CRYPTO_ETP: Record<string, { isin: string; name: string }> = {
   ETH: { isin: "GB00BLD4ZM24", name: "CoinShares Physical Staked Ethereum (ETH ETP)" },
   AVAX: { isin: "CH1135202088", name: "21shares Avalanche ETP (AVAX)" },
@@ -89,7 +91,7 @@ export function convert(pages: Page[], pp: PPData, opts: ConvertOptions): Conver
     for (const t of page.transactions ?? []) {
       const date = t.lastEventAt.slice(0, 10);
       const time = t.lastEventAt;
-      if (t.status !== "SETTLED") {
+      if (!FINAL_STATUS.has(t.status)) {
         skipped.cancelled++;
         continue;
       }
@@ -142,7 +144,7 @@ export function convert(pages: Page[], pp: PPData, opts: ConvertOptions): Conver
     }
     for (const c of page.crypto?.transactions ?? []) {
       const date = c.lastEventAt.slice(0, 10);
-      if (c.status !== "SETTLED") {
+      if (!FINAL_STATUS.has(c.status)) {
         skipped.cancelled++;
         continue;
       }
