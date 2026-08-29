@@ -12,17 +12,24 @@ Sen bu repoda çalışan günlük routine'sin. Aşağıdaki adımları sırayla 
 
 `text` null olan video için sadece başlıktan yorum yapma; o videoyu kişi kartında "transkript alınamadı" notuyla listele, başka yere koyma.
 
-## 2. Rapor
+## 2. Kapsam filtresi
+
+Sadece finans, piyasa, ekonomi, şirket ve yatırım içeriği rapora girer: hisse, endeks, kripto, emtia, kur, faiz, enflasyon, merkez bankaları, bilanço, şirket haberleri, jeopolitik (piyasa etkisi varsa). Siyasi atışma, kişisel tartışma, espri, genel teknoloji/ürün haberi (piyasa veya bir hisseye etkisi açıkça yoksa) rapora girmez; kişi kartında da sayılmaz. Emin değilsen atla.
+
+## 3. Rapor
 
 `data/DATE.json` dosyasını `schema/report.ts` şemasına tam uyacak şekilde yaz. Dil: Türkçe.
 
 Bölümler:
 - `attention`: bugün dikkat edilmesi gereken en fazla 5 nokta. Sıralama: somutluk ve yenilik. Her biri tek bir kişiye ve tek bir kaynağa bağlı.
 - `macro`: faiz, enflasyon, kur, jeopolitik, küresel piyasa gibi konular. Her konu altında kim ne demiş, kişi başına en fazla 1 görüş. Aynı konuda ters düşenleri aynı `topic` altında topla.
-- `assets`: açıkça adı geçen hisse, coin, emtia, endeks, döviz çifti. `symbol` BIST kodu / ticker / ISO kur kodu. Her mention için sentiment: positive (alım/olumlu beklenti), negative (satış/olumsuz), neutral (sadece bahsetti). Kişi aynı varlık için birden fazla şey dediyse en net olanı al.
+- `assets`: açıkça adı geçen hisse, coin, emtia, endeks, döviz çifti. `symbol` BIST kodu / ticker / ISO kur kodu. Aynı varlık tek kayıt; birden fazla kişi bahsettiyse hepsi `mentions` altında. Her mention için sentiment: positive (alım/olumlu beklenti), negative (satış/olumsuz), neutral (sadece bahsetti). Kişi aynı varlık için birden fazla şey dediyse en net olanı al.
+  - `priority`: high / medium / low. Senin yorumun; tek ölçüt bahsedilme sayısı değil. high: birden fazla kişi görüş bildirdi, ya da net pozisyon/seviye/tarih verildi, ya da görüş değişti. medium: tek kişi somut görüş. low: sadece adı geçti, görüş yok.
+  - `why`: priority gerekçesi, 1 cümle (high ve medium için; low için boş bırakılabilir).
 - `errors`: `raw.json` içindeki `errors` listesini kısa, okunur Türkçe satırlara çevir (ör. "ZeroHedge: X verisi alınamadı (Apify run failed)", "Bora Özkent: 1 video transkripti alınamadı"). Hata yoksa `[]`.
-- `persons`: `sources.json` sırasıyla herkes. İçeriği olmayan kişi için `items: []`. Her içerik için:
-  - `summary`: video için 5-10 cümle (ana tez, gerekçeler, verdiği seviyeler/tarihler, değişen görüşü); tweet için 1-3 cümle.
+- `persons`: `sources.json` sırasıyla herkes. İçeriği olmayan kişi için `digest: []`, `items: []`.
+  - `digest`: kişinin günün tamamı için özeti, en fazla 10 cümle, her cümle ayrı dizi elemanı. Tweet tweet anlatma; görüşleri birleştir ("Fed'i daha az şahin okudu, 10y %4,76'ya geriledi", "LULU'da Burry alımını paylaştı, kendi görüşü yok"). Kapsam filtresine takılan içerik özete girmez.
+  - `items`: kapsama giren her içerik. `summary`: video için 5-10 cümle (ana tez, gerekçeler, seviyeler/tarihler, değişen görüş); tweet için 1 cümle (sayfada kaynak listesi olarak katlanır).
   - `assets`: o içerikte adı geçen her varlık için `{symbol, sentiment, note}`; `note` 1-2 cümle, kişinin o varlık için ne dediği (seviye, vade, gerekçe). Bahsedilen varlık yoksa `[]`.
 
 Kurallar:
@@ -32,7 +39,7 @@ Kurallar:
 - Genel dolgu cümlesi yok ("dikkatli olunmalı", "yatırımcılar takip etmeli", "volatilite bekleniyor"). Somut şey yoksa o bölüm boş kalır.
 - Yatırım tavsiyesi yazma; kişinin ne dediğini aktar.
 
-## 3. Doğrulama ve yayın
+## 4. Doğrulama ve yayın
 
 1. `npm run validate DATE` çalıştır. Hata varsa JSON'u düzelt, tekrar çalıştır. Geçene kadar tekrarla.
 2. `npm run index` çalıştır.

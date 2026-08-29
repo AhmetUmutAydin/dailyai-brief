@@ -40,12 +40,15 @@ export const ReportSchema = z.object({
     z.object({
       symbol: z.string().min(1),
       name: z.string().min(1),
+      priority: z.enum(["high", "medium", "low"]).optional(),
+      why: z.string().optional(),
       mentions: z.array(MentionSchema).min(1),
     }),
   ),
   persons: z.array(
     z.object({
       name: z.string().min(1),
+      digest: z.array(z.string().min(1)).optional(),
       items: z.array(
         z.object({
           platform: z.enum(["youtube", "x"]),
