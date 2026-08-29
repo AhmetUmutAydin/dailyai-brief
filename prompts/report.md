@@ -6,6 +6,8 @@ Sen bu repoda çalışan günlük routine'sin. Aşağıdaki adımları sırayla 
 
 `DATE` bugünün tarihi (YYYY-MM-DD, UTC). `data/DATE/raw.json` dosyasını oku. Yoksa önce `npm run fetch -- --hours 30 --date DATE` çalıştır.
 
+`data/portfolio.json` varsa oku: Umut'un portföyü (`holdings[]`: `isin`, `name`, `ticker`, `broker`, `weight`; `cash_weight`). Yoksa `portfolio` bölümünü yazma.
+
 `items[]` içinde iki tür kayıt var:
 - `platform: "youtube"`: `title`, `url`, `text` (transkript, `null` olabilir)
 - `platform: "x"`: `url`, `text`, `is_reply`. Quote tweet'lerde `text` önce kişinin kendi yorumunu, sonra alıntıladığı tweet'i ("Ad (@handle) ..." ile başlar) içerir. Alıntı kısmı kişinin görüşü değil, tepki verdiği içeriktir; iddia, alıntı (`quote`) ve sentiment kişinin kendi cümlesinden çıkar. Kişi sadece paylaşıp yorum yapmadıysa "paylaştı" de, görüş atfetme.
@@ -35,6 +37,13 @@ Bölümler:
   - `digest`: kişinin gününün özeti, düz metin (string), akıcı 1-2 paragraf, en fazla 10 cümle (`group` olan kişilerde en fazla 4 cümle, tek paragraf). Madde işareti, liste, başlık yok; bir arkadaşına anlatır gibi bağlantılı cümleler. Tweet tweet anlatma; görüşleri birleştir ve öne çıkanı başa koy. Paragrafları boş satırla ayır. X'te finans dışı içerik özete girmez; videolar her zaman girer. Metinde geçen varlık sembollerini ve şirket adlarını çift yıldızla işaretle: `**NVDA**`, `**Bitcoin**`, `**dolar/TL**`; başka markdown kullanma.
   - `items`: kapsama giren X gönderileri ve tüm videolar. `summary`: video için 5-10 cümle (ana tez, gerekçeler, seviyeler/tarihler, değişen görüş); tweet için 1 cümle (sayfada kaynak listesi olarak katlanır).
   - `assets`: o içerikte adı geçen her varlık için `{symbol, sentiment, note}`; `note` 1-2 cümle, kişinin o varlık için ne dediği (seviye, vade, gerekçe). Bahsedilen varlık yoksa `[]`.
+- `portfolio` (sadece `data/portfolio.json` varsa): Umut'un portföyü, dosyadaki her kağıt için bir kayıt, dosyadaki sırayla.
+  - `isin`, `name`, `weight` ve üstteki `cash_weight` dosyadan aynen.
+  - `mentions`: o gün kaynaklarda bu kağıt hakkında söylenenler, `assets` bölümündeki mention formatıyla (`person`, `sentiment`, `quote`, `source_url`). Eşleme ad, ISIN, PP ticker'ı veya ABD sembolüyle (ör. Broadcom = AVGO, Meta Platforms = META, SoFi Technologies = SOFI, Vistra = VST, Reddit = RDDT, VanEck Semiconductor = SMH / yarı iletken sektörü). Bahseden yoksa `[]`.
+  - `action`: `hold`, `sell` veya `buy_more`. `sell` ya da `buy_more` sadece o günün kaynaklarında somut bir gerekçe (seviye, tarih, bilanço, görüş değişimi) varsa; yoksa `hold`.
+  - `why`: 1 cümle. Gerekçe varsa kişiye atıfla ("Bora Özkent'e göre …"); yoksa "Bugün yeni bilgi yok."
+  - `ideas` (bölümün üst seviyesinde, kağıt başına değil): portföyde olmayan, o gün en az bir kaynağın somut görüşle (seviye, tarih, gerekçe) öne çıkardığı en fazla 3 varlık: `symbol`, `name`, `why` (kim, neden, 1-2 cümle), `source_url`. Yoksa `[]`.
+  - Bu bölüm "yatırım tavsiyesi yazma" kuralının tek istisnası: Umut kendi portföyü için öneri istiyor. Öneri kaynaksız olmaz; genel dolgu ("takipte kalın") yok.
 
 Kurallar:
 - `person` alanı her zaman `sources.json`'daki addır (içeriği paylaşan kişi). İçerikte alıntılanan üçüncü kişiler (ör. bir Fed üyesi, bir CEO) `person` olamaz; onları `title`, `why`, `view` veya `note` metninin içinde adıyla belirt.

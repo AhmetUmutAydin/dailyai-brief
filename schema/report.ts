@@ -11,6 +11,30 @@ export const MentionSchema = z.object({
   source_url: url,
 });
 
+export const PortfolioSectionSchema = z.object({
+  cash_weight: z.number().min(0).max(1),
+  holdings: z.array(
+    z.object({
+      isin: z.string().nullable(),
+      name: z.string().min(1),
+      weight: z.number().min(0).max(1),
+      mentions: z.array(MentionSchema),
+      action: z.enum(["hold", "sell", "buy_more"]),
+      why: z.string().min(1),
+    }),
+  ),
+  ideas: z
+    .array(
+      z.object({
+        symbol: z.string().min(1),
+        name: z.string().min(1),
+        why: z.string().min(1),
+        source_url: url,
+      }),
+    )
+    .max(3),
+});
+
 export const ReportSchema = z.object({
   date,
   generated_at: isoDateTime,
@@ -68,6 +92,7 @@ export const ReportSchema = z.object({
       ),
     }),
   ),
+  portfolio: PortfolioSectionSchema.optional(),
 });
 
 export type Report = z.infer<typeof ReportSchema>;
