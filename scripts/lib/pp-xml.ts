@@ -259,8 +259,14 @@ export function readPP(xmlPath: string): PPData {
       keyIndex.set(k, [...(keyIndex.get(k) ?? []), Math.abs(t.amount)]);
     }
   }
-  const hasTx = (date: string, csvType: string, isinOrName: string, amount: number): boolean =>
-    (keyIndex.get(`${date}|${csvType}|${isinOrName}`) ?? []).some((a) => Math.abs(a - Math.abs(amount)) < 0.011);
+  const hasTx = (date: string, csvType: string, isinOrName: string, amount: number): boolean => {
+    const amounts = keyIndex.get(`${date}|${csvType}|${isinOrName}`);
+    if (!amounts) return false;
+    const i = amounts.findIndex((a) => Math.abs(a - Math.abs(amount)) < 0.011);
+    if (i < 0) return false;
+    amounts.splice(i, 1);
+    return true;
+  };
 
   return { securities, accounts, holdings, nameByIsin, hasTx };
 }

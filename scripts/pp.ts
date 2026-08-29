@@ -1,7 +1,8 @@
-import { existsSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { homedir } from "node:os";
 import { join } from "node:path";
 import { readPP } from "./lib/pp-xml.js";
+import { convert, securitiesCsv, toCsv, type Page } from "./lib/pp-csv.js";
 
 const HOME = homedir();
 export const XML = process.env.PP_XML ?? join(HOME, "Documents/PortfolioPerformance/umut.xml");
@@ -17,7 +18,18 @@ function load() {
   return readPP(XML);
 }
 
-const [cmd] = process.argv.slice(2);
+function flag(name: string): string | undefined {
+  const i = process.argv.indexOf(`--${name}`);
+  if (i < 0) return undefined;
+  const value = process.argv[i + 1];
+  return value === undefined || value.startsWith("--") ? undefined : value;
+}
+
+function has(name: string): boolean {
+  return process.argv.includes(`--${name}`);
+}
+
+const [cmd, arg] = process.argv.slice(2);
 
 if (cmd === "state") {
   const pp = load();
@@ -43,6 +55,60 @@ if (cmd === "state") {
       2,
     ),
   );
+} else if (cmd === "csv") {
+  if (!arg) {
+    console.error("usage: npm run pp -- csv <raw.json> [--tagesgeld B --accrued A] [--no-dedupe] [--out-dir DIR]");
+    process.exit(1);
+  }
+  const tagesgeld = flag("tagesgeld");
+  const accrued = flag("accrued");
+  if (has("tagesgeld") || has("accrued")) {
+    const invalid = (v: string | undefined): boolean => v === undefined || !Number.isFinite(Number(v));
+    if ((has("tagesgeld") && invalid(tagesgeld)) || (has("accrued") && invalid(accrued))) {
+      console.error("--tagesgeld and --accrued need numeric values");
+      process.exit(1);
+    }
+    if (has("tagesgeld") !== has("accrued")) {
+      console.error("--tagesgeld and --accrued must be given together");
+      process.exit(1);
+    }
+  }
+  if (has("out-dir") && flag("out-dir") === undefined) {
+    console.error("--out-dir needs a directory");
+    process.exit(1);
+  }
+  const pages = JSON.parse(readFileSync(arg, "utf8")) as unknown;
+  if (!Array.isArray(pages)) {
+    console.error("raw file must be a JSON array of page objects");
+    process.exit(1);
+  }
+  const pp = load();
+  const res = convert(pages as Page[], pp, {
+    dedupe: !has("no-dedupe"),
+    today,
+    tagesgeld: tagesgeld === undefined ? undefined : Number(tagesgeld),
+    accrued: accrued === undefined ? undefined : Number(accrued),
+  });
+  const byType: Record<string, number> = {};
+  for (const r of res.rows) byType[r.type] = (byType[r.type] ?? 0) + 1;
+  console.log(`rows: ${res.rows.length} ${JSON.stringify(byType)}`);
+  console.log(`skipped: not settled ${res.skipped.cancelled}, internal transfer ${res.skipped.internal}, already in PP ${res.skipped.duplicate}`);
+  if (res.reconciliation) console.log(`tagesgeld: ${res.reconciliation}`);
+  for (const u of res.unmapped) console.log(`UNMAPPED: ${u}`);
+  if (res.rows.length === 0) {
+    console.log("nothing to import");
+    process.exit(0);
+  }
+  const outDir = flag("out-dir") ?? IMPORT_DIR;
+  mkdirSync(outDir, { recursive: true });
+  const txPath = join(outDir, `${today}-account-transactions.csv`);
+  writeFileSync(txPath, toCsv(res.rows));
+  console.log(`wrote ${txPath}`);
+  if (res.securities.length) {
+    const sPath = join(outDir, `${today}-securities.csv`);
+    writeFileSync(sPath, securitiesCsv(res.securities));
+    console.log(`wrote ${sPath} (import this first)`);
+  }
 } else {
   console.error("usage: npm run pp -- state | csv <raw.json> [...] | snapshot");
   process.exit(1);
