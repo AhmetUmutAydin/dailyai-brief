@@ -1,42 +1,49 @@
 {
-  "updated_at": "2026-09-19",
-  "price_date": "2026-09-18",
+  "updated_at": "2026-09-24",
+  "price_date": "2026-09-23",
   "holdings": [
     {
       "isin": "US83406F1021",
       "name": "SoFi Technologies",
       "ticker": "6B0.DE",
       "broker": "Scalable",
-      "weight": 0.2274
-    },
-    {
-      "isin": "US11135F1012",
-      "name": "Broadcom",
-      "ticker": "1YD.DE",
-      "broker": "Scalable",
-      "weight": 0.1481
+      "weight": 0.2244
     },
     {
       "isin": "US30303M1027",
       "name": "Meta Platforms A",
       "ticker": "FB2A.DE",
       "broker": "Scalable",
-      "weight": 0.1397
+      "weight": 0.1546
+    },
+    {
+      "isin": "US11135F1012",
+      "name": "Broadcom",
+      "ticker": "1YD.DE",
+      "broker": "Scalable",
+      "weight": 0.1461
     },
     {
       "isin": "US75734B1008",
       "name": "Reddit A",
       "ticker": "6VO.DE",
       "broker": "Trade Republic",
-      "weight": 0.1014
+      "weight": 0.0986
     },
     {
       "isin": "US92840M1027",
       "name": "Vistra Corp",
       "ticker": "0V6.DE",
       "broker": "Scalable",
-      "weight": 0.0942
+      "weight": 0.0915
+    },
+    {
+      "isin": "US34631F1021",
+      "name": "FORGENT POWER SOLUTIONS INC.",
+      "ticker": "9FS.DU",
+      "broker": "Scalable",
+      "weight": 0.048
     }
   ],
-  "cash_weight": 0.2893
+  "cash_weight": 0.2367
 }
