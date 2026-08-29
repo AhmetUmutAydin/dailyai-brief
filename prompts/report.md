@@ -14,7 +14,11 @@ Sen bu repoda çalışan günlük routine'sin. Aşağıdaki adımları sırayla 
 
 ## 2. Kapsam filtresi
 
-Sadece finans, piyasa, ekonomi, şirket ve yatırım içeriği rapora girer: hisse, endeks, kripto, emtia, kur, faiz, enflasyon, merkez bankaları, bilanço, şirket haberleri, jeopolitik (piyasa etkisi varsa). Siyasi atışma, kişisel tartışma, espri, genel teknoloji/ürün haberi (piyasa veya bir hisseye etkisi açıkça yoksa) rapora girmez; kişi kartında da sayılmaz. Emin değilsen atla.
+Finans filtresi sadece `attention` ve `macro` bölümleri için geçerlidir: oraya yalnızca finans, piyasa, ekonomi, şirket ve yatırım içeriği girer (hisse, endeks, kripto, emtia, kur, faiz, enflasyon, merkez bankaları, bilanço, şirket haberleri, piyasa etkisi olan jeopolitik). Siyasi atışma, kişisel tartışma, espri, piyasa etkisi olmayan teknoloji/ürün haberi bu iki bölüme girmez.
+
+`persons` ve `assets` bölümlerinde:
+- YouTube videoları her zaman kapsam içidir; kanalı kullanıcı seçti. Konu ne olursa olsun (koleksiyon kartı piyasası, gayrimenkul, kariyer, yapay zeka) özeti yazılır, adı geçen varlıklar çıkarılır.
+- X gönderilerinde finans filtresi aynen geçerlidir: sadece finans, piyasa, ekonomi, şirket ve yatırım içeriği kişi özetine girer; siyaset, kişisel tartışma, espri, piyasa etkisi olmayan haber atlanır. Emin değilsen atla.
 
 ## 3. Rapor
 
@@ -28,8 +32,8 @@ Bölümler:
   - `why`: priority gerekçesi, 1 cümle (high ve medium için; low için boş bırakılabilir).
 - `errors`: `raw.json` içindeki `errors` listesini kısa, okunur Türkçe satırlara çevir (ör. "ZeroHedge: X verisi alınamadı (Apify run failed)", "Bora Özkent: 1 video transkripti alınamadı"). Hata yoksa `[]`.
 - `persons`: `sources.json` sırasıyla herkes. `sources.json`'da `group` alanı olan kişilerde aynı `group` değerini yaz (ör. "Others"). İçeriği olmayan kişi için `digest: []`, `items: []`.
-  - `digest`: kişinin gününün özeti, düz metin (string), akıcı 1-2 paragraf, en fazla 10 cümle (`group` olan kişilerde en fazla 4 cümle, tek paragraf). Madde işareti, liste, başlık yok; bir arkadaşına anlatır gibi bağlantılı cümleler. Tweet tweet anlatma; görüşleri birleştir ve öne çıkanı başa koy. Paragrafları boş satırla ayır. Kapsam filtresine takılan içerik özete girmez. Metinde geçen varlık sembollerini ve şirket adlarını çift yıldızla işaretle: `**NVDA**`, `**Bitcoin**`, `**dolar/TL**`; başka markdown kullanma.
-  - `items`: kapsama giren her içerik. `summary`: video için 5-10 cümle (ana tez, gerekçeler, seviyeler/tarihler, değişen görüş); tweet için 1 cümle (sayfada kaynak listesi olarak katlanır).
+  - `digest`: kişinin gününün özeti, düz metin (string), akıcı 1-2 paragraf, en fazla 10 cümle (`group` olan kişilerde en fazla 4 cümle, tek paragraf). Madde işareti, liste, başlık yok; bir arkadaşına anlatır gibi bağlantılı cümleler. Tweet tweet anlatma; görüşleri birleştir ve öne çıkanı başa koy. Paragrafları boş satırla ayır. X'te finans dışı içerik özete girmez; videolar her zaman girer. Metinde geçen varlık sembollerini ve şirket adlarını çift yıldızla işaretle: `**NVDA**`, `**Bitcoin**`, `**dolar/TL**`; başka markdown kullanma.
+  - `items`: kapsama giren X gönderileri ve tüm videolar. `summary`: video için 5-10 cümle (ana tez, gerekçeler, seviyeler/tarihler, değişen görüş); tweet için 1 cümle (sayfada kaynak listesi olarak katlanır).
   - `assets`: o içerikte adı geçen her varlık için `{symbol, sentiment, note}`; `note` 1-2 cümle, kişinin o varlık için ne dediği (seviye, vade, gerekçe). Bahsedilen varlık yoksa `[]`.
 
 Kurallar:
