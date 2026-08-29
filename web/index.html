@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="tr">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -27,6 +27,10 @@
   .top { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 14px; }
   .top h1 { margin: 0; font-size: 17px; font-weight: 600; letter-spacing: -.01em; }
   .date { font: 14px var(--mono); background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; }
+  .ctl { display: flex; align-items: center; gap: 8px; }
+  .lang { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--panel); }
+  .lang button { font: 500 13px/1.55 var(--mono); background: none; color: var(--muted); border: 0; padding: 7px 10px; cursor: pointer; }
+  .lang button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
 
   .tabs { display: flex; gap: 2px; overflow-x: auto; margin: 0 -16px 22px; padding: 0 16px; border-bottom: 1px solid var(--line); scrollbar-width: none; }
   .tabs::-webkit-scrollbar { display: none; }
@@ -133,7 +137,10 @@
 <main>
   <header class="top">
     <h1>dailyai-brief</h1>
-    <select id="date" class="date" aria-label="Report date"></select>
+    <div class="ctl">
+      <select id="date" class="date"></select>
+      <div id="lang" class="lang" role="group"><button type="button" data-lang="tr" aria-pressed="false">TR</button><button type="button" data-lang="en" aria-pressed="false">EN</button></div>
+    </div>
   </header>
   <nav id="tabs" class="tabs" role="tablist"></nav>
   <div id="root" role="tabpanel"><p class="empty">Loading…</p></div>
@@ -141,14 +148,48 @@
 </main>
 <script>
 const base = location.pathname.includes("/web/") ? "../data/" : "data/";
+const LANGS = ["tr", "en"];
+const T = {
+  tr: {
+    dateLabel: "Rapor tarihi", langLabel: "Dil",
+    overview: "Genel Bakış", macro: "Makro", assets: "Varlıklar", portfolio: "Portföy",
+    priority: "Öncelik", also: "Ayrıca geçenler", holdings: "Pozisyonlar", ideas: "Yeni öneriler",
+    short: "Günün özeti", videos: "Videolar", sources: "Kaynaklar",
+    all: "Tümü", up: "Pozitif", down: "Negatif",
+    positive: "pozitif", negative: "negatif", neutral: "nötr",
+    hold: "tut", sell: "sat", buy_more: "ekle",
+    items: "içerik", assetsN: "varlık", generated: "üretildi", cash: "nakit", posts: "gönderi", source: "kaynak",
+    loading: "Yükleniyor…", none: "Henüz rapor yok. İlki routine çalışınca gelir.",
+    quiet: "Sakin gün. Takip ettiklerinden kapsama giren bir şey yok.", noAsset: "Bugün gerçek görüş bildirilen varlık yok.",
+    nothing: "Dün kapsama giren bir şey yok.", unknown: "Bilinmeyen sekme.", fail: "Yüklenemedi", reload: "Sayfayı yenile.",
+  },
+  en: {
+    dateLabel: "Report date", langLabel: "Language",
+    overview: "Overview", macro: "Macro", assets: "Assets", portfolio: "Portfolio",
+    priority: "Priority", also: "Also mentioned", holdings: "Holdings", ideas: "New ideas",
+    short: "Day in short", videos: "Videos", sources: "Sources",
+    all: "All", up: "Positive", down: "Negative",
+    positive: "positive", negative: "negative", neutral: "neutral",
+    hold: "hold", sell: "sell", buy_more: "buy more",
+    items: "items", assetsN: "assets", generated: "generated", cash: "cash", posts: "posts", source: "source",
+    loading: "Loading…", none: "No reports yet. The first one appears after the routine runs.",
+    quiet: "Quiet day. Nothing in scope from the people you follow.", noAsset: "No asset with a real view today.",
+    nothing: "Nothing in scope yesterday.", unknown: "Unknown tab.", fail: "Could not load", reload: "Reload the page.",
+  },
+};
+let lang = "tr";
+const t = (k) => T[lang][k];
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const link = (url, text, cls = "src") => `<a class="${cls}" href="${esc(url)}" target="_blank" rel="noopener">${esc(text)}</a>`;
 const cls = (s) => (s === "positive" ? "up" : s === "negative" ? "down" : "flat");
-const label = { positive: "positive", negative: "negative", neutral: "neutral" };
 const fmt = (iso) => iso.slice(0, 16).replace("T", " ");
 const tr = { ı: "i", İ: "i", ş: "s", Ş: "s", ğ: "g", Ğ: "g", ç: "c", Ç: "c", ö: "o", Ö: "o", ü: "u", Ü: "u" };
-const slug = (s) => s.replace(/[ıİşŞğĞçÇöÖüÜ]/g, (c) => tr[c]).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+const slug = (s) => s.replace(/[ıİşŞğĞçÇöÖüÜ]/g, (c) => tr[c]).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 const PRI = { high: 0, medium: 1, low: 2 };
+const store = {
+  get() { try { return localStorage.getItem("lang"); } catch { return null; } },
+  set(v) { try { localStorage.setItem("lang", v); } catch {} },
+};
 let report = null;
 let tab = "overview";
 let filter = "all";
@@ -156,20 +197,43 @@ let colors = {};
 
 const pc = (person) => `style="--pc: var(--p${colors[person] ?? 0})"`;
 const chip = (person) => `<span class="chip" ${pc(person)}>${esc(person)}</span>`;
+const empty = (k) => `<p class="empty">${t(k)}</p>`;
 
 function state() {
-  const [d, t] = location.hash.slice(1).split("/");
-  return { date: d || "", tab: t || "overview" };
+  const [d, tb, l] = location.hash.slice(1).split("/");
+  return { date: d || "", tab: tb || "overview", lang: LANGS.includes(l) ? l : "" };
 }
-function setHash(date, t) { history.replaceState(null, "", `#${date}/${t}`); }
+function setHash(date, tb) { history.replaceState(null, "", `#${date}/${tb}/${lang}`); }
+
+function applyLang() {
+  document.documentElement.lang = lang;
+  document.getElementById("date").setAttribute("aria-label", t("dateLabel"));
+  document.getElementById("lang").setAttribute("aria-label", t("langLabel"));
+  document.querySelectorAll("#lang button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.lang === lang)));
+}
+
+function setLang(l) {
+  if (l === lang) return;
+  lang = l;
+  store.set(l);
+  applyLang();
+  const date = document.getElementById("date").value;
+  if (date) loadReport(date);
+  else document.getElementById("root").innerHTML = empty("none");
+}
 
 async function loadIndex() {
+  const stored = store.get();
+  lang = state().lang || (LANGS.includes(stored) ? stored : "tr");
+  applyLang();
+  document.getElementById("root").innerHTML = empty("loading");
+  document.querySelectorAll("#lang button").forEach((b) => (b.onclick = () => setLang(b.dataset.lang)));
   const { dates } = await (await fetch(base + "index.json", { cache: "no-store" })).json();
   const sel = document.getElementById("date");
   sel.innerHTML = dates.map((d) => `<option value="${d}">${d}</option>`).join("");
   sel.onchange = () => loadReport(sel.value);
   if (dates.length === 0) {
-    document.getElementById("root").innerHTML = `<p class="empty">No reports yet. The first one appears after the routine runs.</p>`;
+    document.getElementById("root").innerHTML = empty("none");
     return;
   }
   const s = state();
@@ -179,35 +243,40 @@ async function loadIndex() {
 }
 
 async function loadReport(date) {
-  report = await (await fetch(`${base}${date}.json`, { cache: "no-store" })).json();
+  try {
+    report = await (await fetch(`${base}${date}.${lang}.json`, { cache: "no-store" })).json();
+  } catch (e) {
+    document.getElementById("root").innerHTML = `<p class="empty">${t("fail")}: ${esc(e.message)}. ${t("reload")}</p>`;
+    return;
+  }
   colors = Object.fromEntries(report.persons.map((p, i) => [p.name, i % 8]));
   renderTabs();
   render();
   const total = report.persons.reduce((n, p) => n + p.items.length, 0);
   const errs = report.errors ?? [];
-  document.getElementById("foot").innerHTML = `${total} items · ${report.assets.length} assets · generated ${esc(fmt(report.generated_at))} UTC${errs.length ? `<div class="errs">${errs.map((e) => `<div>⚠ ${esc(e)}</div>`).join("")}</div>` : ""}`;
+  document.getElementById("foot").innerHTML = `${total} ${t("items")} · ${report.assets.length} ${t("assetsN")} · ${t("generated")} ${esc(fmt(report.generated_at))} UTC${errs.length ? `<div class="errs">${errs.map((e) => `<div>⚠ ${esc(e)}</div>`).join("")}</div>` : ""}`;
 }
 
 function personHas(p) { return (p.digest?.length ?? 0) > 0 || p.items.length > 0; }
 
 function tabList() {
-  const t = [];
-  if (report.attention.length) t.push({ id: "overview", name: "Overview", n: report.attention.length });
-  if (report.macro.length) t.push({ id: "macro", name: "Macro", n: report.macro.length });
-  if (report.assets.length) t.push({ id: "assets", name: "Assets", n: report.assets.length });
-  if (report.portfolio) t.push({ id: "portfolio", name: "Portföy", n: report.portfolio.holdings.length });
+  const l = [];
+  if (report.attention.length) l.push({ id: "overview", name: t("overview"), n: report.attention.length });
+  if (report.macro.length) l.push({ id: "macro", name: t("macro"), n: report.macro.length });
+  if (report.assets.length) l.push({ id: "assets", name: t("assets"), n: report.assets.length });
+  if (report.portfolio) l.push({ id: "portfolio", name: t("portfolio"), n: report.portfolio.holdings.length });
   const solo = report.persons.filter((p) => !p.group && personHas(p));
-  solo.forEach((p, i) => t.push({ id: slug(p.name), name: p.name, n: p.items.length, person: p.name, first: i === 0 }));
+  solo.forEach((p, i) => l.push({ id: slug(p.name), name: p.name, n: p.items.length, person: p.name, first: i === 0 }));
   const groups = [...new Set(report.persons.filter((p) => p.group && personHas(p)).map((p) => p.group))];
-  groups.forEach((g) => t.push({ id: "g-" + slug(g), name: g, n: report.persons.filter((p) => p.group === g && personHas(p)).length, group: g }));
-  return t;
+  groups.forEach((g) => l.push({ id: "g-" + slug(g), name: g, n: report.persons.filter((p) => p.group === g && personHas(p)).length, group: g }));
+  return l;
 }
 
 function renderTabs() {
   const tabs = tabList();
   if (tabs.length === 0) { document.getElementById("tabs").innerHTML = ""; return; }
-  if (!tabs.some((t) => t.id === tab)) tab = tabs[0].id;
-  document.getElementById("tabs").innerHTML = tabs.map((t) => `${t.first ? `<span class="gap"></span>` : ""}<button role="tab" data-tab="${t.id}" aria-selected="${t.id === tab}" ${t.person ? pc(t.person) : ""}>${t.person ? `<span class="sw"></span>` : ""}${esc(t.name)}<span class="n">${t.n}</span></button>`).join("");
+  if (!tabs.some((x) => x.id === tab)) tab = tabs[0].id;
+  document.getElementById("tabs").innerHTML = tabs.map((x) => `${x.first ? `<span class="gap"></span>` : ""}<button role="tab" data-tab="${x.id}" aria-selected="${x.id === tab}" ${x.person ? pc(x.person) : ""}>${x.person ? `<span class="sw"></span>` : ""}${esc(x.name)}<span class="n">${x.n}</span></button>`).join("");
   document.querySelectorAll("#tabs button").forEach((b) => (b.onclick = () => { tab = b.dataset.tab; renderTabs(); render(); }));
   document.querySelector("#tabs button[aria-selected='true']")?.scrollIntoView({ block: "nearest", inline: "nearest" });
 }
@@ -221,7 +290,7 @@ document.getElementById("tabs").addEventListener("wheel", (e) => {
 function render() {
   setHash(report.date, tab);
   const root = document.getElementById("root");
-  if (tabList().length === 0) { root.innerHTML = `<p class="empty">Quiet day. Nothing in scope from the people you follow.</p>`; return; }
+  if (tabList().length === 0) { root.innerHTML = empty("quiet"); return; }
   root.innerHTML = tab === "overview" ? overview() : tab === "macro" ? macro() : tab === "assets" ? assets() : tab === "portfolio" ? portfolio() : tab.startsWith("g-") ? group(tab.slice(2)) : person(report.persons.find((p) => slug(p.name) === tab));
   document.querySelectorAll(".filters button").forEach((b) => (b.onclick = () => { filter = b.dataset.f; applyFilter(); }));
   applyFilter();
@@ -229,17 +298,17 @@ function render() {
 }
 
 function overview() {
-  return `<div class="attn">${report.attention.map((x, i) => `<div class="card" ${pc(x.person)}><span class="rank">${i + 1}</span><div><b>${esc(x.title)}</b><div class="why">${esc(x.why)}</div>${chip(x.person)} · ${link(x.source_url, "source")}</div></div>`).join("")}</div>`;
+  return `<div class="attn">${report.attention.map((x, i) => `<div class="card" ${pc(x.person)}><span class="rank">${i + 1}</span><div><b>${esc(x.title)}</b><div class="why">${esc(x.why)}</div>${chip(x.person)} · ${link(x.source_url, t("source"))}</div></div>`).join("")}</div>`;
 }
 
 function macro() {
-  return report.macro.map((t) => `<div class="card topic"><div class="name">${esc(t.topic)}</div>${t.views.map((v) => `<div class="view">${chip(v.person)}<div class="stance">${esc(v.view)}</div><q>${esc(v.quote)}</q>${link(v.source_url, "source")}</div>`).join("")}</div>`).join("");
+  return report.macro.map((x) => `<div class="card topic"><div class="name">${esc(x.topic)}</div>${x.views.map((v) => `<div class="view">${chip(v.person)}<div class="stance">${esc(v.view)}</div><q>${esc(v.quote)}</q>${link(v.source_url, t("source"))}</div>`).join("")}</div>`).join("");
 }
 
 function mentionList(ms) {
-  return `<ul>${ms.map((m) => `<li>${chip(m.person)}<span class="tag ${cls(m.sentiment)}">${label[m.sentiment]}</span><q>${esc(m.quote)}</q>${link(m.source_url, "source")}</li>`).join("")}</ul>`;
+  return `<ul>${ms.map((m) => `<li>${chip(m.person)}<span class="tag ${cls(m.sentiment)}">${t(m.sentiment)}</span><q>${esc(m.quote)}</q>${link(m.source_url, t("source"))}</li>`).join("")}</ul>`;
 }
-function dots(a) { return `<span class="dots">${a.mentions.map((m) => `<span class="dot ${cls(m.sentiment)}" title="${esc(m.person)}: ${label[m.sentiment]}"></span>`).join("")}</span>`; }
+function dots(a) { return `<span class="dots">${a.mentions.map((m) => `<span class="dot ${cls(m.sentiment)}" title="${esc(m.person)}: ${t(m.sentiment)}"></span>`).join("")}</span>`; }
 function flags(a) { const has = (s) => a.mentions.some((m) => m.sentiment === s); return `data-up="${has("positive")}" data-down="${has("negative")}"`; }
 
 function assets() {
@@ -250,27 +319,27 @@ function assets() {
   const card = (a, open) => `<details class="card asset ${a.priority ?? "medium"}" ${flags(a)} ${open ? "open" : ""}><summary><span class="sym">${esc(a.symbol)}</span><span class="nm">${esc(a.name)}</span>${dots(a)}</summary>${a.why ? `<div class="why">${esc(a.why)}</div>` : ""}${mentionList(a.mentions)}</details>`;
   const pill = (a) => `<details class="row" ${flags(a)}><summary>${esc(a.symbol)}${dots(a)}</summary><div class="body"><b>${esc(a.name)}</b>${mentionList(a.mentions)}</div></details>`;
   return `
-    <h2>Priority<span class="rule"></span><span class="filters"><button data-f="all">All</button><button data-f="up">Positive</button><button data-f="down">Negative</button></span></h2>
+    <h2>${t("priority")}<span class="rule"></span><span class="filters"><button data-f="all">${t("all")}</button><button data-f="up">${t("up")}</button><button data-f="down">${t("down")}</button></span></h2>
     ${high.length ? high.map((a) => card(a, true)).join("") : ""}
     ${mid.length ? mid.map((a) => card(a, false)).join("") : ""}
-    ${!high.length && !mid.length ? `<p class="empty">No asset with a real view today.</p>` : ""}
-    ${low.length ? `<h2>Also mentioned<span class="rule"></span></h2><div class="low">${low.map(pill).join("")}</div>` : ""}
+    ${!high.length && !mid.length ? empty("noAsset") : ""}
+    ${low.length ? `<h2>${t("also")}<span class="rule"></span></h2><div class="low">${low.map(pill).join("")}</div>` : ""}
   `;
 }
 
-const ACT = { hold: ["hold", "flat"], sell: ["sell", "down"], buy_more: ["buy more", "up"] };
+const ACT = { hold: "flat", sell: "down", buy_more: "up" };
 const pctw = (w) => `${(w * 100).toFixed(1)}%`;
 
 function portfolio() {
   const p = report.portfolio;
   const rows = p.holdings.map((h) => {
-    const [txt, c] = ACT[h.action] ?? ACT.hold;
-    return `<details class="card pf" ${flags(h)}><summary><span class="w">${pctw(h.weight)}</span><span class="nm">${esc(h.name)}</span><span class="act ${c}">${txt}</span>${dots(h)}</summary><div class="why">${esc(h.why)}</div>${h.mentions.length ? mentionList(h.mentions) : ""}</details>`;
+    const a = h.action in ACT ? h.action : "hold";
+    return `<details class="card pf" ${flags(h)}><summary><span class="w">${pctw(h.weight)}</span><span class="nm">${esc(h.name)}</span><span class="act ${ACT[a]}">${t(a)}</span>${dots(h)}</summary><div class="why">${esc(h.why)}</div>${h.mentions.length ? mentionList(h.mentions) : ""}</details>`;
   }).join("");
   const ideas = p.ideas.length
-    ? `<h2>Yeni öneriler<span class="rule"></span></h2>${p.ideas.map((i) => `<div class="card idea"><span class="sym">${esc(i.symbol)}</span><span class="nm">${esc(i.name)}</span><div class="why">${esc(i.why)}</div>${link(i.source_url, "source")}</div>`).join("")}`
+    ? `<h2>${t("ideas")}<span class="rule"></span></h2>${p.ideas.map((i) => `<div class="card idea"><span class="sym">${esc(i.symbol)}</span><span class="nm">${esc(i.name)}</span><div class="why">${esc(i.why)}</div>${link(i.source_url, t("source"))}</div>`).join("")}`
     : "";
-  return `<h2>Holdings<span class="rule"></span><span class="meta">nakit ${pctw(p.cash_weight)}</span></h2>${rows}${ideas}`;
+  return `<h2>${t("holdings")}<span class="rule"></span><span class="meta">${t("cash")} ${pctw(p.cash_weight)}</span></h2>${rows}${ideas}`;
 }
 
 function applyFilter() {
@@ -287,29 +356,29 @@ function group(id) {
 }
 
 function person(p, compact = false) {
-  if (!p) return `<p class="empty">Unknown tab.</p>`;
+  if (!p) return empty("unknown");
   const videos = p.items.filter((i) => i.platform === "youtube");
   const posts = p.items.filter((i) => i.platform !== "youtube");
   const paras = typeof p.digest === "string" ? p.digest.split(/\n\s*\n/).map((x) => x.trim()).filter(Boolean) : p.digest?.length ? [p.digest.join(" ")] : [];
   const digest = paras.length
     ? `<div class="card digest" ${pc(p.name)}>${paras.map((d) => `<p>${esc(d).replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>")}</p>`).join("")}</div>`
-    : posts.length ? `<div class="card"><ol class="digest">${posts.map((i) => `<li>${esc(i.summary)} ${link(i.url, "source")}</li>`).join("")}</ol></div>` : "";
+    : posts.length ? `<div class="card"><ol class="digest">${posts.map((i) => `<li>${esc(i.summary)} ${link(i.url, t("source"))}</li>`).join("")}</ol></div>` : "";
   const vids = videos.map((i) => `
     <div class="card item">
       <div class="meta">youtube · ${esc(fmt(i.published_at))}</div>
       <div class="title">${link(i.url, i.title, "")}</div>
       <p>${esc(i.summary)}</p>
-      ${i.assets?.length ? `<ul class="ia">${i.assets.map((a) => `<li><span class="sym">${esc(a.symbol)}</span><span class="tag ${cls(a.sentiment)}">${label[a.sentiment]}</span><span class="note">${esc(a.note)}</span></li>`).join("")}</ul>` : ""}
+      ${i.assets?.length ? `<ul class="ia">${i.assets.map((a) => `<li><span class="sym">${esc(a.symbol)}</span><span class="tag ${cls(a.sentiment)}">${t(a.sentiment)}</span><span class="note">${esc(a.note)}</span></li>`).join("")}</ul>` : ""}
     </div>`).join("");
   const sources = posts.length && p.digest?.length
-    ? `<details class="sources"><summary>Sources · ${posts.length} posts</summary><ul>${posts.map((i) => `<li><span class="meta">${esc(fmt(i.published_at))}</span>${link(i.url, i.title, "")}</li>`).join("")}</ul></details>`
+    ? `<details class="sources"><summary>${t("sources")} · ${posts.length} ${t("posts")}</summary><ul>${posts.map((i) => `<li><span class="meta">${esc(fmt(i.published_at))}</span>${link(i.url, i.title, "")}</li>`).join("")}</ul></details>`
     : "";
-  if (!digest && !vids) return `<p class="empty">Nothing in scope yesterday.</p>`;
+  if (!digest && !vids) return empty("nothing");
   if (compact) return `${digest}${vids}${sources}`;
-  return `${digest ? `<h2>Day in short<span class="rule"></span></h2>${digest}` : ""}${vids ? `<h2>Videos<span class="rule"></span></h2>${vids}` : ""}${sources ? `<h2>Sources<span class="rule"></span></h2>${sources}` : ""}`;
+  return `${digest ? `<h2>${t("short")}<span class="rule"></span></h2>${digest}` : ""}${vids ? `<h2>${t("videos")}<span class="rule"></span></h2>${vids}` : ""}${sources ? `<h2>${t("sources")}<span class="rule"></span></h2>${sources}` : ""}`;
 }
 
-loadIndex().catch((e) => { document.getElementById("root").innerHTML = `<p class="empty">Could not load: ${esc(e.message)}. Reload the page.</p>`; });
+loadIndex().catch((e) => { document.getElementById("root").innerHTML = `<p class="empty">${t("fail")}: ${esc(e.message)}. ${t("reload")}</p>`; });
 </script>
 </body>
 </html>
