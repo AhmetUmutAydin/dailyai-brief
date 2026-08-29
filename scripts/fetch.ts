@@ -1,5 +1,5 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
-import { fetchFeed, fetchTranscript, parseFeed, searchVideos, selectEntries } from "./lib/youtube.js";
+import { fetchFeed, fetchTranscript, parseFeed, searchChannelVideos, searchVideos, selectEntries } from "./lib/youtube.js";
 import { fetchTweets, fetchTweetsBatch, mapTweets, type ApifyTweet } from "./lib/x.js";
 import { supadataTranscript } from "./lib/supadata.js";
 import { loadSeen, saveSeen } from "./lib/seen.js";
@@ -67,12 +67,24 @@ async function addVideo(s: Source, e: { id: string; title: string; url: string; 
 
 for (const s of sources) {
   if (s.youtube_channel_id) {
+    let entries: { id: string; title: string; url: string; published_at: string }[] | null = null;
+    let feedError = "";
     try {
-      const entries = selectEntries(parseFeed(await fetchFeed(s.youtube_channel_id)), { since, seen });
+      entries = selectEntries(parseFeed(await fetchFeed(s.youtube_channel_id)), { since, seen });
+    } catch (err) {
+      feedError = (err as Error).message;
+    }
+    if (entries === null) {
+      try {
+        entries = (await searchChannelVideos(s.youtube_channel_id, s.name, hours)).filter((h) => !seen.has(h.id));
+        errors.push(`youtube ${s.name}: feed failed (${feedError}); used search fallback, ${entries.length} video(s)`);
+      } catch (err) {
+        errors.push(`youtube ${s.name}: feed failed (${feedError}); search fallback failed (${(err as Error).message})`);
+      }
+    }
+    if (entries !== null) {
       reached++;
       for (const e of entries) await addVideo(s, e);
-    } catch (err) {
-      errors.push(`youtube ${s.name}: ${(err as Error).message}`);
     }
   }
   if (s.youtube_search) {

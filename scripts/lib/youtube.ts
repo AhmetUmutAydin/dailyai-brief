@@ -56,7 +56,7 @@ export async function fetchTranscript(
   return null;
 }
 
-export type SearchHit = FeedEntry & { age_hours: number | null };
+export type SearchHit = FeedEntry & { age_hours: number | null; channel_id: string | null };
 
 const AGE: Record<string, number> = {
   second: 1 / 3600, minute: 1 / 60, hour: 1, day: 24, week: 168, month: 720, year: 8760,
@@ -88,16 +88,23 @@ export async function searchVideos(query: string): Promise<SearchHit[]> {
       const title = (r.title?.runs ?? []).map((x: any) => x.text).join("");
       const published = r.publishedTimeText?.simpleText ?? "";
       const age = parseAge(published);
+      const owner = r.ownerText?.runs?.[0]?.navigationEndpoint?.browseEndpoint?.browseId ?? r.longBylineText?.runs?.[0]?.navigationEndpoint?.browseEndpoint?.browseId ?? null;
       hits.push({
         id: r.videoId,
         title,
         url: `https://www.youtube.com/watch?v=${r.videoId}`,
         published_at: age === null ? "" : new Date(Date.now() - age * 3600 * 1000).toISOString(),
         age_hours: age,
+        channel_id: owner,
       });
     }
     Object.values(o).forEach(walk);
   };
   walk(JSON.parse(json));
   return hits;
+}
+
+export async function searchChannelVideos(channelId: string, channelName: string, maxAgeHours: number): Promise<SearchHit[]> {
+  const hits = await searchVideos(channelName);
+  return hits.filter((h) => h.channel_id === channelId && h.age_hours !== null && h.age_hours <= maxAgeHours);
 }

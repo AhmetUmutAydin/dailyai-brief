@@ -157,7 +157,7 @@ async function loadIndex() {
     return;
   }
   const s = state();
-  sel.value = dates.includes(s.date) ? s.date : dates[0];
+  sel.value = dates[0];
   tab = s.tab;
   loadReport(sel.value);
 }
