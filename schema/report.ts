@@ -48,6 +48,7 @@ export const ReportSchema = z.object({
   persons: z.array(
     z.object({
       name: z.string().min(1),
+      group: z.string().optional(),
       digest: z.array(z.string().min(1)).optional(),
       items: z.array(
         z.object({

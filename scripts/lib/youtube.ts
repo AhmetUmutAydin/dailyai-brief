@@ -52,3 +52,49 @@ export async function fetchTranscript(
   }
   return null;
 }
+
+export type SearchHit = FeedEntry & { age_hours: number | null };
+
+const AGE: Record<string, number> = {
+  second: 1 / 3600, minute: 1 / 60, hour: 1, day: 24, week: 168, month: 720, year: 8760,
+  saniye: 1 / 3600, dakika: 1 / 60, saat: 1, gün: 24, hafta: 168, ay: 720, yıl: 8760,
+};
+
+function parseAge(text: string): number | null {
+  const m = /(\d+)\s+(second|minute|hour|day|week|month|year|saniye|dakika|saat|gün|hafta|ay|yıl)s?\s+(ago|önce)/.exec(text);
+  return m ? Number(m[1]) * AGE[m[2]] : null;
+}
+
+export async function searchVideos(query: string): Promise<SearchHit[]> {
+  const url = `https://www.youtube.com/results?search_query=${encodeURIComponent(query)}&sp=CAI%253D&hl=tr&gl=TR`;
+  const res = await fetch(url, { headers: { "user-agent": "Mozilla/5.0", "accept-language": "tr-TR,tr;q=0.9,en;q=0.5" } });
+  if (!res.ok) throw new Error(`youtube search "${query}": HTTP ${res.status}`);
+  const html = await res.text();
+  const start = html.indexOf("ytInitialData = ");
+  if (start < 0) throw new Error(`youtube search "${query}": no ytInitialData`);
+  const json = html.slice(start + 16, html.indexOf(";</script>", start));
+  const hits: SearchHit[] = [];
+  const seen = new Set<string>();
+  const walk = (v: unknown): void => {
+    if (Array.isArray(v)) return v.forEach(walk);
+    if (!v || typeof v !== "object") return;
+    const o = v as Record<string, any>;
+    if (o.videoRenderer?.videoId && !seen.has(o.videoRenderer.videoId)) {
+      const r = o.videoRenderer;
+      seen.add(r.videoId);
+      const title = (r.title?.runs ?? []).map((x: any) => x.text).join("");
+      const published = r.publishedTimeText?.simpleText ?? "";
+      const age = parseAge(published);
+      hits.push({
+        id: r.videoId,
+        title,
+        url: `https://www.youtube.com/watch?v=${r.videoId}`,
+        published_at: age === null ? "" : new Date(Date.now() - age * 3600 * 1000).toISOString(),
+        age_hours: age,
+      });
+    }
+    Object.values(o).forEach(walk);
+  };
+  walk(JSON.parse(json));
+  return hits;
+}

@@ -1,10 +1,10 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
-import { fetchFeed, fetchTranscript, parseFeed, selectEntries } from "./lib/youtube.js";
+import { fetchFeed, fetchTranscript, parseFeed, searchVideos, selectEntries } from "./lib/youtube.js";
 import { fetchTweets, mapTweets } from "./lib/x.js";
 import { loadSeen, saveSeen } from "./lib/seen.js";
 import { geminiTranscript } from "./lib/gemini.js";
 
-type Source = { name: string; youtube_channel_id?: string; x_handle?: string };
+type Source = { name: string; youtube_channel_id?: string; youtube_search?: string; x_handle?: string; group?: string };
 
 type RawItem = {
   id: string;
@@ -34,34 +34,48 @@ const items: RawItem[] = [];
 const errors: string[] = [];
 let reached = 0;
 
+async function addVideo(s: Source, e: { id: string; title: string; url: string; published_at: string }): Promise<void> {
+  let text: string | null = null;
+  let captionError = "";
+  try {
+    text = await fetchTranscript(e.id);
+    if (text === null) captionError = "no captions";
+  } catch (err) {
+    captionError = (err as Error).message;
+  }
+  if (text === null && process.env.GEMINI_API_KEY) {
+    try {
+      text = await geminiTranscript(e.url);
+    } catch (err) {
+      errors.push(`youtube ${e.id}: captions: ${captionError}; gemini: ${(err as Error).message}`);
+    }
+  } else if (text === null) {
+    errors.push(`youtube ${e.id}: ${captionError}`);
+  }
+  items.push({ id: e.id, person: s.name, platform: "youtube", url: e.url, title: e.title, published_at: e.published_at, text });
+  seen.add(e.id);
+}
+
 for (const s of sources) {
   if (s.youtube_channel_id) {
     try {
       const entries = selectEntries(parseFeed(await fetchFeed(s.youtube_channel_id)), { since, seen });
       reached++;
-      for (const e of entries) {
-        let text: string | null = null;
-        let captionError = "";
-        try {
-          text = await fetchTranscript(e.id);
-          if (text === null) captionError = "no captions";
-        } catch (err) {
-          captionError = (err as Error).message;
-        }
-        if (text === null && process.env.GEMINI_API_KEY) {
-          try {
-            text = await geminiTranscript(e.url);
-          } catch (err) {
-            errors.push(`youtube ${e.id}: captions: ${captionError}; gemini: ${(err as Error).message}`);
-          }
-        } else if (text === null) {
-          errors.push(`youtube ${e.id}: ${captionError}`);
-        }
-        items.push({ id: e.id, person: s.name, platform: "youtube", url: e.url, title: e.title, published_at: e.published_at, text });
-        seen.add(e.id);
-      }
+      for (const e of entries) await addVideo(s, e);
     } catch (err) {
       errors.push(`youtube ${s.name}: ${(err as Error).message}`);
+    }
+  }
+  if (s.youtube_search) {
+    try {
+      const needle = s.youtube_search.toLowerCase();
+      const hits = (await searchVideos(s.youtube_search)).filter(
+        (h) => h.age_hours !== null && h.age_hours <= hours && h.title.toLowerCase().includes(needle) && !seen.has(h.id),
+      );
+      reached++;
+      for (const h of hits) await addVideo(s, h);
+    } catch (err) {
+      errors.push(`youtube search ${s.name}: ${(err as Error).message}`);
     }
   }
   if (s.x_handle) {

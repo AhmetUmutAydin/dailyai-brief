@@ -27,8 +27,8 @@ Bölümler:
   - `priority`: high / medium / low. Senin yorumun; tek ölçüt bahsedilme sayısı değil. high: birden fazla kişi görüş bildirdi, ya da net pozisyon/seviye/tarih verildi, ya da görüş değişti. medium: tek kişi somut görüş. low: sadece adı geçti, görüş yok.
   - `why`: priority gerekçesi, 1 cümle (high ve medium için; low için boş bırakılabilir).
 - `errors`: `raw.json` içindeki `errors` listesini kısa, okunur Türkçe satırlara çevir (ör. "ZeroHedge: X verisi alınamadı (Apify run failed)", "Bora Özkent: 1 video transkripti alınamadı"). Hata yoksa `[]`.
-- `persons`: `sources.json` sırasıyla herkes. İçeriği olmayan kişi için `digest: []`, `items: []`.
-  - `digest`: kişinin günün tamamı için özeti, en fazla 10 cümle, her cümle ayrı dizi elemanı. Tweet tweet anlatma; görüşleri birleştir ("Fed'i daha az şahin okudu, 10y %4,76'ya geriledi", "LULU'da Burry alımını paylaştı, kendi görüşü yok"). Kapsam filtresine takılan içerik özete girmez.
+- `persons`: `sources.json` sırasıyla herkes. `sources.json`'da `group` alanı olan kişilerde aynı `group` değerini yaz (ör. "Others"). İçeriği olmayan kişi için `digest: []`, `items: []`.
+  - `digest`: kişinin günün tamamı için özeti, en fazla 10 cümle (`group` olan kişilerde en fazla 4 cümle), her cümle ayrı dizi elemanı. Tweet tweet anlatma; görüşleri birleştir ("Fed'i daha az şahin okudu, 10y %4,76'ya geriledi", "LULU'da Burry alımını paylaştı, kendi görüşü yok"). Kapsam filtresine takılan içerik özete girmez.
   - `items`: kapsama giren her içerik. `summary`: video için 5-10 cümle (ana tez, gerekçeler, seviyeler/tarihler, değişen görüş); tweet için 1 cümle (sayfada kaynak listesi olarak katlanır).
   - `assets`: o içerikte adı geçen her varlık için `{symbol, sentiment, note}`; `note` 1-2 cümle, kişinin o varlık için ne dediği (seviye, vade, gerekçe). Bahsedilen varlık yoksa `[]`.
 

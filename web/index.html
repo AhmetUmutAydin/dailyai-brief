@@ -39,6 +39,7 @@
   h2 { margin: 26px 0 10px; font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; display: flex; align-items: center; gap: 10px; }
   h2:first-child { margin-top: 0; }
   h2 .rule { flex: 1; height: 1px; background: var(--line); }
+  h2 .chip { font-size: 13px; font-weight: 600; color: var(--ink); text-transform: none; letter-spacing: 0; }
   .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; margin: 8px 0; }
   .meta { font: 13px var(--mono); color: var(--muted); }
   .empty { color: var(--muted); font-size: 15px; margin: 4px 0; }
@@ -174,7 +175,10 @@ function tabList() {
   if (report.attention.length) t.push({ id: "overview", name: "Overview", n: report.attention.length });
   if (report.macro.length) t.push({ id: "macro", name: "Macro", n: report.macro.length });
   if (report.assets.length) t.push({ id: "assets", name: "Assets", n: report.assets.length });
-  report.persons.filter(personHas).forEach((p, i) => t.push({ id: slug(p.name), name: p.name, n: p.items.length, person: p.name, first: i === 0 }));
+  const solo = report.persons.filter((p) => !p.group && personHas(p));
+  solo.forEach((p, i) => t.push({ id: slug(p.name), name: p.name, n: p.items.length, person: p.name, first: i === 0 }));
+  const groups = [...new Set(report.persons.filter((p) => p.group && personHas(p)).map((p) => p.group))];
+  groups.forEach((g) => t.push({ id: "g-" + slug(g), name: g, n: report.persons.filter((p) => p.group === g && personHas(p)).length, group: g }));
   return t;
 }
 
@@ -190,7 +194,7 @@ function render() {
   setHash(report.date, tab);
   const root = document.getElementById("root");
   if (tabList().length === 0) { root.innerHTML = `<p class="empty">Quiet day. Nothing in scope from the people you follow.</p>`; return; }
-  root.innerHTML = tab === "overview" ? overview() : tab === "macro" ? macro() : tab === "assets" ? assets() : person(report.persons.find((p) => slug(p.name) === tab));
+  root.innerHTML = tab === "overview" ? overview() : tab === "macro" ? macro() : tab === "assets" ? assets() : tab.startsWith("g-") ? group(tab.slice(2)) : person(report.persons.find((p) => slug(p.name) === tab));
   document.querySelectorAll(".filters button").forEach((b) => (b.onclick = () => { filter = b.dataset.f; applyFilter(); }));
   applyFilter();
   window.scrollTo(0, 0);
@@ -234,7 +238,12 @@ function applyFilter() {
   document.querySelectorAll(".filters button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.f === filter)));
 }
 
-function person(p) {
+function group(id) {
+  const members = report.persons.filter((p) => p.group && slug(p.group) === id && personHas(p));
+  return members.map((p) => `<h2 ${pc(p.name)}><span class="chip">${esc(p.name)}</span><span class="rule"></span></h2>${person(p, true)}`).join("");
+}
+
+function person(p, compact = false) {
   if (!p) return `<p class="empty">Unknown tab.</p>`;
   const videos = p.items.filter((i) => i.platform === "youtube");
   const posts = p.items.filter((i) => i.platform !== "youtube");
@@ -252,6 +261,7 @@ function person(p) {
     ? `<details class="sources"><summary>Sources · ${posts.length} posts</summary><ul>${posts.map((i) => `<li><span class="meta">${esc(fmt(i.published_at))}</span>${link(i.url, i.title, "")}</li>`).join("")}</ul></details>`
     : "";
   if (!digest && !vids) return `<p class="empty">Nothing in scope yesterday.</p>`;
+  if (compact) return `${digest}${vids}${sources}`;
   return `${digest ? `<h2>Day in short<span class="rule"></span></h2>${digest}` : ""}${vids ? `<h2>Videos<span class="rule"></span></h2>${vids}` : ""}${sources ? `<h2>Sources<span class="rule"></span></h2>${sources}` : ""}`;
 }
 
