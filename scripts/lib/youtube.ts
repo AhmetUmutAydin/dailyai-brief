@@ -1,5 +1,6 @@
 import { XMLParser } from "fast-xml-parser";
 import { getSubtitles } from "youtube-caption-extractor";
+import { retry } from "./retry.js";
 
 export type FeedEntry = {
   id: string;
@@ -35,9 +36,11 @@ export function selectEntries(
 }
 
 export async function fetchFeed(channelId: string): Promise<string> {
-  const res = await fetch(`https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`);
-  if (!res.ok) throw new Error(`feed ${channelId}: HTTP ${res.status}`);
-  return res.text();
+  return retry(async () => {
+    const res = await fetch(`https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`);
+    if (!res.ok) throw new Error(`feed ${channelId}: HTTP ${res.status}`);
+    return res.text();
+  }, 3, 30_000, /HTTP (404|408|429|5\d\d)/);
 }
 
 export async function fetchTranscript(

@@ -1,6 +1,14 @@
 import { retry } from "./retry.js";
 
-const MODEL = process.env.GEMINI_MODEL ?? "gemini-3.8-flash";
+const MODELS = (process.env.GEMINI_MODELS ?? "gemini-3.8-flash,gemini-3.5-flash-lite,gemini-2.5-flash").split(",").map((m) => m.trim()).filter(Boolean);
+const GAP_MS = 12_000;
+let lastCall = 0;
+
+async function pace(): Promise<void> {
+  const wait = lastCall + GAP_MS - Date.now();
+  if (wait > 0) await new Promise((r) => setTimeout(r, wait));
+  lastCall = Date.now();
+}
 const PROMPT =
   "Bu videoda konuşulan her şeyi, konuşulduğu dilde, olduğu gibi tam metin olarak yaz. Özetleme, yorum ekleme, başlık koyma. Sadece konuşma metni.";
 
@@ -10,8 +18,9 @@ function key(): string {
   return k;
 }
 
-async function viaGenerateContent(url: string): Promise<string> {
-  const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`, {
+async function viaGenerateContent(url: string, model: string): Promise<string> {
+  await pace();
+  const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
     method: "POST",
     headers: { "content-type": "application/json", "x-goog-api-key": key() },
     body: JSON.stringify({
@@ -25,12 +34,13 @@ async function viaGenerateContent(url: string): Promise<string> {
   return text;
 }
 
-async function viaInteractions(url: string): Promise<string> {
+async function viaInteractions(url: string, model: string): Promise<string> {
+  await pace();
   const res = await fetch("https://generativelanguage.googleapis.com/v1beta/interactions", {
     method: "POST",
     headers: { "content-type": "application/json", "x-goog-api-key": key() },
     body: JSON.stringify({
-      model: MODEL,
+      model,
       input: [
         { type: "text", text: PROMPT },
         { type: "video", uri: url },
@@ -55,14 +65,20 @@ async function viaInteractions(url: string): Promise<string> {
 }
 
 export async function geminiTranscript(url: string): Promise<string> {
-  try {
-    return await retry(() => viaGenerateContent(url));
-  } catch (first) {
-    console.error(`gemini generateContent failed, trying interactions: ${(first as Error).message}`);
+  const failures: string[] = [];
+  for (const model of MODELS) {
     try {
-      return await retry(() => viaInteractions(url));
-    } catch (second) {
-      throw new Error(`${(first as Error).message} | ${(second as Error).message}`);
+      return await retry(() => viaGenerateContent(url, model), 2, 60_000);
+    } catch (err) {
+      failures.push(`${model}: ${(err as Error).message.slice(0, 160)}`);
+      if (!/HTTP (429|503)/.test((err as Error).message)) {
+        try {
+          return await retry(() => viaInteractions(url, model), 2, 60_000);
+        } catch (err2) {
+          failures.push(`${model}/interactions: ${(err2 as Error).message.slice(0, 160)}`);
+        }
+      }
     }
   }
+  throw new Error(`gemini failed on all models | ${failures.join(" | ")}`);
 }

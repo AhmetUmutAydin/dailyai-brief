@@ -57,3 +57,22 @@ export async function fetchTweets(
     return (await res.json()) as ApifyTweet[];
   });
 }
+
+export async function fetchTweetsBatch(handles: string[], minDate: string, maxItems = 600): Promise<ApifyTweet[]> {
+  const query = handles.map((h) => `from:${h}`).join(" OR ");
+  return retry(async () => {
+    const res = await fetch(
+      `https://api.apify.com/v2/acts/${ACTOR}/run-sync-get-dataset-items?timeout=280`,
+      {
+        method: "POST",
+        headers: {
+          "content-type": "application/json",
+          ...(process.env.APIFY_TOKEN ? { authorization: `Bearer ${process.env.APIFY_TOKEN}` } : {}),
+        },
+        body: JSON.stringify({ query, minDate, maxItems, retweets: "exclude" }),
+      },
+    );
+    if (!res.ok) throw new Error(`apify batch: HTTP ${res.status} ${(await res.text()).slice(0, 300)}`);
+    return (await res.json()) as ApifyTweet[];
+  });
+}
