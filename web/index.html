@@ -87,6 +87,20 @@
   .low details[open] summary { border-color: var(--ink); }
   .low .body { flex-basis: 100%; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; font-size: 14px; }
   .low .body li { margin: 4px 0; }
+  .pf { padding: 12px 16px; }
+  .pf summary { list-style: none; display: grid; grid-template-columns: 56px 1fr auto auto; align-items: center; gap: 10px; cursor: pointer; }
+  .pf summary::-webkit-details-marker { display: none; }
+  .pf .w { font: 600 15px var(--mono); }
+  .pf .why { color: var(--ink-2); font-size: 14px; margin: 8px 0 0; }
+  .pf ul { list-style: none; margin: 10px 0 0; padding: 0; }
+  .pf li { margin: 8px 0; font-size: 15px; }
+  .pf li q { display: block; }
+  .act { font: 500 12px var(--mono); border: 1px solid var(--line); border-radius: 999px; padding: 2px 8px; color: var(--ink-2); white-space: nowrap; }
+  .act.up { color: var(--up); border-color: var(--up); }
+  .act.down { color: var(--down); border-color: var(--down); }
+  .idea { display: grid; grid-template-columns: 84px 1fr; gap: 4px 10px; align-items: baseline; }
+  .idea .why { grid-column: 1 / -1; color: var(--ink-2); font-size: 14px; margin: 0; }
+  .idea .src { grid-column: 1 / -1; }
   .hidden { display: none !important; }
 
   .digest { border-left: 3px solid var(--pc); }
@@ -107,6 +121,8 @@
     .asset summary { grid-template-columns: 72px 1fr auto; }
     .asset ul, .asset .why { margin-left: 0; }
     .ia li { grid-template-columns: 72px auto; } .ia .note { grid-column: 1 / -1; }
+    .pf summary { grid-template-columns: 48px 1fr auto auto; }
+    .idea { grid-template-columns: 72px 1fr; }
   }
   footer { margin-top: 40px; font: 12px/1.6 var(--mono); color: var(--muted); }
   .errs { margin-top: 8px; color: var(--down); }
@@ -179,6 +195,7 @@ function tabList() {
   if (report.attention.length) t.push({ id: "overview", name: "Overview", n: report.attention.length });
   if (report.macro.length) t.push({ id: "macro", name: "Macro", n: report.macro.length });
   if (report.assets.length) t.push({ id: "assets", name: "Assets", n: report.assets.length });
+  if (report.portfolio) t.push({ id: "portfolio", name: "Portföy", n: report.portfolio.holdings.length });
   const solo = report.persons.filter((p) => !p.group && personHas(p));
   solo.forEach((p, i) => t.push({ id: slug(p.name), name: p.name, n: p.items.length, person: p.name, first: i === 0 }));
   const groups = [...new Set(report.persons.filter((p) => p.group && personHas(p)).map((p) => p.group))];
@@ -205,7 +222,7 @@ function render() {
   setHash(report.date, tab);
   const root = document.getElementById("root");
   if (tabList().length === 0) { root.innerHTML = `<p class="empty">Quiet day. Nothing in scope from the people you follow.</p>`; return; }
-  root.innerHTML = tab === "overview" ? overview() : tab === "macro" ? macro() : tab === "assets" ? assets() : tab.startsWith("g-") ? group(tab.slice(2)) : person(report.persons.find((p) => slug(p.name) === tab));
+  root.innerHTML = tab === "overview" ? overview() : tab === "macro" ? macro() : tab === "assets" ? assets() : tab === "portfolio" ? portfolio() : tab.startsWith("g-") ? group(tab.slice(2)) : person(report.persons.find((p) => slug(p.name) === tab));
   document.querySelectorAll(".filters button").forEach((b) => (b.onclick = () => { filter = b.dataset.f; applyFilter(); }));
   applyFilter();
   window.scrollTo(0, 0);
@@ -239,6 +256,21 @@ function assets() {
     ${!high.length && !mid.length ? `<p class="empty">No asset with a real view today.</p>` : ""}
     ${low.length ? `<h2>Also mentioned<span class="rule"></span></h2><div class="low">${low.map(pill).join("")}</div>` : ""}
   `;
+}
+
+const ACT = { hold: ["hold", "flat"], sell: ["sell", "down"], buy_more: ["buy more", "up"] };
+const pctw = (w) => `${(w * 100).toFixed(1)}%`;
+
+function portfolio() {
+  const p = report.portfolio;
+  const rows = p.holdings.map((h) => {
+    const [txt, c] = ACT[h.action] ?? ACT.hold;
+    return `<details class="card pf" ${flags(h)}><summary><span class="w">${pctw(h.weight)}</span><span class="nm">${esc(h.name)}</span><span class="act ${c}">${txt}</span>${dots(h)}</summary><div class="why">${esc(h.why)}</div>${h.mentions.length ? mentionList(h.mentions) : ""}</details>`;
+  }).join("");
+  const ideas = p.ideas.length
+    ? `<h2>Yeni öneriler<span class="rule"></span></h2>${p.ideas.map((i) => `<div class="card idea"><span class="sym">${esc(i.symbol)}</span><span class="nm">${esc(i.name)}</span><div class="why">${esc(i.why)}</div>${link(i.source_url, "source")}</div>`).join("")}`
+    : "";
+  return `<h2>Holdings<span class="rule"></span><span class="meta">nakit ${pctw(p.cash_weight)}</span></h2>${rows}${ideas}`;
 }
 
 function applyFilter() {
