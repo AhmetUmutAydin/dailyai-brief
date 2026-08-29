@@ -35,6 +35,8 @@
   .tabs .n { font: 500 11px/1 var(--mono); color: var(--muted); background: var(--panel-2); border-radius: 999px; padding: 3px 6px; }
   .tabs .sw { width: 8px; height: 8px; border-radius: 50%; background: var(--pc); }
   .tabs .gap { flex: none; width: 10px; }
+  .tabs button { user-select: none; -webkit-user-select: none; }
+  @media (min-width: 640px) { .tabs { flex-wrap: wrap; overflow: visible; row-gap: 0; } }
 
   h2 { margin: 26px 0 10px; font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; display: flex; align-items: center; gap: 10px; }
   h2:first-child { margin-top: 0; }
@@ -190,7 +192,14 @@ function renderTabs() {
   if (!tabs.some((t) => t.id === tab)) tab = tabs[0].id;
   document.getElementById("tabs").innerHTML = tabs.map((t) => `${t.first ? `<span class="gap"></span>` : ""}<button role="tab" data-tab="${t.id}" aria-selected="${t.id === tab}" ${t.person ? pc(t.person) : ""}>${t.person ? `<span class="sw"></span>` : ""}${esc(t.name)}<span class="n">${t.n}</span></button>`).join("");
   document.querySelectorAll("#tabs button").forEach((b) => (b.onclick = () => { tab = b.dataset.tab; renderTabs(); render(); }));
+  document.querySelector("#tabs button[aria-selected='true']")?.scrollIntoView({ block: "nearest", inline: "nearest" });
 }
+document.getElementById("tabs").addEventListener("wheel", (e) => {
+  const el = e.currentTarget;
+  if (el.scrollWidth <= el.clientWidth || Math.abs(e.deltaY) <= Math.abs(e.deltaX)) return;
+  el.scrollLeft += e.deltaY;
+  e.preventDefault();
+}, { passive: false });
 
 function render() {
   setHash(report.date, tab);
