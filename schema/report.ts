@@ -14,6 +14,7 @@ export const MentionSchema = z.object({
 export const ReportSchema = z.object({
   date,
   generated_at: isoDateTime,
+  errors: z.array(z.string()).optional(),
   attention: z.array(
     z.object({
       title: z.string().min(1),

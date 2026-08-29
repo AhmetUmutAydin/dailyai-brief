@@ -5,7 +5,7 @@ export async function retry<T>(fn: () => Promise<T>, attempts = 3, waitMs = 60_0
       return await fn();
     } catch (err) {
       last = err;
-      if (!/HTTP (408|429|5\d\d)/.test((err as Error).message) || i === attempts - 1) throw err;
+      if (!/HTTP (408|429|5\d\d)|run-failed/.test((err as Error).message) || i === attempts - 1) throw err;
       await new Promise((r) => setTimeout(r, waitMs * (i + 1)));
     }
   }

@@ -84,6 +84,7 @@
     .ia li { grid-template-columns: 72px auto; } .ia .note { grid-column: 1 / -1; }
   }
   footer { margin-top: 40px; font: 12px/1.6 var(--mono); color: var(--muted); }
+  .errs { margin-top: 8px; color: var(--down); }
   @media (prefers-reduced-motion: no-preference) { details[open] > *:not(summary) { animation: in .15s ease-out; } @keyframes in { from { opacity: 0; } } }
 </style>
 </head>
@@ -136,7 +137,8 @@ async function loadReport(date) {
   renderTabs();
   render();
   const total = report.persons.reduce((n, p) => n + p.items.length, 0);
-  document.getElementById("foot").textContent = `${total} items · ${report.assets.length} assets · generated ${fmt(report.generated_at)} UTC`;
+  const errs = report.errors ?? [];
+  document.getElementById("foot").innerHTML = `${total} items · ${report.assets.length} assets · generated ${esc(fmt(report.generated_at))} UTC${errs.length ? `<div class="errs">${errs.map((e) => `<div>⚠ ${esc(e)}</div>`).join("")}</div>` : ""}`;
 }
 
 function renderTabs() {

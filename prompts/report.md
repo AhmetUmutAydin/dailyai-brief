@@ -8,7 +8,7 @@ Sen bu repoda çalışan günlük routine'sin. Aşağıdaki adımları sırayla 
 
 `items[]` içinde iki tür kayıt var:
 - `platform: "youtube"`: `title`, `url`, `text` (transkript, `null` olabilir)
-- `platform: "x"`: `url`, `text`, `is_reply`
+- `platform: "x"`: `url`, `text`, `is_reply`. Quote tweet'lerde `text` önce kişinin kendi yorumunu, sonra alıntıladığı tweet'i ("Ad (@handle) ..." ile başlar) içerir. Alıntı kısmı kişinin görüşü değil, tepki verdiği içeriktir; iddia, alıntı (`quote`) ve sentiment kişinin kendi cümlesinden çıkar. Kişi sadece paylaşıp yorum yapmadıysa "paylaştı" de, görüş atfetme.
 
 `text` null olan video için sadece başlıktan yorum yapma; o videoyu kişi kartında "transkript alınamadı" notuyla listele, başka yere koyma.
 
@@ -20,11 +20,13 @@ Bölümler:
 - `attention`: bugün dikkat edilmesi gereken en fazla 5 nokta. Sıralama: somutluk ve yenilik. Her biri tek bir kişiye ve tek bir kaynağa bağlı.
 - `macro`: faiz, enflasyon, kur, jeopolitik, küresel piyasa gibi konular. Her konu altında kim ne demiş, kişi başına en fazla 1 görüş. Aynı konuda ters düşenleri aynı `topic` altında topla.
 - `assets`: açıkça adı geçen hisse, coin, emtia, endeks, döviz çifti. `symbol` BIST kodu / ticker / ISO kur kodu. Her mention için sentiment: positive (alım/olumlu beklenti), negative (satış/olumsuz), neutral (sadece bahsetti). Kişi aynı varlık için birden fazla şey dediyse en net olanı al.
+- `errors`: `raw.json` içindeki `errors` listesini kısa, okunur Türkçe satırlara çevir (ör. "ZeroHedge: X verisi alınamadı (Apify run failed)", "Bora Özkent: 1 video transkripti alınamadı"). Hata yoksa `[]`.
 - `persons`: `sources.json` sırasıyla herkes. İçeriği olmayan kişi için `items: []`. Her içerik için:
   - `summary`: video için 5-10 cümle (ana tez, gerekçeler, verdiği seviyeler/tarihler, değişen görüşü); tweet için 1-3 cümle.
   - `assets`: o içerikte adı geçen her varlık için `{symbol, sentiment, note}`; `note` 1-2 cümle, kişinin o varlık için ne dediği (seviye, vade, gerekçe). Bahsedilen varlık yoksa `[]`.
 
 Kurallar:
+- `person` alanı her zaman `sources.json`'daki addır (içeriği paylaşan kişi). İçerikte alıntılanan üçüncü kişiler (ör. bir Fed üyesi, bir CEO) `person` olamaz; onları `title`, `why`, `view` veya `note` metninin içinde adıyla belirt.
 - Her `quote` kaynaktaki cümlenin kendisi veya çok yakın hali. Uydurma yok.
 - Her `source_url` `raw.json` içindeki bir `url` olmalı.
 - Genel dolgu cümlesi yok ("dikkatli olunmalı", "yatırımcılar takip etmeli", "volatilite bekleniyor"). Somut şey yoksa o bölüm boş kalır.
