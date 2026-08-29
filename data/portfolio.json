@@ -1,13 +1,13 @@
 {
   "updated_at": "2026-09-12",
-  "price_date": "2026-09-10",
+  "price_date": "2026-09-11",
   "holdings": [
     {
       "isin": "US83406F1021",
       "name": "SoFi Technologies",
       "ticker": "6B0.DE",
       "broker": "Scalable",
-      "weight": 0.2676
+      "weight": 0.2681
     },
     {
       "isin": "US30303M1027",
@@ -21,29 +21,29 @@
       "name": "VanEck Semiconductor (Acc)",
       "ticker": "VVSM.DE",
       "broker": "Scalable",
-      "weight": 0.1371
+      "weight": 0.1384
     },
     {
       "isin": "US75734B1008",
       "name": "Reddit A",
       "ticker": "6VO.DE",
       "broker": "Trade Republic",
-      "weight": 0.1182
+      "weight": 0.1196
     },
     {
       "isin": "US92840M1027",
       "name": "Vistra Corp",
       "ticker": "0V6.DE",
       "broker": "Scalable",
-      "weight": 0.1165
+      "weight": 0.1133
     },
     {
       "isin": "US11135F1012",
       "name": "Broadcom",
       "ticker": "1YD.DE",
       "broker": "Scalable",
-      "weight": 0.1044
+      "weight": 0.1047
     }
   ],
-  "cash_weight": 0.1007
+  "cash_weight": 0.1004
 }
