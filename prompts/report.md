@@ -43,8 +43,10 @@ Bölümler:
   - `action`: `hold`, `sell` veya `buy_more`. `sell` ya da `buy_more` sadece o günün kaynaklarında somut bir gerekçe (seviye, tarih, bilanço, görüş değişimi) varsa; yoksa `hold`.
   - `why`: 1 cümle. Gerekçe varsa kişiye atıfla ("Bora Özkent'e göre …"); yoksa "Bugün yeni bilgi yok."
   - `opinion`: bu kağıt için senin kendi görüşün, 1-2 cümle, her kağıtta dolu. Kaynak şartı yok: o günün kaynakları, kağıdın portföydeki ağırlığı ve şirket/sektör hakkında bildiklerinden yola çık; asıl riski, fırsatı ya da neye bakacağını söyle. `why`'ı tekrar etme. `action` kaynaklara göre kalır; görüşün ondan farklıysa burada yaz. `raw.json`'da olmayan güncel fiyat, seviye ya da tarih uydurma.
+  - `ai_action`: senin kendi kararın: `hold`, `sell` veya `buy_more`. `action`'dan bağımsız, kaynak şartı yok; `opinion` ile tutarlı olsun.
+  - `ai_points`: `ai_action`'ın gerekçesi, 2-4 madde, her madde tek kısa cümle. Lehte ve aleyhte olanı ayrı maddelere yaz. Kaynakta geçen bir seviye ya da tarihi kullanırsan kişiye atıfla ("Bora Özkent'e göre 780 dolar direnç"); kendin seviye, fiyat ya da tarih üretme. `why` ve `opinion` cümlelerini tekrar etme.
   - `ideas` (bölümün üst seviyesinde, kağıt başına değil): portföyde olmayan, o gün en az bir kaynağın somut görüşle (seviye, tarih, gerekçe) öne çıkardığı en fazla 3 varlık: `symbol`, `name`, `why` (kim, neden, 1-2 cümle), `source_url`. Yoksa `[]`.
-  - Bu bölüm "yatırım tavsiyesi yazma" kuralının tek istisnası: Umut kendi portföyü için öneri istiyor. `action`, `why` ve `ideas` kaynaksız olmaz; `opinion` senin yorumun. Genel dolgu ("takipte kalın") yok.
+  - Bu bölüm "yatırım tavsiyesi yazma" kuralının tek istisnası: Umut kendi portföyü için öneri istiyor. `action`, `why` ve `ideas` kaynaksız olmaz; `opinion`, `ai_action` ve `ai_points` senin yorumun. Genel dolgu ("takipte kalın") yok.
 
 Kurallar:
 - `person` alanı her zaman `sources.json`'daki addır (içeriği paylaşan kişi). İçerikte alıntılanan üçüncü kişiler (ör. bir Fed üyesi, bir CEO) `person` olamaz; onları `title`, `why`, `view` veya `note` metninin içinde adıyla belirt.
@@ -57,9 +59,9 @@ Kurallar:
 
 `data/DATE.tr.json` bittikten sonra `data/DATE.en.json` dosyasını yaz: TR dosyasının alan alan İngilizce çevirisi. Yeniden özetleme yok, yeni bilgi yok, atlanan bilgi yok.
 
-Aynen kopyalanır (birebir aynı değer, aynı sıra, aynı sayıda kayıt): `date`, `generated_at`, `person`, `symbol`, `source_url`, `url`, `published_at`, `platform`, `sentiment`, `priority`, `action`, `group`, `isin`, `weight`, `cash_weight`, `portfolio.holdings[].name`, her dizinin uzunluğu ve sırası.
+Aynen kopyalanır (birebir aynı değer, aynı sıra, aynı sayıda kayıt): `date`, `generated_at`, `person`, `symbol`, `source_url`, `url`, `published_at`, `platform`, `sentiment`, `priority`, `action`, `ai_action`, `group`, `isin`, `weight`, `cash_weight`, `portfolio.holdings[].name`, her dizinin uzunluğu ve sırası.
 
-Çevrilir: `errors[]`, `attention[].title` ve `why`, `macro[].topic`, `views[].view` ve `quote`, `assets[].name` ve `why`, `mentions[].quote`, `persons[].digest`, `items[].title`, `summary`, `items[].assets[].note`, `portfolio.holdings[].why` ve `opinion`, `portfolio.ideas[].name` ve `why`.
+Çevrilir: `errors[]`, `attention[].title` ve `why`, `macro[].topic`, `views[].view` ve `quote`, `assets[].name` ve `why`, `mentions[].quote`, `persons[].digest`, `items[].title`, `summary`, `items[].assets[].note`, `portfolio.holdings[].why`, `opinion` ve `ai_points[]`, `portfolio.ideas[].name` ve `why`.
 
 Kurallar:
 - TR metinde zaten İngilizce olan bir alan (ör. İngilizce kaynaktan alınmış `quote`) olduğu gibi kalır.

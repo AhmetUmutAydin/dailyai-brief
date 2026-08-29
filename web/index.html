@@ -97,7 +97,9 @@
   .pf .w { font: 600 15px var(--mono); }
   .pf .why { color: var(--ink-2); font-size: 14px; margin: 8px 0 0; }
   .pf .op { font-size: 14px; margin: 10px 0 0; }
-  .pf .op .meta { display: block; margin-bottom: 2px; }
+  .pf .op .hd { display: flex; align-items: center; gap: 8px; margin-bottom: 2px; }
+  .pf .op ul { list-style: disc; margin: 6px 0 0; padding-left: 18px; color: var(--ink-2); }
+  .pf .op li { margin: 3px 0; font-size: 14px; }
   .pf ul { list-style: none; margin: 10px 0 0; padding: 0; }
   .pf li { margin: 8px 0; font-size: 15px; }
   .pf li q { display: block; }
@@ -336,7 +338,10 @@ function portfolio() {
   const p = report.portfolio;
   const rows = p.holdings.map((h) => {
     const a = h.action in ACT ? h.action : "hold";
-    return `<details class="card pf" ${flags(h)}><summary><span class="w">${pctw(h.weight)}</span><span class="nm">${esc(h.name)}</span><span class="act ${ACT[a]}">${t(a)}</span>${dots(h)}</summary><div class="why">${esc(h.why)}</div>${h.opinion ? `<div class="op"><span class="meta">${t("ai")}</span>${esc(h.opinion)}</div>` : ""}${h.mentions.length ? mentionList(h.mentions) : ""}</details>`;
+    const call = h.ai_action in ACT ? `<span class="act ${ACT[h.ai_action]}">${t(h.ai_action)}</span>` : "";
+    const points = h.ai_points?.length ? `<ul>${h.ai_points.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : "";
+    const ai = h.opinion ? `<div class="op"><div class="hd"><span class="meta">${t("ai")}</span>${call}</div>${esc(h.opinion)}${points}</div>` : "";
+    return `<details class="card pf" ${flags(h)}><summary><span class="w">${pctw(h.weight)}</span><span class="nm">${esc(h.name)}</span><span class="act ${ACT[a]}">${t(a)}</span>${dots(h)}</summary><div class="why">${esc(h.why)}</div>${ai}${h.mentions.length ? mentionList(h.mentions) : ""}</details>`;
   }).join("");
   const ideas = p.ideas.length
     ? `<h2>${t("ideas")}<span class="rule"></span></h2>${p.ideas.map((i) => `<div class="card idea"><span class="sym">${esc(i.symbol)}</span><span class="nm">${esc(i.name)}</span><div class="why">${esc(i.why)}</div>${link(i.source_url, t("source"))}</div>`).join("")}`

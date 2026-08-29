@@ -14,6 +14,7 @@ const TEXT = new Set([
   "persons.*.items.*.assets.*.note",
   "portfolio.holdings.*.why",
   "portfolio.holdings.*.opinion",
+  "portfolio.holdings.*.ai_points.*",
   "portfolio.holdings.*.mentions.*.quote",
   "portfolio.ideas.*.name",
   "portfolio.ideas.*.why",

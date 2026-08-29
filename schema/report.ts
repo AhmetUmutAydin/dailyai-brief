@@ -22,6 +22,8 @@ export const PortfolioSectionSchema = z.object({
       action: z.enum(["hold", "sell", "buy_more"]),
       why: z.string().min(1),
       opinion: z.string().min(1),
+      ai_action: z.enum(["hold", "sell", "buy_more"]),
+      ai_points: z.array(z.string().min(1)).min(2).max(4),
     }),
   ),
   ideas: z
