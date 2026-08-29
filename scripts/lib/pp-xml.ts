@@ -78,6 +78,7 @@ const CASH_IN = new Set(["DEPOSIT", "INTEREST", "DIVIDENDS", "SELL", "TAX_REFUND
 const CASH_OUT = new Set(["REMOVAL", "FEES", "TAXES", "BUY", "TRANSFER_OUT", "INTEREST_CHARGE"]);
 const DEPOT_IN = new Set(["BUY", "DELIVERY_INBOUND", "TRANSFER_IN"]);
 const DEPOT_OUT = new Set(["SELL", "DELIVERY_OUTBOUND", "TRANSFER_OUT"]);
+const ACCOUNT_TAGS = new Set(["account", "accountFrom", "accountTo", "referenceAccount"]);
 
 type Node = Record<string, unknown>;
 
@@ -99,26 +100,27 @@ function isPointer(n: unknown): boolean {
 }
 
 function securityIndex(ref: unknown): number | null {
-  const m = /security(?:\[(\d+)\])?$/.exec(str((ref as Node | undefined)?.["@_reference"]));
+  const m = /securities\/security(?:\[(\d+)\])?$/.exec(str((ref as Node | undefined)?.["@_reference"]));
   return m ? Number(m[1] ?? "1") : null;
 }
 
-function collect(node: unknown, tags: Set<string>, out: Map<string, Node>): void {
+function collect(node: unknown, tags: Set<string>, out: Map<string, Node>, stop: Set<string>): void {
   if (Array.isArray(node)) {
-    for (const n of node) collect(n, tags, out);
+    for (const n of node) collect(n, tags, out, stop);
     return;
   }
   if (typeof node !== "object" || node === null || isPointer(node)) return;
   for (const [k, v] of Object.entries(node as Node)) {
+    if (stop.has(k)) continue;
     if (tags.has(k)) {
       for (const item of arr<Node>(v)) {
         if (isPointer(item)) continue;
         const uuid = str(item.uuid);
         if (!out.has(uuid)) out.set(uuid, item);
-        collect(item, tags, out);
+        collect(item, tags, out, stop);
       }
     } else {
-      collect(v, tags, out);
+      collect(v, tags, out, stop);
     }
   }
 }
@@ -162,11 +164,19 @@ export function readPP(xmlPath: string): PPData {
   const nameByIsin = new Map<string, string>();
   for (const s of securities) if (s.isin) nameByIsin.set(s.isin, s.name);
 
-  const accounts: Account[] = arr<Node>((client.accounts as Node).account).map((a) => {
+  const accountDefs = new Map<string, Node>();
+  collect(client.accounts, ACCOUNT_TAGS, accountDefs, new Set());
+  const accountEntries = arr<Node>((client.accounts as Node).account).length;
+  if (accountDefs.size < accountEntries) {
+    throw new Error(`account pointer could not be resolved (${accountEntries} entries, ${accountDefs.size} definitions)`);
+  }
+
+  const accounts: Account[] = [...accountDefs.values()].map((a) => {
+    const nested = ACCOUNT_TAGS;
     const cashMap = new Map<string, Node>();
-    collect(a, new Set(["account-transaction", "accountTransaction"]), cashMap);
+    collect(a, new Set(["account-transaction", "accountTransaction"]), cashMap, nested);
     const depotMap = new Map<string, Node>();
-    collect(a, new Set(["portfolio-transaction", "portfolioTransaction"]), depotMap);
+    collect(a, new Set(["portfolio-transaction", "portfolioTransaction"]), depotMap, nested);
     const cash: CashTx[] = [...cashMap.values()].map((t) => {
       const sec = byIndex(securityIndex(t.security));
       return {
@@ -201,6 +211,7 @@ export function readPP(xmlPath: string): PPData {
     }
     const dates = [...cash.map((t) => t.date), ...depot.map((t) => t.date)].sort();
     const name = str(a.name);
+    if (!name) throw new Error(`account without name (uuid ${str(a.uuid)})`);
     return {
       name,
       broker: brokerOf(name),

@@ -79,6 +79,10 @@ if (cmd === "state") {
     console.error("--out-dir needs a directory");
     process.exit(1);
   }
+  if (!existsSync(arg)) {
+    console.error(`raw file not found: ${arg}`);
+    process.exit(1);
+  }
   const pages = JSON.parse(readFileSync(arg, "utf8")) as unknown;
   if (!Array.isArray(pages)) {
     console.error("raw file must be a JSON array of page objects");
