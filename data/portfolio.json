@@ -1,49 +1,42 @@
 {
-  "updated_at": "2026-09-12",
-  "price_date": "2026-09-11",
+  "updated_at": "2026-09-19",
+  "price_date": "2026-09-18",
   "holdings": [
     {
       "isin": "US83406F1021",
       "name": "SoFi Technologies",
       "ticker": "6B0.DE",
       "broker": "Scalable",
-      "weight": 0.2681
-    },
-    {
-      "isin": "US30303M1027",
-      "name": "Meta Platforms A",
-      "ticker": "FB2A.DE",
-      "broker": "Scalable",
-      "weight": 0.1556
-    },
-    {
-      "isin": "IE00BMC38736",
-      "name": "VanEck Semiconductor (Acc)",
-      "ticker": "VVSM.DE",
-      "broker": "Scalable",
-      "weight": 0.1384
-    },
-    {
-      "isin": "US75734B1008",
-      "name": "Reddit A",
-      "ticker": "6VO.DE",
-      "broker": "Trade Republic",
-      "weight": 0.1196
-    },
-    {
-      "isin": "US92840M1027",
-      "name": "Vistra Corp",
-      "ticker": "0V6.DE",
-      "broker": "Scalable",
-      "weight": 0.1133
+      "weight": 0.2274
     },
     {
       "isin": "US11135F1012",
       "name": "Broadcom",
       "ticker": "1YD.DE",
       "broker": "Scalable",
-      "weight": 0.1047
+      "weight": 0.1481
+    },
+    {
+      "isin": "US30303M1027",
+      "name": "Meta Platforms A",
+      "ticker": "FB2A.DE",
+      "broker": "Scalable",
+      "weight": 0.1397
+    },
+    {
+      "isin": "US75734B1008",
+      "name": "Reddit A",
+      "ticker": "6VO.DE",
+      "broker": "Trade Republic",
+      "weight": 0.1014
+    },
+    {
+      "isin": "US92840M1027",
+      "name": "Vistra Corp",
+      "ticker": "0V6.DE",
+      "broker": "Scalable",
+      "weight": 0.0942
     }
   ],
-  "cash_weight": 0.1004
+  "cash_weight": 0.2893
 }
