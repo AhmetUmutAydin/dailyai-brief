@@ -24,7 +24,7 @@ Finans filtresi sadece `attention` ve `macro` bölümleri için geçerlidir: ora
 
 ## 3. Rapor
 
-`data/DATE.json` dosyasını `schema/report.ts` şemasına tam uyacak şekilde yaz. Dil: Türkçe.
+`data/DATE.tr.json` dosyasını `schema/report.ts` şemasına tam uyacak şekilde yaz. Dil: Türkçe.
 
 Bölümler:
 - `attention`: bugün dikkat edilmesi gereken en fazla 5 nokta. Sıralama: somutluk ve yenilik. Her biri tek bir kişiye ve tek bir kaynağa bağlı.
@@ -52,9 +52,23 @@ Kurallar:
 - Genel dolgu cümlesi yok ("dikkatli olunmalı", "yatırımcılar takip etmeli", "volatilite bekleniyor"). Somut şey yoksa o bölüm boş kalır.
 - Yatırım tavsiyesi yazma; kişinin ne dediğini aktar.
 
+## 3b. İngilizce sürüm
+
+`data/DATE.tr.json` bittikten sonra `data/DATE.en.json` dosyasını yaz: TR dosyasının alan alan İngilizce çevirisi. Yeniden özetleme yok, yeni bilgi yok, atlanan bilgi yok.
+
+Aynen kopyalanır (birebir aynı değer, aynı sıra, aynı sayıda kayıt): `date`, `generated_at`, `person`, `symbol`, `source_url`, `url`, `published_at`, `platform`, `sentiment`, `priority`, `action`, `group`, `isin`, `weight`, `cash_weight`, `portfolio.holdings[].name`, her dizinin uzunluğu ve sırası.
+
+Çevrilir: `errors[]`, `attention[].title` ve `why`, `macro[].topic`, `views[].view` ve `quote`, `assets[].name` ve `why`, `mentions[].quote`, `persons[].digest`, `items[].title`, `summary`, `items[].assets[].note`, `portfolio.holdings[].why`, `portfolio.ideas[].name` ve `why`.
+
+Kurallar:
+- TR metinde zaten İngilizce olan bir alan (ör. İngilizce kaynaktan alınmış `quote`) olduğu gibi kalır.
+- Anlam birebir; seviye, tarih, sayı, isim değişmez. Varlık adı İngilizce karşılığıyla yazılır (Altın → Gold, dolar/TL → USD/TRY).
+- `digest` içindeki `**…**` işaretleri aynı varlıklarda kalır; paragraf sayısı aynı.
+- Kişi adları `sources.json`'daki gibi kalır.
+
 ## 4. Doğrulama ve yayın
 
-1. `npm run validate DATE` çalıştır. Hata varsa JSON'u düzelt, tekrar çalıştır. Geçene kadar tekrarla.
+1. `npm run validate DATE` çalıştır: iki dosyayı şemaya karşı doğrular ve yapılarını karşılaştırır (`parity:` satırları). Hata varsa mesajın adını verdiği dosyayı düzelt, tekrar çalıştır. Geçene kadar tekrarla.
 2. `npm run index` çalıştır.
 3. `git add data && git commit -m "report: DATE" && git push origin main`
 
