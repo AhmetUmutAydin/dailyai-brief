@@ -3,6 +3,8 @@ import { homedir } from "node:os";
 import { join } from "node:path";
 import { readPP } from "./lib/pp-xml.js";
 import { convert, securitiesCsv, toCsv, type Page } from "./lib/pp-csv.js";
+import { buildSnapshot } from "./lib/pp-snapshot.js";
+import { PortfolioSchema } from "../schema/portfolio.js";
 
 const HOME = homedir();
 export const XML = process.env.PP_XML ?? join(HOME, "Documents/PortfolioPerformance/umut.xml");
@@ -109,6 +111,23 @@ if (cmd === "state") {
     writeFileSync(sPath, securitiesCsv(res.securities));
     console.log(`wrote ${sPath} (import this first)`);
   }
+} else if (cmd === "snapshot") {
+  const pp = load();
+  const snap = buildSnapshot(pp, today);
+  const json = PortfolioSchema.parse(snap.json);
+  writeFileSync("data/portfolio.json", JSON.stringify(json, null, 2) + "\n");
+  console.log(`wrote data/portfolio.json: ${json.holdings.length} holdings, cash ${(json.cash_weight * 100).toFixed(1)}%, total ${snap.total.toFixed(2)} EUR`);
+  for (const h of snap.unpriced) console.log(`no price: ${h.security.name} (${h.shares} shares), excluded from weights`);
+  const scalable = pp.accounts.find((a) => a.broker === "Scalable");
+  console.log(`scalable_cash: ${(scalable?.balance ?? 0).toFixed(2)} (compare with Tagesgeld)`);
+  const vaultDir = join(VAULT_DIR, "finans");
+  if (!existsSync(vaultDir)) {
+    console.error(`vault folder not found: ${vaultDir}`);
+    process.exit(1);
+  }
+  const mdPath = join(vaultDir, "portfoy.md");
+  writeFileSync(mdPath, snap.md);
+  console.log(`wrote ${mdPath}`);
 } else {
   console.error("usage: npm run pp -- state | csv <raw.json> [...] | snapshot");
   process.exit(1);
