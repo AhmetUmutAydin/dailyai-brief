@@ -13,6 +13,7 @@ const TEXT = new Set([
   "persons.*.items.*.summary",
   "persons.*.items.*.assets.*.note",
   "portfolio.holdings.*.why",
+  "portfolio.holdings.*.opinion",
   "portfolio.holdings.*.mentions.*.quote",
   "portfolio.ideas.*.name",
   "portfolio.ideas.*.why",

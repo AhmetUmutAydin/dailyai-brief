@@ -96,6 +96,8 @@
   .pf summary::-webkit-details-marker { display: none; }
   .pf .w { font: 600 15px var(--mono); }
   .pf .why { color: var(--ink-2); font-size: 14px; margin: 8px 0 0; }
+  .pf .op { font-size: 14px; margin: 10px 0 0; }
+  .pf .op .meta { display: block; margin-bottom: 2px; }
   .pf ul { list-style: none; margin: 10px 0 0; padding: 0; }
   .pf li { margin: 8px 0; font-size: 15px; }
   .pf li q { display: block; }
@@ -153,7 +155,7 @@ const T = {
   tr: {
     dateLabel: "Rapor tarihi", langLabel: "Dil",
     overview: "Genel Bakış", macro: "Makro", assets: "Varlıklar", portfolio: "Portföy",
-    priority: "Öncelik", also: "Ayrıca geçenler", holdings: "Pozisyonlar", ideas: "Yeni öneriler",
+    priority: "Öncelik", also: "Ayrıca geçenler", holdings: "Pozisyonlar", ideas: "Yeni öneriler", ai: "AI görüşü",
     short: "Günün özeti", videos: "Videolar", sources: "Kaynaklar",
     all: "Tümü", up: "Pozitif", down: "Negatif",
     positive: "pozitif", negative: "negatif", neutral: "nötr",
@@ -166,7 +168,7 @@ const T = {
   en: {
     dateLabel: "Report date", langLabel: "Language",
     overview: "Overview", macro: "Macro", assets: "Assets", portfolio: "Portfolio",
-    priority: "Priority", also: "Also mentioned", holdings: "Holdings", ideas: "New ideas",
+    priority: "Priority", also: "Also mentioned", holdings: "Holdings", ideas: "New ideas", ai: "AI view",
     short: "Day in short", videos: "Videos", sources: "Sources",
     all: "All", up: "Positive", down: "Negative",
     positive: "positive", negative: "negative", neutral: "neutral",
@@ -334,7 +336,7 @@ function portfolio() {
   const p = report.portfolio;
   const rows = p.holdings.map((h) => {
     const a = h.action in ACT ? h.action : "hold";
-    return `<details class="card pf" ${flags(h)}><summary><span class="w">${pctw(h.weight)}</span><span class="nm">${esc(h.name)}</span><span class="act ${ACT[a]}">${t(a)}</span>${dots(h)}</summary><div class="why">${esc(h.why)}</div>${h.mentions.length ? mentionList(h.mentions) : ""}</details>`;
+    return `<details class="card pf" ${flags(h)}><summary><span class="w">${pctw(h.weight)}</span><span class="nm">${esc(h.name)}</span><span class="act ${ACT[a]}">${t(a)}</span>${dots(h)}</summary><div class="why">${esc(h.why)}</div>${h.opinion ? `<div class="op"><span class="meta">${t("ai")}</span>${esc(h.opinion)}</div>` : ""}${h.mentions.length ? mentionList(h.mentions) : ""}</details>`;
   }).join("");
   const ideas = p.ideas.length
     ? `<h2>${t("ideas")}<span class="rule"></span></h2>${p.ideas.map((i) => `<div class="card idea"><span class="sym">${esc(i.symbol)}</span><span class="nm">${esc(i.name)}</span><div class="why">${esc(i.why)}</div>${link(i.source_url, t("source"))}</div>`).join("")}`

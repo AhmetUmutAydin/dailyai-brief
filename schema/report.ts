@@ -21,6 +21,7 @@ export const PortfolioSectionSchema = z.object({
       mentions: z.array(MentionSchema),
       action: z.enum(["hold", "sell", "buy_more"]),
       why: z.string().min(1),
+      opinion: z.string().min(1),
     }),
   ),
   ideas: z
