@@ -1,3 +1,5 @@
+import { retry } from "./retry.js";
+
 export type ApifyTweet = {
   id: string;
   permalink: string;
@@ -39,17 +41,19 @@ export async function fetchTweets(
   minDate: string,
   maxItems = 50,
 ): Promise<ApifyTweet[]> {
-  const res = await fetch(
-    `https://api.apify.com/v2/acts/${ACTOR}/run-sync-get-dataset-items?timeout=240`,
-    {
-      method: "POST",
-      headers: {
-        "content-type": "application/json",
-        ...(process.env.APIFY_TOKEN ? { authorization: `Bearer ${process.env.APIFY_TOKEN}` } : {}),
+  return retry(async () => {
+    const res = await fetch(
+      `https://api.apify.com/v2/acts/${ACTOR}/run-sync-get-dataset-items?timeout=240`,
+      {
+        method: "POST",
+        headers: {
+          "content-type": "application/json",
+          ...(process.env.APIFY_TOKEN ? { authorization: `Bearer ${process.env.APIFY_TOKEN}` } : {}),
+        },
+        body: JSON.stringify({ username: handle, minDate, maxItems, retweets: "exclude" }),
       },
-      body: JSON.stringify({ username: handle, minDate, maxItems, retweets: "exclude" }),
-    },
-  );
-  if (!res.ok) throw new Error(`apify ${handle}: HTTP ${res.status} ${await res.text()}`);
-  return (await res.json()) as ApifyTweet[];
+    );
+    if (!res.ok) throw new Error(`apify ${handle}: HTTP ${res.status} ${await res.text()}`);
+    return (await res.json()) as ApifyTweet[];
+  });
 }

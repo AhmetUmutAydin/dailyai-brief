@@ -1,3 +1,5 @@
+import { retry } from "./retry.js";
+
 const MODEL = process.env.GEMINI_MODEL ?? "gemini-3.8-flash";
 const PROMPT =
   "Bu videoda konuşulan her şeyi, konuşulduğu dilde, olduğu gibi tam metin olarak yaz. Özetleme, yorum ekleme, başlık koyma. Sadece konuşma metni.";
@@ -54,11 +56,11 @@ async function viaInteractions(url: string): Promise<string> {
 
 export async function geminiTranscript(url: string): Promise<string> {
   try {
-    return await viaGenerateContent(url);
+    return await retry(() => viaGenerateContent(url));
   } catch (first) {
     console.error(`gemini generateContent failed, trying interactions: ${(first as Error).message}`);
     try {
-      return await viaInteractions(url);
+      return await retry(() => viaInteractions(url));
     } catch (second) {
       throw new Error(`${(first as Error).message} | ${(second as Error).message}`);
     }
