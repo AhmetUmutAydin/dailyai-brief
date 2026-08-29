@@ -102,7 +102,7 @@ for (const s of sources) {
 }
 
 const xSources = sources.filter((s) => s.x_handle);
-const BATCH = 6;
+const BATCH = 4;
 const batch = new Map<string, ApifyTweet[]>();
 const batched = new Set<string>();
 for (let i = 0; i < xSources.length; i += BATCH) {
