@@ -7,64 +7,57 @@
       "name": "SoFi Technologies",
       "ticker": "6B0.DE",
       "broker": "Scalable",
-      "weight": 0.2225
+      "weight": 0.2126
     },
     {
       "isin": "US30303M1027",
       "name": "Meta Platforms A",
       "ticker": "FB2A.DE",
       "broker": "Scalable",
-      "weight": 0.1544
+      "weight": 0.1475
     },
     {
       "isin": "US11135F1012",
       "name": "Broadcom",
       "ticker": "1YD.DE",
       "broker": "Scalable",
-      "weight": 0.1448
+      "weight": 0.1383
     },
     {
       "isin": "US05605H1005",
       "name": "BWX Technologies",
       "ticker": "4BW.DE",
       "broker": "Scalable",
-      "weight": 0.1195
+      "weight": 0.1141
     },
     {
       "isin": "US75734B1008",
       "name": "Reddit A",
       "ticker": "6VO.DE",
       "broker": "Trade Republic",
-      "weight": 0.1006
-    },
-    {
-      "isin": "US92840M1027",
-      "name": "Vistra Corp",
-      "ticker": "0V6.DE",
-      "broker": "Scalable",
-      "weight": 0.0906
-    },
-    {
-      "isin": "LU1900067601",
-      "name": "Amundi MSCI Turkey (Acc)",
-      "ticker": "LTUR.DE",
-      "broker": "Scalable",
-      "weight": 0.0716
+      "weight": 0.0961
     },
     {
       "isin": "IE00BD8PGZ49",
       "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
       "ticker": "IUSV.DE",
       "broker": "Scalable",
-      "weight": 0.0485
+      "weight": 0.0779
+    },
+    {
+      "isin": "LU1900067601",
+      "name": "Amundi MSCI Turkey (Acc)",
+      "ticker": "LTUR.DE",
+      "broker": "Scalable",
+      "weight": 0.0684
     },
     {
       "isin": "US34631F1021",
       "name": "FORGENT POWER SOLUTIONS INC.",
       "ticker": "9FS.DU",
       "broker": "Scalable",
-      "weight": 0.0475
+      "weight": 0.0453
     }
   ],
-  "cash_weight": 0.0001
+  "cash_weight": 0.0998
 }
