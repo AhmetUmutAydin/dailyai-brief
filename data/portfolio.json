@@ -1,63 +1,70 @@
 {
-  "updated_at": "2026-10-14",
-  "price_date": "2026-10-13",
+  "updated_at": "2026-10-22",
+  "price_date": "2026-10-20",
   "holdings": [
     {
       "isin": "US83406F1021",
       "name": "SoFi Technologies",
       "ticker": "6B0.DE",
       "broker": "Scalable",
-      "weight": 0.181
+      "weight": 0.1837
     },
     {
       "isin": "US30303M1027",
       "name": "Meta Platforms A",
       "ticker": "FB2A.DE",
       "broker": "Scalable",
-      "weight": 0.1405
+      "weight": 0.1351
     },
     {
       "isin": "US11135F1012",
       "name": "Broadcom",
       "ticker": "1YD.DE",
       "broker": "Scalable",
-      "weight": 0.1298
+      "weight": 0.1278
     },
     {
       "isin": "US05605H1005",
       "name": "BWX Technologies",
       "ticker": "4BW.DE",
       "broker": "Scalable",
-      "weight": 0.1057
+      "weight": 0.108
     },
     {
       "isin": "US75734B1008",
       "name": "Reddit A",
       "ticker": "6VO.DE",
       "broker": "Trade Republic",
-      "weight": 0.0942
+      "weight": 0.0974
     },
     {
-      "isin": "US34631F1021",
-      "name": "FORGENT POWER SOLUTIONS INC.",
-      "ticker": "9FS.DU",
+      "isin": "US64110L1061",
+      "name": "Netflix",
+      "ticker": "NFC.DE",
       "broker": "Scalable",
-      "weight": 0.0718
+      "weight": 0.0855
     },
     {
       "isin": "IE00BD8PGZ49",
       "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
       "ticker": "IUSV.DE",
       "broker": "Scalable",
-      "weight": 0.0711
+      "weight": 0.0752
+    },
+    {
+      "isin": "US34631F1021",
+      "name": "FORGENT POWER SOLUTIONS INC.",
+      "ticker": "9FS.DU",
+      "broker": "Scalable",
+      "weight": 0.0622
     },
     {
       "isin": "LU1900067601",
       "name": "Amundi MSCI Turkey (Acc)",
       "ticker": "LTUR.DE",
       "broker": "Scalable",
-      "weight": 0.0605
+      "weight": 0.0599
     }
   ],
-  "cash_weight": 0.1453
+  "cash_weight": 0.0651
 }
