@@ -1,0 +1,942 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T20:07:14Z",
+  "attention": [
+    {
+      "title": "Michael Burry LULU pozisyonunu büyütüyor",
+      "person": "Michael Burry",
+      "why": "Lululemon'u portföyündeki 'trickster' pozisyonu olarak tanımladı; hisse 100 doların altına inerse alım yapacağını, zaten son alımına göre yaklaşık %20 zararda olduğunu söyledi.",
+      "source_url": "https://x.com/BoraOzkent/status/2095909749862642172"
+    },
+    {
+      "title": "OpenAI GPT-6 Astra'yı tanıttı",
+      "person": "Greg Brockman",
+      "why": "100 binden fazla GPU ile eğitilen GPT-6 Astra; tablo/sunum hazırlama, 3B ortam kurma, devre kartı tasarlama, finansal modelleme gibi bilgisayar başında işleri yapabiliyor; Brockman bunu 'genel yapay zekanın geldiği an' olarak nitelendirdi.",
+      "source_url": "https://x.com/BoraOzkent/status/2095789965238022302"
+    },
+    {
+      "title": "Anthropic/Claude'un reklam harcaması ve kullanıcı kaybı",
+      "person": "Heisenberg",
+      "why": "Anthropic'in 1 dakikalık reklam için ~16 milyon dolar ödediğini, OpenAI'nin 77,8 milyon kullanıcısına karşı Claude'un ~16,6 milyon kullanıcısı olduğunu, Claude'un ~4 aydır aylık ortalama %3'ün üzerinde kullanıcı kaybettiğini ve mobil gelirinin ~%10 gerilediğini aktardı.",
+      "source_url": "https://x.com/heisenbergtrx/status/2095930312215715843"
+    },
+    {
+      "title": "Tesla'nın direksiyonsuz Cybercab'ı Austin'de müşterilere açıldı",
+      "person": "Bora Özkent",
+      "why": "Tesla Robotaxi uygulaması üzerinden Austin'de direksiyonsuz, pedalsız Cybercab çağrılabiliyor; filo 420 araca ulaştı, ancak federal kurallar nedeniyle araç henüz satılık değil ve NHTSA muafiyeti için başvuru yapılmadı.",
+      "source_url": "https://x.com/BoraOzkent/status/2095788707039072754"
+    },
+    {
+      "title": "Robinhood Chain'in altyapı rakamları",
+      "person": "Bora Özkent",
+      "why": "1 Temmuz'dan bu yana Robinhood Chain üzerinde 34,6 milyar dolar DEX hacmi, 576 milyon işlem, 12,3 milyon adres, 190'dan fazla dijitalleştirilmiş hisse ve 750 milyon dolardan fazla kilitli varlık birikti; Robinhood işlem ekranından altyapı sağlayıcılığına doğru ilerliyor.",
+      "source_url": "https://x.com/BoraOzkent/status/2095773355831934991"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Fed'in Eylül faiz kararı",
+      "views": [
+        {
+          "person": "Christopher Waller (Fed)",
+          "view": "Enflasyon verileri iyi gelirse 16 Eylül toplantısında faizi sabit tutmayı destekleyebilir.",
+          "quote": "Fed üyesi Waller, enflasyon verileri iyi gelirse 16 Eylül toplantısında faizi sabit tutmayı destekleyebileceğini söyledi.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752730551746774"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "Piyasa Waller'ın açıklamasını daha az şahin bir Fed olarak fiyatladı; 10 yıllık tahvil faizi geriledi, dolar zayıfladı.",
+          "quote": "Piyasa bunu \"daha az şahin bir Fed\" olarak okudu. 10 yıllık tahvil faizi %4,76'ya geriledi, dolar zayıfladı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752730551746774"
+        }
+      ]
+    },
+    {
+      "topic": "ABD istihdam raporu (Ağustos tarım dışı istihdam)",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Temmuz'daki sürpriz 23 bin kayıptan sonra bugünkü veri Fed'in Eylül kararının yönünü büyük ölçüde belirleyecek; beklenti 55 bin yeni iş, işsizlik oranının %4,2'ye çıkması bekleniyor.",
+          "quote": "Ağustos tarım dışı istihdam verisi 15:30 TSİ'de açıklanıyor. Beklenti 55 bin yeni iş. Temmuz'da sürpriz şekilde 23 bin kayıp görmüştük. İşsizlik oranının %4,2'ye çıkması bekleniyor. Bu veri, Fed'in Eylül kararının yönünü büyük ölçüde belirleyecek.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752734766965237"
+        }
+      ]
+    },
+    {
+      "topic": "Petrol fiyatları ve enflasyon endişesi",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "WTI'nin bu hafta %9,5 yükselip 91 doların üstüne çıkması enflasyon endişesini canlı tutuyor.",
+          "quote": "WTI 91 doların üstünde, sadece bu hafta %9,5 yükseldi. Bu, enflasyon endişesini canlı tutuyor.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752732720185711"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "LULU",
+      "name": "Lululemon",
+      "mentions": [
+        {
+          "person": "Michael Burry",
+          "sentiment": "positive",
+          "quote": "I continue to hold lululemon, and I will buy more of it if it trades under $100 tomorrow morning, as it is now after hours.",
+          "source_url": "https://x.com/BoraOzkent/status/2095909749862642172"
+        }
+      ]
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "$HOOD hissesi %15 yükselerek bir yıldan uzun sürenin en iyi gününü yaşadı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095773355831934991"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Nvidia %1,8 ile 228,41 dolar. Hugging Face'i 12,9 milyar dolara satın alıyor.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752745135305030"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Tesla %5,4 ile 376,37 dolar, 50 günlük ortalamanın üstüne çıktı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752747366654128"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "SpaceX (SPCX) %6,7 ile 149,74 dolar. 150-170 bandı halka arz sonrası yoğun işlem bölgesi, direnç olabilir.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752751456075925"
+        }
+      ]
+    },
+    {
+      "symbol": "COIN",
+      "name": "Coinbase",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Coinbase %10, Strategy yaklaşık %18 yükseldi.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752751456075925"
+        }
+      ]
+    },
+    {
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Coinbase %10, Strategy yaklaşık %18 yükseldi.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752751456075925"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Microsoft %2,7 ile 510,12 dolar, tabanının tepesinde.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752747366654128"
+        }
+      ]
+    },
+    {
+      "symbol": "NOW",
+      "name": "ServiceNow",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "ServiceNow %6,5 ile 145,59 dolar, kaybettiği seviyeyi geri aldı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752747366654128"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Broadcom beklentileri aştı ama açılış öncesi %4 düştü.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752743042359700"
+        }
+      ]
+    },
+    {
+      "symbol": "HPE",
+      "name": "Hewlett Packard Enterprise",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "HPE ve Ciena marj endişesiyle sert satıldı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752743042359700"
+        }
+      ]
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "HPE ve Ciena marj endişesiyle sert satıldı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752743042359700"
+        }
+      ]
+    },
+    {
+      "symbol": "IOT",
+      "name": "Samsara",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Samsara (IOT) seans sonrası %15 yukarı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752741092020529"
+        }
+      ]
+    },
+    {
+      "symbol": "DOCU",
+      "name": "DocuSign",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "DocuSign yükseldi.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752741092020529"
+        }
+      ]
+    },
+    {
+      "symbol": "ASAN",
+      "name": "Asana",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Asana sert düştü.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752741092020529"
+        }
+      ]
+    },
+    {
+      "symbol": "PATH",
+      "name": "UiPath",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "UiPath önce yükseldi sonra geri verdi.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752741092020529"
+        }
+      ]
+    },
+    {
+      "symbol": "ZS",
+      "name": "Zscaler",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Zscaler hafif geriledi.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752741092020529"
+        }
+      ]
+    },
+    {
+      "symbol": "SNOW",
+      "name": "Snowflake",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Bilanço sonrası hisse yaklaşık %17 fırladı. Hisse başına kâr 62 sent (beklenti 45), gelir 1,6 milyar dolar, %35 büyüme.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752739053506829"
+        }
+      ]
+    },
+    {
+      "symbol": "IGV",
+      "name": "iShares Expanded Tech-Software ETF",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Tek bir güçlü bilanço tüm yazılım sektörünü sürükledi, yazılım ETF'i IGV %3,4 yükseldi.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752739053506829"
+        }
+      ]
+    },
+    {
+      "symbol": "XLF",
+      "name": "Financial Select Sector SPDR",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Kazananlar: Yazılım, kripto, finans (XLF %1,5), sanayi (XLI %1).",
+          "source_url": "https://x.com/BoraOzkent/status/2095752753477759096"
+        }
+      ]
+    },
+    {
+      "symbol": "XLI",
+      "name": "Industrial Select Sector SPDR",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Kazananlar: Yazılım, kripto, finans (XLF %1,5), sanayi (XLI %1).",
+          "source_url": "https://x.com/BoraOzkent/status/2095752753477759096"
+        }
+      ]
+    },
+    {
+      "symbol": "XME",
+      "name": "SPDR S&P Metals & Mining ETF",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Kaybedenler: madencilik (XME), enerji (XLE).",
+          "source_url": "https://x.com/BoraOzkent/status/2095752753477759096"
+        }
+      ]
+    },
+    {
+      "symbol": "XLE",
+      "name": "Energy Select Sector SPDR",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Kaybedenler: madencilik (XME), enerji (XLE).",
+          "source_url": "https://x.com/BoraOzkent/status/2095752753477759096"
+        }
+      ]
+    },
+    {
+      "symbol": "SMH",
+      "name": "VanEck Semiconductor ETF",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Yarı iletkenler (SMH) sadece %0,4 ile geride kaldı, dikkat çekici.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752753477759096"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Bitcoin 81.600 dolar civarına fırladı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752732720185711"
+        }
+      ]
+    },
+    {
+      "symbol": "WTI",
+      "name": "WTI Ham Petrol",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "WTI 91 doların üstünde, sadece bu hafta %9,5 yükseldi.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752732720185711"
+        }
+      ]
+    },
+    {
+      "symbol": "RUT",
+      "name": "Russell 2000",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Küçük şirketler (Russell 2000) %0,5 ile daha ürkekti.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752727632453928"
+        }
+      ]
+    },
+    {
+      "symbol": "SPX",
+      "name": "S&P 500",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "S&P 500 %1,1, Dow %1,2 (600 puanın üstünde), Nasdaq %1,4 yukarı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752724973318260"
+        }
+      ]
+    },
+    {
+      "symbol": "DJI",
+      "name": "Dow Jones Industrial Average",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "S&P 500 %1,1, Dow %1,2 (600 puanın üstünde), Nasdaq %1,4 yukarı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752724973318260"
+        }
+      ]
+    },
+    {
+      "symbol": "IXIC",
+      "name": "Nasdaq Composite",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "S&P 500 %1,1, Dow %1,2 (600 puanın üstünde), Nasdaq %1,4 yukarı.",
+          "source_url": "https://x.com/BoraOzkent/status/2095752724973318260"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Michael Burry'nin LULU pozisyonu",
+          "url": "https://x.com/BoraOzkent/status/2095909749862642172",
+          "published_at": "2026-09-04T16:19:59.000Z",
+          "summary": "David Prince'in aktardığı Michael Burry açıklamasını alaycı bir üslupla paylaştı: Burry, Lululemon'u portföyünün 'trickster'ı olarak tanımlıyor, son alımına göre yaklaşık %20 zararda olmasına rağmen hisse 100 doların altına inerse daha fazla alacağını söylüyor.",
+          "assets": [
+            {
+              "symbol": "LULU",
+              "sentiment": "positive",
+              "note": "Burry'ye göre LULU en büyük pozisyonu; 100 doların altına inerse alım yapacak, üstünde kalırsa satmayı değerlendirecek."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kısa yanıt",
+          "url": "https://x.com/BoraOzkent/status/2095902417166520598",
+          "published_at": "2026-09-04T15:50:50.000Z",
+          "summary": "Tek kelimelik ('Zw') bir yanıt, anlaşılır bir içerik taşımıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Booking ve Google Maps yorumları eleştirisi",
+          "url": "https://x.com/BoraOzkent/status/2095858837349695772",
+          "published_at": "2026-09-04T12:57:40.000Z",
+          "summary": "Furkan Kılıç'ın Booking ve Google Maps yorumlarının güvenilirliğini sorguladığı paylaşımını aktardı; puanların şişirildiğini, kötü yorumların sildirilebildiğini belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Elon Musk hakkında bir yoruma tepki",
+          "url": "https://x.com/BoraOzkent/status/2095858185273798906",
+          "published_at": "2026-09-04T12:55:05.000Z",
+          "summary": "Elon Musk'ın mühendis olmadığı yönündeki görüşü sert bir dille eleştirdi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Kişisel bir yanıt",
+          "url": "https://x.com/BoraOzkent/status/2095830861539143931",
+          "published_at": "2026-09-04T11:06:30.000Z",
+          "summary": "Bir takipçisine 'sıfır beyinli' bulduğunu söyleyip takip etmemesini istedi; finansal içerik yok.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Kısa yanıt",
+          "url": "https://x.com/BoraOzkent/status/2095828004425408583",
+          "published_at": "2026-09-04T10:55:09.000Z",
+          "summary": "'Okumama şansını atlamayın' şeklinde kısa, bağlamı belirsiz bir yanıt; finansal içerik yok.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "İmla eleştirisi",
+          "url": "https://x.com/BoraOzkent/status/2095827782173425707",
+          "published_at": "2026-09-04T10:54:16.000Z",
+          "summary": "Bir yanıt zincirinde yapay zeka desteğiyle imla geliştirilmesini önerdi; finansal içerik yok.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "OpenAI GPT-6 Astra'yı tanıttı",
+          "url": "https://x.com/BoraOzkent/status/2095789965238022302",
+          "published_at": "2026-09-04T08:24:00.000Z",
+          "summary": "OpenAI'nin Teksas'taki Stargate tesisinde 100 binden fazla GPU ile eğittiği GPT-6 Astra'yı sadece soru yanıtlamanın ötesinde tablo/sunum hazırlama, 3B ortam kurma, devre kartı tasarlama, finansal modelleme ve vergi formu oluşturma gibi görevler için tanıttığını aktardı. Greg Brockman'ın bunu 'genel yapay zekanın geldiği an' olarak nitelendirdiğini, modelin OpenAI'nin 'Kritik' siber güvenlik eşiğine ulaştığı için en güçlü siber yeteneklerin başlangıçta sadece güvenilir kurumlara açılacağını belirtti; kendisi henüz kullanmadığını, iddiaların abartılı olup olmadığını bilemediğini ekledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tesla'nın direksiyonsuz Cybercab'ı Austin'de yolcu taşımaya başladı",
+          "url": "https://x.com/BoraOzkent/status/2095788707039072754",
+          "published_at": "2026-09-04T08:19:00.000Z",
+          "summary": "Tesla'nın Austin'de Robotaxi uygulaması üzerinden çağrılabilen, direksiyonu, pedalı ve aynası olmayan Cybercab'ının gerçek müşterilere açıldığını; filonun 420 araca ulaştığını aktardı. Federal güvenlik kuralları ticari satışı engellediği ve Tesla henüz NHTSA muafiyeti için başvurmadığı için ölçek ve gelir modelinin hâlâ belirsiz olduğunu vurguladı.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Cybercab Austin'de yolcu taşımaya başladı ama ticari satışı federal onaya bağlı; gelir modeli henüz netleşmedi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Robinhood Chain'in altyapı rakamları",
+          "url": "https://x.com/BoraOzkent/status/2095773355831934991",
+          "published_at": "2026-09-04T07:18:00.000Z",
+          "summary": "$HOOD hissesinin bir yıldan uzun sürenin en iyi gününü yaşayarak %15 yükseldiğini, asıl hikâyenin ise Robinhood Chain olabileceğini belirtti: 1 Temmuz'dan bu yana 34,6 milyar dolar DEX hacmi, 576 milyon işlem, 12,3 milyon adres, 190'dan fazla dijitalleştirilmiş hisse ve 750 milyon dolardan fazla kilitli varlık birikti. Robinhood'un işlem ekranından altyapı sağlayıcılığına doğru ilerlediğini, bunun yeni bir gelir kapısı açabileceğini söyledi.",
+          "assets": [
+            {
+              "symbol": "HOOD",
+              "sentiment": "positive",
+              "note": "$HOOD %15 yükseldi; Robinhood Chain altyapısı (DEX hacmi, adres sayısı, kilitli varlık) yeni bir gelir kapısı olarak öne çıkıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "İstihdam verisi öncesi temkinli duruş",
+          "url": "https://x.com/BoraOzkent/status/2095752758183809209",
+          "published_at": "2026-09-04T05:56:09.000Z",
+          "summary": "İzleme listelerinin hazır tutulmasını, kademeli hareket edilmesini, günün istihdam verisi ile gelecek haftaki enflasyon rakamlarının beklenmesini önerdi; piyasanın yönü belirlediğini, kendilerinin sadece takip ettiğini söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "'Güce alım' stratejisinin son üç aydaki performansı",
+          "url": "https://x.com/BoraOzkent/status/2095752755646218544",
+          "published_at": "2026-09-04T05:56:08.000Z",
+          "summary": "Son üç ayda fiyat gücüne göre alım yapma stratejisinin iyi çalışmadığını, yükselişlerin sık sık sönümlendiğini; bu seferin farklı olup olmadığının belirsiz olduğunu, eğer kalıcı bir yükseliş başlıyorsa geç kalınmaması gerektiğini belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Sektör performansı: yazılım/kripto/finans kazandı, madencilik/enerji kaybetti",
+          "url": "https://x.com/BoraOzkent/status/2095752753477759096",
+          "published_at": "2026-09-04T05:56:08.000Z",
+          "summary": "Günün kazananlarının yazılım, kripto ve finans (XLF %1,5) ile sanayi (XLI %1) olduğunu, kaybedenlerin madencilik (XME) ve enerji (XLE) olduğunu; yarı iletken ETF'i SMH'nin sadece %0,4 ile geride kaldığını dikkat çekici bulduğunu belirtti.",
+          "assets": [
+            {
+              "symbol": "XLF",
+              "sentiment": "positive",
+              "note": "Finans sektör ETF'i XLF %1,5 ile günün kazananları arasında."
+            },
+            {
+              "symbol": "XLI",
+              "sentiment": "positive",
+              "note": "Sanayi sektör ETF'i XLI %1 ile günün kazananları arasında."
+            },
+            {
+              "symbol": "XME",
+              "sentiment": "negative",
+              "note": "Madencilik ETF'i XME günün kaybedenleri arasında."
+            },
+            {
+              "symbol": "XLE",
+              "sentiment": "negative",
+              "note": "Enerji ETF'i XLE günün kaybedenleri arasında."
+            },
+            {
+              "symbol": "SMH",
+              "sentiment": "neutral",
+              "note": "Yarı iletken ETF'i SMH sadece %0,4 ile geride kaldı, bu durum dikkat çekici bulundu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX, Coinbase ve Strategy'de sert yükseliş",
+          "url": "https://x.com/BoraOzkent/status/2095752751456075925",
+          "published_at": "2026-09-04T05:56:07.000Z",
+          "summary": "SpaceX'in (SPCX) %6,7 ile 149,74 dolara çıktığını, 150-170 bandının halka arz sonrası direnç olabileceğini; Coinbase'in %10, Strategy'nin ise yaklaşık %18 yükseldiğini, ikisinin de 200 günlük ortalamayı test ettiğini belirtti.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "SPCX %6,7 ile 149,74 dolara çıktı; 150-170 bandı halka arz sonrası direnç olabilir."
+            },
+            {
+              "symbol": "COIN",
+              "sentiment": "positive",
+              "note": "Coinbase %10 yükseldi, 200 günlük ortalamayı test ediyor."
+            },
+            {
+              "symbol": "MSTR",
+              "sentiment": "positive",
+              "note": "Strategy yaklaşık %18 yükseldi, 200 günlük ortalamayı test ediyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla'nın otonom sürüş filosu 45 araç büyüdü",
+          "url": "https://x.com/BoraOzkent/status/2095752749438607564",
+          "published_at": "2026-09-04T05:56:07.000Z",
+          "summary": "Tesla'nın filosuna 45 Cybercab eklendiğini, değerlemesinin büyük kısmının otonom sürüşe bağlı olduğunu, bu yüzden piyasanın habere vereceği tepkinin kritik olduğunu; 200 günlük ortalamanın (yaklaşık 400) hâlâ direnç olduğunu belirtti.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Filoya 45 Cybercab eklendi; 200 günlük ortalama (~400) hâlâ teknik direnç."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft, ServiceNow ve Tesla hisseleri yükseldi",
+          "url": "https://x.com/BoraOzkent/status/2095752747366654128",
+          "published_at": "2026-09-04T05:56:06.000Z",
+          "summary": "Microsoft'un %2,7 ile 510,12 dolara çıkarak taban formasyonunun tepesine ulaştığını, ServiceNow'un %6,5 ile 145,59 dolara çıkıp kaybettiği seviyeyi geri aldığını, Tesla'nın %5,4 ile 376,37 dolara çıkarak 50 günlük ortalamanın üstüne geçtiğini; bir önceki akşam direksiyonsuz Cybercab'ın Austin'de yolculara açıldığını belirtti.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "positive",
+              "note": "MSFT %2,7 ile 510,12 dolara çıktı, taban formasyonunun tepesinde."
+            },
+            {
+              "symbol": "NOW",
+              "sentiment": "positive",
+              "note": "ServiceNow %6,5 ile 145,59 dolara çıktı, kaybettiği seviyeyi geri aldı."
+            },
+            {
+              "symbol": "TSLA",
+              "sentiment": "positive",
+              "note": "Tesla %5,4 ile 376,37 dolara çıkarak 50 günlük ortalamanın üstüne geçti."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Robinhood sıçradı, Nvidia Hugging Face'i satın alıyor",
+          "url": "https://x.com/BoraOzkent/status/2095752745135305030",
+          "published_at": "2026-09-04T05:56:06.000Z",
+          "summary": "Robinhood'un %16,6 ile 124,72 dolara sıçrayarak uzun bir tabandan boşlukla çıktığını, artık sadece kripto hissesi değil tahmin piyasaları büyümesinin motoru olarak görüldüğünü; Nvidia'nın %1,8 ile 228,41 dolara çıktığını ve Hugging Face'i 12,9 milyar dolara satın aldığını, teknik olarak yeniden alım bölgesinde olduğunu belirtti.",
+          "assets": [
+            {
+              "symbol": "HOOD",
+              "sentiment": "positive",
+              "note": "%16,6 ile 124,72 dolara sıçradı, uzun bir tabandan boşlukla çıktı."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "%1,8 ile 228,41 dolara çıktı, Hugging Face'i 12,9 milyar dolara satın alıyor, teknik olarak yeniden alım bölgesinde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom beklenti aştı ama düştü; HPE ve Ciena marj endişesiyle satıldı",
+          "url": "https://x.com/BoraOzkent/status/2095752743042359700",
+          "published_at": "2026-09-04T05:56:05.000Z",
+          "summary": "Broadcom'un beklentileri aşmasına rağmen açılış öncesi %4 düştüğünü, HPE ve Ciena'nın marj endişesiyle sert satıldığını; piyasanın artık sadece beklenti aşımına değil önümüzdeki çeyrek marjına baktığını belirtti.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "negative",
+              "note": "Beklentileri aştı ama açılış öncesi %4 düştü."
+            },
+            {
+              "symbol": "HPE",
+              "sentiment": "negative",
+              "note": "Marj endişesiyle sert satıldı."
+            },
+            {
+              "symbol": "CIEN",
+              "sentiment": "negative",
+              "note": "Marj endişesiyle sert satıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Gece açıklanan bilançolarda karışık tablo",
+          "url": "https://x.com/BoraOzkent/status/2095752741092020529",
+          "published_at": "2026-09-04T05:56:05.000Z",
+          "summary": "Samsara'nın (IOT) seans sonrası %15 yukarı gittiğini, DocuSign'ın yükseldiğini, Asana'nın sert düştüğünü, UiPath'in önce yükselip sonra kazancını geri verdiğini, Zscaler'ın hafif gerilediğini; güçlü bilanço açıklayıp yine de cezalandırılan şirketler de olduğunu belirtti.",
+          "assets": [
+            {
+              "symbol": "IOT",
+              "sentiment": "positive",
+              "note": "Bilanço sonrası seans sonrası %15 yukarı."
+            },
+            {
+              "symbol": "DOCU",
+              "sentiment": "positive",
+              "note": "Bilanço sonrası yükseldi."
+            },
+            {
+              "symbol": "ASAN",
+              "sentiment": "negative",
+              "note": "Bilanço sonrası sert düştü."
+            },
+            {
+              "symbol": "PATH",
+              "sentiment": "neutral",
+              "note": "Önce yükseldi sonra kazancını geri verdi."
+            },
+            {
+              "symbol": "ZS",
+              "sentiment": "negative",
+              "note": "Hafif geriledi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Snowflake bilançosuyla yazılım sektörünü sürükledi",
+          "url": "https://x.com/BoraOzkent/status/2095752739053506829",
+          "published_at": "2026-09-04T05:56:04.000Z",
+          "summary": "Snowflake'in bilanço sonrası hissesinin yaklaşık %17 fırladığını; hisse başına kârın 62 sent (beklenti 45 sent), gelirin 1,6 milyar dolar ve büyümenin %35 olduğunu, yıl sonu beklentisini de yukarı çektiğini; tek bir güçlü bilançonun tüm yazılım sektörünü sürükleyerek IGV'yi %3,4 yükselttiğini belirtti.",
+          "assets": [
+            {
+              "symbol": "SNOW",
+              "sentiment": "positive",
+              "note": "Bilanço sonrası %17 fırladı; EPS 62 sent (beklenti 45), gelir 1,6 milyar dolar, %35 büyüme, yıl sonu beklentisi yukarı çekildi."
+            },
+            {
+              "symbol": "IGV",
+              "sentiment": "positive",
+              "note": "Snowflake bilançosunun etkisiyle yazılım ETF'i IGV %3,4 yükseldi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Vadeliler yatay, yazılım sektörü toparlandı",
+          "url": "https://x.com/BoraOzkent/status/2095752737128423449",
+          "published_at": "2026-09-04T05:56:04.000Z",
+          "summary": "Gecelik vadeli işlemlerin yatay seyrettiğini, yazılım sektörünün dün yeniden toparlandığını belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Ağustos istihdam verisi bekleniyor",
+          "url": "https://x.com/BoraOzkent/status/2095752734766965237",
+          "published_at": "2026-09-04T05:56:03.000Z",
+          "summary": "Ağustos tarım dışı istihdam verisinin 15:30 TSİ'de açıklanacağını, beklentinin 55 bin yeni iş olduğunu, Temmuz'da sürpriz şekilde 23 bin kayıp görüldüğünü, işsizlik oranının %4,2'ye çıkmasının beklendiğini; bu verinin Fed'in Eylül kararının yönünü büyük ölçüde belirleyeceğini söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin ve petrol yükseldi, enflasyon endişesi canlı",
+          "url": "https://x.com/BoraOzkent/status/2095752732720185711",
+          "published_at": "2026-09-04T05:56:03.000Z",
+          "summary": "Büyük teknoloji, kripto ve metallerin yükseldiğini; Bitcoin'in 81.600 dolar civarına fırladığını, WTI petrolün ise 91 doların üstünde bu hafta %9,5 yükselerek enflasyon endişesini canlı tuttuğunu belirtti, gözlerin bugün istihdam raporunda olduğunu söyledi.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "81.600 dolar civarına fırladı."
+            },
+            {
+              "symbol": "WTI",
+              "sentiment": "positive",
+              "note": "91 doların üstünde, bu hafta %9,5 yükseldi; enflasyon endişesini canlı tutuyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fed'in Waller'ından güvercin sinyal",
+          "url": "https://x.com/BoraOzkent/status/2095752730551746774",
+          "published_at": "2026-09-04T05:56:02.000Z",
+          "summary": "Fed üyesi Waller'ın enflasyon verileri iyi gelirse 16 Eylül toplantısında faizi sabit tutmayı destekleyebileceğini söylediğini, piyasanın bunu daha az şahin bir Fed olarak okuduğunu; 10 yıllık tahvil faizinin %4,76'ya gerilediğini, doların zayıfladığını belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Küçük şirketlerde temkinli ama sağlıklı bir yükseliş",
+          "url": "https://x.com/BoraOzkent/status/2095752727632453928",
+          "published_at": "2026-09-04T05:56:02.000Z",
+          "summary": "Russell 2000'in %0,5 ile daha ürkek kaldığını, ama hacmin arttığını ve yükselen hisse sayısının düşenleri net geçtiğini; bunun sağlıklı bir yükseliş gününün imzası olduğunu, ateşleyicinin Fed'den geldiğini belirtti.",
+          "assets": [
+            {
+              "symbol": "RUT",
+              "sentiment": "neutral",
+              "note": "%0,5 ile daha ürkek kaldı ama hacim ve yükselen/düşen hisse oranı sağlıklı bir yükselişe işaret ediyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ABD borsaları güzel bir gün geçirdi",
+          "url": "https://x.com/BoraOzkent/status/2095752724973318260",
+          "published_at": "2026-09-04T05:56:01.000Z",
+          "summary": "4 Eylül 2026 Cuma günü Wall Street'te üç büyük endeksin de yükseldiğini ve 21 günlük ortalamanın geri alındığını; S&P 500'ün %1,1, Dow'un %1,2 (600 puanın üstünde), Nasdaq'ın %1,4 yukarı kapattığını belirtti.",
+          "assets": [
+            {
+              "symbol": "SPX",
+              "sentiment": "positive",
+              "note": "%1,1 yükseldi, 21 günlük ortalama geri alındı."
+            },
+            {
+              "symbol": "DJI",
+              "sentiment": "positive",
+              "note": "%1,2 (600 puanın üstünde) yükseldi."
+            },
+            {
+              "symbol": "IXIC",
+              "sentiment": "positive",
+              "note": "%1,4 yükseldi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Uber ve Tesla videosu esprisi",
+          "url": "https://x.com/BoraOzkent/status/2095738521348690052",
+          "published_at": "2026-09-04T04:59:35.000Z",
+          "summary": "Tesla'nın Austin'de yayınladığı bir videoyu paylaşarak alaycı bir dille 'Uber ucuz, Uber alın' yorumu yaptı; finansal bir görüş içermiyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Kişisel bir espri",
+          "url": "https://x.com/BoraOzkent/status/2095737449460748560",
+          "published_at": "2026-09-04T04:55:19.000Z",
+          "summary": "Bir yanıt zincirinde büyük bir yatırımcının 'taytları GPU'lardan daha önemli gördüğünü' söyleyerek alay etti; finansal içerik yok.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Kişisel bir yanıt",
+          "url": "https://x.com/BoraOzkent/status/2095605921451798972",
+          "published_at": "2026-09-03T20:12:40.000Z",
+          "summary": "Bir kullanıcıya 'total idiot' diyerek yanıt verdi; finansal içerik yok.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "items": [
+        {
+          "platform": "x",
+          "title": "iPhone IMEI kaydı için öneri",
+          "url": "https://x.com/heisenbergtrx/status/2095943612357890455",
+          "published_at": "2026-09-04T18:34:32.000Z",
+          "summary": "IMEI kayıt ücretinden kaçınmak için Türkiye'den alınan bir iPhone'a sim takıp yeni iPhone'u yurtdışından alarak kullanmayı önerdi; 55 bin TL kayıt ücretinden daha uygun olacağını belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "iPhone kullanım önerisi (devam)",
+          "url": "https://x.com/heisenbergtrx/status/2095941034932855180",
+          "published_at": "2026-09-04T18:24:18.000Z",
+          "summary": "Eski bir iPhone'a sim takıp yeni iPhone'u yurtdışından alıp kullanma önerisini tekrarladı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "IMEI kaydı tartışması ve iOS 27 Handoff özelliği",
+          "url": "https://x.com/heisenbergtrx/status/2095931335218987023",
+          "published_at": "2026-09-04T17:45:45.000Z",
+          "summary": "IMEI kaydı tartışması bitince devletin iPhone'u yasaklama ihtimalinin uç bir senaryo olsa da imkansız olmadığını belirtti; paylaştığı bir gönderide iOS 27'ye gelecek 'iPhone Handoff' özelliğinin aynı numarayı iki iPhone arasında eSIM ile paylaşmayı mümkün kılacağı aktarılıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic/Claude reklam harcaması ve kullanıcı kaybı (yanıt)",
+          "url": "https://x.com/heisenbergtrx/status/2095930520492273866",
+          "published_at": "2026-09-04T17:42:31.000Z",
+          "summary": "Kendi önceki tweet'ini alıntılayarak Anthropic/Claude'un reklam harcaması ve kullanıcı kaybıyla ilgili verileri tekrar vurguladı; bir kullanıcının Claude'un tanınırlığını sorgulayan yanıtına 'sallamayın, araştırın' diyerek karşılık verdi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic'in reklam harcaması ve Claude'un kullanıcı kaybı",
+          "url": "https://x.com/heisenbergtrx/status/2095930312215715843",
+          "published_at": "2026-09-04T17:41:41.000Z",
+          "summary": "Anthropic/Claude'un 1 dakikalık bir reklam gösterimi için yaklaşık 16 milyon dolar ödediğini, bunun sosyal medya sponsorlukları ve YouTube işbirliklerini bile kapsamadığını; OpenAI'nin güncel kullanıcı sayısının 77,8 milyon, Claude'un ise yaklaşık 16,6 milyon olduğunu (yaklaşık 5 kat fark), Claude'un yaklaşık 4 aydır her ay ortalama %3'ün üzerinde kullanıcı kaybettiğini ve mobil gelirlerinin de yaklaşık %10 gerilediğini aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Girişimcilik kültürü eleştirisi",
+          "url": "https://x.com/heisenbergtrx/status/2095924604426407978",
+          "published_at": "2026-09-04T17:19:00.000Z",
+          "summary": "Bir tır şoförünün ikramiye sonrası durumunu konu alan bir paylaşımı vesilesiyle Türkiye'de girişim kurup değer yaratma yerine ev/araba/faiz/altına yönelme eğilimini eleştirdi; finansal içerik yok, kişisel görüş.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "OpenAI Codex ile Claude karşılaştırması",
+          "url": "https://x.com/heisenbergtrx/status/2095885124218839169",
+          "published_at": "2026-09-04T14:42:07.000Z",
+          "summary": "Popüler olmayan bir görüş olarak OpenAI Codex'in birçok alanda Claude'dan daha verimli ve çok daha ucuz çalıştığını düşündüğünü; Claude'un sürekli kâr baskısı ve pazarlama harcamasıyla 'jeton sömürme aletine' dönüştüğünü, aylık 100 dolar ödenmeden pek bir şey yaptırmadığını savundu.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Lewis Hamilton'ın kıyafeti esprisi",
+          "url": "https://x.com/heisenbergtrx/status/2095773066630410491",
+          "published_at": "2026-09-04T07:16:51.000Z",
+          "summary": "İtalya'daki bir medya gününde Lewis Hamilton'ın 45 derece sıcakta takım elbise giymesiyle ilgili şaka yaptı; finansal içerik yok.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Erzurum'da bir camide kediye şiddet olayına tepki",
+          "url": "https://x.com/heisenbergtrx/status/2095528866592776361",
+          "published_at": "2026-09-03T15:06:29.000Z",
+          "summary": "Erzurum'da namaz sırasında bir kediye tekme atan kişiyi eleştirerek dinin kötülüğü örtmek için kullanılmaması gerektiğini söyledi; finansal içerik yok.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "ZeroHedge",
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "items": []
+    }
+  ]
+}
