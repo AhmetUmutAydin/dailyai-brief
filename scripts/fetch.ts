@@ -2,6 +2,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { fetchFeed, fetchTranscript, parseFeed, selectEntries } from "./lib/youtube.js";
 import { fetchTweets, mapTweets } from "./lib/x.js";
 import { loadSeen, saveSeen } from "./lib/seen.js";
+import { geminiTranscript } from "./lib/gemini.js";
 
 type Source = { name: string; youtube_channel_id?: string; x_handle?: string };
 
@@ -40,11 +41,21 @@ for (const s of sources) {
       reached++;
       for (const e of entries) {
         let text: string | null = null;
+        let captionError = "";
         try {
           text = await fetchTranscript(e.id);
-          if (text === null) errors.push(`youtube ${e.id}: no captions`);
+          if (text === null) captionError = "no captions";
         } catch (err) {
-          errors.push(`youtube ${e.id}: ${(err as Error).message}`);
+          captionError = (err as Error).message;
+        }
+        if (text === null && process.env.GEMINI_API_KEY) {
+          try {
+            text = await geminiTranscript(e.url);
+          } catch (err) {
+            errors.push(`youtube ${e.id}: captions: ${captionError}; gemini: ${(err as Error).message}`);
+          }
+        } else if (text === null) {
+          errors.push(`youtube ${e.id}: ${captionError}`);
         }
         items.push({ id: e.id, person: s.name, platform: "youtube", url: e.url, title: e.title, published_at: e.published_at, text });
         seen.add(e.id);
