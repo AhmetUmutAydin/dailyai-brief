@@ -1,0 +1,503 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T04:23:47.680Z",
+  "errors": [
+    "Bora Özkent: YouTube verisi alınamadı (feed erişilemedi, HTTP 404)",
+    "Defiant Gatekeeper: YouTube verisi alınamadı (feed erişilemedi, HTTP 404)",
+    "Barbarians Trading: YouTube verisi alınamadı (feed erişilemedi, HTTP 404)"
+  ],
+  "attention": [
+    {
+      "title": "Anthropic'in IPO takvimi Ekim ortasına kaydı",
+      "person": "wallstengine",
+      "why": "Reuters'a göre pazarlamaya en erken Ekim ortasında başlanacak, izahname Eylül sonuna sarktı; halka arz ABD ara seçimlerinden birkaç gün önceye denk getirilmek isteniyor, yatırımcılar arasında ~2 trilyon dolarlık değerleme konuşuluyor ve 15 milyar dolarlık rotatif kredi imkanı hazırlanıyor; Morgan Stanley, Goldman Sachs, JPMorgan ve Citi halka arzda yer alıyor.",
+      "source_url": "https://x.com/wallstengine/status/2096013767205323070"
+    },
+    {
+      "title": "FinancewithIzzy Broadcom (AVGO) pozisyonunu kapattı",
+      "person": "FinancewithIzzy",
+      "why": "Yeni podcast bölümünde AVGO'dan neden çıktığını ve Broadcom bilançosunda piyasanın hangi noktayı beğenmediğini ele aldığını duyurdu.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2096003957789261857"
+    },
+    {
+      "title": "S&P 500 endeksinde değişiklik: BE, Everpure ve ILMN giriyor",
+      "person": "wallstengine",
+      "why": "Bloom Energy (BE), Everpure (P) ve Illumina (ILMN) endekse dahil edilirken Molson Coors (TAP), Trade Desk (TTD) ve Builders FirstSource (BLDR) endeksten çıkarılıyor.",
+      "source_url": "https://x.com/wallstengine/status/2095987288702620109"
+    },
+    {
+      "title": "Pelosi Temmuz sonunda BE ve INTC'de yeni pozisyon açtı",
+      "person": "korkmazali08",
+      "why": "Nancy Pelosi'nin 24-28 Temmuz arasında BE'den 15 bin hisse ve 100 dolar kullanım fiyatlı 100 call opsiyonu, INTC'den 10 bin hisse ve 50 dolar kullanım fiyatlı 50 call opsiyonu (17 Haziran 2027 vadeli) aldığı aktarıldı.",
+      "source_url": "https://x.com/korkmazali08/status/2095989173949772175"
+    },
+    {
+      "title": "NVIDIA'nın ilk üretim Vera Rubin rack'leri CoreWeave'e teslim edildi",
+      "person": "korkmazali08",
+      "why": "Michael Dell'in duyurusuna göre dünyanın ilk üretim NVIDIA Vera Rubin NVL72 rack sistemleri CoreWeave'e teslim edildi.",
+      "source_url": "https://x.com/korkmazali08/status/2095988718280544745"
+    }
+  ],
+  "macro": [],
+  "assets": [
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "The technology everyone's been calling a \"bubble\" is coming for trillion dollar industries. Exactly. 🎈 $NVDA $QQQ $AVGO",
+          "source_url": "https://x.com/dtfinans_/status/2096053742516801600"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "AVGO'dan neden çıktım? Broadcom bilançosunda piyasa neyi beğenmedi?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2096003957789261857"
+        }
+      ],
+      "priority": "high",
+      "why": "dtfinans_ AVGO'yu yapay zeka temalı büyüme tezine dahil ederken, FinancewithIzzy Broadcom bilançosu sonrası pozisyonunu kapattığını duyurdu."
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Endekse girenler: $BE — Bloom Energy🟢",
+          "source_url": "https://x.com/korkmazali08/status/2095987668442046906"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Joining: $BE Bloom Energy",
+          "source_url": "https://x.com/wallstengine/status/2095987288702620109"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$BE, $P ve $ILMN S&P 500 endeksine ekleniyor. $BE yatırımcıları için güzel haber. 🚀",
+          "source_url": "https://x.com/cevikfinance/status/2095986633648611449"
+        }
+      ],
+      "priority": "medium",
+      "why": "S&P 500'e girme haberi üç kişi tarafından paylaşıldı; cevikfinance bunu BE yatırımcıları için doğrudan olumlu haber olarak yorumladı."
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "$SOFI S&P 500 endeksine yine alınmadı.",
+          "source_url": "https://x.com/cevikfinance/status/2095990493028974676"
+        }
+      ],
+      "priority": "medium",
+      "why": "cevikfinance, SOFI'nin S&P 500 endeksine yine alınmamasından duyduğu hayal kırıklığını 'kanayan yaramız' diyerek dile getirdi."
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "We have delivered the world's first production @nvidia Vera Rubin NVL72 racks to @CoreWeave.",
+          "source_url": "https://x.com/korkmazali08/status/2095988718280544745"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "The technology everyone's been calling a \"bubble\" is coming for trillion dollar industries. Exactly. 🎈 $NVDA $QQQ $AVGO",
+          "source_url": "https://x.com/dtfinans_/status/2096053742516801600"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$AVGO $PL $NVDA #StockMarket",
+          "source_url": "https://x.com/FinancewithIzzy/status/2096003957789261857"
+        }
+      ],
+      "priority": "medium",
+      "why": "dtfinans_ yapay zeka 'balon' eleştirilerine karşı çıkarak NVDA'ya olumlu baktı; ayrıca CoreWeave'e ilk üretim Vera Rubin rack teslimatı haberi paylaşıldı."
+    },
+    {
+      "symbol": "LULU",
+      "name": "Lululemon",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "I still think they make good products (especially $LULU for example) but there is just an overwhelming amount of competition now that didnt used to exist.",
+          "source_url": "https://x.com/jrouldz/status/2096008506625147021"
+        }
+      ],
+      "priority": "medium",
+      "why": "jrouldz, LULU'nun ürün kalitesini hâlâ beğense de artan rekabet nedeniyle eskisi gibi güçlü konumda olmadığını düşünüyor."
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "The technology everyone's been calling a \"bubble\" is coming for trillion dollar industries. Exactly. 🎈 $NVDA $QQQ $AVGO",
+          "source_url": "https://x.com/dtfinans_/status/2096053742516801600"
+        }
+      ],
+      "priority": "medium",
+      "why": "dtfinans_, yapay zeka temalı büyümenin trilyon dolarlık sektörleri dönüştürmeye devam edeceğini savunarak QQQ'ya olumlu baktı."
+    },
+    {
+      "symbol": "ILMN",
+      "name": "Illumina",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$ILMN — Illumina🟢",
+          "source_url": "https://x.com/korkmazali08/status/2095987668442046906"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$ILMN Illumina",
+          "source_url": "https://x.com/wallstengine/status/2095987288702620109"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "$BE, $P ve $ILMN S&P 500 endeksine ekleniyor.",
+          "source_url": "https://x.com/cevikfinance/status/2095986633648611449"
+        }
+      ],
+      "priority": "low"
+    },
+    {
+      "symbol": "P",
+      "name": "Everpure",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$P — Everpure🟢",
+          "source_url": "https://x.com/korkmazali08/status/2095987668442046906"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$P Everpure",
+          "source_url": "https://x.com/wallstengine/status/2095987288702620109"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "$BE, $P ve $ILMN S&P 500 endeksine ekleniyor.",
+          "source_url": "https://x.com/cevikfinance/status/2095986633648611449"
+        }
+      ],
+      "priority": "low"
+    },
+    {
+      "symbol": "TAP",
+      "name": "Molson Coors",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Endeksten çıkanlar: $TAP — Molson Coors",
+          "source_url": "https://x.com/korkmazali08/status/2095987668442046906"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Leaving: $TAP Molson Coors",
+          "source_url": "https://x.com/wallstengine/status/2095987288702620109"
+        }
+      ],
+      "priority": "low"
+    },
+    {
+      "symbol": "TTD",
+      "name": "The Trade Desk",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$TTD — Trade Desk",
+          "source_url": "https://x.com/korkmazali08/status/2095987668442046906"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$TTD Trade Desk",
+          "source_url": "https://x.com/wallstengine/status/2095987288702620109"
+        }
+      ],
+      "priority": "low"
+    },
+    {
+      "symbol": "BLDR",
+      "name": "Builders FirstSource",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$BLDR — Builders FirstSource",
+          "source_url": "https://x.com/korkmazali08/status/2095987668442046906"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$BLDR Builders FirstSource",
+          "source_url": "https://x.com/wallstengine/status/2095987288702620109"
+        }
+      ],
+      "priority": "low"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "10K shares of $INTC and 50 calls with $50 strikes expiring 6/17/27",
+          "source_url": "https://x.com/korkmazali08/status/2095989173949772175"
+        }
+      ],
+      "priority": "low"
+    },
+    {
+      "symbol": "PL",
+      "name": "Planet Labs",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Planet Labs bilançosu gerçekten ne anlatıyor?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2096003957789261857"
+        }
+      ],
+      "priority": "low"
+    }
+  ],
+  "persons": [
+    { "name": "Bora Özkent", "digest": [], "items": [] },
+    { "name": "Heisenberg", "digest": [], "items": [] },
+    { "name": "Defiant Gatekeeper", "digest": [], "items": [] },
+    { "name": "Barbarians Trading", "digest": [], "items": [] },
+    { "name": "Berk Dinçtürk", "digest": [], "items": [] },
+    { "name": "ulkser", "digest": [], "items": [] },
+    { "name": "jeoekonomiTR", "digest": [], "items": [] },
+    { "name": "Ahmet Sunelcan", "digest": [], "items": [] },
+    { "name": "sgundoganX", "group": "Others", "digest": [], "items": [] },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 bugün Nancy Pelosi'nin Temmuz sonunda **BE** (Bloom Energy) hisselerinden 15 bin adet ve **INTC** (Intel) hisselerinden 10 bin adet aldığını, ayrıca her iki hisse için de call opsiyonu pozisyonu açtığını paylaştı. Michael Dell'in dünyanın ilk üretim NVIDIA Vera Rubin NVL72 rack sistemlerini CoreWeave'e teslim ettiğini duyurdu. Ayrıca S&P 500 endeksine **BE**, Everpure (**P**) ve **ILMN**'in (Illumina) dahil edileceğini, Molson Coors (**TAP**), Trade Desk (**TTD**) ve Builders FirstSource'un (**BLDR**) ise endeksten çıkarılacağını duyurdu.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Pelosi'nin BE ve INTC alımı",
+          "url": "https://x.com/korkmazali08/status/2095989173949772175",
+          "published_at": "2026-09-04T21:35:35.000Z",
+          "summary": "Amit'in (@amitisinvesting) paylaşımını aktararak Nancy Pelosi'nin 24-28 Temmuz arasında $BE'den 15 bin hisse ve 100 dolar kullanım fiyatlı 100 call opsiyonu, $INTC'den 10 bin hisse ve 50 dolar kullanım fiyatlı 50 call opsiyonu (17 Haziran 2027 vadeli) aldığını paylaştı.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "neutral",
+              "note": "Pelosi'nin 15 bin hisse ve call opsiyonu aldığı aktarıldı; kendi görüşünü belirtmedi."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "neutral",
+              "note": "Pelosi'nin 10 bin hisse ve call opsiyonu aldığı aktarıldı; kendi görüşünü belirtmedi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NVIDIA Vera Rubin rack'leri CoreWeave'e teslim edildi",
+          "url": "https://x.com/korkmazali08/status/2095988718280544745",
+          "published_at": "2026-09-04T21:33:46.000Z",
+          "summary": "Michael Dell'in dünyanın ilk üretim NVIDIA Vera Rubin NVL72 rack sistemlerini CoreWeave'e teslim ettiklerini duyurduğunu paylaştı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Dell'in ilk üretim Vera Rubin NVL72 rack sistemlerini CoreWeave'e teslim ettiği aktarıldı; kendi görüşünü belirtmedi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "S&P 500 endeks değişiklikleri",
+          "url": "https://x.com/korkmazali08/status/2095987668442046906",
+          "published_at": "2026-09-04T21:29:36.000Z",
+          "summary": "S&P 500 endeksine BE, Everpure (P) ve Illumina'nın (ILMN) dahil edileceğini; Molson Coors (TAP), Trade Desk (TTD) ve Builders FirstSource'un (BLDR) endeksten çıkarılacağını paylaştı.",
+          "assets": [
+            { "symbol": "BE", "sentiment": "neutral", "note": "S&P 500'e dahil ediliyor." },
+            { "symbol": "P", "sentiment": "neutral", "note": "Everpure S&P 500'e dahil ediliyor." },
+            { "symbol": "ILMN", "sentiment": "neutral", "note": "S&P 500'e dahil ediliyor." },
+            { "symbol": "TAP", "sentiment": "neutral", "note": "S&P 500'den çıkarılıyor." },
+            { "symbol": "TTD", "sentiment": "neutral", "note": "S&P 500'den çıkarılıyor." },
+            { "symbol": "BLDR", "sentiment": "neutral", "note": "S&P 500'den çıkarılıyor." }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_ bugün yapay zekayı 'balon' diye nitelendiren eleştirilere karşı çıkarak bu teknolojinin trilyon dolarlık sektörleri de dönüştürmeye geldiğini savundu ve **NVDA**, **QQQ** ile **AVGO**'ya olumlu baktığını belirtti.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Yapay zeka 'balon' eleştirilerine karşı çıktı",
+          "url": "https://x.com/dtfinans_/status/2096053742516801600",
+          "published_at": "2026-09-05T01:52:09.000Z",
+          "summary": "Yapay zekayı 'balon' diye nitelendirenlerin aksine bu teknolojinin trilyon dolarlık sektörleri de dönüştürmeye geldiğini savunarak NVDA, QQQ ve AVGO'ya olumlu baktığını belirtti.",
+          "assets": [
+            { "symbol": "NVDA", "sentiment": "positive", "note": "'Balon' eleştirilerine karşı AI'ın trilyon dolarlık sektörleri dönüştüreceğini savundu." },
+            { "symbol": "QQQ", "sentiment": "positive", "note": "AI temalı büyümenin sürmesini bekliyor." },
+            { "symbol": "AVGO", "sentiment": "positive", "note": "AI temalı büyüme tezine dahil etti." }
+          ]
+        }
+      ]
+    },
+    { "name": "Yatirim101", "group": "Others", "digest": [], "items": [] },
+    { "name": "Daniel Newman", "group": "Others", "digest": [], "items": [] },
+    { "name": "WallStDiaries", "group": "Others", "digest": [], "items": [] },
+    { "name": "Tunç Şatıroğlu", "group": "Others", "digest": [], "items": [] },
+    { "name": "MrTradeer", "group": "Others", "digest": [], "items": [] },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy yeni podcast bölümünde **AVGO** (Broadcom) pozisyonunu neden kapattığını ve bilançoya piyasanın hangi noktasını beğenmediğini, **PL** (Planet Labs) bilançosunun gerçekte ne anlattığını ve Trump-Fed geriliminin piyasayı nereye götürdüğünü ele aldığını duyurdu.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AVGO pozisyonunu kapattı, PL ve Trump-Fed gerilimini konuştu",
+          "url": "https://x.com/FinancewithIzzy/status/2096003957789261857",
+          "published_at": "2026-09-04T22:34:20.000Z",
+          "summary": "Yeni podcast bölümünde AVGO pozisyonunu neden kapattığını, Broadcom bilançosunda piyasanın neyi beğenmediğini, Planet Labs (PL) bilançosunun ne anlattığını ve Trump-Fed geriliminin piyasayı nereye götürdüğünü ele aldığını duyurdu.",
+          "assets": [
+            { "symbol": "AVGO", "sentiment": "negative", "note": "Broadcom pozisyonundan çıktığını duyurdu; bilançoya piyasanın beğenmediği bir noktayı podcastte ele alacağını belirtti." },
+            { "symbol": "PL", "sentiment": "neutral", "note": "Planet Labs bilançosunu podcastte ele alacağını belirtti, kendi görüşünü açıklamadı." },
+            { "symbol": "NVDA", "sentiment": "neutral", "note": "Trump-Fed geriliminin piyasayı nereye götürdüğünü podcastte tartışacağını belirtti, kendi görüşünü açıklamadı." }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine, Anthropic'in IPO pazarlamasına Reuters'a göre en erken Ekim ortasında başlayacağını, halka arzın ABD ara seçimlerinden birkaç gün önceye denk gelmesinin hedeflendiğini ve yatırımcılar arasında yaklaşık 2 trilyon dolarlık değerlemenin konuşulduğunu; Morgan Stanley, Goldman Sachs, JPMorgan ve Citi'nin halka arzda yer aldığını ve 15 milyar dolarlık rotatif kredi imkanı üzerinde çalışıldığını aktardı. Ayrıca S&P 500 endeksine **BE**, Everpure (**P**) ve **ILMN**'in (Illumina) katılacağını, **TAP** (Molson Coors), **TTD** (Trade Desk) ve **BLDR**'ın (Builders FirstSource) endeksten çıkarılacağını paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Anthropic IPO takvimi Ekim ortasına kaydı",
+          "url": "https://x.com/wallstengine/status/2096013767205323070",
+          "published_at": "2026-09-04T23:13:18.000Z",
+          "summary": "Reuters'a dayandırarak Anthropic'in IPO pazarlamasına en erken Ekim ortasında başlayacağını, halka arzın ABD ara seçimlerinden birkaç gün önceye denk gelmesinin hedeflendiğini, izahnamenin Eylül sonuna sarktığını, 15 milyar dolarlık rotatif kredi imkanı üzerinde çalışıldığını, Morgan Stanley/Goldman Sachs/JPMorgan/Citi'nin halka arzda yer aldığını ve ~2 trilyon dolarlık değerlemenin konuşulduğunu aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "S&P 500 endeks değişiklikleri",
+          "url": "https://x.com/wallstengine/status/2095987288702620109",
+          "published_at": "2026-09-04T21:28:05.000Z",
+          "summary": "S&P 500 endeksine Bloom Energy (BE), Everpure (P) ve Illumina'nın (ILMN) katılacağını; Molson Coors (TAP), Trade Desk (TTD) ve Builders FirstSource'un (BLDR) çıkarılacağını paylaştı.",
+          "assets": [
+            { "symbol": "BE", "sentiment": "neutral", "note": "S&P 500'e dahil ediliyor." },
+            { "symbol": "P", "sentiment": "neutral", "note": "Everpure S&P 500'e dahil ediliyor." },
+            { "symbol": "ILMN", "sentiment": "neutral", "note": "S&P 500'e dahil ediliyor." },
+            { "symbol": "TAP", "sentiment": "neutral", "note": "S&P 500'den çıkarılıyor." },
+            { "symbol": "TTD", "sentiment": "neutral", "note": "S&P 500'den çıkarılıyor." },
+            { "symbol": "BLDR", "sentiment": "neutral", "note": "S&P 500'den çıkarılıyor." }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz, siber güvenlik hisselerindeki değerlemelerin aşırıya kaçtığını düşünerek bazı pozisyonlarında kâr realizasyonuna gittiğini söyledi. **LULU** için hâlâ iyi ürünler yaptığını düşünse de artık aynı alıcı kitlesini hedefleyen çok sayıda rakip olması nedeniyle eskisi gibi rekabetsiz olmadığını belirtti.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Siber güvenlik hisselerinde kâr realizasyonu",
+          "url": "https://x.com/jrouldz/status/2096056569368580134",
+          "published_at": "2026-09-05T02:03:23.000Z",
+          "summary": "Sahip olduğu siber güvenlik şirketlerinin değerlemelerinin aşırıya kaçtığını düşünerek bazı pozisyonlarında kâr realizasyonuna gittiğini belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "LULU'da artan rekabet endişesi",
+          "url": "https://x.com/jrouldz/status/2096008506625147021",
+          "published_at": "2026-09-04T22:52:24.000Z",
+          "summary": "LULU'nun hâlâ iyi ürünler yaptığını düşündüğünü ama artık aynı alıcı kitlesini hedefleyen çok sayıda rakip olduğunu, rekabetin eskisi gibi olmadığını belirtti.",
+          "assets": [
+            { "symbol": "LULU", "sentiment": "negative", "note": "Ürünlerini hâlâ beğense de artık aynı alıcıları hedefleyen çok sayıda rakip olması nedeniyle endişeli." }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance bugün Wall St Engine'in haberini aktararak Anthropic'in ara seçimlerden önce, Ekim ayında halka arz olacağını paylaştı. S&P 500 endeksine **BE** (Bloom Energy), Everpure (**P**) ve **ILMN**'in (Illumina) ekleneceğini, bunun özellikle **BE** yatırımcıları için güzel haber olduğunu belirtti. **SOFI**'nin ise endekse yine dahil edilmediğini üzülerek 'kanayan yaramız' diye nitelendirdi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Anthropic IPO takvimi Ekim ortasına kaydı",
+          "url": "https://x.com/cevikfinance/status/2096014041470624179",
+          "published_at": "2026-09-04T23:14:24.000Z",
+          "summary": "Wall St Engine'in haberini aktararak Anthropic'in ara seçimlerden önce, Ekim ayında halka arz olacağını paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SOFI yine S&P 500'e alınmadı",
+          "url": "https://x.com/cevikfinance/status/2095990493028974676",
+          "published_at": "2026-09-04T21:40:49.000Z",
+          "summary": "SOFI'nin S&P 500 endeksine yine dahil edilmediğini belirterek kendi videosunda BE, P ve ILMN'in endekse eklendiğini, BE yatırımcıları için bunun iyi haber olduğunu hatırlattı.",
+          "assets": [
+            { "symbol": "SOFI", "sentiment": "negative", "note": "S&P 500 endeksine yine dahil edilmedi; hayal kırıklığını belirtti." },
+            { "symbol": "BE", "sentiment": "positive", "note": "S&P 500'e eklenmesinin BE yatırımcıları için iyi haber olduğunu belirtti." }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SOFI'de sabır sınavı sürüyor",
+          "url": "https://x.com/cevikfinance/status/2095988277513756752",
+          "published_at": "2026-09-04T21:32:01.000Z",
+          "summary": "SOFI için 'kanayan yaramız' diyerek pozisyondaki hayal kırıklığını kısaca ifade etti.",
+          "assets": [
+            { "symbol": "SOFI", "sentiment": "negative", "note": "'Kanayan yaramız' diyerek pozisyondaki hayal kırıklığını ifade etti." }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BE, P ve ILMN S&P 500'e ekleniyor",
+          "url": "https://x.com/cevikfinance/status/2095986633648611449",
+          "published_at": "2026-09-04T21:25:29.000Z",
+          "summary": "BE, Everpure (P) ve Illumina'nın (ILMN) S&P 500 endeksine ekleneceğini, bunun özellikle BE yatırımcıları için güzel bir haber olduğunu belirtti.",
+          "assets": [
+            { "symbol": "BE", "sentiment": "positive", "note": "S&P 500'e eklenmesinin BE yatırımcıları için güzel haber olduğunu belirtti." },
+            { "symbol": "P", "sentiment": "neutral", "note": "S&P 500'e ekleniyor, görüş belirtmedi." },
+            { "symbol": "ILMN", "sentiment": "neutral", "note": "S&P 500'e ekleniyor, görüş belirtmedi." }
+          ]
+        }
+      ]
+    }
+  ]
+}
