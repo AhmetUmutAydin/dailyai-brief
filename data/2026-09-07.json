@@ -1,0 +1,871 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T05:00:00.000Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "NVIDIA'nın 2027 gelir beklentisi Wall Street tahmininin çok üzerine çıktı",
+      "person": "FinancewithIzzy",
+      "why": "Jensen Huang'ın 2027 için işaret ettiği ~700 milyar dolarlık gelir, Wall Street'in ~570 milyar dolarlık beklentisinin belirgin üzerinde; arz-kapasite anlaşmaları 119 milyar dolardan 279 milyar dolara çıktı ve AWS 2027-28'de 2 milyon ek NVIDIA GPU'su planlıyor, yani asıl kısıt artık talep değil üretim kapasitesi.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2096561286540632493"
+    },
+    {
+      "title": "Norveç'in egemen varlık fonu 80 milyar dolarlık ABD tahvilini satabilir",
+      "person": "FinancewithIzzy",
+      "why": "Dünyanın en büyük egemen varlık fonlarından birinin bu büyüklükte bir ABD Hazine tahvili pozisyonunu elden çıkarma ihtimali, tahvil piyasasında büyük bir alıcının çekilme riskini gündeme getiriyor.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2096662665347166547"
+    },
+    {
+      "title": "Üç yapay zeka modeli ağustos enflasyonunu tahmin etti, faiz artışı ihtimalini geçersiz kılıyor",
+      "person": "Bora Özkent",
+      "why": "GPT-6 Astra, Fable 5.1 ve Grok-4.6 modellerinin üçü de ağustos manşet enflasyonunun benzin kaynaklı yükseldiğini ama çekirdek enflasyonda iyileşmenin sürdüğünü gösteriyor; somut sayısal tahminlerle desteklenen yeni bir yöntem.",
+      "source_url": "https://x.com/BoraOzkent/status/2096505432063791506"
+    },
+    {
+      "title": "Büyük teknoloji şirketlerinin tahvil ihraçları AI sermaye harcaması döngüsünü finanse ediyor",
+      "person": "korkmazali08",
+      "why": "Amazon, Alphabet, Meta ve Oracle'ın tahvil ihraçlarının hızla artması ve gelecek yıl 1,1 trilyon doları aşması beklenen AI capex'i, borçlanma ihtiyacını büyüterek tahvil getirileri üzerinde ek baskı oluşturabilir.",
+      "source_url": "https://x.com/korkmazali08/status/2096602896028598568"
+    },
+    {
+      "title": "Türkiye'nin OVP'sinde 2027 enflasyon hedefi üç haftada %15'ten %21'e çıkarıldı",
+      "person": "Tunç Şatıroğlu",
+      "why": "Hedefin bu kadar kısa sürede ve büyük bir ekonomik veri değişikliği olmadan revize edilmesi, hükümetin enflasyon hedeflerine olan güvenilirliğini sorgulatan somut ve yeni bir gelişme.",
+      "source_url": "https://x.com/TuncSatiroglu/status/2096531182439858265"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "ABD istihdam verisi, enflasyon görünümü ve Fed faiz patikası",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "162 binlik istihdam artışının üçte ikisinin konaklama, yeme-içme ve yerel yönetim eğitim kadrolarından geldiğini, ortalama saatlik ücretlerin yıllık %3,1 arttığını ama Cleveland Fed'in %3,4'lük ağustos enflasyon tahmininin bunun üzerinde kaldığını, dolayısıyla istihdam verisinde enflasyonist bir görünüm olmadığını düşünüyor.",
+          "quote": "Yani istihdam verisinde enflasyonist bir görünüm yok.",
+          "source_url": "https://x.com/BoraOzkent/status/2096554121524285721"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Güçlü istihdam verileri ve yüksek enflasyonun Fed'in faizleri daha uzun süre yüksek tutabileceği hatta yeniden artırabileceği endişesini güçlendirdiğini, bunun faize duyarlı sektörleri ve tahvil piyasasını baskıladığını, buna karşın AI yatırımlarındaki büyümenin yeni bir finansman döngüsü yarattığını düşünüyor.",
+          "quote": "Wall Street haftayı karışık kapatırken güçlü istihdam verileri ve yüksek enflasyon, Fed'in faizleri daha uzun süre yüksek tutabileceği hatta yeniden artırabileceği endişesini güçlendirdi.",
+          "source_url": "https://x.com/korkmazali08/status/2096602896028598568"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "Perşembe ÜFE (%0,4 aylık, %5,2 yıllık) ve cuma TÜFE (%0,4 aylık, %3,4 yıllık, çekirdek %2,4) verilerinin, Başkan Warsh yönetimindeki Fed'in fiyat istikrarı önceliği nedeniyle haftanın en kritik verisi olduğunu, güçlü istihdam ve sıcak enflasyonun 'faiz artışı gelir mi?' tartışmasını yeniden alevlendirebileceğini düşünüyor.",
+          "quote": "Warsh yönetimindeki FED'in önceliği çok net: fiyat istikrarı. Güçlü istihdam ve sıcak enflasyon gelirse piyasada yeniden “faiz artışı gelir mi?” tartışması sertleşebilir.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2096619009273663913"
+        }
+      ]
+    },
+    {
+      "topic": "ABD 30 yıllık tahvil faizinin yükselişi ve çöküş senaryosuna itiraz",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "ABD'nin 30 yıllık Hazine tahvili faizinin %5,24'e çıkmasının ardından yayılan 'tahvil piyasası çöküyor, sırada borsa var' senaryosuna karşı çıkıyor; MOVE endeksinin ve şirket tahvillerindeki risk priminin (2,60-2,66 puan) sakin seyrettiğini, kendisi için asıl alarmın yükselen faize şirket kazançlarının hızla kötüleşmesinin eşlik etmesi olacağını, şu an böyle bir durum olmadığını belirtiyor.",
+          "quote": "Piyasa sakin diye riskler sıfırlanmaz. Ama faiz yükseldi diye de kıyamet başlamaz.",
+          "source_url": "https://x.com/BoraOzkent/status/2096616660136349798"
+        }
+      ]
+    },
+    {
+      "topic": "İran'ın yakıt krizi ve ekonomik çöküş riski",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "İran'da artık kolay benzin bulunamadığını, sulandırılmış yakıtın araçları bozduğunu, uygulanan abluka nedeniyle İran ekonomisinin çökmek üzere olduğunu düşünüyor.",
+          "quote": "İran'da artık kolay kolay benzin bulunmuyor. Olan benzini de sulandırarak sattıkları için taşıtlar bozulmaya başladı. Abluka İran ekonomisini çökertmek üzere.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2096608562478977236"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye'nin OVP'de 2027 enflasyon hedefini yükseltmesi",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "OVP'de 2027 enflasyon hedefinin üç haftadan kısa sürede %15'ten %21'e çıkarılmasını hiçbir ekonomik veri değişikliğinin açıklayamayacağını; bunun TCMB Başkanı Karahan'ın 2025 için verdiği %21 hedefinin şimdi 2027'ye kaydırılmasıyla, Cumhurbaşkanı Yardımcısı Yılmaz'ın 2026'da tek haneli enflasyon sözüyle ve Bakan Şimşek'in 2025 sonunda enflasyonu %20'nin altına indirme vaadiyle aynı kırık vaatler zincirinin devamı olduğunu düşünüyor. Savaş yaşayan Lübnan, Ukrayna ve Rusya'nın enflasyon oranları toplamının bile Türkiye'nin %31,75'lik enflasyonundan düşük kaldığını belirterek savaşın yüksek enflasyon için geçerli bir gerekçe olmadığını, verilerin sorunun Yılmaz-Şimşek yönetiminde çözülemediğini gösterdiğini savunuyor.",
+          "quote": "2027 sonunda %15 enflasyon hedefinden vazgeçilmesi bir aydan kısa sürdü. 3 haftada hangi ekonomik veride büyük değişiklik oldu da %15 hedefi %21 oldu?",
+          "source_url": "https://x.com/TuncSatiroglu/status/2096531182439858265"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "Dört farklı kaynak aynı gün NVDA'ya değindi: Jensen Huang 2027 gelir beklentisini Wall Street'in ~570 milyar dolarlık tahmininin üzerinde ~700 milyar dolara çıkardığını açıkladı ve 'AGI geldi' diyerek 400 bin ek GPU'nun devreye gireceğini duyurdu.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "NVIDIA ilk kez bir yıl önceden bu kadar net konuşuyor: 2027 için yaklaşık %70 gelir büyümesi bekliyorlar.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2096561286540632493"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$NVDA CEO Jensen Huang just said “AGI has arrived” and that GPT-6 Astra was trained on ~100K+ NVIDIA Grace Blackwell NVLink72 GPUs.",
+          "source_url": "https://x.com/wallstengine/status/2096701546243523048"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "AGI’nin tüketeceği bellek, enerji, GPU, ASIC, optik ve vs vs miktarını düşününce…",
+          "source_url": "https://x.com/dtfinans_/status/2096698432689742289"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "AI harcamalarının büyük bölümü donanım ve altyapıya akmaya devam ederken $NVDA başlıca kazananlardan biri olarak görülüyor.",
+          "source_url": "https://x.com/korkmazali08/status/2096602896028598568"
+        }
+      ]
+    },
+    {
+      "symbol": "BRK.A",
+      "name": "Berkshire Hathaway",
+      "priority": "high",
+      "why": "İki kaynak da Berkshire Hathaway'in veri merkezlerine enerji sağlayan şirketlere yatırım kararını, 'Buffett satıyor/çöküş bekliyor' iddialarını çürüten somut bir kanıt olarak sundu.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Berkshire Hathaway Ceo'su da elektrik diyor!",
+          "source_url": "https://x.com/cevikfinance/status/2096507918929498306"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "#Berkshire $BRK.A data center’lara enerji sağlayan şirketlere yatırım yapacağını duyurdu.",
+          "source_url": "https://x.com/dtfinans_/status/2096523298293047565"
+        }
+      ]
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "priority": "high",
+      "why": "cevikfinance net bir hedef fiyat (40 dolar) verdi.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "SOFI 40 dolar HIMS 100 dolar.",
+          "source_url": "https://x.com/cevikfinance/status/2096529021274091934"
+        }
+      ]
+    },
+    {
+      "symbol": "HIMS",
+      "name": "Hims & Hers Health",
+      "priority": "high",
+      "why": "cevikfinance net bir hedef fiyat (100 dolar) verdi.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "SOFI 40 dolar HIMS 100 dolar.",
+          "source_url": "https://x.com/cevikfinance/status/2096529021274091934"
+        }
+      ]
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike",
+      "priority": "medium",
+      "why": "$NKE'nin S&P 100 endeksinden çıkarıldığı teyit edildi; ayrıca zirvesinden %80 gerileyen hisselere örnek olarak da anıldı.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "$NKE sonunda sp100 den atildi. Sacmaydi zaten",
+          "source_url": "https://x.com/ulkser/status/2096502559062077474"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Nike $NKE: yaklaşık %80",
+          "source_url": "https://x.com/BoraOzkent/status/2096681206016262543"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "medium",
+      "why": "Bora Özkent, Cybercab'ın yolculuk deneyimini ve üretim verimliliğini kökten değiştireceğini, piyasanın bunu henüz fiyatlamadığını düşünüyor.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Tesla Cybercab deneyimi bambaşka bir şey. Mesele sadece otomobilin kendi kendine yol alması değil.",
+          "source_url": "https://x.com/BoraOzkent/status/2096515010637750619"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet (Google)",
+      "priority": "medium",
+      "why": "Google'ın TPU üretim hızını yılda bir nesilden iki nesile çıkardığı (4 kat artış) haberi onaylanarak paylaşıldı.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "Nice.",
+          "source_url": "https://x.com/dtfinans_/status/2096589588714164428"
+        }
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "priority": "medium",
+      "why": "jrouldz hissenin hayranı olduğunu ama şubattan bu yana dört katına çıktığını, artık ucuz olmadığını ima etti.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "big fan of $DELL but they have already quadrupled since February 😅",
+          "source_url": "https://x.com/jrouldz/status/2096598828069580931"
+        }
+      ]
+    },
+    {
+      "symbol": "RGTI",
+      "name": "Rigetti Computing",
+      "priority": "medium",
+      "why": "jrouldz değerlemenin balona dönüştüğünü düşünerek geçen yılın sonundan bu yana bu pozisyondan yılların en büyük kârını realize ettiğini söyledi.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "Since end of last year that 2nd trigger happened a bunch and I ended up taking the most profits I have in years (across $RGTI $QBTS $DFTX $CRWD $RKLB )",
+          "source_url": "https://x.com/jrouldz/status/2096647851929423940"
+        }
+      ]
+    },
+    {
+      "symbol": "QBTS",
+      "name": "D-Wave Quantum",
+      "priority": "medium",
+      "why": "jrouldz değerlemenin balona dönüştüğünü düşünerek geçen yılın sonundan bu yana bu pozisyondan yılların en büyük kârını realize ettiğini söyledi.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "Since end of last year that 2nd trigger happened a bunch and I ended up taking the most profits I have in years (across $RGTI $QBTS $DFTX $CRWD $RKLB )",
+          "source_url": "https://x.com/jrouldz/status/2096647851929423940"
+        }
+      ]
+    },
+    {
+      "symbol": "DFTX",
+      "name": "DFTX",
+      "priority": "medium",
+      "why": "jrouldz değerlemenin balona dönüştüğünü düşünerek geçen yılın sonundan bu yana bu pozisyondan yılların en büyük kârını realize ettiğini söyledi.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "Since end of last year that 2nd trigger happened a bunch and I ended up taking the most profits I have in years (across $RGTI $QBTS $DFTX $CRWD $RKLB )",
+          "source_url": "https://x.com/jrouldz/status/2096647851929423940"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "medium",
+      "why": "jrouldz değerlemenin balona dönüştüğünü düşünerek geçen yılın sonundan bu yana bu pozisyondan yılların en büyük kârını realize ettiğini söyledi.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "Since end of last year that 2nd trigger happened a bunch and I ended up taking the most profits I have in years (across $RGTI $QBTS $DFTX $CRWD $RKLB )",
+          "source_url": "https://x.com/jrouldz/status/2096647851929423940"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "priority": "medium",
+      "why": "jrouldz değerlemenin balona dönüştüğünü düşünerek geçen yılın sonundan bu yana bu pozisyondan yılların en büyük kârını realize ettiğini söyledi.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "Since end of last year that 2nd trigger happened a bunch and I ended up taking the most profits I have in years (across $RGTI $QBTS $DFTX $CRWD $RKLB )",
+          "source_url": "https://x.com/jrouldz/status/2096647851929423940"
+        }
+      ]
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Ama $TLT hafif de olsa yükseldi. Neden?",
+          "source_url": "https://x.com/BoraOzkent/status/2096554121524285721"
+        }
+      ]
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PayPal",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "PayPal $PYPL: yaklaşık %82",
+          "source_url": "https://x.com/BoraOzkent/status/2096681206016262543"
+        }
+      ]
+    },
+    {
+      "symbol": "LULU",
+      "name": "Lululemon",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Lululemon $LULU: yaklaşık %70",
+          "source_url": "https://x.com/BoraOzkent/status/2096681206016262543"
+        }
+      ]
+    },
+    {
+      "symbol": "BABA",
+      "name": "Alibaba",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Alibaba $BABA: yaklaşık %65",
+          "source_url": "https://x.com/BoraOzkent/status/2096681206016262543"
+        }
+      ]
+    },
+    {
+      "symbol": "JD",
+      "name": "JD.com",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "JD.com $JD: yaklaşık %75",
+          "source_url": "https://x.com/BoraOzkent/status/2096681206016262543"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent, üç farklı yapay zeka modelini (**GPT-6 Astra**, **Fable 5.1**, **Grok-4.6**) kullanarak ağustos ayı ABD enflasyonunu tahmin etti; üç modelin de benzin kaynaklı manşet enflasyon artışına rağmen çekirdek enflasyonda iyileşmenin sürdüğünü göstermesinin eylül ayındaki faiz artışı endişesini geçersiz kıldığını düşünüyor. Ağustos istihdam verisini de detaylı inceledi: 162 binlik artışın üçte ikisinin konaklama, yeme içme ve yerel yönetim eğitim kadrolarından geldiğini, ortalama saatlik ücretlerin yıllık %3,1 arttığını ama Cleveland Fed'in %3,4'lük ağustos enflasyon tahmininin bunun üzerinde kaldığını, dolayısıyla istihdam verisinde enflasyonist bir görünüm olmadığını belirtti; buna karşın **$TLT**'nin hafif de olsa yükselmesine şaşırdı.\n\nABD'nin 30 yıllık Hazine tahvili faizinin %5,24'e çıkmasının ardından sosyal medyada dolaşan \"tahvil piyasası çöküyor, sırada borsa var\" senaryosuna karşı çıktı; MOVE endeksinin ve şirket tahvillerindeki risk priminin (2,60-2,66 puan) sakin seyrettiğini, dolayısıyla yükselen uzun vadeli faizden otomatik olarak sistemin dağıldığı sonucuna varılamayacağını, kendisi için asıl alarmın yükselen faize şirket kazançlarının hızla kötüleşmesinin eşlik etmesi olacağını ve şu an böyle bir durum olmadığını söyledi. **Tesla**'nın Cybercab deneyiminin bambaşka bir şey olduğunu, sadece otonom sürüşün değil tüm yolculuk deneyiminin ve üretim verimliliğinin değişeceğini, piyasanın bu dönüşümü henüz tam okuyamadığını düşünüyor. Son olarak zirvesinden %65-82 arasında düşen **Nike** (**$NKE**), **PayPal** (**$PYPL**), **Lululemon** (**$LULU**), **Alibaba** (**$BABA**) ve **JD.com** (**$JD**) örnekleriyle, bir hissenin çok düşmesinin otomatik olarak ucuzladığı anlamına gelmediğini, asıl bakılması gerekenin şirketin kâr gücünün toparlanıp toparlanamayacağı olduğunu anlattı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Üç yapay zeka modeliyle ağustos enflasyonu tahmini",
+          "url": "https://x.com/BoraOzkent/status/2096505432063791506",
+          "published_at": "2026-09-06T07:47:00.000Z",
+          "summary": "GPT-6 Astra, Fable 5.1 ve Grok-4.6 modellerini kullanarak ağustos ayı ABD enflasyonunu tahmin etti; üçü de manşet enflasyonun benzin kaynaklı yükselirken çekirdek enflasyonda iyileşmenin sürdüğünü gösterdiğini, bunun eylül ayı faiz artışı ihtimalini geçersiz kıldığını belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tesla Cybercab'ın piyasanın henüz okuyamadığı bir dönüşüm olduğu görüşü",
+          "url": "https://x.com/BoraOzkent/status/2096515010637750619",
+          "published_at": "2026-09-06T08:25:04.000Z",
+          "summary": "Tesla'nın Cybercab deneyiminin sadece otonom sürüş değil tüm yolculuk deneyimini ve üretim verimliliğini değiştireceğini, piyasanın bu değişimi henüz tam okuyamadığını düşünüyor.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "positive",
+              "note": "Cybercab'ın yolculuk deneyimini ve üretim verimliliğini kökten değiştireceğini, piyasanın bunu henüz fiyatlamadığını düşünüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Ağustos istihdam verisinin enflasyonist olmadığı analizi",
+          "url": "https://x.com/BoraOzkent/status/2096554121524285721",
+          "published_at": "2026-09-06T11:00:29.000Z",
+          "summary": "162 binlik istihdam artışının üçte ikisinin konaklama, yeme-içme ve yerel yönetim eğitim kadrolarından geldiğini, ortalama saatlik ücretlerin yıllık %3,1 arttığını ama Cleveland Fed'in %3,4'lük ağustos enflasyon tahmininin bunun üzerinde kaldığını, dolayısıyla istihdam verisinde enflasyonist bir görünüm olmadığını belirtti.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "neutral",
+              "note": "Güçlü istihdam verisine rağmen $TLT'nin hafif yükselmesine dikkat çekti."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "30 yıllık tahvil faizi yükselişinin 'piyasa çöküyor' anlamına gelmediği",
+          "url": "https://x.com/BoraOzkent/status/2096616641530298771",
+          "published_at": "2026-09-06T15:08:55.000Z",
+          "summary": "ABD'nin 30 yıllık Hazine tahvili faizinin %5,24'e çıkmasının tahvil ve borsa çöküşü anlamına gelmediğini, MOVE endeksi ve şirket tahvili risk priminin sakin seyrettiğini, asıl alarmın yükselen faize kötüleşen kazançların eşlik etmesi olacağını ve şu an böyle bir durum olmadığını anlattı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Zirveden %80 düşen hisselerin otomatik ucuz sayılamayacağı",
+          "url": "https://x.com/BoraOzkent/status/2096681206016262543",
+          "published_at": "2026-09-06T19:25:28.000Z",
+          "summary": "Nike, PayPal, Lululemon, Alibaba ve JD.com gibi zirvesinden %65-82 gerileyen hisselerin otomatik olarak ucuzlamış sayılamayacağını, asıl bakılması gerekenin şirketin kâr gücünün toparlanıp toparlanamayacağı olduğunu anlattı.",
+          "assets": [
+            {
+              "symbol": "NKE",
+              "sentiment": "neutral",
+              "note": "Zirvesinden yaklaşık %80 düşen hisselere örnek verildi."
+            },
+            {
+              "symbol": "PYPL",
+              "sentiment": "neutral",
+              "note": "Zirvesinden yaklaşık %82 düşen hisselere örnek verildi."
+            },
+            {
+              "symbol": "LULU",
+              "sentiment": "neutral",
+              "note": "Zirvesinden yaklaşık %70 düşen hisselere örnek verildi."
+            },
+            {
+              "symbol": "BABA",
+              "sentiment": "neutral",
+              "note": "Zirvesinden yaklaşık %65 düşen hisselere örnek verildi."
+            },
+            {
+              "symbol": "JD",
+              "sentiment": "neutral",
+              "note": "Zirvesinden yaklaşık %75 düşen hisselere örnek verildi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser, **Nike**'ın (**$NKE**) sonunda S&P 100 endeksinden çıkarıldığını, hissenin 2021'den beri süren düşüşü göz önüne alındığında endekste bu kadar uzun kalmasının zaten saçma olduğunu düşündüğünü paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nike S&P 100'den çıkarıldı",
+          "url": "https://x.com/ulkser/status/2096502559062077474",
+          "published_at": "2026-09-06T07:35:35.000Z",
+          "summary": "Nike'ın sonunda S&P 100 endeksinden çıkarıldığını, hissenin 2021'den beri süren düşüşü göz önüne alındığında endekste bu kadar uzun kalmasının zaten saçma olduğunu düşünüyor.",
+          "assets": [
+            {
+              "symbol": "NKE",
+              "sentiment": "negative",
+              "note": "S&P 100'den çıkarılmasını doğru bir karar olarak değerlendirdi, endekste kalmasının uzun süredir mantıksız olduğunu düşünüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08, güçlü istihdam ve yüksek enflasyon verilerinin Fed'in faizleri uzun süre yüksek tutabileceği hatta yeniden artırabileceği endişesini güçlendirdiğini, bunun faize duyarlı sektörleri ve tahvil piyasasını baskıladığını, buna karşın Amazon, Alphabet, Meta ve Oracle gibi şirketlerin tahvil ihraçlarının hızla arttığı ve gelecek yıl 1,1 trilyon doları aşması beklenen AI sermaye harcamalarının **NVDA**'yı başlıca kazanan yaparken fırsatın çip, ağ ve veri merkezi ekosistemine yayılacağını düşünüyor. Ayrıca 2006-2025 arasındaki eylül ayı getirilerini inceleyerek son 20 yılda eylül ayının 11 kez pozitif (%55) kapandığını, ortalama getirinin yaklaşık -%0,50, medyan getirinin ise +%1,1 olduğunu, en iyi eylülün 2010'da +%8,76 en kötüsünün ise 2022'de -%9,34 olduğunu, 2020-2023 arası dört yıl üst üste negatif geçen serinin 2024-2025'te tekrar pozitife döndüğünü aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Fed faiz endişesi ve AI capex finansman döngüsü",
+          "url": "https://x.com/korkmazali08/status/2096602896028598568",
+          "published_at": "2026-09-06T14:14:18.000Z",
+          "summary": "Güçlü istihdam ve yüksek enflasyonun Fed'i faizleri uzun süre yüksek tutmaya hatta yeniden artırmaya itebileceğini, bunun faize duyarlı sektörleri baskıladığını, buna karşın büyük teknoloji şirketlerinin tahvil ihraçlarıyla finanse edilen AI sermaye harcaması döngüsünde NVDA'nın başlıca kazanan olacağını düşünüyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "AI sermaye harcaması döngüsünde başlıca kazanan olarak görülüyor, ancak fırsatın çip/ağ/veri merkezi ekosistemine yayılacağı düşünülüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "2006-2025 eylül ayı endeks getirisi istatistiği",
+          "url": "https://x.com/korkmazali08/status/2096613793346273646",
+          "published_at": "2026-09-06T14:57:36.000Z",
+          "summary": "2006-2025 arasında eylül ayının 11 kez pozitif (%55) kapandığını, ortalama getirinin yaklaşık -%0,50 medyan getirinin ise +%1,1 olduğunu, en iyi eylülün 2010 (+%8,76) en kötüsünün 2022 (-%9,34) olduğunu, 2020-2023 arası dört yıl üst üste negatif seyrin 2024-2025'te tekrar pozitife döndüğünü aktardı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_, GPT-6 Astra ile yapılan V8 motoru, insan hücresi ve anatomi gibi etkileyici 3D modelleme demolarını paylaşarak yapay zekadaki hızlanmanın \"balon\" iddialarını çürüttüğünü, **Berkshire Hathaway**'in (**$BRK.A**) veri merkezlerine enerji sağlayan şirketlere yatırım yapma kararının da Buffett'ın çöküş beklediği tezini yalanladığını savundu; bu doğrultuda **$NVDA**, **$AVGO**, **$SMH**, **$QQQ** ve **$GEV**'in AGI'nin tüketeceği bellek, enerji, GPU, ASIC ve optik altyapı talebinden faydalanacağını düşünüyor. **Google**'ın (**$GOOGL**) TPU üretim hızını yılda bir nesilden iki nesile çıkardığı haberini de olumlu karşıladı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Berkshire'ın veri merkezi enerji yatırımı balon iddialarını çürütüyor",
+          "url": "https://x.com/dtfinans_/status/2096523298293047565",
+          "published_at": "2026-09-06T08:58:00.000Z",
+          "summary": "Berkshire Hathaway'in veri merkezlerine enerji sağlayan şirketlere yatırım yapacağını duyurmasının, Buffett'ın AI'dan kaçtığı ya da çöküş beklediği yönündeki iddiaları çürüttüğünü düşünüyor.",
+          "assets": [
+            {
+              "symbol": "BRK.A",
+              "sentiment": "positive",
+              "note": "Veri merkezi enerji yatırımını AI temasına duyulan güvenin göstergesi olarak yorumladı, 'çöküş bekleniyor/balon' iddialarını reddetti."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "AI altyapı talebinin sürdüğünün göstergesi olarak paylaştı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Google'ın TPU üretim hızlanması",
+          "url": "https://x.com/dtfinans_/status/2096589588714164428",
+          "published_at": "2026-09-06T13:21:25.000Z",
+          "summary": "Google'ın TPU üretim roadmap'ini yılda bir nesilden iki nesile çıkardığı, yani üretim hızını 4 kat artırdığı haberini onaylayarak paylaştı.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "positive",
+              "note": "TPU üretim hızının 4 kat artmasını olumlu karşıladı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AI'nin hızlanması balon iddialarını geçersiz kılıyor",
+          "url": "https://x.com/dtfinans_/status/2096698432689742289",
+          "published_at": "2026-09-06T20:33:55.000Z",
+          "summary": "AGI'nin tüketeceği bellek, enerji, GPU, ASIC ve optik altyapı miktarını düşününce yapay zekayı balon olarak görenlere katılmadığını, NVDA, QQQ ve SMH'nin bu talepten faydalanacağını düşünüyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "AGI'nin devasa bellek/enerji/GPU talebinden faydalanacağı düşünülüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu, OVP'de üç haftadan kısa bir sürede 2027 enflasyon hedefinin %15'ten %21'e çıkarılmasının hiçbir ekonomik veri değişikliğiyle açıklanamayacağını, bunun TCMB Başkanı Karahan'ın 2025 için verdiği %21 hedefinin şimdi 2027'ye kaydırılmasıyla, Cumhurbaşkanı Yardımcısı Yılmaz'ın 2026'da tek haneli enflasyon sözüyle ve Bakan Şimşek'in 2025 sonunda enflasyonu %20'nin altına indirme vaadiyle aynı kırık vaatler zincirinin devamı olduğunu düşünüyor. Savaş yaşayan Lübnan, Ukrayna ve Rusya'nın enflasyon oranları toplamının bile Türkiye'nin %31,75'lik enflasyonundan düşük kaldığını belirterek savaşın Türkiye'nin yüksek enflasyonu için geçerli bir gerekçe olmadığını, verilerin yüksek enflasyon sorununun Yılmaz ve Şimşek yönetiminde çözülemediğini gösterdiğini savundu. Ayrıca İran'da artık kolay benzin bulunamadığını, sulandırılmış yakıtın araçları bozduğunu ve abluka nedeniyle İran ekonomisinin çökmek üzere olduğunu aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "OVP'de 2027 enflasyon hedefi üç haftada %15'ten %21'e çıkarıldı",
+          "url": "https://x.com/TuncSatiroglu/status/2096531182439858265",
+          "published_at": "2026-09-06T09:29:20.000Z",
+          "summary": "OVP'de 2027 enflasyon hedefinin üç haftadan kısa sürede %15'ten %21'e çıkarılmasını hiçbir ekonomik veri değişikliğinin açıklayamayacağını sorguladı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "TCMB Başkanı Karahan'ın 2025 hedefiyle 2027 hedefinin aynı çıkması",
+          "url": "https://x.com/TuncSatiroglu/status/2096535755820785728",
+          "published_at": "2026-09-06T09:47:30.000Z",
+          "summary": "TCMB Başkanı Fatih Karahan'ın 2025 sonu için verdiği %21 enflasyon hedefinin şimdi 2027 sonu hedefiyle aynı olduğunu, bunun 'fiyat istikrarı' söyleminin içini boşalttığını belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Yılmaz ve Şimşek'in kırılan enflasyon vaatleri",
+          "url": "https://x.com/TuncSatiroglu/status/2096547841917522271",
+          "published_at": "2026-09-06T10:35:32.000Z",
+          "summary": "Bakan Şimşek'in 2025 sonunda enflasyonu %20'nin altına indireceği sözüne hiç inanmadığını, tıpkı eski Bakan Nebati'nin tek haneli enflasyon vaadine inanmadığı gibi haklı çıktığını söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Naci Ağbal döneminin %19 faizi ve Surinam karşılaştırması",
+          "url": "https://x.com/TuncSatiroglu/status/2096545026054705456",
+          "published_at": "2026-09-06T10:24:20.000Z",
+          "summary": "Naci Ağbal faizi %19 yaptığında bunun 'Surinam kadar yüksek' diye eleştirildiğini, oysa bugün Surinam'ın enflasyonunun (%8,9) Türkiye'nin OVP'deki 2029 hedefinden bile düşük olduğunu hatırlattı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Savaşın Türkiye'nin yüksek enflasyonu için gerekçe olmadığı",
+          "url": "https://x.com/TuncSatiroglu/status/2096534135452082659",
+          "published_at": "2026-09-06T09:41:04.000Z",
+          "summary": "Savaş yaşayan Lübnan (%17,3), Ukrayna (%7,7) ve Rusya'nın (%6) enflasyon oranları toplamının bile Türkiye'nin %31,75'lik enflasyonundan düşük kaldığını belirterek savaşın yüksek enflasyon için gerekçe olamayacağını savundu.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Veriler yüksek enflasyonun Yılmaz-Şimşek döneminde çözülemediğini gösteriyor",
+          "url": "https://x.com/TuncSatiroglu/status/2096560573789929733",
+          "published_at": "2026-09-06T11:26:07.000Z",
+          "summary": "Verilerin, yüksek enflasyon sorununun Cumhurbaşkanı Yardımcısı Yılmaz ve Bakan Şimşek yönetiminde çözülemediğini gösterdiğini belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "İran'da benzin krizi ekonomiyi çökertiyor",
+          "url": "https://x.com/TuncSatiroglu/status/2096608562478977236",
+          "published_at": "2026-09-06T14:36:49.000Z",
+          "summary": "İran'da artık kolay benzin bulunamadığını, sulandırılmış yakıtın araçları bozduğunu, abluka nedeniyle İran ekonomisinin çökmek üzere olduğunu aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Ağbal sonrası %16 enflasyona hiç dönülemedi",
+          "url": "https://x.com/TuncSatiroglu/status/2096789172950622575",
+          "published_at": "2026-09-07T02:34:29.000Z",
+          "summary": "Naci Ağbal görevden alındığından bu yana geçen yıllara rağmen %16 enflasyona bir daha dönülemediğini, 2027'de de dönülemeyeceğini belirtti.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy, Jensen Huang'ın **NVIDIA** (**$NVDA**) için 2027 gelir beklentisini Wall Street'in yaklaşık 570 milyar dolarlık öngörüsünün üzerinde, yaklaşık 700 milyar dolara çıkardığını, arz-kapasite anlaşmalarının 119 milyar dolardan 279 milyar dolara yükseldiğini, ilk 5 hyperscaler'ın 2027 capex'inin 1,3 trilyon dolara ulaşacağını ve AWS'nin 2027-28'de 2 milyon ek NVIDIA GPU'su devreye alacağını, asıl sorunun artık talep değil üretim kapasitesi olduğunu düşünüyor. Haftanın perşembe günü açıklanacak ÜFE (%0,4 aylık, %5,2 yıllık) ve cuma günkü TÜFE (%0,4 aylık, %3,4 yıllık, çekirdek %2,4) verilerinin, Başkan Warsh yönetimindeki Fed'in fiyat istikrarı önceliği nedeniyle haftanın en kritik verisi olduğunu belirtti. Norveç'in 80 milyar dolarlık ABD Hazine tahvili varlığını satabileceği haberini paylaştı ve Jensen Huang'ın \"AGI geldi\" açıklamasıyla 400 bin ek GPU'nun devreye gireceğini duyurmasının CAPEX tarafını da beslediğini vurguladı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "NVIDIA'nın 2027 gelir beklentisi Wall Street tahmininin üzerine çıktı",
+          "url": "https://x.com/FinancewithIzzy/status/2096561286540632493",
+          "published_at": "2026-09-06T11:28:57.000Z",
+          "summary": "Jensen Huang'ın 2027 için ima ettiği ~700 milyar dolarlık gelirin Wall Street'in ~570 milyar dolarlık beklentisinin belirgin üzerinde olduğunu, arz-kapasite anlaşmalarının 119 milyar dolardan 279 milyar dolara çıktığını, ilk 5 hyperscaler'ın 2027 capex'inin 1,3 trilyon dolara ulaşacağını, asıl sorunun artık talep değil üretim kapasitesi olduğunu düşünüyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "2027 gelir beklentisinin Wall Street tahmininin üzerine çıkmasını ve talebin arzı aştığını vurguladı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Haftanın kritik verisi: ÜFE ve TÜFE",
+          "url": "https://x.com/FinancewithIzzy/status/2096619009273663913",
+          "published_at": "2026-09-06T15:18:19.000Z",
+          "summary": "Perşembe açıklanacak ÜFE ve cuma açıklanacak TÜFE verilerinin, Başkan Warsh yönetimindeki Fed'in fiyat istikrarı önceliği nedeniyle haftanın en kritik verisi olduğunu belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Norveç 80 milyar dolarlık ABD tahvilini satabilir",
+          "url": "https://x.com/FinancewithIzzy/status/2096662665347166547",
+          "published_at": "2026-09-06T18:11:48.000Z",
+          "summary": "Norveç'in egemen varlık fonunun 80 milyar dolarlık ABD Hazine tahvili pozisyonunu satabileceği haberini paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Jensen Huang: AGI geldi, 400 bin GPU daha geliyor",
+          "url": "https://x.com/FinancewithIzzy/status/2096710080590700593",
+          "published_at": "2026-09-06T21:20:12.000Z",
+          "summary": "Jensen Huang'ın 'AGI geldi' dediğini ve 400 bin ek GPU'nun devreye gireceğini açıkladığını, AI'nin felsefi tarafı bir yana CAPEX tarafının güçlü kaldığını belirtti.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Jensen'ın AGI açıklaması ve 400 bin ek GPU siparişini CAPEX açısından olumlu buldu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine, **NVIDIA** CEO'su Jensen Huang'ın \"AGI geldi\" dediğini, GPT-6 Astra'nın 100 binden fazla NVIDIA Grace Blackwell NVLink72 GPU'suyla eğitildiğini ve 400 bin ek GPU'nun daha devreye alınacağını duyurduğunu aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Jensen Huang: AGI geldi",
+          "url": "https://x.com/wallstengine/status/2096701546243523048",
+          "published_at": "2026-09-06T20:46:18.000Z",
+          "summary": "NVIDIA CEO'su Jensen Huang'ın 'AGI geldi' dediğini, GPT-6 Astra'nın 100 binden fazla NVIDIA Grace Blackwell NVLink72 GPU'suyla eğitildiğini ve 400 bin ek GPU'nun daha devreye alınacağını duyurduğunu aktardı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Jensen Huang'ın AGI açıklamasını ve GPU sayılarını olduğu gibi aktardı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz, **Dell**'in (**$DELL**) hayranı olduğunu ama şubattan bu yana hisse fiyatının dört katına çıktığını belirtti. Satış tetikleyicilerinin, tezine olan inancını kaybetmesi ya da değerlemenin balona dönüşmesi olduğunu, geçen yılın sonundan bu yana ikinci tetikleyicinin birkaç kez devreye girdiğini ve **RGTI**, **QBTS**, **DFTX**, **CRWD** ve **RKLB** pozisyonlarında yılların en büyük kâr realizasyonunu yaptığını, bu parayı yüksek getirili temettü ETF'lerine yönlendirdiğini paylaştı. Portföy stratejisinin küçük spekülatif pozisyonlardan oluşan geniş bir yelpazeyle yoğunlaşmış bir çekirdekten oluştuğunu, kaybedenlerin kesilip kazananların büyümesine izin verildiğini anlattı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Dell hayranlığı ama gerilmiş değerleme",
+          "url": "https://x.com/jrouldz/status/2096598828069580931",
+          "published_at": "2026-09-06T13:58:08.000Z",
+          "summary": "Dell'in büyük hayranı olduğunu ama hissenin şubattan bu yana dört katına çıktığını belirtti.",
+          "assets": [
+            {
+              "symbol": "DELL",
+              "sentiment": "neutral",
+              "note": "Hayranı olduğunu ama şubattan bu yana dört katına çıktığı için artık ucuz olmadığını ima etti."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Konsantre çekirdek + spekülatif uydu portföy stratejisi",
+          "url": "https://x.com/jrouldz/status/2096608044431892673",
+          "published_at": "2026-09-06T14:34:45.000Z",
+          "summary": "Portföyünün, kaybedenlerin kesilip kazananların büyümesine izin verildiği yoğunlaşmış bir çekirdek ile çevresindeki sayısız küçük spekülatif pozisyondan oluştuğunu, bugünkü çekirdek pozisyonlarının çoğunun geçmişte küçük spekülatif bahisler olarak başladığını anlattı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Balon değerlemesi nedeniyle kâr realizasyonu",
+          "url": "https://x.com/jrouldz/status/2096647851929423940",
+          "published_at": "2026-09-06T17:12:56.000Z",
+          "summary": "Satış tetikleyicilerinin tezine inancını kaybetmesi ya da değerlemenin balona dönüşmesi olduğunu, geçen yılın sonundan bu yana ikinci tetikleyicinin birkaç kez devreye girdiğini ve RGTI, QBTS, DFTX, CRWD ve RKLB pozisyonlarında yılların en büyük kârını realize ettiğini, parayı yüksek getirili temettü ETF'lerine yönlendirdiğini söyledi.",
+          "assets": [
+            {
+              "symbol": "RGTI",
+              "sentiment": "negative",
+              "note": "Değerleme balona dönüştüğü için kâr realize edildi."
+            },
+            {
+              "symbol": "QBTS",
+              "sentiment": "negative",
+              "note": "Değerleme balona dönüştüğü için kâr realize edildi."
+            },
+            {
+              "symbol": "DFTX",
+              "sentiment": "negative",
+              "note": "Değerleme balona dönüştüğü için kâr realize edildi."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "negative",
+              "note": "Değerleme balona dönüştüğü için kâr realize edildi."
+            },
+            {
+              "symbol": "RKLB",
+              "sentiment": "negative",
+              "note": "Değerleme balona dönüştüğü için kâr realize edildi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance, **Berkshire Hathaway**'in (**$BRK.A**) CEO'su Greg Abel'ın veri merkezlerine güç sağlama fırsatını büyük gördüğünü paylaşarak yapay zeka temasına olan güvenini gösterdi. Jensen Huang'ın yapay zekayı su, yol, elektrik ve internet kadar temel bir altyapı olarak tanımladığını, kendi YZ altyapısını kuramayan ülkelerin geride kalacağını söylediğini aktardı. Bir soruya yanıt olarak **SOFI** için 40 dolar, **HIMS** için 100 dolar hedef fiyat verdi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Berkshire Hathaway'in veri merkezi elektrik iştahı",
+          "url": "https://x.com/cevikfinance/status/2096507918929498306",
+          "published_at": "2026-09-06T07:56:53.000Z",
+          "summary": "Berkshire Hathaway CEO'su Greg Abel'ın veri merkezlerine güç sağlama konusunda büyük bir fırsat gördüğünü paylaşarak yapay zeka temasına olan güvenini gösterdi.",
+          "assets": [
+            {
+              "symbol": "BRK.A",
+              "sentiment": "positive",
+              "note": "CEO Greg Abel'ın veri merkezi elektrik fırsatını büyük gördüğünü aktararak AI temasına güvenini gösterdi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Jensen Huang: Yapay zeka yeni bir temel altyapı",
+          "url": "https://x.com/cevikfinance/status/2096515478285943220",
+          "published_at": "2026-09-06T08:26:56.000Z",
+          "summary": "Jensen Huang'ın yapay zekayı su, yol, elektrik ve internet kadar temel bir altyapı olarak tanımladığını, kendi YZ altyapısını kuramayan ülkelerin geride kalacağını söylediğini aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SOFI ve HIMS için hedef fiyatlar",
+          "url": "https://x.com/cevikfinance/status/2096529021274091934",
+          "published_at": "2026-09-06T09:20:44.000Z",
+          "summary": "Bir soruya yanıt olarak SOFI için 40 dolar, HIMS için 100 dolar hedef fiyat verdi.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "40 dolar hedef fiyat verildi."
+            },
+            {
+              "symbol": "HIMS",
+              "sentiment": "positive",
+              "note": "100 dolar hedef fiyat verildi."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
