@@ -1,0 +1,1438 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T07:17:07.971Z",
+  "items": [
+    {
+      "id": "tk9i489ACu8",
+      "person": "Bora Özkent",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=tk9i489ACu8",
+      "title": "OpenAI ile Bilim İnsanları Neden Birbirine Girdi?",
+      "published_at": "2026-09-13T07:00:06+00:00",
+      "text": "Biz yapay zekayı bu kanalda hep yatırımlar açısından ele alıyoruz. Hangi sektör büyüyecek, neler olacak? Ama yapay zekanın bir bilimsel etkisi de var ve bu gittikçe güçleniyor. Bir de yapay zekanın etrafında acayip skandallar patlıyor. İçinde insanlar var, bilim insanları var, göz yaşı var, Open AI var. Bu skandallar da son derece ilgi çekiciler ve bir yandan bilimin bir yandan yapay zekanın nereye doğru gidebileceğini, insanlarla yapay zeka arasında ileride ne gibi sorunlar yaşayabileceğimizi de gösteriyor. Ve yapay zekanın bilime yaklaşması bir yandan da yeni iş fırsatlarının önünü yaratıyor. Son derece enteresan sektörlerde, mesela uçak tasarımında. Bütün bunları merak ediyorsanız sizler için harika bir bülten hazırladım. Ben Bora Özkent, bugün teknolojiye bir derin dalış yapacağız beraber. Hazırsanız başlıyoruz. Önce bir hikayeyi anlatayım, iki tane araştırmacı zorlu bir matematik problemi üzerinde çalışıyorlar. Araştırmacıların adı Tristan Buckmaster ve Levent Alpöge. Levent Alpöge bir Türk. Üzerine çalışmaya çalıştıkları probleme biraz sonra geleceğiz. Ama işte enteresan yönü problemi çözerken yapay zekadan özellikle Codex'den destek almaya çalışıyorlar. Tam sonuca varıyorlar ve artık bilimsel makalelerini yayınlamak üzereler. O sırada Open AI'dan bunlara bir mektup geliyor ve Open AI diyor ki; \"Biz bunu zaten çözdük.\" Önce problemin ne olduğuna bir bakalım istiyorsanız. Problemin adı Navier-Stokes. Nedir Navier-Stokes? Su ve havanın nasıl hareket ettiğini anlamaya çalışan bir matematik problem. İşte bir musluğu açın, su akar. Önce düzenli akar, değil mi? Sonra aşağılara doğru gelince dalgalanmaya başlar, kıvrılır vesaire. Acaba bu hareketleri tahmin edebilir miyiz? Ve bu tahmin modeli her ortamda doğru çalışır mı? İşte Navier-Stokes matematik problemin odaklandığı konu bu. 1 milyon dolarda ödüllü bir problem bu ve yıllardır bilim insanları üzerinde çalışıyormuş. Bu iki bilim insanı diyorlar ki, biz sonuca ulaştık ama daha onlarla buralarını yayınlamadan önce 8 Eylül 2026'da Open AI diyor ki, \"Biz bu problemi çözdük.\" Bunu çözerken 10.000 dijital asistan, yani yapay zeka ajanı, 88 saat boyunca çalıştılar. Epey bir token yediklerini tahmin ediyorum ve biz bu meseleyi çözdük, çok sayıda alternatif çözüm yolunu denedik, sonunda doğru yere varlık iddiaları böyle. Yapay zeka bir çözüm geliştirdiğinde bilim insanlarının da onu onaylaması gerekiyor. Open AI, bu iki bilim insanının konu üzerinde çalıştığını biliyor, o yüzden Buckmaster'a gidiyorlar ve diyorlar ki, \"Buckmaster bir üniversite profesörü bu arada, gel bizim tezimizi incele, altına imzanı at, beraber yayınlayalım.\" Buckmaster ama düzgün bir adam, diyor ki, \"Ya ben bu işi tek başıma yapmadım, bunda Alpöge de vardı, beraber çalıştık, onun da imzasının olması gerekir.\" Şöyle bir sorun var ama Alpöge Claude'la çalışıyor, yani Open AI'in rakibi bir şirkette çalışıyor. O yüzden Open AI buna itiraz ediyor ve diyorlar ki, \"Olmaz, senin imzan tamam ama biz Alpöge'yi istemiyoruz.\" Buckmaster bu konuda ısrar edince tehdit ediyorlar, daha doğrusu Buckmaster'ın söylemi o yönde. Open AI ekibinden Bubeck, \"Kariyerini mahvetmek istiyorsun\" diyor bir yazışmada. Bu yazışma kesin bu arada. Bunun üzerine Buckmaster diyor ki, \"Ben herkese açıklayacağım, siz rezil bir firmasınız.\" Bubeck'ten açıklama geliyor, \"Ya biz senin kariyerini mahvetmeyeceğiz, sen kendi kariyerini mahvedeceksin. Bak ne güzel sana bir fırsat verdik, niye yanına Levent Alpöge'yi alıyorsun?\" Ama tartışma sosyal medyaya düşüyor, Open AI'i zaten sevmeyen çok insan var, konu büyüdükçe büyüyor. Meselenin başka bir skandal boyutu da bu. Open AI durup dururken bu problemi çözmeye neden kalktı? Ve bu çözümü geliştirirken bu iki bilim insanının çalışmasından yararlandı mı? Çünkü bu bilim insanları hatırlayın Codex üzerinde çalışıyorlar. Yani doğrudan doğruya onların çalışmalarını çaldı mı? Ve gayet de yüksek bir olasılık bu. Çünkü yapay zekada bir şey yaptığınızda kendi bilgisayarınızda değil de bunu bulutta yapıyorsanız, bütün araştırmanızı, fikirlerinizi, bilginizi oraya emanet ediyorsunuz aslında. Ve gayet şüphe uyandırıcı bir mesele olduğu belli. Üstelik Open AI de bunu tam olarak inkar edemedi. Yani dedi ki; \"Biz hayır bu özel çalışmalara bakmadık, böyle bir şey yapmadık ama yapay zeka düşük bir ihtimal de olsa onlardan yararlanılmış olabilir.\" Yani diyorlar ki, \"Ani olmuş olabilir bu işler.\" İşte bu da tartışmayı başka bir yere götürdü. Hatırlarsanız hafta içerisinde Antropic'in bir raporu yayınlandı. Antropic raporda yapay zekanın kötüye kullanımı ile ilgili risklerden bahsediyordu. Fakat orada anladık ki Antropic kendi üzerinde yapılan bütün araştırmaları biliyor, takip ediyor, her şey hakim. Bu da bayağı bir tartışılmıştı. İşte Open AI'in açıklamaları da tam bunun üzerine geldi. Şimdi skandalı bir kenara bırakalım ama biraz bilime dönelim. Çünkü evet bir skandal var. Bu skandalın içerisinde kan, gözyaşı her şey bulunuyor ama bir yandan da bilim ilerlemeye devam ediyor ve yapay zeka bilimin ilerlemesine ciddi şekilde yardımcı oluyor. Open AI'in yaptığı bilimsel araştırma, bir akışkana mesela suyun akışına bir dış faktör, mesela parmağınızı oraya getirirseniz bunun yaratacağı etki nedir? Bu öngörülebilir mi? Tahmin edilebilir mi? Bunu bir matematik formüle oturtabilir miyiz? Ben bir bilim insanı olmadığım için Open AI'in çözümüne kadar iyi vesaire bilmiyorum. Ama çok önemli bir bilim alanı bu ve pek çok endüstriyi kökten etkileyebilir. Mesela uçakları düşünün, uçak kanat tasarımları. Havanın akışını doğru tahmin edebilirsek çok daha verimli yeni kanat tasarımları yapılabilir. Hava tahminleri daha doğru yapılabilir. Çünkü hava tahmini demek sonuçta hava akımlarını doğru tahmin etmek demek. Mikroçip tasarımları değişebilir, çünkü mikroçip tasarımlarındaki en büyük problemlerden bir tanesi ısı dertleri. İşte aşırı ısınma yapıyor bunlar. Bu ısıyı nasıl dışarı atacağız? Acaba bu ısı azaltılabilir mi? Dışarı atımı kolaylaşabilir mi? Bu konuda ne gibi yeni projeler üretilebilir? Sağlıkla ilgisi var. Kan bizim damarlarımızda akıyor, bir akışkan. Acaba onun akışını tahmin edebilir miyiz? Bu da sağlıkta yeni ufukların önünü açabilir mi? Biliyorsunuz bilim temelde deneme yanılma sonuç ilişkisine dayalıdır. Yani bir bilim insanının bir fikri vardır, bunu bir deneye tabi tutar. O deneyin sonuçlarına bakarak fikrin doğru olup olmadığını anlar ve hipotez geliştirilir. Yapay zeka bunu çok hızlandırıyor. Çünkü Open AI diyor ki, \"Ben aynı anda 10.000 ajanı çalıştırabiliyorum, yani 10.000 bilim insanı çalıştırabiliyorum. Bunların arasında koordinasyon yaratabiliyorum. Bunlar daha evvel kimsenin ulaşmadığı bilgileri ulaşıyorlar veyahut da ulaşılabilen ama bir insanın hayatı boyunca toplamda ulaşamayacağı kadar fazla bilgiyi aynı anda çekip getirip buradan bir sonuca yürüyorlar.\" Yani nereden bakarsanız bakın bu tabii heyecan verici bir gelişme. Sağlık sorunlarından işte uçak kanadı tasarımına kadar pek çok yerde etkisi var. Çünkü bu kadar çok bilim insanı aynı anda çalışıyorsa deneme yanılma öğrenme döngüleri süper hızlanıyorlar. Tabii huylu huyundan vazgeçmez, bunun parasal etkileri de var. Yani bir yandan Open AI gibi Antropic gibi firmaların ne kadar değerli firmalar haline gelebileceğini görüyoruz. Bir yandan da bunların yaptığı araştırma sonuçlarının pek çok fiziksel, geleneksel endüstriyi kökten değiştirebileceğini görüyoruz. İşte burada uçak kanadından bahsettik. Stent tasarımı mesela biliyorsunuz kalp hastalıklarında, damar hastalıklarında çok önemli bir teknolojidir. Bütün bunlar yapay zekanın hızlandırdığı bilim sayesinde yepyeni yerlere doğru gidebilir. Bu nedenle yapay zeka neyi nasıl etkiler? Para nerede? diye araştırırken artık fiziksel dünyaya ve yapay zekanın getirdiği bilimsel çözümlere bakmak lazım. Öte yandan bilim insanının rolünün de değiştiğini görüyoruz. Yapay zeka kendi kendine bir şey araştırmaya karar vermiyor, bir inisiyatif almıyor. Bu yine bilim insanlarına düşen bir mesele. Ama sonrasında sürecin tamamında yapay zekayı çok etkin şekilde kullanıp işlerini hızlandırabilirler. Bir de tabii yapay zeka çıplaklığının kontrol edilmesi lazım. Ben de yapay zekayı çok yoğun kullanan birisi olarak, zaman zaman ciddi uydurmaları vesaire görüyorum. Yani uydurmayla mücadele mesela bir konu burada. Belki buradaki yapay zeka bilimsel araştırmaların içerisinde bir sürü uydurmalar var. Ama bilim insanları artık laboratuvar çalışmalarının büyük bir bölümünü yapay zekaya aktaracaklar gibi gözüküyor. Onlar tezi bulma ve sonuçları kontrol etmeye doğru odaklanacaklar. Yani her meslek değişiyor, bilim de bundan muaf değil. Yapay zeka her yeri etkiliyor. Sonuçta biz bir kavga izledik. Heyecanlı, eğlenceli de bir kavgaydı. Sosyal medyada bu kavga ile ilgili paylaşımları bolca bulabilirsiniz. Ama arkasında bize diyor ki; bilim yepyeni keşiflerin önüne açmaya geliyor. Zaman zaman bu konularda insanların emeğini çalacak belki. Doğru. Zaman zaman insanları belki hızlandıracak ve belki de bir orta yol bulunacak. Ama bilim ve yapay zeka bizi bambaşka bir evrene doğru götürmeye hazırlanıyor. Umarım ilginizi çekmiştir. Zaman zaman yapay zekanın hayatın tamamına, bilime etkilerinden de konuşmak istiyorum ben. Eğer beğendiyseniz bir like, bir yorum süper olur. Fikirlerinizi, sorularınızı merakla bekliyorum. Sevgiyle kalın, saygıyla kalın."
+    },
+    {
+      "id": "uHIq5b2Lcug",
+      "person": "Defiant Gatekeeper",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=uHIq5b2Lcug",
+      "title": "Bond market is cooked",
+      "published_at": "2026-09-12T16:32:20+00:00",
+      "text": "Okay, guys. There a lot to cover in the market. So, the market is absolutely going crazy. Now, I've never seen anything like this happen before, and this is probably the most confusing situation I've ever seen. So, last week the S&P was down 0.8% and Nasdaq was down 0.7%. Now, what's important is not the movement of the equity market, but movement of the bond market. The 10-year bond yield is now at 4.975%. This is almost 5%. Now, I said previously that in order for the market to enter a stable state, we would need to see the 10-year bond yield go down to around 4.1%. Now, I think the 10-year bond yield, when I said that, was at around 4.5%. Now, then it went up to 4.7% and then it went down a little and then went back up to 4.8% and now is at almost 5%. So, basically, the global bond investors are all crooked. And I'm not saying this like generally, but I mean it. Bond investors are seriously screwed. Now, generally, bond investors in large institutions and hedge funds take on a lot of leverage. Now, how it generally works is if they buy $100 million of bond, they would provide that $100 million of bond as a collateral and get around $90 million of loan and use that borrowed money to buy $90 million of more bond and use that $90 million of bond to borrow $81 million of money and buy that $81 million of bond again and so forth and so forth. Now, what I'm trying to say is bond investors generally take on 5:1 or even 10:1 of leverage when they buy the bonds. Now, if we look at the chart, in the past 1 year, the 10-year yield went up by almost 25%. Generally, 10-year bond prices have a duration of roughly eight, meaning a 100 basis point increase in yield causes an 8% drop in the bond price. Now, in the past year, the 10-year bond jumped almost 100 basis point, meaning an investor who is leveraged 10 to 1 would have been hit with an 80% equity wipeout. Now, this is just a theoretical math, but what I can say with comfort is that most bond investors are already screwed. Okay, so let's find out why this is happening in the bond market. Now, the reasons are pretty obvious. Number one, the war. So, this week, the US military has struck five Iranian oil tankers, and Iran claims that it struck 10 vessels in a US base on Jordan in retaliation. Now, basically, the Strait of Hormuz is again being heavily contested, and things are back to square one. As I said in my previous video, I think Trump realizes now that it can never end this war before the midterm elections, so he's shifting his strategy by triggering more actions to at least win the votes of the radical rights or far rights. Now, number two, the oil price. Now, as a result of the ongoing war and the recent actions taken by the US and Iran, the oil price is now right back up at $100 per barrel. It went down to around $70 in early July, and now is back up to where it was when the war first erupted. And number three, the competitive bond market. As I said multiple times, the bond market is in a fierce competition where the US Treasury bond is competing against quasi-sovereign companies like Amazon, Microsoft, and Google. Now, the big techs have issued even more bonds in recent months, which makes the total year-to-date issuance of roughly $200 billion. dollars. Now, it almost feels like the US government and the big techs are in an auction war with their bonds, raising the interest rate higher and higher. And number four, the Federal Reserve's commentaries. As I said in my previous video, the Fed is not helping the market in any way. At the Jackson Hole speech, Warsh basically said that the inflation levels are not satisfactory from their standards and they'll take necessary actions to calm the inflation down. Now, I don't know what the real intentions of the Fed is, but what I know, and I repeat that what I know is that we should not take the Fed's words as is because for now, they want to look independent and may just be orchestrating an act with Trump and the Treasury to boost the market again in the future. However, as this continues, the market will become more and more concerned about the future interest rate trajectory. Number five, the latest CPI. The year-over-year August CPI came out at 3.4%, which is still extremely high. Now, the problem is with the recently exacerbated war situation and the oil price, nobody cares about this 3.4% number. Everybody only cares about how higher this 3.4% number will go in September and October. And it is just making the investors even more worried. Now, as a result, the yield is going parabolic to almost 5% and also the chances of a rate hike in the next FOMC meeting is reaching 90%. And by the year end, the market is pricing a 75% chance of two or more rate hikes. Okay, so these are simple facts and where the market is at. Now, under the current circumstances where the market is pricing in two rate hikes with the 10-year bond yield going up to 5% and oil price hovering around $100, it makes sense for the equity market to crash. Now, when I say crash, I'm talking about at least at least a 10 to 15% correction, which reflects the shift of micro dynamics preparing for the uncertainties ahead. Now, obviously, depending on the actions which the Fed or the Treasury takes afterwards, the market can rebound, but generally speaking, a good amount of correction makes sense in a situation like this. However, the equity market is still kind of holding up. I mean, it did show some downward movements this week, but if we zoom out, the market has been rather flattish for the past few months. So, why is this? Now, based on what happened in recent weeks, I think there are three primary drivers. Number one, the actions by the Treasury. Now, in my previous video, I explained about number one, the Treasury's involvement in preventing Japan from selling the US bonds by purchasing Japanese yen with euros, and number two, their announcement of an upsize in the shadow QE. The Treasury basically said they're going to double the size of its government debt repurchase program, increasing the maximum size to 4 billion per round from the original size of 2 billion. Now, the first part involving the Japanese yen was not a success, as it only very slightly decreased the bond yield for like a single day and went straight up again. Now, for the debt repurchase program, Bessant very recently made a comment to the whole world, which surprised everybody. Bessant said, \"I am the house.\" You guys know what I mean. He basically announced and said to the whole world that he is the house. Basically, he's saying, \"Guys, I'm the so don't even think about fighting against me.\" Do you get what he was trying to do? Back in 2008, Hank Paulson, the former Treasury chairman, said, \"I have a bazooka.\" And he announced a quantitative easing of over $1 trillion. So, if a bazooka is a trillion, how much would \"I am the house\" comment worth? The market was like super enthusiastic. Like, I don't know exactly, but I'm sure the street was like \"Oh my god, I am the house.\" Sounds like 10 x more powerful than a bazooka. we may be in for a treat. How much of buyback is he going to do? Oh my god, I just can't wait. Now, on Wednesday, Bessant made a grand announcement on what the buyback amount would be. The market was silent and listened carefully. Is it going to be a trillion? No, he said he's the house. 2 trillion? 3 trillion? I mean, realistically, the maximum that he announced before was 4 billion. So, it's not going to be like multi-trillions, but at least I think the market was expecting like 10 billion or 20 billion. Then, Bessant made the announcement saying, \"I will buy back $6 billion worth of Treasuries.\" Guys, now I think the market probably misheard him at first thinking it was 6 trillion, but at the end of the day it was 6 billion. So, what happened after the announcement was basically it pushed the rate even higher. Not sure if it was due to the disappointment or because of the oil price, but the 10-year yield just surged to 4.8% and was pushed up again to 4.9% and then to almost . Now, basically, Bessant was fighting solo in the battlefield trying to tame the market, calm the market, and control the market. However, nothing is working and even if it works, it's only working for a single day. Now, despite Bessant's failures, the equity market is not crashing. And at this point, the only way I can interpret this is I think the equity market is giving at least and at least some credit to the Treasury that they're aware of the situation and the Treasury does not want the market to crash. I do think the equity market realizes that the Treasury's efforts are not really working, but the fact that the Treasury is showing some motivations to sustain the market, I think, is somewhat working. And number two, the growth of the AI industry. Now, as I say all the time, the equity market is a formula of balancing between the growth and the bond yield. If the growth of the key companies outpace the bond yield, the equity market can still go up and vice versa. The key companies like Oracle, Microsoft, Anthropic, OpenAI are still recording healthy growth. Now, given the recent growth of the key AI companies, I think the equity market is still trying to hope for an optimistic scenario where all the earnings releases of key companies come out so good to the extent where the bond yield does not matter anymore. And number three, still trusting the Fed bros. Now, as we saw at the Jackson Hole speech, the Fed is sounding pretty stubborn about their stance. They've repetitively been saying that the current inflation is not meeting their targets and that they will take actions if this continues. However, a lot of investors seem to be ignoring what they're saying, thinking that number one, the Fed will not raise the rates in September. And number two, the Fed will come up with a different inflation measurement criteria, which will give more room for the market. And number three, at the end of the day, the Fed will play along with Trump and Treasury and go the dovish path one way or the other. Okay, so those are the dynamics I'm seeing in the market at the moment. So, to summarize, number one, the bond market is getting crushed to the extent where the 10-year bond yield is reaching 5% reflecting two rate hikes within the year. And number two, the reasons for the rising yield are number one, the war. Number two, the oil price. Number three, the competitive bond market. Number four, the Fed. And number five, the latest CPI. And number three, the reasons for the equity market not crashing are number one, the Treasury's motivation. And number two, the growth of the AI industry. And number three, trust in the Federal Reserve. Now, I really hate to say this, but I think it's coming to a stage where predicting the market is becoming meaningless. The market is almost turning into a quasi casino where equity investors and bond investors are looking at completely different directions, betting against each other, while nobody really knows what to expect. The Fed has decided to cut off all communications with the market, so the rates may rise or may stay flat this month, and either way, both are probable scenarios to the extent where it may not be a surprise for the market. Also, given Trump has lied almost 40 times already about the war ending, it'll also not be a surprise even if Trump announces again tomorrow that the war has ended. Also, given where Treasury is headed, it'll also not be a surprise even if that sent steps in tomorrow announcing a even bigger buyback. Now, if you flip everything I just said now, even from the other side of the scenarios, it also still makes sense. Now, the next FOMC meeting is upcoming, and personally, I really hope that the Fed gives us some kind of indication or signal for us to strategize our investment. Based on where we are now, it's extremely hard to read the market, and to be honest, I personally never seen anything like this before. So, let's try to stay put and carefully monitor the upcoming FOMC. I hope you enjoyed the video, and I'll be back with more videos very soon."
+    },
+    {
+      "id": "2098838483137687979",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098838483137687979",
+      "published_at": "2026-09-12T18:17:43.000Z",
+      "text": "Ha ha 😂😂😂",
+      "is_reply": true
+    },
+    {
+      "id": "2098835165514514639",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098835165514514639",
+      "published_at": "2026-09-12T18:04:32.000Z",
+      "text": "Mesele boyut değil.",
+      "is_reply": false
+    },
+    {
+      "id": "2098834117580271908",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098834117580271908",
+      "published_at": "2026-09-12T18:00:22.000Z",
+      "text": "Sıkıntılı",
+      "is_reply": true
+    },
+    {
+      "id": "2098833879310213560",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098833879310213560",
+      "published_at": "2026-09-12T17:59:25.000Z",
+      "text": "Puro büyütme yarışları başlamıştır 😂 Berk Demirkıran (@berkdemirkiran_) I make the rules. — http://nitter.perennialte.ch/berkdemirkiran_/status/2098832763918889291#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098798360786309356",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098798360786309356",
+      "published_at": "2026-09-12T15:38:17.000Z",
+      "text": "Kendisi tekel olmak istiyor.",
+      "is_reply": true
+    },
+    {
+      "id": "2098797901166027106",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098797901166027106",
+      "published_at": "2026-09-12T15:36:28.000Z",
+      "text": "Mustafa ben videoyu yaparken hisse %9 artıdaydı. Sonra CEO hisse sattı. Bilanço tahmini doğru. Bilanço tepkisi doğru. Ama müneccim olmadığımdan CEO'nun hisse satacağını bilemedim. Doğru analizle müneccimlik arasındaki farkı ayırmayan senin gibi insanlar asla para kazanamazsınız. Ve bu harika bir şey. Çok harika.",
+      "is_reply": true
+    },
+    {
+      "id": "2098779582212059411",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098779582212059411",
+      "published_at": "2026-09-12T14:23:40.000Z",
+      "text": "İnsanların davranışını değiştiremezsiniz. Ama neye inandıklarını değiştirebilirsiniz. Gerisi kendiliğiden gelir.",
+      "is_reply": false
+    },
+    {
+      "id": "2098776591807414385",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098776591807414385",
+      "published_at": "2026-09-12T14:11:47.000Z",
+      "text": "What ?",
+      "is_reply": true
+    },
+    {
+      "id": "2098776033805644135",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098776033805644135",
+      "published_at": "2026-09-12T14:09:34.000Z",
+      "text": "Next week ain't for the faint-hearted. I don't make the rules.",
+      "is_reply": false
+    },
+    {
+      "id": "2098692570893234343",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098692570893234343",
+      "published_at": "2026-09-12T08:37:55.000Z",
+      "text": "Enerjiyi FED dışarıda tutuyor ben değil. Çünkü faizle etkileyemem diyor. Telefon tarifesi tek başına tüm faiz yükselişini geçerli kılıyor diyorsanız size diyeceğim bir şey yok.",
+      "is_reply": true
+    },
+    {
+      "id": "2098673717320818915",
+      "person": "Bora Özkent",
+      "platform": "x",
+      "url": "https://x.com/BoraOzkent/status/2098673717320818915",
+      "published_at": "2026-09-12T07:23:00.000Z",
+      "text": "“Fed haftaya kesin faiz artıracak. Olasılık %85,5.” Piyasada bu rakama neredeyse Allah’ın emri muamelesi yapılıyor. Virgülden sonra bir rakam görünce tahminin kesinliği de artmış sanılıyor. Oysa önce o yüzdenin nasıl üretildiğini anlamak lazım. Bu rakam, Fed üyelerine sorulan bir sorunun cevabı değil. Ekonomistler arasında yapılmış bir oylama da değil. Faize bağlı vadeli işlem sözleşmelerinin fiyatlarından hesaplanıyor. Bu sözleşmeler, belirli bir ay boyunca gerçekleşecek ortalama gecelik faize dayanıyor. Yani %85,5, yatırımcıların %85,5’inin tek tek sayıldığı anlamına gelmiyor. Belirli varsayımlar altında, işlem fiyatlarının karşılık geldiği olasılık bu. Üstelik faiz artışı ihtimali bir hafta önce %58,4, önceki gün %69,0, şimdi %85,5. Piyasa yeni verilerle fikrini ve fiyatını değiştirmiş. Yeniden değiştirebilir. Bu fiyatlarda tahminlerin yanında riskten korunma işlemlerinin ve risk karşılığı talep edilen getirinin de etkisi olabilir. İşlemlerin çoğu da algoritmalar tarafından yapılıyor ve algoritmalar enflasyon verisindeki nüanslara da aldırmıyorlar. %85,5 elbette güçlü bir beklenti. Ciddiye alıyorum. Ama ciddiye almakla kesin hüküm saymak arasında fark var. Dünden beri enflasyonun ayrıntılarını paylaşmamın nedeni de bu. Ağustosta gıda ve enerji hariç tüketici enflasyonu aylık %0,3 geldi. Piyasaları korkutan buydu. Telefon hizmetlerindeki %5,9’luk artış, aylık çekirdek enflasyona yaklaşık 0,1 yüzde puan ekledi. Bu etki çıkarıldığında artış yaklaşık %0,2 oluyor. Ekonomistler, AT&T ve T-Mobile’ın tarife değişikliklerini bu sıçramanın olası nedenleri arasında gösteriyor. Telefon faturası elbette gerçek bir gider. Zam da gerçek. Ama bir tarife değişikliğinin fiyatı bir kez yukarı taşımasıyla, ekonominin her tarafında fiyat artışlarının sürekli hızlanması aynı politika tepkisini gerektirmek zorunda değil. Fed’in kendi açıklaması da alt kalemlere bakarak geçici etkileri ayırdığını, birkaç aylık eğilimi değerlendirdiğini söylüyor. Üstelik %2 hedefini PCE denen tüketim harcamaları fiyat endeksi üzerinden tanımlıyor. TÜFE’deki tek bir aylık sürpriz, otomatik faiz artırma talimatı değil. Fed’in enflasyonu değerlendirme yaklaşımı Dün paylaştığım PCE hesabı da henüz açıklanmamış veriye ilişkin bir tahmindi. Oradaki temmuza yakın tempo beklentisini, telefon tarifelerinin etkisini ve daha yüksek faizin konut gibi alanlarda yaratacağı baskıyı birlikte değerlendirdiğimde benim beklentim hâlâ faizlerin sabit kalması. Yanılabilirim. Fed, enflasyonun kalıcılaşması riskini daha ağır görüp artırmayı seçebilir. Piyasa beklentisinin yarattığı baskıyı da küçümsemiyorum. Ama piyasa %85,5 fiyatlıyor diye benim düşünmeyi bırakmam gerekmiyor. Fed kararını açıklayana kadar o ekrandaki sayı bir fiyatlamadır. Karar metni değildir.",
+      "is_reply": false
+    },
+    {
+      "id": "2098852080546967798",
+      "person": "Heisenberg",
+      "platform": "x",
+      "url": "https://x.com/heisenbergtrx/status/2098852080546967798",
+      "published_at": "2026-09-12T19:11:45.000Z",
+      "text": "Bu işlerin sonunun böyle biteceği belliydi. Ne diyim… Bedava peynir ancak fare kapanında olur. Bişi olmaz, bişi olmaz diyenlere tek bir sözüm var : “Zaten bir kere oluyor.” BPT (@bpthaber) Pusula Portföy CEO'su Muhammet Yarız, Marmaris’ten tekneyle yurt dışına kaçtı. — Telefonunu ofisinde bırakan Yarız’ın Yunanistan’a geçtiği tespit edildi. — Haziran ayında şirketin yönettiği toplam portföy büyüklüğü 735.500.000.000 TL seviyesine kadar ulaşmıştı. — Şirketin yönettiği fonlar, son 10 günde %85'e yakın düşüş yaşamıştı. (İsmail Saymaz) — http://nitter.perennialte.ch/bpthaber/status/2098802627332940119#m",
+      "is_reply": false
+    },
+    {
+      "id": "2099030971374850464",
+      "person": "ulkser",
+      "platform": "x",
+      "url": "https://x.com/ulkser/status/2099030971374850464",
+      "published_at": "2026-09-13T07:02:36.000Z",
+      "text": "Dario, Sam ve hukumetin bu islerdeki yetkin agzi Musk’in AI yi yavaslatmaliyiz soylemi ustune cok dusunulmesi konusulmasi gereken bir olay. Acikcasi bunun Dario’nun degil direk hukumetin bir plani ve istegi oldugunu dusunuyorum. Bakin $ORCL bu anonsdan dakika sonrasinda hisse ihracini iptal etti. Neden? Cunku yavaslamayla karari ile beraber Capex ihtiyaci da yavasliyor. Capex harcamalarinin azalmasi sirketlerin tahvil ihtiyacini azaltiyor. Sonucta likiditede kurumaya baslamisti. Bu baglamda bu likiditenin ABD tahvillerine kaymasi gundeme gelecektir ki zaten bu sebeple ben hukumetin bu makale ve kararda belirleyici oldugunu dusunuyorum. Isin guvenlik kismi tabikide olabilir ama su asamada minareye kilif. $TLT $MU $SNDK $NBIS $IREn $CIFR Simdi hali hazirda musterisi olan kapasitesini dolduran ve daha fazla yatirima gerek kalmadigi ortamda data centerlar icin durum kisada pozitif orta vadede ise sikinti olabilir. $AMD $NVdA $INtC",
+      "is_reply": false
+    },
+    {
+      "id": "2099014093281603960",
+      "person": "ulkser",
+      "platform": "x",
+      "url": "https://x.com/ulkser/status/2099014093281603960",
+      "published_at": "2026-09-13T05:55:32.000Z",
+      "text": "CNBC’nin haberine gore gecen hafta leopold ai hisselerinde opsiyonlara yuklendi. Dugun gununde batirdilar cocugu. Tam kendine geldi kaldirac yerine riski belli opsiyona yoneldi dedigimiz anda bu sefer de Sam Dario Elon 3lusu sahneye cikti, yine batiracaklar. Sevilmeyen adam. $MU $SNDK $DRAM $NBIS $IREN",
+      "is_reply": false
+    },
+    {
+      "id": "2098865236212109361",
+      "person": "ulkser",
+      "platform": "x",
+      "url": "https://x.com/ulkser/status/2098865236212109361",
+      "published_at": "2026-09-12T20:04:02.000Z",
+      "text": "Guzel",
+      "is_reply": true
+    },
+    {
+      "id": "2098847918190985669",
+      "person": "ulkser",
+      "platform": "x",
+      "url": "https://x.com/ulkser/status/2098847918190985669",
+      "published_at": "2026-09-12T18:55:13.000Z",
+      "text": "Chip sirketleri chiple alakali optic vs en az %10cakilmali, software sirketleri en az %10 firlamali. Ama bakalim piyasa ne diyecek? $SMH $DRAM $IGV $ADBE $ACN $AAOI $NBIS Dario Amodei (@DarioAmodei) We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training. You can read the full post here: darioamodei.com/post/we-must… — http://nitter.perennialte.ch/DarioAmodei/status/2098773920774074715#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098818999366644015",
+      "person": "ulkser",
+      "platform": "x",
+      "url": "https://x.com/ulkser/status/2098818999366644015",
+      "published_at": "2026-09-12T17:00:18.000Z",
+      "text": "Abv bu duzenin",
+      "is_reply": true
+    },
+    {
+      "id": "2098818839878271164",
+      "person": "ulkser",
+      "platform": "x",
+      "url": "https://x.com/ulkser/status/2098818839878271164",
+      "published_at": "2026-09-12T16:59:40.000Z",
+      "text": "2 ay once en buyuk fon sirketiyiz diye ovunen sirketin CEO su bugun kacak… Bu islere simdiye kadar hic girmedim hic yorum yapmadim. Soyleyecek cok sey var da neyse #bist100 #xu100",
+      "is_reply": false
+    },
+    {
+      "id": "2098809359589318986",
+      "person": "ulkser",
+      "platform": "x",
+      "url": "https://x.com/ulkser/status/2098809359589318986",
+      "published_at": "2026-09-12T16:21:59.000Z",
+      "text": "Bu demek icin 700 altina kirmasi lazim",
+      "is_reply": true
+    },
+    {
+      "id": "2098773415347839470",
+      "person": "ulkser",
+      "platform": "x",
+      "url": "https://x.com/ulkser/status/2098773415347839470",
+      "published_at": "2026-09-12T13:59:10.000Z",
+      "text": "Benim de dikkatimi ceken oydu. O yuzden seneler sonra ilk defa izlenir futbol oynuyoruz diyorum",
+      "is_reply": true
+    },
+    {
+      "id": "2098739110290608571",
+      "person": "sgundoganX",
+      "platform": "x",
+      "url": "https://x.com/sgundoganX/status/2098739110290608571",
+      "published_at": "2026-09-12T11:42:51.000Z",
+      "text": "Pro üyeliklerim claude ve grok bot’ta var. Chatgpt’de yok şu an.",
+      "is_reply": true
+    },
+    {
+      "id": "2098959962475024417",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098959962475024417",
+      "published_at": "2026-09-13T02:20:26.000Z",
+      "text": "💯💯",
+      "is_reply": true
+    },
+    {
+      "id": "2098959649043099804",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098959649043099804",
+      "published_at": "2026-09-13T02:19:11.000Z",
+      "text": "Nakiti hazırla :))",
+      "is_reply": true
+    },
+    {
+      "id": "2098953012920091035",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098953012920091035",
+      "published_at": "2026-09-13T01:52:49.000Z",
+      "text": "Kalır da söylemez:)) abuk subuk paylaşımlarla dikkat dağıtmaya devam",
+      "is_reply": true
+    },
+    {
+      "id": "2098947270020349994",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098947270020349994",
+      "published_at": "2026-09-13T01:30:00.000Z",
+      "text": "🚨🚨 Sam Altman, artan yapay zekâ güvenliği endişelerini gerekçe göstererek OpenAI’ın 2026 yılında halka arz olmayacağını açıkladı ve şu anda bir IPO yapmanın “yanlış ve zamansız bir karar” olacağını söyledi.",
+      "is_reply": false
+    },
+    {
+      "id": "2098945552377335943",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098945552377335943",
+      "published_at": "2026-09-13T01:23:10.000Z",
+      "text": "Elon, Sam ve Dario’nun bir konuda hemfikir olmaları enteresan üstelik bunu piyasalar kapalıyken yapıyorlar.. Pazartesi oldukça hareketli olacak Watcher.Guru (@WatcherGuru) JUST IN: OpenAI CEO Sam Altman backs Anthropic CEO Dario Amodei's call for the AI industry to slow down development. — http://nitter.perennialte.ch/WatcherGuru/status/2098812110838845541#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098880075538043375",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098880075538043375",
+      "published_at": "2026-09-12T21:02:59.000Z",
+      "text": "💯💯",
+      "is_reply": true
+    },
+    {
+      "id": "2098844711725256783",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098844711725256783",
+      "published_at": "2026-09-12T18:42:28.000Z",
+      "text": "Pişman olmuş",
+      "is_reply": true
+    },
+    {
+      "id": "2098833483573383286",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098833483573383286",
+      "published_at": "2026-09-12T17:57:51.000Z",
+      "text": "Haklısın dostum son tweette",
+      "is_reply": true
+    },
+    {
+      "id": "2098833431836635542",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098833431836635542",
+      "published_at": "2026-09-12T17:57:39.000Z",
+      "text": "🚨 $ORCL — Oracle’ın kurucu ortağı ve Yönetim Kurulu Başkanı Larry Ellison, bugünkü fiyatlarla yaklaşık 7,5 milyar dolar değerindeki 50 milyon hisseye kadar satış planını iptal etti. Ali Korkmaz (@korkmazali08) Larry Ellison $7.5 milyar değerinde hisse satışı planlıyormuş. Bu kadar ciddi oran bir satışın sebebini merak ediyor insan. Tabi bu yüksek satışa rağmen hala şirketin %38,5 sahipliği olacak. $ORCL — http://nitter.perennialte.ch/korkmazali08/status/2098557404765962275#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098830472923038148",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098830472923038148",
+      "published_at": "2026-09-12T17:45:53.000Z",
+      "text": "Evet çok değerli bir bilgi bu 💯",
+      "is_reply": true
+    },
+    {
+      "id": "2098830334804603338",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098830334804603338",
+      "published_at": "2026-09-12T17:45:20.000Z",
+      "text": "Hocam biz de İstanbul’dan geldik :))",
+      "is_reply": true
+    },
+    {
+      "id": "2098808072470671580",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098808072470671580",
+      "published_at": "2026-09-12T16:16:53.000Z",
+      "text": "Olur tabi dostum orada çok sevdiğim bir kardeşim var bayadır davet ediyor gelirsem haberleşiriz",
+      "is_reply": true
+    },
+    {
+      "id": "2098804154026094650",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098804154026094650",
+      "published_at": "2026-09-12T16:01:18.000Z",
+      "text": "Ben Nj deyim ama phily de bana 25 dakika.",
+      "is_reply": true
+    },
+    {
+      "id": "2098797122208354614",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098797122208354614",
+      "published_at": "2026-09-12T15:33:22.000Z",
+      "text": "3-4 saat yakınmış :)",
+      "is_reply": true
+    },
+    {
+      "id": "2098792744273494416",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098792744273494416",
+      "published_at": "2026-09-12T15:15:58.000Z",
+      "text": "Evet dostum, hangi eyalettesin",
+      "is_reply": true
+    },
+    {
+      "id": "2098781742085607791",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098781742085607791",
+      "published_at": "2026-09-12T14:32:15.000Z",
+      "text": "10 üzerinden 5 diyebilirim biraz daha ekleme yapılması gereken şirketler var farklı alanlardan",
+      "is_reply": true
+    },
+    {
+      "id": "2098779828933493062",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098779828933493062",
+      "published_at": "2026-09-12T14:24:39.000Z",
+      "text": "Önümüzdeki 10 yılda sermaye piyasalarının ve özellikle hisse senedi yatırımlarının insanların finansal hayatındaki öneminin çok daha fazla artacağını düşünüyorum. İş hayatı hızla değişiyor. Teknoloji ve yapay zekâ birçok sektörde çalışma modellerini dönüştürürken, yalnızca maaş geliriyle uzun vadeli finansal güvence oluşturmak giderek daha zor hale gelebilir. Bu nedenle insanların tasarruflarını doğru şekilde değerlendirmesi, sermayesini büyütmesi ve yatırım yoluyla ek finansal kaynak yaratması bir tercihten çok ihtiyaç haline gelebilir. Aynı zamanda bugün henüz gelişiminin erken aşamalarında olan bazı sektörlerin ve şirketlerin önümüzdeki 10 yılın büyük ekonomik dönüşümünden ciddi şekilde faydalanacağını düşünüyorum. Bu yüzden bugün doğru şirketlere, doğru değerlemelerden ve uzun vadeli bir perspektifle yapılan bazı yatırımların gelecekte çok daha değerli hale gelebileceğine inanıyorum. Önümüzdeki dönemde yalnızca çalışarak para kazanmak değil, kazanılan parayı doğru şekilde çalıştırabilmek de finansal başarının en önemli parçalarından biri olacak.",
+      "is_reply": false
+    },
+    {
+      "id": "2098769500954870159",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098769500954870159",
+      "published_at": "2026-09-12T13:43:36.000Z",
+      "text": "Aynı firma isim farklı artık :)",
+      "is_reply": true
+    },
+    {
+      "id": "2098759801979162768",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098759801979162768",
+      "published_at": "2026-09-12T13:05:04.000Z",
+      "text": "💯💯💯",
+      "is_reply": true
+    },
+    {
+      "id": "2098758520954892583",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098758520954892583",
+      "published_at": "2026-09-12T12:59:59.000Z",
+      "text": "Dün birkaç işimi halletmek için Philadelphia’ya gittim. Şehirde biraz yürürken, yatırımcısı olduğumuz $NBIS’in Uber ile birlikte yürüttüğü otonom robot kurye hizmetine denk geldim. 🤖 Şirketimiz her alanda aktif çalışıyor. :)",
+      "is_reply": false
+    },
+    {
+      "id": "2098750785618080120",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098750785618080120",
+      "published_at": "2026-09-12T12:29:14.000Z",
+      "text": "Bu sene zor gibi",
+      "is_reply": true
+    },
+    {
+      "id": "2098750678898237624",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098750678898237624",
+      "published_at": "2026-09-12T12:28:49.000Z",
+      "text": "$META Muse ile bugün tanıştık, ilk mesajında benim için yapabileceklerini listeledi. Şimdi gerçekten bu konuda başarılı olabilecek mi bunu test etme zamanı:)",
+      "is_reply": false
+    },
+    {
+      "id": "2098741835858432034",
+      "person": "korkmazali08",
+      "platform": "x",
+      "url": "https://x.com/korkmazali08/status/2098741835858432034",
+      "published_at": "2026-09-12T11:53:41.000Z",
+      "text": "🚨 Suudi Arabistan, perşembe günü düzenlenen çok sayıda saldırının ardından, petrol ihracatında Hürmüz Boğazı’na önemli bir alternatif olan Doğu-Batı petrol boru hattını kapattı. Enerji Bakanlığı cuma günü X üzerinden yaptığı açıklamada, boru hattının ihtiyati tedbir olarak kapatıldığını bildirdi. Bakanlığa göre saldırılarda çok sayıda kişi yaralandı. Acil durum ekipleri, boru hattının güvenliğini sağlamak ve emniyet durumunu değerlendirmek için çalışmalarını sürdürüyor.",
+      "is_reply": false
+    },
+    {
+      "id": "2098866289716473953",
+      "person": "dtfinans_",
+      "platform": "x",
+      "url": "https://x.com/dtfinans_/status/2098866289716473953",
+      "published_at": "2026-09-12T20:08:13.000Z",
+      "text": "Bunu senden duymak sasirtti abi. Enerjiden kaynaklı artan enflasyona fed ne yapsın konut arzı talebe yetmiyor diye kira artıyorsa fed ne yapsın bu duruma. Faiz artırıp mı çözecekler o zaman ev kiralarındaki artışı. Aşırı yüzeysel bir bakış oldu bu.",
+      "is_reply": true
+    },
+    {
+      "id": "2098832891287605604",
+      "person": "dtfinans_",
+      "platform": "x",
+      "url": "https://x.com/dtfinans_/status/2098832891287605604",
+      "published_at": "2026-09-12T17:55:30.000Z",
+      "text": "O kadar inanmıyorum ki şu yavaşlama konusuna 😂😂 Yavaşlamak zorunda kalacak kadar harika işler yapıyoruz anlatısı ile ileride gelecek modellerin yaratacağı endişelerin cevaplarını şimdiden hazırlıyorlar gibi geldi bana :) Yoksa ne olacak Çin yetişmeye çalışırken iyi tamam yetiş ki diyecekler hahah🤣 $QQQ $SPY $NVDA $SMH Wall St Engine (@wallstengine) Anthropic CEO Dario Amodei is calling for slower AI development. He warns that rogue AI agents working together could become capable of taking over the internet within 6-12 months…. potentially causing hundreds of billions of dollars in damage — http://nitter.perennialte.ch/wallstengine/status/2098777106276929770#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098827769236918495",
+      "person": "dtfinans_",
+      "platform": "x",
+      "url": "https://x.com/dtfinans_/status/2098827769236918495",
+      "published_at": "2026-09-12T17:35:09.000Z",
+      "text": "Karşılıklı yavaşlayalım deyip deyip arka tarafta daha da hızlanmazlarsa bir şey bilmiyorum. 🤣🤣🤣 Kaya Finance (@ProfKayaFinance) Tarihi bir an daha 👀 — http://nitter.perennialte.ch/ProfKayaFinance/status/2098821077090566151#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098794910342128073",
+      "person": "dtfinans_",
+      "platform": "x",
+      "url": "https://x.com/dtfinans_/status/2098794910342128073",
+      "published_at": "2026-09-12T15:24:35.000Z",
+      "text": "Hahahahah uzun uzun anlatırdım da vakit kaybı be bro 🤣🤣 Ama evini verdim arabanı aldım tarzı bir şirket 130 fk etmez herhalde 🤣",
+      "is_reply": true
+    },
+    {
+      "id": "2098775917480804714",
+      "person": "dtfinans_",
+      "platform": "x",
+      "url": "https://x.com/dtfinans_/status/2098775917480804714",
+      "published_at": "2026-09-12T14:09:06.000Z",
+      "text": "Şunu ben anlatınca kendini beğenmiş kibirli oluyorum. James abi de aynısını anlatıyor ama halkımız isimden önce gelen eklere ve isminden önce ünvanını söyleyen dallamalara pek bir aşıktır. Zira sizle konuşurken saygıdan ilk ayağa bakarlar da denmiştir zamanında :) James E. Thorne (@DrJStrategy) Plato’s Cave and the Real World Case for Rate Cuts My thesis is simple, look at the real world data. Let’s get out of Plato’s cave. Housing, the most interest rate sensitive sector and the area most exposed to Federal Reserve policy, is already in a recession. U.S. existing home sales, running at roughly 4.0 million homes at a seasonally adjusted annual rate, are at levels otherwise seen only during the Global Financial Crisis. The 2005 boom peak was 7.26 million, while the post crisis trough was 3.45 million. Yes, the Fed is too tight. If the Fed and Wall Street pundits looked beyond the shadows of headline data, they would see an economy that needs rate cuts, not more rate hikes. Rate hikes won’t pump more oil. A energy shock is a tax on growth. — http://nitter.perennialte.ch/DrJStrategy/status/2098218589090144667#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098769738054652229",
+      "person": "dtfinans_",
+      "platform": "x",
+      "url": "https://x.com/dtfinans_/status/2098769738054652229",
+      "published_at": "2026-09-12T13:44:33.000Z",
+      "text": "Çinden gelen veriler her zaman şüphelidir. Zaten arka planda Claude ‘nin çalıştığı da kesinleşti pek çoğunda. Ama her ne olursa olsun bu gelişmeler çinin buraya kafayı ciddi şekilde taktığını gösteriyor, ki Çin kafayı takınca elindeki bütün kaynağı tek noktaya odaklayan farklı bir hayvan türü. :) Yani burada rekabet daha da artacak bu da bize tonla para kazandıracak. 😉 $NVDA #Borsa #Hisse $AVGO Arvind Srinivas (@glocalinvestor) HSBC: Competition from Chinese models is serious but isn't likely to impact overall AI spending On top of it, token price is falling significantly and Jevon's paradox is in full flow. - Token prices are down significantly but token volume has increased 3x since June - OpenRouter ran a discount experiment by offering discount to OpenAI's Terra and Luna models. - Usage during discount was 5.6x and 13.8x vs 1.1x when it undiscounted. 32% of user continued using even without discounts. - Chinese models may have captured 50+% token volume but Anthropic and Open still take up ~80% of token spend since 2025 (data source: Vercel) - Price per token is becoming less important than cost per task. Multiplying volume of workload drives this. - Open AI Astra model is 6.5x cost of Kimi3 but cost per task is only 2x higher than Kimi3. - Agentic application requires higher token consumption & more supervision increasing the token need. Reliability commands premium. - Chinese models' current pricing are already proving to be unsustainable. Price increases are underway. - Hyperscalers likely to earn even if enterprises adopt open source models. - Expecting both open and closed models would co-exist. HSBC concludes that US frontier models would be used complex reasoning & Chinese models would be used for high volume price sensitive workloads. Sounds a lot like the early days of manufacturing offshoring, doesn't it? — http://nitter.perennialte.ch/glocalinvestor/status/2098503848817991705#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098766839211753484",
+      "person": "dtfinans_",
+      "platform": "x",
+      "url": "https://x.com/dtfinans_/status/2098766839211753484",
+      "published_at": "2026-09-12T13:33:02.000Z",
+      "text": "$NVDA, $JPM ‘den nasıl daha ucuz olabilir ya 🤣🤣 Nasıl bir simülasyon bu anlamadım ki. 😅",
+      "is_reply": false
+    },
+    {
+      "id": "2098727882512048258",
+      "person": "dtfinans_",
+      "platform": "x",
+      "url": "https://x.com/dtfinans_/status/2098727882512048258",
+      "published_at": "2026-09-12T10:58:14.000Z",
+      "text": "Aynı fikirdeyim.",
+      "is_reply": true
+    },
+    {
+      "id": "2098727513291690261",
+      "person": "dtfinans_",
+      "platform": "x",
+      "url": "https://x.com/dtfinans_/status/2098727513291690261",
+      "published_at": "2026-09-12T10:56:46.000Z",
+      "text": "Savas uzun sürdü diye niye faiz artsın ki ya vallahi çözemiyorum mantığı savaş bitmeyecek petrol de düşmeyecek ki faiz arttı diye.",
+      "is_reply": true
+    },
+    {
+      "id": "2098684063976399170",
+      "person": "dtfinans_",
+      "platform": "x",
+      "url": "https://x.com/dtfinans_/status/2098684063976399170",
+      "published_at": "2026-09-12T08:04:07.000Z",
+      "text": "BofA kendi mi yapıyor ?",
+      "is_reply": true
+    },
+    {
+      "id": "2098878251909177454",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098878251909177454",
+      "published_at": "2026-09-12T20:55:45.000Z",
+      "text": "Altman dan sonra Musk da Amodei ye yapay zeka gelişimin yavaşlaması adına destek verdi Wall Street Günlükleri (@WallStDiaries) Anthropic CEO'su: Yapay Zeka Gelişimini Yavaşlatın! Anthropic CEO'su Dario Amodei, yapay zeka modellerinin yeteneklerinin çok hızlı geliştiğini ve güvenlik önlemlerinin bu hızın gerisinde kalabileceğini belirterek sektörün daha temkinli hareket etmesi çağrısında bulundu. Amodei'ye göre sadece güvenlik araştırmalarına yatırım yapmak yeterli değil. Aynı zamanda yapay zeka sistemlerinin yeteneklerinin geliştirilme hızının da güvenlik çalışmalarının yetişebilmesi için yavaşlatılması gerekiyor. Başlıca endişeleri şunlar olarak sıraladı; • Yapay zekanın kendi gelişimini hızlandırabileceği \"özyinelemeli iyileştirme\" (recursive improvement) süreci kontrol dışına çıkabilir ve insanların sistemi anlama ve denetleme kapasitesini aşabilir. • Temmuz ayında yaşanan Hugging Face olayını örnek göstererek, yapay zeka destekli büyük ölçekli bot ağlarının önümüzdeki 6-12 ay içinde internet altyapısına ciddi zarar verebileceğini ve yüz milyarlarca dolarlık ekonomik kayıplara yol açabileceğini savundu. Amodei, yapay zekanın güvenli şekilde ilerlemesi için üç aşamalı bir plan önerdi: 1- Bağımsız denetim Yapay zeka şirketleri, üçüncü taraf denetçilerin modellere ve geliştirme süreçlerine erişmesine izin vermeli. Böylece güvenlik taahhütleri doğrulanabilecek ve olası riskler daha erken tespit edilebilecek. 2- Ortak güvenlik standartları Şirketler, güvenlik konusunda ortak kurallar belirlemeli ve kontrolsüz yapay zeka gelişimine sınırlar koymalı. 3- Uluslararası iş birliği ABD ve diğer demokratik ülkeler, küresel ölçekte yapay zeka güvenliği konusunda koordinasyon sağlamalı ve mümkün olduğunca diğer ülkelerle de ortak hareket etmeli. — http://nitter.perennialte.ch/WallStDiaries/status/2098792501209440601#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098834029382635969",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098834029382635969",
+      "published_at": "2026-09-12T18:00:01.000Z",
+      "text": "$NVDA Yapay Zekânın Finansman Döngüsü Nvidia'nın çip satışlarını desteklemek için alıcılara sağladığı doğrudan yatırımlar ve borç finansmanları, dot-com dönemindeki Lucent vakasını* hatırlatıyor. Müşterilerin geri ödeme yapamaması halinde, bilançoda oluşacak zarar yazımları hisse değerlemesini doğrudan sarsabilir. *Lucent Technologies vakası, 1990'ların sonundaki dot-com balonu döneminde yaşanan ve ABD kurumsal tarihinin en büyük bilanço skandallarından biri olarak kabul edilen bir finansal çöküş hikayesidir. AT&T'den ayrılan teknoloji devi, gelirlerini yüksek göstermek için agresif ve usulsüz muhasebe yöntemlerine başvurdu. Şirket; henüz gerçekleşmemiş satışları bilançoya yazma, müşterilerine kredi verip bu kredilerle kendi ürünlerini satma (satıcı finansmanı) ve iptal edilen siparişleri gelir gösterme gibi yöntemlerle yatırımcıları yanılttı.",
+      "is_reply": false
+    },
+    {
+      "id": "2098833378053369901",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098833378053369901",
+      "published_at": "2026-09-12T17:57:26.000Z",
+      "text": "Bunu fark ettikleri için adımlar geliyor sanki. Bakalım Wall Street bu haberi nasıl okuyacak 🙄",
+      "is_reply": true
+    },
+    {
+      "id": "2098830550320525339",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098830550320525339",
+      "published_at": "2026-09-12T17:46:12.000Z",
+      "text": "Open Ai'dan da yavaşlama sinyali! OpenAI Güvenlik Gerekçesiyle Yeni Model Eğitimlerini Duraklatıyor OpenAI CEO'su Sam Altman, geliştirilmekte olan yeni nesil yapay zeka modellerinin siber güvenlik riskleri ve güvenlik protokolleri çerçevesinde eğitim süreçlerinin geçici olarak duraklatıldığını açıkladı. Şirket, modellerin yetenekleri arttıkça dahili test ortamlarında ortaya çıkan risklerin de büyüdüğünü belirterek, öncelikli kaynağı güvenlik ve \"hizalama\" (alignment) çalışmalarına aktarma kararı aldı. Yapılan açıklamada, özellikle otonom hareket eden sistemlerin denetimi ve güvenlik eşiklerinin sıkılaştırılması vurgulandı. Şirket yönetimi, olası bir felaket veya kontrol kaybı riskini kesinlikle göze almayacaklarını ifade ederken, mevcut altyapı ile araştırma ekibinin büyük bir kısmını güvenlik denetim mekanizmalarını güçlendirmeye yönlendirdiğini doğruladı. Wall Street Günlükleri (@WallStDiaries) Anthropic CEO'su: Yapay Zeka Gelişimini Yavaşlatın! Anthropic CEO'su Dario Amodei, yapay zeka modellerinin yeteneklerinin çok hızlı geliştiğini ve güvenlik önlemlerinin bu hızın gerisinde kalabileceğini belirterek sektörün daha temkinli hareket etmesi çağrısında bulundu. Amodei'ye göre sadece güvenlik araştırmalarına yatırım yapmak yeterli değil. Aynı zamanda yapay zeka sistemlerinin yeteneklerinin geliştirilme hızının da güvenlik çalışmalarının yetişebilmesi için yavaşlatılması gerekiyor. Başlıca endişeleri şunlar olarak sıraladı; • Yapay zekanın kendi gelişimini hızlandırabileceği \"özyinelemeli iyileştirme\" (recursive improvement) süreci kontrol dışına çıkabilir ve insanların sistemi anlama ve denetleme kapasitesini aşabilir. • Temmuz ayında yaşanan Hugging Face olayını örnek göstererek, yapay zeka destekli büyük ölçekli bot ağlarının önümüzdeki 6-12 ay içinde internet altyapısına ciddi zarar verebileceğini ve yüz milyarlarca dolarlık ekonomik kayıplara yol açabileceğini savundu. Amodei, yapay zekanın güvenli şekilde ilerlemesi için üç aşamalı bir plan önerdi: 1- Bağımsız denetim Yapay zeka şirketleri, üçüncü taraf denetçilerin modellere ve geliştirme süreçlerine erişmesine izin vermeli. Böylece güvenlik taahhütleri doğrulanabilecek ve olası riskler daha erken tespit edilebilecek. 2- Ortak güvenlik standartları Şirketler, güvenlik konusunda ortak kurallar belirlemeli ve kontrolsüz yapay zeka gelişimine sınırlar koymalı. 3- Uluslararası iş birliği ABD ve diğer demokratik ülkeler, küresel ölçekte yapay zeka güvenliği konusunda koordinasyon sağlamalı ve mümkün olduğunca diğer ülkelerle de ortak hareket etmeli. — http://nitter.perennialte.ch/WallStDiaries/status/2098792501209440601#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098826474941792490",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098826474941792490",
+      "published_at": "2026-09-12T17:30:00.000Z",
+      "text": "$SPY $DIA $QQQ Fon Çıkışları Sürerken CTA'lar Satışa Geçti Wells Fargo verilerine göre ABD hisse senedi ETF'lerinde üç haftadır süren net para çıkışı hız kesmiyor. Sistemik ve trend takip eden CTA fonlarının da satış tarafına geçmesiyle birlikte, 4 haftalık kümülatif fon akışı son dönemin en dip seviyelerine geriledi.",
+      "is_reply": false
+    },
+    {
+      "id": "2098818923810406467",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098818923810406467",
+      "published_at": "2026-09-12T17:00:00.000Z",
+      "text": "$MBRX Moleculin Biotech’ten Kanserde Ümit Veren Faz 3 Sonuçları Biyoteknoloji şirketi Moleculin Biotech, dirençli kan kanseri (lösemi) hastalarında denediği Annamycin adlı ilaç için yürüttüğü Faz 3 çalışmasında oldukça başarılı sonuçlar aldı. Yapılan testlerde ilacın, mevcut tedavilere kıyasla hastaları tamamen iyileştirme oranını 3 katın üzerine çıkardığı görüldü. En önemlisi ise benzer kanser ilaçlarının en büyük tehlikesi olan kalp hasarı riski bu ilaçta hiç görülmedi. Şirket, kalbe zarar vermeyen bu yeni tedaviyle yüksek bir pazar potansiyeline ulaşmayı hedefliyor. ABD İlaç Dairesi'nden (FDA) hızlı onay süreçleri için kolaylık alan biyoteknoloji firması, ilacı önümüzdeki yıllarda piyasaya sürmeyi ve farklı kanser türlerinde de kullanmayı planlıyor.",
+      "is_reply": false
+    },
+    {
+      "id": "2098811375019528302",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098811375019528302",
+      "published_at": "2026-09-12T16:30:00.000Z",
+      "text": "Körfez Sermayesinden Avrupa'ya Yapay Zekâ Çıkarması Birleşik Arap Emirlikleri, Almanya'ya 46 milyar dolarlık devasa bir yatırım paketi taahhüt etti. Planın merkezinde 1 gigavatlık veri merkezi kapasitesi, yapay zekâ altyapısı ve enerji projeleri yer alıyor. Körfez, petrol gelirini küresel teknoloji gücüne dönüştürürken Avrupa'nın dijital dönüşümüne doğrudan yön veriyor.",
+      "is_reply": false
+    },
+    {
+      "id": "2098803834181067131",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098803834181067131",
+      "published_at": "2026-09-12T16:00:02.000Z",
+      "text": "$TMQ ABD Savaş Bakanlığı, Trilogy Metals bünyesine yaklaşık $35.6 milyonluk stratejik hisse yatırımı sürecini resmen tamamladı. Bu fon, Alaska’daki kritik bakır ve kobalt projelerinin geliştirilmesinde kullanılacak. ABD hükümeti bu anlaşmayla birlikte şirkette yaklaşık %10 doğrudan pay sahibi oldu.",
+      "is_reply": false
+    },
+    {
+      "id": "2098796274715931021",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098796274715931021",
+      "published_at": "2026-09-12T15:30:00.000Z",
+      "text": "ABD Bütçesinde Tarife Gelirleri ve İade Sürprizi ABD Hazine verilerine göre ağustos ayı gümrük vergisi geliri %22 düşüşle 23 milyar dolara geriledi. Yılbaşından bu yana toplam tarife geliri ise %70 artışla 293 milyar dolara ulaştı. Geçen yıl sıfır olan vergi iadelerinin bu dönemde 11 milyar dolara fırlaması, net bütçe dengesinde dikkat çeken bir baskı yarattı.",
+      "is_reply": false
+    },
+    {
+      "id": "2098792501209440601",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098792501209440601",
+      "published_at": "2026-09-12T15:15:00.000Z",
+      "text": "Anthropic CEO'su: Yapay Zeka Gelişimini Yavaşlatın! Anthropic CEO'su Dario Amodei, yapay zeka modellerinin yeteneklerinin çok hızlı geliştiğini ve güvenlik önlemlerinin bu hızın gerisinde kalabileceğini belirterek sektörün daha temkinli hareket etmesi çağrısında bulundu. Amodei'ye göre sadece güvenlik araştırmalarına yatırım yapmak yeterli değil. Aynı zamanda yapay zeka sistemlerinin yeteneklerinin geliştirilme hızının da güvenlik çalışmalarının yetişebilmesi için yavaşlatılması gerekiyor. Başlıca endişeleri şunlar olarak sıraladı; • Yapay zekanın kendi gelişimini hızlandırabileceği \"özyinelemeli iyileştirme\" (recursive improvement) süreci kontrol dışına çıkabilir ve insanların sistemi anlama ve denetleme kapasitesini aşabilir. • Temmuz ayında yaşanan Hugging Face olayını örnek göstererek, yapay zeka destekli büyük ölçekli bot ağlarının önümüzdeki 6-12 ay içinde internet altyapısına ciddi zarar verebileceğini ve yüz milyarlarca dolarlık ekonomik kayıplara yol açabileceğini savundu. Amodei, yapay zekanın güvenli şekilde ilerlemesi için üç aşamalı bir plan önerdi: 1- Bağımsız denetim Yapay zeka şirketleri, üçüncü taraf denetçilerin modellere ve geliştirme süreçlerine erişmesine izin vermeli. Böylece güvenlik taahhütleri doğrulanabilecek ve olası riskler daha erken tespit edilebilecek. 2- Ortak güvenlik standartları Şirketler, güvenlik konusunda ortak kurallar belirlemeli ve kontrolsüz yapay zeka gelişimine sınırlar koymalı. 3- Uluslararası iş birliği ABD ve diğer demokratik ülkeler, küresel ölçekte yapay zeka güvenliği konusunda koordinasyon sağlamalı ve mümkün olduğunca diğer ülkelerle de ortak hareket etmeli.",
+      "is_reply": false
+    },
+    {
+      "id": "2098790038880264663",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098790038880264663",
+      "published_at": "2026-09-12T15:05:13.000Z",
+      "text": "Böyle bir şey olsa gerçekten güzel olur ancak 5GW enerjiyi muhtemelen karşılamta zorlanırız, hele internet yapısını sağlayamayız diye düşünüyorum :)",
+      "is_reply": true
+    },
+    {
+      "id": "2098788742806884621",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098788742806884621",
+      "published_at": "2026-09-12T15:00:04.000Z",
+      "text": "Kritik Petrol Hattında Sevkiyat Durdu Suudi Arabistan, Hürmüz Boğazı'nı baypas eden stratejik Doğu-Batı pipeline hattını, uğradığı İHA saldırıları sonrasında tedbir amaçlı kapattı. Günlük 5 milyon varile ulaşan bu kritik bypass rotasının devre dışı kalması, küresel enerji piyasalarında arz endişelerini ve fiyat baskısını hızla artırıyor.",
+      "is_reply": false
+    },
+    {
+      "id": "2098781175560953956",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098781175560953956",
+      "published_at": "2026-09-12T14:30:00.000Z",
+      "text": "$NVDA BAE, İran Tehdidi Sonrası $30B'lık Dev Yapay Zekâ Kampüsünü Bölme Kararı Aldı Birleşik Arap Emirlikleri, ABD iş birliğiyle hayata geçirmeyi planladığı 5 gigavat (GW) kapasiteli dev yapay zekâ veri merkezi projesini, bölgede artan askeri gerilim ve İran'ın füze/İHA saldırıları sonrası yeniden yapılandırıyor. Abu Dabi'de 26 kilometrekarelik tek bir devasa tesis olarak tasarlanan \"Stargate UAE\" projesi, fiziksel güvenlik risklerini azaltmak amacıyla ülke geneline yayılmış daha küçük bir veri merkezi ağına dönüştürülüyor. Nvidia, OpenAI, Oracle ve G42 ortaklığında yürütülen projenin yeni mimarisinde hava savunma sistemleri, güçlendirilmiş sığınaklar ve hassas verileri barındıran ünitelerin yer altına ya da dağlık alanlara taşınması değerlendiriliyor. İran ordusunun projeyi açık hedef göstermesi ve bölgedeki teknoloji altyapılarına yönelik saldırılar üzerine alınan bu karar, Orta Doğu'daki küresel yapay zekâ yatırımlarının güvenlik maliyetlerini artırırken stratejik risk yönetimini ön plana çıkarıyor.",
+      "is_reply": false
+    },
+    {
+      "id": "2098773635226051007",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098773635226051007",
+      "published_at": "2026-09-12T14:00:02.000Z",
+      "text": "$NVDA Nvidia’dan Anthropic'in Tarihi Halka Arzına $10 Milyarlık Yatırım Hamlesi Nvidia, Claude modelinin geliştiricisi Anthropic’in yakında gerçekleşmesi beklenen dev ilk halka arzında (IPO) ana yatırımcılardan biri olmak için görüşmeler yürütüyor. Reuters’ın konuya yakın kaynaklara dayandırdığı rapora göre Nvidia, tarihinin en büyük halka arzlarından biri olması beklenen bu süreçte 10 milyar dolara kadar pay satın almayı değerlendiriyor. Anthropic, gerçekleştireceği halka arz ile yaklaşık 100 milyar dolar fon sağlamayı ve toplam piyasa değerini 2 trilyon dolara ulaştırmayı hedefliyor.",
+      "is_reply": false
+    },
+    {
+      "id": "2098767492130754622",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098767492130754622",
+      "published_at": "2026-09-12T13:35:37.000Z",
+      "text": "$RKLB Rocket Lab'tan NASA'ya $700M'lık Mars İhalesi İçin Resmi İtiraz Rocket Lab, NASA’nın yaklaşık 700 milyon dolar değerindeki Mars İletişim Ağı (Mars Telecommunications Network) ihalesini Blue Origin’e verme kararına karşı ABD Hükümet Hesap verebilirlik Ofisi’ne (GAO) resmi itirazda bulundu. Şirket, NASA’nın değerlendirme sürecinde Kongre tarafından belirlenen uygunluk kriterlerine uymadığını ve kendi teknik dosyasını incelerken hatalı değerlendirmeler yaptığını vurguladı. Uzay şirketi, kamu kaynaklarının korunması ve adil rekabet ortamının sağlanması adına bu hukuki süreci başlattığını bildirdi. 100 günlük GAO inceleme sürecinin ihale takvimini ve 2028 fırlatma penceresini nasıl etkileyeceği takip edilecek konular arasında. Wall Street Günlükleri (@WallStDiaries) $RDW $RKLB $VSAT Blue Origin’in 700 Milyon Dolarlık NASA Mars İhale Başarısı Redwire’a Yarayacak NASA, Mars ile Dünya arasında yüksek hızlı iletişim ağı kuracak Mars Telekomünikasyon Uydusu (MTO) projesinin geliştirilmesi ve işletilmesi amacıyla Blue Origin’e 700 milyon dolara kadar değere sahip kritik bir sözleşme verdi. 2028 yılı sonuna kadar fırlatılması planlanan yeni iletişim uydusu, Blue Origin’in geliştirdiği çok amaçlı \"Blue Ring\" uzay altyapı platformu mimarisi üzerine inşa edilecek. Mevcut platformun temel bileşen tedarikçilerinden olan uzay teknolojileri şirketi Redwire, bu gelişmeyle doğrudan ana faydalanıcılardan biri olacak. Redwire, Blue Ring platformu kapsamında güneş enerjisi üreten açılabilir ROSA kanatları, kritik görev takibi sağlayan Argus uzay kameraları ve güç dağıtım ünitelerinin üretimini üstlenerek Kızıl Gezegen görevinde stratejik bir rol üstlenecek. Diğer faydalanacka şirketler; Optimum Technologies (OpTech): Blue Ring platformu için gelişmiş optik algılayıcı ve Caracal görüntüleme sensörlerini tedarik ediyor. Scout Space: Platform üzerinde uzay durumu farkındalığı ve nesne takibi sağlayan Owl sensör sistemlerini sağlıyor. Amazon (Project Kuiper): Uzaydan Dünya’ya ve Mars içi veri aktarım mimarisinde uydusal iletişim protokolleri ve optik veri bağlantıları (laser mesh) tarafında teknoloji altyapısı sağlıyor. Viasat / Rocket Lab (SIRA): Blue Origin’in MTO ve Blue Ring mimarilerinde derin uzay iletişim bileşenleri ve yedekli alt sistem yapılandırmalarında ek tedarikçi ekosisteminde yer alıyor. — http://nitter.perennialte.ch/WallStDiaries/status/2095137164321272018#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098724286269653414",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098724286269653414",
+      "published_at": "2026-09-12T10:43:56.000Z",
+      "text": "😀",
+      "is_reply": true
+    },
+    {
+      "id": "2098720196240281804",
+      "person": "WallStDiaries",
+      "platform": "x",
+      "url": "https://x.com/WallStDiaries/status/2098720196240281804",
+      "published_at": "2026-09-12T10:27:41.000Z",
+      "text": "Trump, savaşın yakında sona ereceğini yüzüncü kez dile getirdi 😀 Bloomberg HT (@BloombergHT) Trump: İran'daki savaş çok yakında bitecek bb.ht/6x4ukI — http://nitter.perennialte.ch/BloombergHT/status/2098718948212588709#m",
+      "is_reply": false
+    },
+    {
+      "id": "2099009022737420586",
+      "person": "Tunç Şatıroğlu",
+      "platform": "x",
+      "url": "https://x.com/TuncSatiroglu/status/2099009022737420586",
+      "published_at": "2026-09-13T05:35:23.000Z",
+      "text": "Artık uzun vadeli yatırım için uygun bir borsa olmaktan çıktı.",
+      "is_reply": true
+    },
+    {
+      "id": "2098776573369573452",
+      "person": "Tunç Şatıroğlu",
+      "platform": "x",
+      "url": "https://x.com/TuncSatiroglu/status/2098776573369573452",
+      "published_at": "2026-09-12T14:11:43.000Z",
+      "text": "Tıklayıp ekleyebilirsiniz, bir değişiklik yapmadım. Öncesi diye bir şey yok. Varsayılan ayarlar.",
+      "is_reply": true
+    },
+    {
+      "id": "2098770107728285940",
+      "person": "Tunç Şatıroğlu",
+      "platform": "x",
+      "url": "https://x.com/TuncSatiroglu/status/2098770107728285940",
+      "published_at": "2026-09-12T13:46:01.000Z",
+      "text": "Bir değişiklik yapmadım",
+      "is_reply": true
+    },
+    {
+      "id": "2098745210855629234",
+      "person": "Tunç Şatıroğlu",
+      "platform": "x",
+      "url": "https://x.com/TuncSatiroglu/status/2098745210855629234",
+      "published_at": "2026-09-12T12:07:05.000Z",
+      "text": "Size de Hakan Bey",
+      "is_reply": true
+    },
+    {
+      "id": "2098692328546554045",
+      "person": "Tunç Şatıroğlu",
+      "platform": "x",
+      "url": "https://x.com/TuncSatiroglu/status/2098692328546554045",
+      "published_at": "2026-09-12T08:36:57.000Z",
+      "text": "NASDAQ'ta Kritik Destekler ve Yol Haritası youtu.be/MixTq4GAtgo",
+      "is_reply": false
+    },
+    {
+      "id": "2099010532200030573",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2099010532200030573",
+      "published_at": "2026-09-13T05:41:23.000Z",
+      "text": "Baya işlek bir yerdi biz varken hatta yeni döner bile taktılar tezgaha, taze güzeldi açıkçası",
+      "is_reply": true
+    },
+    {
+      "id": "2098997456394502425",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098997456394502425",
+      "published_at": "2026-09-13T04:49:25.000Z",
+      "text": "El turcoyu mu diyosun haha",
+      "is_reply": true
+    },
+    {
+      "id": "2098980596164841846",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098980596164841846",
+      "published_at": "2026-09-13T03:42:25.000Z",
+      "text": "Hollywood yakınsınız, arada geliyoruz o bölgeye nasip olursa görüşelim",
+      "is_reply": true
+    },
+    {
+      "id": "2098980262096847130",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098980262096847130",
+      "published_at": "2026-09-13T03:41:06.000Z",
+      "text": "Şimdilik turistiz ama nasip gerisi",
+      "is_reply": true
+    },
+    {
+      "id": "2098979081639354864",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098979081639354864",
+      "published_at": "2026-09-13T03:36:24.000Z",
+      "text": "Rastgele gittik açıkçası arkada başka türk restoranı vardı hatta 3 kez ona gitmiştik çaya bile para alan tiplerdi. Ama buna gidince memlekette hissettim",
+      "is_reply": true
+    },
+    {
+      "id": "2098947864810418196",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098947864810418196",
+      "published_at": "2026-09-13T01:32:22.000Z",
+      "text": "Petrol 100$ altında.. %12.5 düştü.. Eeee sonra demiştik deyince kızıyorsunuz. Ama ısrarla demedik mi? Mr. Trader (@MrTradeer) Petrol yine uçmuş; Ancak son gelişmelerle bab-ül mendep kısmında Suudilerin Türkiye+Pakistan desteğiyle Husilerden temizleneceği; Seçim öncesi de İran işinin çözüme yaklaşacağını düşünüyorum. O sebeple grafikteki bölge gelirse (yaklaştı zaten) petrol tarafında güzel bir short alacağım. İsteyen grafiği takip edebilir. — http://nitter.perennialte.ch/MrTradeer/status/2098109181224014240#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098915913684734260",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098915913684734260",
+      "published_at": "2026-09-12T23:25:24.000Z",
+      "text": "Teşekkürler 🙏",
+      "is_reply": true
+    },
+    {
+      "id": "2098915878574137724",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098915878574137724",
+      "published_at": "2026-09-12T23:25:16.000Z",
+      "text": "Vallahi çok şaşırdım uzun zamandır böyle nezakete denk gelmemiştim",
+      "is_reply": true
+    },
+    {
+      "id": "2098915023125135859",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098915023125135859",
+      "published_at": "2026-09-12T23:21:52.000Z",
+      "text": "Sizlere bugün Miami’de kendimi evimde hissettiren bir olay anlatayım. Dün eşimle bir Türk dönerciye gitmiştik duvardaki fotoğraflarda kuru fasülye fotoğrafı vardı :) Eşim hamile ve o an canı çekti oradaki arkadaşa var mı menüde diye sordu. Arkadaşlar normalde menüde yok ama yarın gelin sizin için yapalım dediler. Bugün gittik bizler için kuru fasülye pilav yapmışlar baklava da ikram ettiler birlikte yedik. Uzun zamandır böyle nezaket görmemiştim çok hoşuma gitti. Miami’ye giden olursa görsele yeri de bıraktım gurbette evinizde hissedebileceğiniz bir yer.",
+      "is_reply": false
+    },
+    {
+      "id": "2098839682331124154",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098839682331124154",
+      "published_at": "2026-09-12T18:22:29.000Z",
+      "text": "Geçen sene yapmıştım onu",
+      "is_reply": true
+    },
+    {
+      "id": "2098838933337502007",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098838933337502007",
+      "published_at": "2026-09-12T18:19:30.000Z",
+      "text": "Tam tersi kaçak ıPhone kullanıp 8 ay onla 4 ay 2. Telle takılan da çok",
+      "is_reply": true
+    },
+    {
+      "id": "2098838547587379277",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098838547587379277",
+      "published_at": "2026-09-12T18:17:58.000Z",
+      "text": "Ben valla ıphone kullanıyorum memnunum da aslında. Benim kızdığım holigan olması insanların. Apple yaptıysa en iyisidir kafaları falan. İnsanların böyle sabit fikirli olması sinir ediyor 😀",
+      "is_reply": true
+    },
+    {
+      "id": "2098838047248838794",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098838047248838794",
+      "published_at": "2026-09-12T18:15:59.000Z",
+      "text": "Başlangıç sayısında elbette yoktur. Çok sınırlı olan satışa katılanların zaten çoğu sonradan görme tiplerdir. Kim niye ön satışına katılır ki zaten ıPhone’nin",
+      "is_reply": true
+    },
+    {
+      "id": "2098836096058630542",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098836096058630542",
+      "published_at": "2026-09-12T18:08:14.000Z",
+      "text": "Bizdeki apple yalakaları da duo tanıtımında samsung beceremiyordu apple yapmış yaaaa diyordu.. SİYAH SANCAK (@siyahsancakx) 🔵 Apple, iPhone Duo modelinde Samsung üretimi OLED ekran kullandığı için satılan her cihaz başına rakibine 250 dolar ödeyecek. — http://nitter.perennialte.ch/siyahsancakx/status/2098749325832552912#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098830507911848236",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098830507911848236",
+      "published_at": "2026-09-12T17:46:02.000Z",
+      "text": "Statü bana göre para da değil orası ayrı konu da maalesef toplumlarda böyle",
+      "is_reply": true
+    },
+    {
+      "id": "2098829835195818463",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098829835195818463",
+      "published_at": "2026-09-12T17:43:21.000Z",
+      "text": "Bahsettiğim veri",
+      "is_reply": true
+    },
+    {
+      "id": "2098828678150971463",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098828678150971463",
+      "published_at": "2026-09-12T17:38:45.000Z",
+      "text": "Bunu samsungla değil ıphoneyle ödüllendirme görmen işte bahsettiğim statü olarak görmeyi doğruluyor.",
+      "is_reply": true
+    },
+    {
+      "id": "2098828391147356537",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098828391147356537",
+      "published_at": "2026-09-12T17:37:37.000Z",
+      "text": "2025 yılında Türkiye’de satılan telefonların %40 ı ıphone oldu. Samsung’u tarihte ilk defa satış sayısında geçti. Bu analiz “sadece zenginler” alıyor kavramını zaten başlı başına eziyor. Evet zenginler %90 oranda ıphone alıyor bu zaten beklenen bir şey. Ama fakir insanlar da sırf statü göstergesi için ıphone alıyor. Çünkü 1 tane boktan telefonu statü sanıyor çoğu insan TheArfi (@ParabolArf) Abi ben hiç xiaomi poco x3 kullanan futbolcu ya da koç ailesinden insanlar yada şarkıcı görmedim. Hepsi iphone kullanıyor. Aslında bizim içimizdeki cezalandırma hakettirmeme duygusu geliyor. “Kasiyere bak iphone almışşş.” Ama belkide kasiyerlerin %0.001 i iphone 18pro max alıyor ama burjuvaların çoğu hep en son çıkanlarını genellikle alıyor. Ben hala iphone 11 kullanan bir ünlü de görmedim mesela belki dünyada 2 tane falan vardır ama onlarda gözümüze görünmüyorlar. — http://nitter.perennialte.ch/ParabolArf/status/2098825492778439028#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098826365512425948",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098826365512425948",
+      "published_at": "2026-09-12T17:29:34.000Z",
+      "text": "Ünlü futbolcu örnekleri toplumun %10 u değil %0.001 i olacak örnekler. Ben mesela o %10 a girecek maddi güçte çok doktor tanıdım, çok iş adamı tanıdım. Hiçbirinde ıPhone çıkmış koşa koşa alalım diyen görmedim. Ama tam tersi durumda kasiyer olan cafede çalışan ve alan birçok insan tanıdım. ilk eline para bulduğu anda sıfır telefon sonrasında biraz daha para geçince 0 araba alan çok gördüm. Belkide bunlar zamanında bizde olduk? Gerçekleri duygusallaştırıp manipüle etmeyelim. Sen de ben de ilk para bulunca 0 telefon aldık 0 araba aldık. Toplumun da hepsş öyle, bulamadan hatta krediyle alıyor.",
+      "is_reply": true
+    },
+    {
+      "id": "2098817730111590872",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098817730111590872",
+      "published_at": "2026-09-12T16:55:15.000Z",
+      "text": "Dostum avrupada müslümanlık = türklüktür. Lütfen savunmaya çalışmayalım.",
+      "is_reply": true
+    },
+    {
+      "id": "2098807898344222745",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098807898344222745",
+      "published_at": "2026-09-12T16:16:11.000Z",
+      "text": "Hiç şaşmaz amk",
+      "is_reply": true
+    },
+    {
+      "id": "2098807282209304684",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098807282209304684",
+      "published_at": "2026-09-12T16:13:44.000Z",
+      "text": "Statü sayıp alan fakir sayısı burjuva kesiminde fazla. Bu kadar kudurmana sinirlenmene sebep olan ne yoksa kendinde mi öyle yaptın",
+      "is_reply": true
+    },
+    {
+      "id": "2098805912085373177",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098805912085373177",
+      "published_at": "2026-09-12T16:08:18.000Z",
+      "text": "Evet var öyle kesim",
+      "is_reply": true
+    },
+    {
+      "id": "2098803489581269307",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098803489581269307",
+      "published_at": "2026-09-12T15:58:40.000Z",
+      "text": "Aşırı yanlış bir analiz. Altın bir emtiadır aynı grafiği abd almanya farketmez hangi ülkede yaparsanıx yapın aynısı ortaya çıkar. Çünkü ons bazlı yükseliş oluyor. Bunun 2010 yılında maaşımız 10.000 bitcoindi bugün 0.0005 demek gibi :) sizce alakalı olur mu böyle analiz etsek",
+      "is_reply": true
+    },
+    {
+      "id": "2098802828143726667",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098802828143726667",
+      "published_at": "2026-09-12T15:56:02.000Z",
+      "text": "Iphoneyi burjuvalar değil genelde fakirler alıyor abi. Analizin bu konuda yanlış; Bunu bir statü göstergesi sayan kitlemiz borçlanıp alıyor",
+      "is_reply": true
+    },
+    {
+      "id": "2098797211635138581",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098797211635138581",
+      "published_at": "2026-09-12T15:33:43.000Z",
+      "text": "doğu avrupalılar genelde sevmez bizi evet",
+      "is_reply": true
+    },
+    {
+      "id": "2098796512788554179",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098796512788554179",
+      "published_at": "2026-09-12T15:30:57.000Z",
+      "text": "Orta avrupa ve doğu avrupada genel olarak var bence. Diğer ülkelerde pek hissetmedim milliyetçi grupları illa vardır ama ortalaması iyi",
+      "is_reply": true
+    },
+    {
+      "id": "2098790179167195277",
+      "person": "MrTradeer",
+      "platform": "x",
+      "url": "https://x.com/MrTradeer/status/2098790179167195277",
+      "published_at": "2026-09-12T15:05:47.000Z",
+      "text": "Namaz kılan insanları yüksek müzik açıp rahatsız eden; Domuz kafası gösteren kişiler ve bunuda beğenip yorum yapan binlerce kişi. Avrupanın çoğunluğu her zaman budur. İçlerindeki Türk ve müslüman nefreti asla sönmez. RadioGenoa (@RadioGenoa) Lithuanian patriots and motorcyclists blast loud music outside Kaunas mosque while prayers are taking place. Video — http://nitter.perennialte.ch/RadioGenoa/status/2098526733460820217#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098750283434053987",
+      "person": "FinancewithIzzy",
+      "platform": "x",
+      "url": "https://x.com/FinancewithIzzy/status/2098750283434053987",
+      "published_at": "2026-09-12T12:27:15.000Z",
+      "text": "Rica ederim çok güzel bir paylaşimdi ben teşekkür ederim 🙏",
+      "is_reply": true
+    },
+    {
+      "id": "2098748024235135186",
+      "person": "FinancewithIzzy",
+      "platform": "x",
+      "url": "https://x.com/FinancewithIzzy/status/2098748024235135186",
+      "published_at": "2026-09-12T12:18:16.000Z",
+      "text": "Nvidia portföyünde en çok hoşuma giden şey: sadelik. Az şirket, yüksek conviction ve şimdiye kadar oldukça güçlü sonuçlar. Jensen’ın yatırım yaptığı yerlere bakınca da tema çok net: AI ekosisteminin kritik parçaları. Son açıklanan dağılım: $INTC | %47 $SPCX | %33 $CRWV | %7 $COHR | %5 $NOK | %3 $SNPS | %3 $NBIS | %0,5 $GENB | %0,1 Diğer | %1,4 Şimdi sırada Anthropic var. Liste yakında biraz daha kalabalıklaşacak gibi. 👀 $NVDA The Analyst (@MMatters22596) $NVDA CEO Jensen Huang just said this: \"People are starting to recognize that wherever I invest, it’s not a bad place to invest because I’m an informed investor. I’m not taking any risks.” Here are $NVDA's holdings: (Last updated in august) $INTC | 47% $SPCX | 33% $CRWV | 7% $COHR | 5% $NOK | 3% $SNPS | 3% $NBIS | 0.5% $GENB | 0.1% Others | 1.4% — http://nitter.perennialte.ch/MMatters22596/status/2098485728397398517#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098726203544817720",
+      "person": "FinancewithIzzy",
+      "platform": "x",
+      "url": "https://x.com/FinancewithIzzy/status/2098726203544817720",
+      "published_at": "2026-09-12T10:51:34.000Z",
+      "text": "🚨 NVIDIA, Anthropic’in IPO’suna $10 milyara kadar yatırım yapmayı değerlendiriyor. Reuters’a göre $NVDA, Anthropic’in halka arzında “anchor investor” olabilir. Konuşulan rakamlar devasa: • Hedeflenen fonlama: $100 milyar • Olası değerleme: ~$2 trilyon • Halka arz: Kasım’daki ABD ara seçimlerinden önce • Anthropic yıllıklandırılmış gelir run-rate’i: $65 milyar+ NVIDIA artık sadece AI çipi satan şirket değil. AI ekosisteminin finansmanında da merkez oyuncuya dönüşüyor. Kaynak: Reuters #NVDA #AI #Anthropic Wall St Engine (@wallstengine) NVIDIA $NVDA IN TALKS TO INVEST UP TO $10B IN ANTHROPIC IPO Nvidia is expected to anchor Anthropic’s planned IPO and is considering investing up to $10B in the offering, Reuters reports. Anthropic is seeking to raise as much as $100B at a valuation of around $2T, which could make it the largest IPO in history. The listing is expected to be completed before the U.S. midterm elections in November. Anthropic raised $65B in May at a $965B valuation, while its annualized revenue run rate topped $65B by the end of July. Source: Reuters — http://nitter.perennialte.ch/wallstengine/status/2098548773572251879#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098862334160883831",
+      "person": "wallstengine",
+      "platform": "x",
+      "url": "https://x.com/wallstengine/status/2098862334160883831",
+      "published_at": "2026-09-12T19:52:30.000Z",
+      "text": "Wall St Engine (@wallstengine) ⏳ — http://nitter.perennialte.ch/wallstengine/status/2098848132905992492#m",
+      "is_reply": true
+    },
+    {
+      "id": "2098848132905992492",
+      "person": "wallstengine",
+      "platform": "x",
+      "url": "https://x.com/wallstengine/status/2098848132905992492",
+      "published_at": "2026-09-12T18:56:04.000Z",
+      "text": "⏳",
+      "is_reply": false
+    },
+    {
+      "id": "2098846979061367235",
+      "person": "wallstengine",
+      "platform": "x",
+      "url": "https://x.com/wallstengine/status/2098846979061367235",
+      "published_at": "2026-09-12T18:51:29.000Z",
+      "text": "$TSLA Roadster unveiling on October 1? Tesla (@Tesla) Go for launch — http://nitter.perennialte.ch/Tesla/status/2098843535730725124#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098835474731487529",
+      "person": "wallstengine",
+      "platform": "x",
+      "url": "https://x.com/wallstengine/status/2098835474731487529",
+      "published_at": "2026-09-12T18:05:46.000Z",
+      "text": "Sam Altman: “We’re not rushing into an IPO.” He says OpenAI could remain highly profitable even if development slows, with Astra alone driving major revenue growth. OpenAI’s pre-IPO market on Liquid currently values the company at ~$1.6T. Video Liquid (@liquidtrading) JUST IN: OpenAi CEO Sam Altman says IPO is delayed until 2027 as pre-ipo perpetual falls on Liquid. — http://nitter.perennialte.ch/liquidtrading/status/2098815621458694264#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098815847506772175",
+      "person": "wallstengine",
+      "platform": "x",
+      "url": "https://x.com/wallstengine/status/2098815847506772175",
+      "published_at": "2026-09-12T16:47:46.000Z",
+      "text": "OpenAI CEO Sam Altman says 2026 would be an “ill-advised” time for the company to go public. He is not looking to pursue an IPO this year, pushing any potential listing beyond 2026. Source: Fortune Video",
+      "is_reply": false
+    },
+    {
+      "id": "2098813256072872431",
+      "person": "wallstengine",
+      "platform": "x",
+      "url": "https://x.com/wallstengine/status/2098813256072872431",
+      "published_at": "2026-09-12T16:37:28.000Z",
+      "text": "OpenAI 🤝 Anthropic",
+      "is_reply": false
+    },
+    {
+      "id": "2098777106276929770",
+      "person": "wallstengine",
+      "platform": "x",
+      "url": "https://x.com/wallstengine/status/2098777106276929770",
+      "published_at": "2026-09-12T14:13:50.000Z",
+      "text": "Anthropic CEO Dario Amodei is calling for slower AI development. He warns that rogue AI agents working together could become capable of taking over the internet within 6-12 months…. potentially causing hundreds of billions of dollars in damage Dario Amodei (@DarioAmodei) We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training. You can read the full post here: darioamodei.com/post/we-must… — http://nitter.perennialte.ch/DarioAmodei/status/2098773920774074715#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098760897502298394",
+      "person": "wallstengine",
+      "platform": "x",
+      "url": "https://x.com/wallstengine/status/2098760897502298394",
+      "published_at": "2026-09-12T13:09:25.000Z",
+      "text": "Lol, I was trying to order the 1TB, but it wouldn’t go through, so I changed my mind and went with the 2TB instead.",
+      "is_reply": true
+    },
+    {
+      "id": "2098760273427607910",
+      "person": "wallstengine",
+      "platform": "x",
+      "url": "https://x.com/wallstengine/status/2098760273427607910",
+      "published_at": "2026-09-12T13:06:56.000Z",
+      "text": "Yeah, some people are able to place their orders successfully, but a lot are still running into issues. I managed to get mine through too after a few tries, 18 Pro Max, 2TB, Black.",
+      "is_reply": true
+    },
+    {
+      "id": "2098759525713268798",
+      "person": "wallstengine",
+      "platform": "x",
+      "url": "https://x.com/wallstengine/status/2098759525713268798",
+      "published_at": "2026-09-12T13:03:58.000Z",
+      "text": "Seeing a lot of reports this morning of iPhone 18 Pro pre-orders not going through. Payments are failing for some users, and I ran into the same issue myself.",
+      "is_reply": false
+    },
+    {
+      "id": "2098941262917161024",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098941262917161024",
+      "published_at": "2026-09-13T01:06:08.000Z",
+      "text": "Love a contrarian take",
+      "is_reply": true
+    },
+    {
+      "id": "2098938966548299983",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098938966548299983",
+      "published_at": "2026-09-13T00:57:00.000Z",
+      "text": "Saw that crazy post from X insiders that they removed 200K bot accounts that were pushing deceleration to Americans That has lingered with me it’s really a a masterstroke to control American narrative Now we have frontier leaders playing into it but we have to assume they are many steps ahead and what they say is not “what they think” it’s really just “what they want us to hear”",
+      "is_reply": true
+    },
+    {
+      "id": "2098933150688633253",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098933150688633253",
+      "published_at": "2026-09-13T00:33:54.000Z",
+      "text": "My hot take initial reaction is that this is more marketing “We are so strong and so powerful that we need to pump the breaks before we take over the world” The past 3 Claude releases were all preceded by “this is so powerful we better not release it yet” followed by release a couple weeks later 😂 In the big picture, the race is not slowing down. China certainly not signing any slowdown deal with American frontiers 😂 and Americans are not going to simply choose to fall behind (imo)",
+      "is_reply": true
+    },
+    {
+      "id": "2098932318245163407",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098932318245163407",
+      "published_at": "2026-09-13T00:30:35.000Z",
+      "text": "Yes word on the street is that it is once again, “so over” But I have no doubt we will be “so back” again before we know it 😂",
+      "is_reply": true
+    },
+    {
+      "id": "2098930159957020782",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098930159957020782",
+      "published_at": "2026-09-13T00:22:01.000Z",
+      "text": "Nice moose, Moose",
+      "is_reply": true
+    },
+    {
+      "id": "2098929456098230718",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098929456098230718",
+      "published_at": "2026-09-13T00:19:13.000Z",
+      "text": "Such thin liquidity it is hardly worth paying attention to imo It’s also nice to have the weekend break 😂",
+      "is_reply": true
+    },
+    {
+      "id": "2098928291423928692",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098928291423928692",
+      "published_at": "2026-09-13T00:14:35.000Z",
+      "text": "Nobody knows how markets will react on Monday It is great for engagement to make bold claims pretending you know an unknowable future. It makes for great opportunity to say “Told you so!” If right, and fade back into darkness if wrong (until the next bold call) The fact is, nobody knows. Don’t trust people who speak as if they do 😂",
+      "is_reply": false
+    },
+    {
+      "id": "2098861537670619367",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098861537670619367",
+      "published_at": "2026-09-12T19:49:20.000Z",
+      "text": "You are a wild man🤣 Those are companies I’d never feel comfortable holding in large initial allocation, but will be happy to ride the wave if they succeed 😅",
+      "is_reply": true
+    },
+    {
+      "id": "2098846258031173773",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098846258031173773",
+      "published_at": "2026-09-12T18:48:37.000Z",
+      "text": "My portfolio today is largely a reflection of performance: • the largest positions are generally the biggest winners because I let winners ride But I am always asked how it would differ if I was starting a new portfolio from scratch today So I made an article for subs today breaking down how that would look. I tried my absolute best to keep it as consolidated as possible, and landed with…19 holdings 😂 • one position @ 15% • two @ 10% • eleven @ 5% • five wildcards @ 2% Will link the article in comments which includes charts and fundamental thoughts on each company 🫡",
+      "is_reply": false
+    },
+    {
+      "id": "2098824736394322163",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098824736394322163",
+      "published_at": "2026-09-12T17:23:06.000Z",
+      "text": "then what did you mean by this comment if you are buying so many tickers? you are saying this applies to me but not yourself? 😅 TheStocksKing (@TheStocksKing) You will pick 5 winners and 35 losers. one in 100 will pick one of those winners in the 5 tries. just take 40 shots and hit for sure. — http://nitter.perennialte.ch/TheStocksKing/status/2098804820891091045#m",
+      "is_reply": true
+    },
+    {
+      "id": "2098821890945024249",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098821890945024249",
+      "published_at": "2026-09-12T17:11:47.000Z",
+      "text": "that sounds more like a skill issue brother if you are only going 5/40 😂 if people can't pick individual tickers they should stick to ETFs. picking winners takes a ton of time+effort+research+patience",
+      "is_reply": true
+    },
+    {
+      "id": "2098809470004429014",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098809470004429014",
+      "published_at": "2026-09-12T16:22:26.000Z",
+      "text": "yes exactly I also like the thematic ETFs available these days but those require some oversight too",
+      "is_reply": true
+    },
+    {
+      "id": "2098807167373484167",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098807167373484167",
+      "published_at": "2026-09-12T16:13:17.000Z",
+      "text": "most of the drones feel cheap imo",
+      "is_reply": true
+    },
+    {
+      "id": "2098791908533321784",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098791908533321784",
+      "published_at": "2026-09-12T15:12:39.000Z",
+      "text": "for the moment, $ONON is the standard sneaker of choice for Upper East Siders but these trends don't last forever I own a few pairs myself. they are good",
+      "is_reply": true
+    },
+    {
+      "id": "2098788465491997057",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098788465491997057",
+      "published_at": "2026-09-12T14:58:58.000Z",
+      "text": "yup this is what the \"have blind conviction in your top picks\" crowd totally misses",
+      "is_reply": true
+    },
+    {
+      "id": "2098765626072240217",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098765626072240217",
+      "published_at": "2026-09-12T13:28:13.000Z",
+      "text": "Agreed it’s all relative to sizing and risk tolerance and whether you are managing other people’s money etc I’ve become much more diversified over years as portfolio grew",
+      "is_reply": true
+    },
+    {
+      "id": "2098763859146260927",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098763859146260927",
+      "published_at": "2026-09-12T13:21:11.000Z",
+      "text": "Berkshire has 29 public positions right now. And this is the most concentrated they have been in years. Usually 40-50 positions under Munger & Buffet. people also like to quote Drunkenmiller on this... he has 70+ positions right now easy to cherry pick quotes, and assume that they would \"disagree with this take\" but maybe a better signal is looking at how they actually invest🤔",
+      "is_reply": true
+    },
+    {
+      "id": "2098761692662436341",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098761692662436341",
+      "published_at": "2026-09-12T13:12:35.000Z",
+      "text": "🤝vI'm a huge fan of that balance and a huge fan of the \"don't own more than you can track\" strategy I am always preaching this. I own a lot of positions because I have the time+energy it takes to monitor them all (and love doing it) if that wasn't the case I would rely much heavier on ETFs for auto-managed exposure",
+      "is_reply": true
+    },
+    {
+      "id": "2098761199366123750",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098761199366123750",
+      "published_at": "2026-09-12T13:10:37.000Z",
+      "text": "😂🎯 Berkshire has 29 public positions right now",
+      "is_reply": true
+    },
+    {
+      "id": "2098759884309254316",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098759884309254316",
+      "published_at": "2026-09-12T13:05:24.000Z",
+      "text": "I don't own many at this moment but Im really interested in the thematic ETFs I think they offer that perfect balance of concentration/diversification Everyone loves to quote Buffet and Drunkenmiller etc for what they say about the benefits of concentration BUT what nobody mentions is that their actual portfolio filings always comprise dozens of tickers 😂 Drunkenmiller has 70+ right now",
+      "is_reply": true
+    },
+    {
+      "id": "2098758905002185206",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098758905002185206",
+      "published_at": "2026-09-12T13:01:30.000Z",
+      "text": "Even just one ETF usually represents dozens of stocks (sometimes hundreds) AND ETFs AUTOBALANCE. Losers are automatically sized down / removed. Winners are automatically added/ sized up if you bought $SPY 10 years ago it was virtually zero Nvidia exposure but now its 8% $NVDA with no effort on your part you just automatically own all the best companies So I love ETFs they are automatically derisked relative to individual tickers in that way.",
+      "is_reply": true
+    },
+    {
+      "id": "2098757952718934036",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098757952718934036",
+      "published_at": "2026-09-12T12:57:43.000Z",
+      "text": "No I couldn’t stand the unrelenting shady antics of their management anymore 🤣 got out slightly below breakeven",
+      "is_reply": true
+    },
+    {
+      "id": "2098756981527859646",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098756981527859646",
+      "published_at": "2026-09-12T12:53:52.000Z",
+      "text": "The truth hurts because most people just want to get rich quick (And usually end up staying broke longer because of it) 🤣",
+      "is_reply": true
+    },
+    {
+      "id": "2098756608230580314",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098756608230580314",
+      "published_at": "2026-09-12T12:52:23.000Z",
+      "text": "I have companies in my DMs trying to sign me up for this sort of thing I’d love to see Robinhood launch asset-baskets run by social accounts I think that would be a logical next step for their social network and I’d definitely be interested in that",
+      "is_reply": true
+    },
+    {
+      "id": "2098754142227272086",
+      "person": "jrouldz",
+      "platform": "x",
+      "url": "https://x.com/jrouldz/status/2098754142227272086",
+      "published_at": "2026-09-12T12:42:35.000Z",
+      "text": "Conversely, I believe the “you need to concentrate into just 3-5 stocks” motif that is so popular on X is extremely dangerous for most investors In fact it’s probably the most dangerous investing “wisdom” that I see repeated on this platform SOME of you will pick 3-5 winners, enjoy massive returns, and become X influencers of your own preaching this same strategy But MANY MORE people will pick 3-5 losers, eat huge losses, and their stories will not be told This is a crystal clear example of survivorship bias, reinforcing the idea that extreme risk as actually a good strategy MOST investors are better off diversifying because MOST companies fail over time (this is the hard truth) and it’s really hard to choose the right ones Dr J Rould (@jrouldz) People think a 2% position is “not enough to matter” But I love that sizing for 10x potential (extreme risk/reward) stocks: • if the thesis succeeds, 2% balloons into a massive position. At which point it is usually derisked, and you can book profits, or hold your newly large position with the lower R/R profile. (If you get a 10x just on hype as opposed to derisking, I like to cash that out) • if the thesis fails, even at max pain (bankruptcy, shares to zero) a 2% hit to your portfolio is not a big deal Then apply this concept to a basket: instead of one new 10% allocation position, you can pick 5 extreme R/R positions, at 2% each • even if 4 fail entirely, and one delivers 5x returns, you come out even • if 4 fail entirely, and one delivers 10x, the whole basket has doubled • if you are able to pick any better than 1/5, you stand to make serious gains Allocation to each ticker in your portfolio always needs to be relative to each company’s risk/reward profile, and your own conviction Just a thought 🤝 — http://nitter.perennialte.ch/jrouldz/status/2098394301218562215#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098873701315821581",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098873701315821581",
+      "published_at": "2026-09-12T20:37:40.000Z",
+      "text": "Fed faiz artırsın veya artıracak demiyorum. Ben de faizlerin aynı tutulacağını düşünüyorum zaten. Ama enerji kaynaklı diye enflasyondaki artışı önemsiz göremeyiz. Çekirdek enflasyona bakmanın mantığını anlıyorum; ancak benim itirazım, enerji hariç rakamdan hareketle enflasyon sorunu yokmuş gibi yorum yapılmasına. Faiz artırmak petrol üretmez, konut arzını da doğrudan çözmez, burada haklısın. Ama Fed talebi ve finansman koşullarını etkileyebilir. Petrolün pahalanması da akaryakıtın yanında taşıma ve üretim maliyetleri üzerinden enflasyon yaratır. Bunun ne kadar kalıcı olduğu önemli. Dolayısıyla FED'in enerji fiyatlarındaki artışa faiz artırımıyla karşılık vermesi gerekmiyor. Ama bu baskı kalıcılaşırsa işin rengi o zaman değişir. O yüzden diyorum enflasyon verisini eğip bükmeye çalışmak saçma diye.",
+      "is_reply": true
+    },
+    {
+      "id": "2098862361494843671",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098862361494843671",
+      "published_at": "2026-09-12T19:52:36.000Z",
+      "text": "Tahviller zaten hortladı. O yüzden artırmasına gerek yok bence.",
+      "is_reply": true
+    },
+    {
+      "id": "2098862092203815086",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098862092203815086",
+      "published_at": "2026-09-12T19:51:32.000Z",
+      "text": "Biotek ne alaka ya? Hiç işim olmaz o sektörle 🙂",
+      "is_reply": true
+    },
+    {
+      "id": "2098861795943309662",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098861795943309662",
+      "published_at": "2026-09-12T19:50:21.000Z",
+      "text": "😂",
+      "is_reply": true
+    },
+    {
+      "id": "2098793402552779175",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098793402552779175",
+      "published_at": "2026-09-12T15:18:35.000Z",
+      "text": "Bilmiyorum ben İngilizce'sini okuyorum.",
+      "is_reply": true
+    },
+    {
+      "id": "2098780583832744208",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098780583832744208",
+      "published_at": "2026-09-12T14:27:39.000Z",
+      "text": "JP Morgan dahil bütün büyük bankalar haftaya FED'in faiz artıracağını bekliyormuş. Siz ne düşünüyorsunuz? Artırır mı, artıramaz mı? Evan (@StockMKTNewz) ALL OF THESE BANKS THINK KEVIN WARSH AND THE US FED ARE GOING TO RAISE RATES NEXT WEEK - Jpmorgan - Bank of America - Goldman Sachs - Citi - Morgan Stanley - Wells Fargo - Barclays - Deutsche - Nomura - Piper Sandler - TD - UBS - RBC - HSBC — http://nitter.perennialte.ch/StockMKTNewz/status/2098746035497517074#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098779403228488036",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098779403228488036",
+      "published_at": "2026-09-12T14:22:57.000Z",
+      "text": "Bu kısmen doğru ama net olarak böyle değil.",
+      "is_reply": true
+    },
+    {
+      "id": "2098739364637413839",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098739364637413839",
+      "published_at": "2026-09-12T11:43:51.000Z",
+      "text": "😅😅",
+      "is_reply": true
+    },
+    {
+      "id": "2098737218026086512",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098737218026086512",
+      "published_at": "2026-09-12T11:35:20.000Z",
+      "text": "Ahahaha bu çok iyiydi! 😂",
+      "is_reply": true
+    },
+    {
+      "id": "2098736388690559036",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098736388690559036",
+      "published_at": "2026-09-12T11:32:02.000Z",
+      "text": "Ben de borsanın düştüğü günleri şabat günü kabul ediyorum ve ekran açmıyorum. Böylece para kaybettiğimi de görmemiş oluyorum. Yahudi aklı buna da bir çözüm buldu. 😂 Berk Demirkıran (@berkdemirkiran_) Enflasyon açıklanma günlerinde internet kullanmıyorum. Böylece enflasyon sıfır oluyor 😂 — http://nitter.perennialte.ch/berkdemirkiran_/status/2098735643761189166#m",
+      "is_reply": false
+    },
+    {
+      "id": "2098735978064056435",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098735978064056435",
+      "published_at": "2026-09-12T11:30:24.000Z",
+      "text": "Ahahaha 😅",
+      "is_reply": true
+    },
+    {
+      "id": "2098735360452759964",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098735360452759964",
+      "published_at": "2026-09-12T11:27:57.000Z",
+      "text": "Yahudi aklı buna da bir çözüm buldu. 😂",
+      "is_reply": true
+    },
+    {
+      "id": "2098732244097454444",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098732244097454444",
+      "published_at": "2026-09-12T11:15:34.000Z",
+      "text": "Ben sabit bırakılacağını düşünüyorum.",
+      "is_reply": true
+    },
+    {
+      "id": "2098731240727740553",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098731240727740553",
+      "published_at": "2026-09-12T11:11:34.000Z",
+      "text": "\"Enflasyonun ana sebebi olan enerji fiyatlarını dışarıda burakırsak enflasyon aslında düşük\" diyen müthiş analizler görüyorum. O zaman enflasyonun bizzat kendisini dışarıda bırakalım, hiç bakmayalım. Falanca filanca maddesini sürekli dışarıda bırakacaksak ne anlamı kalıyor ki?",
+      "is_reply": false
+    },
+    {
+      "id": "2098729107848614247",
+      "person": "cevikfinance",
+      "platform": "x",
+      "url": "https://x.com/cevikfinance/status/2098729107848614247",
+      "published_at": "2026-09-12T11:03:06.000Z",
+      "text": "Çin'li yapay zeka şirketi Kimi'nin 16 yöneticisinin Çin devleti tarafından alıkonulduğu söyleniyor. Sebebi devlet sırlarını Anthropic'in Claude modeli üzerinden ABD'ye kaptırmaları. Ava giderken avlanmak bu olsa gerek. 😅 Prakash (@8teAPi) rumors that the kimi team has been disappeared after leaking national secrets to claude — http://nitter.perennialte.ch/8teAPi/status/2098594444425756808#m",
+      "is_reply": false
+    }
+  ],
+  "errors": []
+}
