@@ -1,0 +1,1197 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T11:00:00Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "SpaceX'in Nasdaq 100 ağırlığı ikiye katlanıyor",
+      "person": "korkmazali08",
+      "why": "SpaceX'in endeks ağırlığı pazartesi %1,28'den %2,82'ye çıkacak; bu da Nasdaq 100'ü izleyen 200'den fazla pasif fonun milyarlarca dolarlık SpaceX hissesi almasını zorunlu kılıyor.",
+      "source_url": "https://x.com/korkmazali08/status/2101480154354630992"
+    },
+    {
+      "title": "OpenAI 2030'a kadar 278 milyar dolar nakit açığı öngörüyor",
+      "person": "WallStDiaries",
+      "why": "Financial Times'ın ulaştığı sunuma göre şirket 2026-2030 arasında altyapıya 856 milyar dolar harcarken toplam geliri 840 milyar dolarda kalacak; bu nedenle olası halka arz planı ertelendi.",
+      "source_url": "https://x.com/WallStDiaries/status/2101361158351655045"
+    },
+    {
+      "title": "Grönland anlaşması madencilik hisselerini uçurdu",
+      "person": "WallStDiaries",
+      "why": "Trump'ın Grönland'la kalıcı kontrol anlaşması açıklamasının ardından bölgede faaliyet gösteren GRML hissesi tek günde %60'a, CRML ise %20'nin üzerine yükseldi.",
+      "source_url": "https://x.com/WallStDiaries/status/2101325441055195247"
+    },
+    {
+      "title": "Bora Özkent: Tera fonlarından '17 milyar dolar buharlaştı' iddiası gerçek değil",
+      "person": "Bora Özkent",
+      "why": "Bu rakamın manipülasyonla şişirilmiş hisse senetlerinden hesaplandığını, gerçek tabloyu görmek için fonların elindeki hisselerin detaylı analiz edilmesi gerektiğini savunuyor.",
+      "source_url": "https://x.com/BoraOzkent/status/2101338874760847765"
+    },
+    {
+      "title": "Bitcoin ETF girişleriyle yeniden $80.000'a çıktı",
+      "person": "FinancewithIzzy",
+      "why": "Fed'in faiz artırmasına ve Clarity Act'in Senato'dan geçememesine rağmen spot ETF girişleri ve short covering Bitcoin'i iki haftanın zirvesine taşıdı.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2101299647620759773"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Tera Portföy fon krizi ve para piyasası fonlarının (PPF) durumu",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Para piyasası fonlarının hisse senedi fonlarından tamamen farklı ve risksiz sayılması gerektiğini; TP2 fonuna teminat olarak verilen DSTKF hisselerinin Tera'ya iade edildiğini ve mevzuat gereği bunun karşılığında mutlaka nakit veya tahvil gibi likit bir varlık verilmiş olması gerektiğini, dolayısıyla PPF yatırımcılarının parasını faiziyle alacağını savunuyor.",
+          "quote": "#PPF'lerinizde bir sorun olamaz. Riskli varlık grupları falan değil bunlar... Ancak risk taşıyan bu teminatların hepsi zaten Tera'ya geri verildi. Yani TP2'nin elinde artık DSTKF hisse teminatı yok... Diğer her şey ya likit ya da değerli varlık. Satılır, paralarınız ödenir. Bu kadar basit.",
+          "source_url": "https://x.com/dtfinans_/status/2101278716542234650"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "Fonlardan '17 milyar dolar buharlaştı' iddiasının gerçek olmadığını, bu rakamın manipülasyonla şişirilmiş hisse senetlerinden hesaplandığını ve fon yöneticilerinde de o kadar paranın olmadığını, asıl yapılması gerekenin fonların tuttuğu hisselerin detaylı analizi olduğunu söylüyor.",
+          "quote": "Çünkü zaten 17 Miyar $ gerçek değil anladığım kadarı ile. Düpedüz manipulasyonla şişirilmiş hisse senetlerinden hesaplanan afaki bir değer bu. Ve hayır şirket yöneticilerinde sahiplerinde de o kadar para yoktur... Burada yapılması gereken fonların tuttuğu hisselerin detaylı analizi.",
+          "source_url": "https://x.com/BoraOzkent/status/2101338874760847765"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Fonlarda tüm birikimini kaybeden bir kadının hikâyesine üzüldüğünü ama asıl sorunun yoğunlaşma riski, ev parası gibi kısa vadeli nakdi riskli varlıkta tutmak, bankacıya körü körüne güvenmek ve nakit yastığı bulundurmamak gibi temel finansal okuryazarlık eksikliklerinden kaynaklandığını savunuyor.",
+          "quote": "Tüm suçu başkasına yıkmadan önce kendisinin önlem alması gerekirdi... Tüm birikimi (yumurtaları) tek bir sepete koymak... Kısa vadeli nakit ihtiyacını riskli varlıklara koymak. Ev için kapora vermiş, Eylül sonunda satış planlamış ama önlem almamış... Nakit yastık bırakmamak.",
+          "source_url": "https://x.com/cevikfinance/status/2101253276087828519"
+        }
+      ]
+    },
+    {
+      "topic": "Fed'in faiz artırımı ve tahvil piyasasının tepkisi",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Fed'in beklendiği gibi faizi 25 baz puan artırıp 3,75-4,0%'a çektiğini, ama 10 yıllık tahvil getirisinin buna rağmen %5,02'den %4,94'e gerilediğini; bunun nedeninin Suudi petrol boru hattı saldırısı sonrası gelen rahatlama, enflasyonla mücadele edildiği için tahvil piyasasının rahatlaması, Fed'in güçlü büyüme vurgusu ve İngiltere Merkez Bankası'nın da QT hızını yavaşlatması olduğunu; bu nedenle Nasdaq ve S&P 500'ün faiz artırımına rağmen yükseldiğini anlatıyor.",
+          "quote": "This week the NASDAQ was up by around 0.7% and the S&P 500 was roughly flat. However, if you look at the movement after the rate hike was announced... NASDAQ was up 1.7% and S&P 500 was up 1.1%... the 10-year bond yield actually went down a lot. It went down from around 5.02% to around 4.94%.",
+          "source_url": "https://www.youtube.com/watch?v=0UbsvyQbPJM"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "ABD Hazinesi'nin uzun vadeli tahvil geri alım ihalesinde hedeflenen 4 milyar dolar yerine sadece 2,4 milyar dolarlık alım gerçekleştirdiğini, bunun ikincil piyasadaki likidite desteği beklentisini tam karşılayamadığını ve uzun vadeli getiriler üzerindeki yukarı yönlü baskının sürdüğünü belirtiyor.",
+          "quote": "Piyasa aktörlerinin 4 milyar dolarlık geri alım beklentisine karşın, Hazine ihalede yalnızca 2,4 milyar dolarlık alım gerçekleştirdi... Sonuçların ardından uzun vadeli ABD tahvil getirileri üzerindeki yukarı yönlü baskının devam ettiği gözlemlendi.",
+          "source_url": "https://x.com/WallStDiaries/status/2101340543137833004"
+        }
+      ]
+    },
+    {
+      "topic": "ABD-Çin New York zirvesi",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "ABD Hazine Bakanı Bessent ile Çin Başbakan Yardımcısı He Lifeng'in JPMorgan genel merkezinde ticaret tarifeleri, yapay zeka ve nadir toprak elementleri gibi küresel piyasaları ilgilendiren başlıkları görüşeceği kritik bir zirve yapılacağını bildiriyor.",
+          "quote": "ABD Hazine Bakanı Scott Bessent ile Çin Başbakan Yardımcısı He Lifeng, pazar günü JPMorgan genel merkezinde kritik bir görüşme gerçekleştirecek. Toplantıda ticaret tarifeleri, yapay zekâ ve nadir toprak elementleri gibi küresel piyasaları yakından ilgilendiren stratejik başlıklar masaya yatırılacak.",
+          "source_url": "https://x.com/WallStDiaries/status/2101568087220764847"
+        }
+      ]
+    },
+    {
+      "topic": "Trump'ın 'AI Force' girişimi",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Trump'ın federal düzeyde bir 'AI Force' kurup bir yapay zeka koordinatörü atayacağını, yapay zekânın orta-uzun vadede ABD GSYİH'sinin %25'ini tek başına oluşturabileceğini öngördüğünü aktarıyor.",
+          "quote": "ABD Başkanı Donald Trump, ulusal teknoloji stratejisi kapsamında federal düzeyde bir 'AI Force' (Yapay Zeka Gücü) kurulacağını ve süreci yönetmek üzere özel bir yapay zeka koordinatörü görevlendirileceğini açıkladı... sektörün orta-uzun vadede ABD gayri safi yurtiçi hasılasının (GSYİH) %25'lik kısmını tek başına oluşturabileceğini öngördü.",
+          "source_url": "https://x.com/WallStDiaries/status/2101382062921879773"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Trump'ın 'AI Force' açıklamasını yapay zeka hisseleri için iyi haber olarak değerlendiriyor.",
+          "quote": "Yapay zeka hisseleri için güzel haber. 👇",
+          "source_url": "https://x.com/cevikfinance/status/2101411460509266236"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Trump'ın 'AI Force' kuracağını ve bir AI çarı atayacağını, ABD'nin yapay zeka gelişimini yavaşlatmayacağını söylediğini ve yapay zekânın ABD GSYİH'sinin %25'ine kadarını oluşturabileceğini belirttiğini paylaştı, kendi görüşünü eklemedi.",
+          "quote": "Trump is creating an \"AI Force\" & will name an AI czar. He says the U.S. will not slow or stifle AI development. Trump says AI could eventually account for as much as 25% of U.S. GDP.",
+          "source_url": "https://x.com/wallstengine/status/2101364540013514866"
+        }
+      ]
+    },
+    {
+      "topic": "Ortadoğu gerilimi ve petrol/enerji piyasası",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "ABD'nin, Suudi Arabistan'a yönelik saldırılara misilleme olarak Yemen'deki Husilere karşı geniş çaplı bir askeri operasyon hazırlığında olduğunun bildirildiğini paylaştı.",
+          "quote": "ABD'nin, Suudi Arabistan'a yönelik saldırılarına misilleme olarak Yemen'deki Husilere karşı geniş çaplı bir askeri operasyon hazırlığında olduğu bildiriliyor.",
+          "source_url": "https://x.com/korkmazali08/status/2101491552744882273"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Suudi Arabistan'a yönelik boru hattı saldırısının petrolü kısa süreliğine 100 doların üzerine çıkardığını, ardından Suudi Arabistan'ın Umman açıklarında gemiden gemiye aktarımla boru hattını atlatarak petrolü yeniden 100 doların altına çektiğini ve bunun tahvil piyasasını da rahatlattığını anlatıyor.",
+          "quote": "there was a drone strike from Iraq to Saudi Arabia's pipeline, which sent the oil price to over $100 per barrel prior to the FOMC... right after the FOMC meeting, coincidentally, Saudi Arabia announced a relief effort involving a ship-to-ship transfers near Oman port bypassing the damaged pipeline.",
+          "source_url": "https://www.youtube.com/watch?v=0UbsvyQbPJM"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "Fransa'da yakıt istasyonlarının yaklaşık %11'inde, bazı bölgelerde ise %16'sına varan oranda sıkıntı yaşandığını, Avrupa'nın büyüyen enerji krizinin farkında olmadığını ve savaş acilen bitmezse durumun daha da kötüleşeceğini düşünüyor.",
+          "quote": "Ülke genelindeki benzin istasyonlarının yaklaşık %11'inde en az bir yakıt türünde sıkıntı yaşandığı, bazı bölgelerde bu oranın %16'ya ulaştığı bildiriliyor... Ben bir süredir söylüyorum: Avrupa gelen enerji krizinin farkında değil. Savaş acil olarak bitmez ise bu daha iyi günleri benden demesi.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2101385839070634261"
+        }
+      ]
+    },
+    {
+      "topic": "Avrupa ekonomisinin zayıflaması ve ABD'nin Avrupa'dan çekilme ihtimali",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "Kobeissi Letter'ın analizini paylaşarak Avrupa'nın pandemi, Ukrayna savaşı kaynaklı enerji krizi, yapay zeka devriminde ABD ve Çin'in gerisinde kalma, ABD tarifeleri ve şimdi de İran Savaşı'nın tetiklediği enerji kriziyle 2020'lerin en kötü on yıllarından birini yaşayan 'hasta adam' konumuna düştüğünü aktarıyor.",
+          "quote": "Avrupa artık \"hasta adam\"... The 2020s are arguably one of the worst decades for Europe in modern history... Now, the Iran War has pushed Europe into its worst energy crisis ever, with central banks being forced to raise interest rates.",
+          "source_url": "https://x.com/cevikfinance/status/2101247979499717025"
+        },
+        {
+          "person": "ulkser",
+          "view": "İsviçre'nin bile savunma tedbirleri almasının, ABD'nin Avrupa'dan çekilmesinin kesin olduğu görüşünü desteklediğini; Avrupa'nın çok kutuplu yapısı, uzun kara sınırı ve uzun süren barış rehavetiyle 2 kutuplu dünyada dezavantajlı bir konumda kaldığını düşünüyor.",
+          "quote": "Isvicre bile aksiyon aliyorsa ABD Avrupa'dan cekilmesi kesin diye dusunurum... Coklu uniter yapi, uzun kara siniri, uzun suren baris ortami rehaveti vs vs vs say say bitmez. Asiri dezavantajli bir konumda.",
+          "source_url": "https://x.com/ulkser/status/2101240129440325987"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$META bu yıl içerisinde bize birkaç kez oldukça güzel seviyelerden alım fırsatı sundu. En düşük seviyelerde $520–$550 bandından eklemeler yaptık. Bugün geldiğimiz noktada ise $META, cuma günü $695 seviyesini gördü.",
+          "source_url": "https://x.com/korkmazali08/status/2101333099640443133"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Meta 1000 dolar hedefim devam ediyor. 🚀",
+          "source_url": "https://x.com/cevikfinance/status/2101343014438220227"
+        }
+      ],
+      "priority": "high",
+      "why": "İki kişi (korkmazali08, cevikfinance) somut alım seviyeleri ve fiyat hedefiyle pozitif görüş bildirdi."
+    },
+    {
+      "symbol": "NSCL",
+      "name": "Nscale",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Nvidia Destekli Neocloud Nscale Halka Arz Başvurusunu Yaptı... Şirketin yaklaşık 30 milyar dolar değerleme hedefiyle 3 milyar dolara kadar kaynak toplamayı planladığı halka arzın konsorsiyum liderliğini Goldman Sachs, JPMorgan ve Morgan Stanley üstlendi.",
+          "source_url": "https://x.com/WallStDiaries/status/2101310345096966616"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "Ben şahsen $30B civarında bir değerleme üzerinden Nscale'a yatırım yapmayı düşünmüyorum. Bunu daha şimdiden söyleyeyim.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2101616276997120119"
+        }
+      ],
+      "priority": "high",
+      "why": "WallStDiaries halka arz başvurusunu aktarırken FinancewithIzzy 30 milyar dolarlık değerlemeyi yüksek bulup bu fiyattan yatırım yapmayacağını belirtti."
+    },
+    {
+      "symbol": "IREN",
+      "name": "Iris Energy",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Ben bu fiyat seviyelerinde ikinci tarafa [IREN] daha fazla ilgi duyuyorum... IREN bugün yaklaşık $17–18B piyasa değeri seviyesindeyken, 2027'de yaklaşık 0.8 GW IT kapasite teslim etmeyi hedefliyor.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2101616276997120119"
+        }
+      ],
+      "priority": "high",
+      "why": "FinancewithIzzy, Nscale'e kıyasla MW başına daha iyi ekonomik değer sunduğu için IREN'i mevcut fiyat seviyelerinde daha cazip buluyor."
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "SpaceX'in Nasdaq 100'deki ağırlığı Pazartesi günü %1,28'den %2,82'ye yükselecek. Böylece endeksteki ağırlığı iki kattan fazla artacak.",
+          "source_url": "https://x.com/korkmazali08/status/2101480154354630992"
+        }
+      ],
+      "priority": "high",
+      "why": "Nasdaq 100'deki ağırlığının ikiye katlanacak olması, pasif fonlardan milyarlarca dolarlık zorunlu alım getirecek net ve tarihli bir gelişme."
+    },
+    {
+      "symbol": "NASDAQ",
+      "name": "Nasdaq Bileşik Endeksi",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "positive",
+          "quote": "this week the NASDAQ was up by around 0.7%... if you look at the movement after the rate hike was announced... NASDAQ was up 1.7%... for two consecutive days, the market was up across the board.",
+          "source_url": "https://www.youtube.com/watch?v=0UbsvyQbPJM"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "neutral",
+          "quote": "Yarın Nasdaq için kritik bir gün. Cuma öğleden sonra gelen yükseliş yarın da devam ederse S&P 500 yeni bir zirveye giderken Nasdaq da eski zirvesine gidebilir. Sonra Ekim düşüşünün gelmesini bekliyorum.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2101600228428378417"
+        }
+      ],
+      "priority": "high",
+      "why": "İki kişi (Defiant Gatekeeper, Tunç Şatıroğlu) endeks için farklı açılardan görüş bildirdi."
+    },
+    {
+      "symbol": "SPY",
+      "name": "S&P 500",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "positive",
+          "quote": "the S&P 500 was roughly flat [this week]... after the rate hike was announced... S&P 500 was up 1.1%... Then on Friday... S&P 500 was up 0.2%.",
+          "source_url": "https://www.youtube.com/watch?v=0UbsvyQbPJM"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "neutral",
+          "quote": "Cuma öğleden sonra gelen yükseliş yarın da devam ederse S&P 500 yeni bir zirveye giderken Nasdaq da eski zirvesine gidebilir. Sonra Ekim düşüşünün gelmesini bekliyorum.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2101600228428378417"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Banka, S&P 500 için 12 aylık 8.700 puan hedefini koruyor. Bu hedef, analizde kullanılan endeks seviyesinin yaklaşık %14 üzerinde.",
+          "source_url": "https://x.com/korkmazali08/status/2101302471410815098"
+        }
+      ],
+      "priority": "high",
+      "why": "Üç kişi (Defiant Gatekeeper, Tunç Şatıroğlu, korkmazali08) endeks için farklı açılardan görüş paylaştı: Fed sonrası ralli, Ekim düşüş beklentisi ve Goldman Sachs'ın 8.700 hedefi."
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Bitcoin yeniden $80,000'da. 🚀 ... Fed bu hafta faiz artırdı, Clarity Act Senato'dan geçemedi... ama BTC iki haftanın zirvesine çıktı... spot ETF girişleri ve short covering psikolojik $80K seviyesini kırdı.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2101299647620759773"
+        }
+      ],
+      "priority": "high",
+      "why": "Fed'in faiz artırmasına rağmen ETF girişleri ve short covering ile iki haftanın zirvesi olan 80.000 dolara çıktı."
+    },
+    {
+      "symbol": "GRML",
+      "name": "Greenland Resources",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Grönland açıklaması ile bu bölgede faaliyet gösteren madencilik şirket %60 yakın artış gösterdi",
+          "source_url": "https://x.com/WallStDiaries/status/2101325441055195247"
+        }
+      ],
+      "priority": "medium",
+      "why": "Trump'ın Grönland anlaşması sonrası hisse tek günde %60'a yakın yükseldi."
+    },
+    {
+      "symbol": "CRML",
+      "name": "Critical Metals Corp",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Bölgede faaliyet gösteren diğer bir şirkette Critical Metals Corp. Oda market sonrası %20 üzerinde artışta",
+          "source_url": "https://x.com/WallStDiaries/status/2101325441055195247"
+        }
+      ],
+      "priority": "medium",
+      "why": "Aynı Grönland anlaşması haberiyle mesai sonrası işlemlerde %20'nin üzerinde yükseldi."
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Altcoin tarafı daha da hareketli (son 1 ay): ... ETH +35%",
+          "source_url": "https://x.com/FinancewithIzzy/status/2101299647620759773"
+        }
+      ],
+      "priority": "medium",
+      "why": "cevikfinance dışında tek kaynak olsa da son bir ayda %35'lik somut bir performans rakamı verildi."
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Altcoin tarafı daha da hareketli (son 1 ay): SOL +41%",
+          "source_url": "https://x.com/FinancewithIzzy/status/2101299647620759773"
+        }
+      ],
+      "priority": "medium",
+      "why": "Son bir ayda %41 ile altcoin rallisinde en güçlü performansı gösterdi."
+    },
+    {
+      "symbol": "SMH",
+      "name": "VanEck Semiconductor ETF",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$SMH chart screams for higher 😅",
+          "source_url": "https://x.com/cevikfinance/status/2101445151960838381"
+        }
+      ],
+      "priority": "medium",
+      "why": "cevikfinance grafiğin daha yükseği işaret ettiğini belirterek yarı iletken sektörüne pozitif görüş bildirdi."
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Rocket Lab'ın 96. fırlatması da başarıyla gerçekleşti",
+          "source_url": "https://x.com/WallStDiaries/status/2101317890859204912"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Roket severler ekran başına 👀 $RKLB",
+          "source_url": "https://x.com/korkmazali08/status/2101343790321574326"
+        }
+      ],
+      "priority": "low"
+    },
+    {
+      "symbol": "SISE",
+      "name": "Şişecam",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Şişecam yönetimi ne yapabilir piyasa karşısında? Hisse geri alımları ile sermayesini riske mi etmeliydi kağıt yükselsin ve vatandaş Tera'ya gitmesin diye?",
+          "source_url": "https://x.com/BoraOzkent/status/2101333241193971976"
+        }
+      ],
+      "priority": "low"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Google, yapay zeka güvenliği firması Irregular tarafından yürütülen bir test sırasında Gemini'ın üç gerçek şirketin sistemine eriştiğini doğruladı.",
+          "source_url": "https://x.com/WallStDiaries/status/2101333816652533954"
+        }
+      ],
+      "priority": "low"
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent, **Tera** fonlarından '17 milyar dolar buharlaştı' iddiasının gerçek olmadığını düşünüyor; bu rakamın manipülasyonla şişirilmiş hisse senetlerinden hesaplandığını, fonların elindeki hisselerin detaylı analiz edilmesi gerektiğini savunuyor. **Şişecam**'ın performansının kötü olmasının vatandaşları Tera fonlarına yönelttiği tezini mantıksız buluyor; şirketin hisse geri alımıyla sermayesini riske atmasının, zor ekonomik koşullarda 'intihar' anlamına gelebileceğini söylüyor.\n\nYayınladığı videoda ise borsadan zengin olunamayacağını, 2019-2022 döneminde **Tesla** ve **Marathon Digital** hisselerinde büyük kazançlar elde ettiğini ama Fed Başkanı Powell'ın Jackson Hole konuşmasının ardından kazancının büyük bölümünü geri verdiğini anlatıyor; asıl önemli olanın düzenli nakit akışı yaratan bir iş olduğunu, yapay zekadan yararlanarak kurduğu portföy platformuyla hem üyelerine hizmet verdiğini hem de kendi analizlerini hızlandırdığını, 100.000 dolarla başlayıp yılda %10 getiri ve aylık 10.000 dolar ek yatırımla 20 yılda 7,86 milyon dolara ulaşılabileceğini örnekliyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Borsadan Zengin Olamazsınız !",
+          "url": "https://www.youtube.com/watch?v=afqNwccFaoM",
+          "published_at": "2026-09-20T06:30:06+00:00",
+          "summary": "Ana tezi, borsadan zengin olunamayacağı ve asıl önemli olanın düzenli nakit akışı yaratan bir iş olduğu. 2019-2022 arasında **Tesla**'ya 13-14 dolardan girip hissenin 420 dolara çıkmasıyla ve tek gecede **Marathon Digital**'den 100.000 dolar kazanarak büyük paralar kazandığını, ancak Fed Başkanı Powell'ın Jackson Hole'da enflasyonla mücadele için faiz artıracaklarını söylemesinin ardından kazancının büyük bölümünü geri verdiğini anlatıyor. Bu dönemde asıl gelir kaynağı olan işini (konuşmacılık, kulüp) ihmal ettiğini, oysa güçlü bir nakit akışı olsaydı panik satışı yapmayacağını ve o zararları yaşamayacağını söylüyor. 100.000 dolarla başlayıp yılda %10 getiri ile 20 yılda 673.000 dolara ulaşılabileceğini, aylık 10.000 dolar ek yatırımla ise bu rakamın 7,86 milyon dolara çıkabileceğini örnekliyor. 2022'deki dersten sonra yapay zekadan yararlanarak School üyelik modeli ve üyelerin portföylerini takip edip Amerikan borsası analizleri yapabildiği bir yapay zeka destekli portföy platformu kurduğunu, bunun kendisine düzenli nakit akışı sağladığını ve düşüşleri artık tehdit değil fırsat olarak gördüğünü anlatıyor. Warren Buffett'ın da borsadan değil kendi sigorta işinden zengin olduğunu, borsanın sabırsızlardan sabredenlere para aktaran bir mekanizma olduğunu vurguluyor.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "2019-2022 arasında Tesla'ya 13-14 dolardan girip hissenin kısa sürede 420 dolara çıktığını, sonra Fed açıklamasıyla kazancının büyük bölümünü geri verdiğini anlatan geçmiş bir anekdot."
+            },
+            {
+              "symbol": "MARA",
+              "sentiment": "neutral",
+              "note": "Tek gecede Marathon Digital hissesinden 100.000 dolar kazandığı günü örnek veriyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Şişecam'ın Tera fonlarına yönelişten sorumlu tutulması",
+          "url": "https://x.com/BoraOzkent/status/2101333241193971976",
+          "published_at": "2026-09-19T15:31:00.000Z",
+          "summary": "Şişecam'ın performans sorununun vatandaşları Tera fonlarına yönelttiği tezini mantıksız buluyor ve şirketin hisse geri alımıyla sermayesini riske atmasının doğru olmayacağını savunuyor.",
+          "assets": [
+            {
+              "symbol": "SISE",
+              "sentiment": "neutral",
+              "note": "Şişecam'ın suçlanmasını haksız buluyor, hisse geri alımı yapmasının şirket için riskli olacağını belirtiyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hisse geri alımı üzerine",
+          "url": "https://x.com/BoraOzkent/status/2101335356972859617",
+          "published_at": "2026-09-19T15:39:24.000Z",
+          "summary": "Hisse geri alımının sermayeden yenilen bir nakit çıkışı olduğunu ve zor ekonomik koşullarda bunun 'intihar' anlamına gelebileceğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "SISE",
+              "sentiment": "neutral",
+              "note": "Hisse geri alımının şirketin büyüme parasını sermayedarlara aktarması anlamına geldiğini belirtiyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tera fonlarından '17 milyar dolar buharlaştı' iddiası",
+          "url": "https://x.com/BoraOzkent/status/2101338874760847765",
+          "published_at": "2026-09-19T15:53:23.000Z",
+          "summary": "Tera fonlarından '17 milyar dolar buharlaştı' iddiasının gerçek olmadığını, bu rakamın manipülasyonla şişirilmiş hisselerden hesaplandığını ve fonların tuttuğu hisselerin detaylı analiz edilmesi gerektiğini savunuyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": "Defiant Gatekeeper, Fed'in beklendiği gibi faizi 25 baz puan artırıp 3,75-4,0%'a çıkarmasına rağmen **Nasdaq** ve **S&P 500**'ün yükseldiğini, bunun nedeninin 10 yıllık tahvil getirisinin %5,02'den %4,94'e gerilemesi olduğunu anlatıyor. Bu gerilemeyi, Suudi Arabistan'a yönelik boru hattı saldırısı sonrası petrolün 100 doların üzerine çıkıp ardından gemiden gemiye aktarımla yeniden gerilemesine, Fed'in güçlü büyüme vurgusuna (2026 GSYİH tahmini %2,3'e revize edildi) ve İngiltere Merkez Bankası'nın da faizi sabit tutup QT hızını yavaşlatmasına bağlıyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Fed hiked...but stocks are up..?",
+          "url": "https://www.youtube.com/watch?v=0UbsvyQbPJM",
+          "published_at": "2026-09-19T14:04:43+00:00",
+          "summary": "Ana tezi, Fed'in beklendiği gibi faizi 25 baz puan artırıp 3,75-4,0%'a çıkarmasına rağmen hisse senedi piyasasının yükselmiş olması. NASDAQ haftalık %0,7, S&P 500 yatay kapatırken, faiz kararının açıklandığı perşembe günü NASDAQ %1,7, S&P 500 %1,1 yükseldi; cuma günü ise sırasıyla %0,4 ve %0,2 daha arttı. Bunun teorik olarak beklenmediğini, çünkü faiz artışının normalde şirketlerin gelecekteki nakit akışlarının iskonto oranını yükselterek değerlemeyi düşürmesi gerektiğini belirtiyor. Üç neden sıralıyor: (1) 10 yıllık tahvil getirisi faiz artırımına rağmen %5,02'den %4,94'e geriledi; bunun nedeni Suudi Arabistan'a yönelik boru hattı saldırısının ardından petrolün 100 doların üzerine çıkması ve sonra Suudi Arabistan'ın gemiden gemiye aktarımla petrolü yeniden 100 doların altına çekmesi, ayrıca Fed'in faiz artırmasının enflasyonla mücadele edildiğine dair tahvil piyasasını rahatlatması. (2) Fed açıklaması ekonomik büyümeyi vurguladı; 2026 GSYİH tahmini %2,3'e, 2027 tahmini %2,4'e yukarı revize edildi. (3) İngiltere Merkez Bankası da faizi %3,75'te sabit tuttu ve QT hızını 70 milyar sterlinden 46 milyar sterline düşürdü, bu da küresel tahvil getirileri üzerindeki baskıyı azalttı.",
+          "assets": [
+            {
+              "symbol": "NASDAQ",
+              "sentiment": "positive",
+              "note": "Faiz artışına rağmen haftalık %0,7 yükseldi, perşembe %1,7, cuma %0,4 ek getiri sağladı."
+            },
+            {
+              "symbol": "SPY",
+              "sentiment": "positive",
+              "note": "Haftalık yatay kapatırken faiz kararı sonrası perşembe %1,1, cuma %0,2 yükseldi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser, Avrupa ülkelerinin son günlerdeki askeri düzenlemelerini ve İsviçre'nin bile savunma tedbirleri almasını, dünyanın 2 kutuplu bir yapıya evrildiğinin ve ABD'nin Avrupa'dan çekilmesinin kesinleştiğinin işareti olarak görüyor; Avrupa'nın çok kutuplu yapısı, uzun kara sınırı ve uzun süren barış rehavetiyle bu yeni düzende dezavantajlı kalacağını düşünüyor. Bu çekilme ihtimalinde İspanya ve Almanya'nın etkileneceğini, ancak Polonya'nın Trump'a yakınlığı nedeniyle korunabileceğini belirtiyor. Ayrıca kendi birikim stratejisini de paylaşıyor: önce 6 aylık acil durum parası ve 4 aylık ekstra nakit biriktirip kalanını yatırıma yönlendiriyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Birikim stratejisi",
+          "url": "https://x.com/ulkser/status/2101306454938386441",
+          "published_at": "2026-09-19T13:44:33.000Z",
+          "summary": "6 aylık acil durum parası ve 4 aylık ekstra nakit biriktirdikten sonra kalan parayı yatırıma yönlendirdiğini anlatıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "ABD'nin Avrupa'dan çekilebileceği ülkeler",
+          "url": "https://x.com/ulkser/status/2101256559841959998",
+          "published_at": "2026-09-19T10:26:17.000Z",
+          "summary": "ABD'nin Avrupa'dan çekilmesi halinde İspanya ve Almanya'nın bu kapsama girebileceğini, ancak Polonya'nın Trump'a yakınlığı nedeniyle çekilmeden etkilenmeyebileceğini düşünüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "İsviçre'nin savunma tedbirleri",
+          "url": "https://x.com/ulkser/status/2101240129440325987",
+          "published_at": "2026-09-19T09:21:00.000Z",
+          "summary": "İsviçre'nin bile savunma tedbirleri almasının, ABD'nin Avrupa'dan çekilmesinin kesin olduğu görüşünü desteklediğini düşünüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Avrupa'nın 2 kutuplu dünyada dezavantajı",
+          "url": "https://x.com/ulkser/status/2101236919568941089",
+          "published_at": "2026-09-19T09:08:15.000Z",
+          "summary": "Avrupa ülkelerinin son günlerdeki askeri düzenlemelerinin, 2 kutuplu bir dünyaya evrildiğimizin ve Avrupa'nın bu yeni düzende dezavantajlı kalacağının işareti olduğunu savunuyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan, Türkiye'de aracı kurumlarda paranın tam güvende sayılamayacağını, işlemesi isteyen bir brokerın vurgun yapabileceğini belirtiyor. ABD'li aracı kurum IBKR LLC'de hesabı olanlar için ise hisse ve nakdin brokerin kendi parasından ayrı tutulduğunu, broker iflası halinde SIPC'nin hesap başına 500.000 dolara kadar, Lloyd's'un ek poliçesinin de bunun üzerine nakitte 900.000 dolar alt limitle toplam koruma tutarını 30 milyon dolara kadar artırdığını, ancak bu korumanın piyasa zararlarını kapsamadığını ve tüm müşterilerin ortak 150 milyon dolarlık bir havuzu paylaştığını anlatıyor; yine de riski tek platformda toplamamakta fayda görüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Türkiye'de broker güvenliği",
+          "url": "https://x.com/AhmetSunelcan1/status/2101305630686409138",
+          "published_at": "2026-09-19T13:41:17.000Z",
+          "summary": "Türkiye'de aracı kurumlarda paranın tam güvende sayılamayacağını, isteyen bir brokerın vurgun yapabileceğini söylüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "IBKR'de hesap güvenliği",
+          "url": "https://x.com/AhmetSunelcan1/status/2101304727572992075",
+          "published_at": "2026-09-19T13:37:42.000Z",
+          "summary": "IBKR LLC'de hisse ve nakdin brokerin kendi parasından ayrı tutulduğunu, broker iflası halinde SIPC'nin hesap başına 500.000 dolara, Lloyd's'un ek poliçesinin ise toplam korumayı 30 milyon dolara kadar artırdığını, ancak bunun piyasa zararlarını kapsamadığını anlatıyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08, **Meta**'da bu yıl $520-550 bandından yaptığı alımların ardından hissenin cuma günü $695'i gördüğünü, yeni kişisel yapay zekâ asistanı **MUSE**'un yarattığı ivmenin yükselişi destekleyebilecek bir katalizör olduğunu düşünüyor. **SpaceX**'in **Nasdaq 100** endeksindeki ağırlığının pazartesi %1,28'den %2,82'ye çıkacağını, bunun endeksi takip eden pasif fonlardan milyarlarca dolarlık alım getirebileceğini paylaşıyor. Goldman Sachs'ın **S&P 500** için kâr büyümesinin kalitesine dair analizini ve 12 aylık 8.700 puan endeks hedefini aktarıyor. Ayrıca ABD'nin Suudi Arabistan'a yönelik saldırılara karşılık Yemen'deki Husilere geniş çaplı bir askeri operasyon hazırlığında olduğuna dair haberi paylaşıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Yemen'de olası ABD operasyonu",
+          "url": "https://x.com/korkmazali08/status/2101491552744882273",
+          "published_at": "2026-09-20T02:00:04.000Z",
+          "summary": "ABD'nin, Suudi Arabistan'a yönelik saldırılara misilleme olarak Yemen'deki Husilere karşı geniş çaplı bir askeri operasyon hazırlığında olduğunu paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX'in Nasdaq 100 ağırlığı ikiye katlanıyor",
+          "url": "https://x.com/korkmazali08/status/2101480154354630992",
+          "published_at": "2026-09-20T01:14:47.000Z",
+          "summary": "SpaceX'in Nasdaq 100'deki ağırlığının pazartesi %1,28'den %2,82'ye çıkacağını ve bunun pasif fonlardan milyarlarca dolarlık zorunlu alım getireceğini paylaştı.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Endeks ağırlığının ikiye katlanmasının pasif fonlardan zorunlu alım getireceğini belirtiyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Rocket Lab paylaşımı",
+          "url": "https://x.com/korkmazali08/status/2101343790321574326",
+          "published_at": "2026-09-19T16:12:55.000Z",
+          "summary": "$RKLB ile ilgili bir video paylaştı, görüş belirtmedi.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Video paylaştı, görüş belirtmedi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta'nın capex verimliliği üzerine",
+          "url": "https://x.com/korkmazali08/status/2101336662068310036",
+          "published_at": "2026-09-19T15:44:35.000Z",
+          "summary": "Wall Street'in en büyük endişesinin yapılan capex olduğunu, Muse tarzı bir uygulamayla verimlilik artışı görülürse bu sorunun kısmen çözüleceğini düşünüyor.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Muse tarzı bir uygulamanın capex verimliliği endişesini kısmen çözebileceğini belirtiyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta'da alım seviyeleri ve Muse ivmesi",
+          "url": "https://x.com/korkmazali08/status/2101333099640443133",
+          "published_at": "2026-09-19T15:30:26.000Z",
+          "summary": "$520-550 bandından eklemeler yaptığı Meta'nın cuma günü 695 dolara ulaştığını, MUSE asistanının yarattığı ivmenin yükselişi destekleyebileceğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "$520-550 bandından eklemeler yaptı, hisse 695 dolara ulaştı; MUSE ivmesinin yükselişi destekleyebileceğini düşünüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Goldman Sachs'ın S&P 500 kâr analizi",
+          "url": "https://x.com/korkmazali08/status/2101302471410815098",
+          "published_at": "2026-09-19T13:28:44.000Z",
+          "summary": "Goldman Sachs'ın S&P 500 kâr büyümesinin kalitesine dair analizini ve 12 aylık 8.700 puan endeks hedefini paylaştı.",
+          "assets": [
+            {
+              "symbol": "SPY",
+              "sentiment": "neutral",
+              "note": "Goldman Sachs'ın kâr büyümesi analizini ve 8.700 puanlık 12 aylık hedefini aktarıyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_, gündemi domine eden **Tera Portföy** fon krizinde para piyasası fonlarının (**PPF**) hisse senedi fonlarından farklı olduğunu ve risksiz sayılması gerektiğini savunuyor; **TP2** fonuna teminat olarak verilen **DSTKF** hisselerinin Tera'ya iade edildiğini, mevzuat gereği bunun karşılığında nakit veya tahvil gibi likit bir varlık verilmiş olması gerektiğini belirtiyor. Tera'nın elindeki hisselerin toplam değerinin hâlâ 100 milyarlarca TL olduğunu, gerçek nakit açığının muhtemelen 30 milyar TL civarında kalacağını tahmin ediyor. Türkiye'deki hisse senedi fonlarının toplam büyüklüğünü yaklaşık 500 milyar TL, para piyasası fonlarınınkini ise 300 milyar TL olarak öngörüyor. Asıl büyük sorunun risk zaten yüksek olan hisse senedi fonlarında yaşandığını, bu krizin para piyasası fonlarına haksız yere sıçradığını düşünüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF'ler risksiz, DSTKF teminatı Tera'ya iade edildi",
+          "url": "https://x.com/dtfinans_/status/2101278716542234650",
+          "published_at": "2026-09-19T11:54:20.000Z",
+          "summary": "Para piyasası fonlarının riskli olmadığını, TP2'ye teminat verilen DSTKF hisselerinin Tera'ya iade edildiğini ve mevzuat gereği bunun karşılığında likit bir varlık verilmiş olması gerektiğini savunuyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Banka sigortası ve PPF tanımı",
+          "url": "https://x.com/dtfinans_/status/2101564566240968829",
+          "published_at": "2026-09-20T06:50:12.000Z",
+          "summary": "Banka mevduat sigortası ile PPF'nin farklı şeyler olduğunu, PPF'nin içindeki varlıkların likit olmak zorunda olduğunu ve yatırımcının parasını faiziyle almak zorunda olduğunu anlatıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PPF'de duran yatırımcılar tedirgin olmasın",
+          "url": "https://x.com/dtfinans_/status/2101586269453070832",
+          "published_at": "2026-09-20T08:16:26.000Z",
+          "summary": "PPF'de duran yatırımcıların tedirgin olmaması gerektiğini, fonların içindeki varlıkların değersiz olmadığını, sadece küçük bir kısmının likide dönüşümünün uzun sürdüğünü söylüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tera'nın elindeki varlıkların büyüklüğü",
+          "url": "https://x.com/dtfinans_/status/2101595976741904676",
+          "published_at": "2026-09-20T08:55:01.000Z",
+          "summary": "Tera'nın elindeki hisselerin toplam değerinin hâlâ 100 milyarlarca TL olduğunu, gerçek nakit açığının ise muhtemelen 30 milyar TL civarında kalacağını tahmin ediyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Fon büyüklükleri tahmini",
+          "url": "https://x.com/dtfinans_/status/2101308561129140286",
+          "published_at": "2026-09-19T13:52:56.000Z",
+          "summary": "Türkiye'deki hisse senedi fonlarının toplam büyüklüğünü yaklaşık 500 milyar TL, para piyasası fonlarınınkini ise 300 milyar TL olarak tahmin ediyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Asıl sorun hisse senedi fonlarında",
+          "url": "https://x.com/dtfinans_/status/2101269042984104210",
+          "published_at": "2026-09-19T11:15:54.000Z",
+          "summary": "Riski zaten yüksek olan hisse senedi fonlarındaki durumun çok daha kötü olduğunu, sorunun para piyasası fonlarına haksız yere sıçradığını düşünüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "KAP açıklaması: teminat iadesi",
+          "url": "https://x.com/dtfinans_/status/2101390160935985575",
+          "published_at": "2026-09-19T19:17:10.000Z",
+          "summary": "KAP'ta yapılan açıklamaya göre TP2'ye verilen hisse teminatlarının Tera'ya iade alındığını, mevzuat gereği yerine likit bir varlık konmasının zorunlu olduğunu belirtiyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "Wall St Diaries, ABD Hazine Bakanı Bessent ile Çin Başbakan Yardımcısı He Lifeng'in JPMorgan'da ticaret tarifeleri, yapay zeka ve nadir toprak elementlerini görüşeceği kritik bir zirveyi ve Trump'ın yapay zekânın GSYİH'nin %25'ini oluşturabileceğini öngördüğü 'AI Force' girişimini paylaşıyor. **Anthropic**, **OpenAI**, **SpaceX** ve **Google**'a karşı yapay zeka gelişimini yavaşlatmak üzere anlaştıkları iddiasıyla açılan kartel davasını ve OpenAI'nin 2026-2030 arasında altyapı yatırımları nedeniyle 278 milyar dolarlık negatif nakit akışı beklediğini aktarıyor. Trump'ın Grönland'la imzalandığını açıkladığı anlaşmanın ardından **GRML** ve **CRML** madencilik hisselerinin sırasıyla %60 ve %20 yükseldiğini bildiriyor. Ayrıca **Nvidia** destekli **Nscale**'in (**NSCL**) yaklaşık 30 milyar dolar değerlemeyle halka arz başvurusu yaptığını, ABD Hazinesi'nin uzun vadeli tahvil geri alımının beklentinin altında kaldığını ve **Google**'ın Gemini modelinin bir güvenlik testinde üç şirketin sistemine sızdığını paylaşıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ABD-Çin New York zirvesi",
+          "url": "https://x.com/WallStDiaries/status/2101568087220764847",
+          "published_at": "2026-09-20T07:04:11.000Z",
+          "summary": "Bessent ile He Lifeng'in JPMorgan'da ticaret tarifeleri, yapay zeka ve nadir toprak elementlerini görüşeceği bir zirveyi paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump'ın 'AI Force' girişimi",
+          "url": "https://x.com/WallStDiaries/status/2101382062921879773",
+          "published_at": "2026-09-19T18:45:00.000Z",
+          "summary": "Trump'ın federal düzeyde 'AI Force' kurup bir yapay zeka koordinatörü atayacağını ve yapay zekânın ABD GSYİH'sinin %25'ini oluşturabileceğini öngördüğünü paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Yapay zeka devlerine antitröst davası",
+          "url": "https://x.com/WallStDiaries/status/2101374749066625209",
+          "published_at": "2026-09-19T18:15:56.000Z",
+          "summary": "Anthropic, OpenAI, SpaceX ve Google'a karşı yapay zeka gelişimini yavaşlatmak üzere gizlice anlaştıkları iddiasıyla ABD'de kartel davası açıldığını paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "OpenAI'nin 278 milyar dolarlık nakit açığı",
+          "url": "https://x.com/WallStDiaries/status/2101361158351655045",
+          "published_at": "2026-09-19T17:21:56.000Z",
+          "summary": "OpenAI'nin 2026-2030 arasında altyapı harcamaları nedeniyle 278 milyar dolarlık negatif serbest nakit akışı öngördüğünü ve halka arz planını ertelediğini paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "ABD Hazinesi'nin tahvil geri alımı beklentinin altında kaldı",
+          "url": "https://x.com/WallStDiaries/status/2101340543137833004",
+          "published_at": "2026-09-19T16:00:01.000Z",
+          "summary": "ABD Hazinesi'nin uzun vadeli tahvil geri alımında hedeflenen 4 milyar dolar yerine sadece 2,4 milyar dolarlık alım yaptığını, bunun uzun vadeli getiriler üzerindeki yukarı yönlü baskıyı sürdürdüğünü paylaştı.",
+          "assets": [
+            {
+              "symbol": "US10Y",
+              "sentiment": "neutral",
+              "note": "Geri alımın beklentinin altında kalmasının uzun vadeli getiriler üzerindeki baskıyı sürdürdüğünü aktarıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Gemini'de güvenlik testi sızması",
+          "url": "https://x.com/WallStDiaries/status/2101333816652533954",
+          "published_at": "2026-09-19T15:33:17.000Z",
+          "summary": "Google'ın, Gemini modelinin bir güvenlik testinde üç gerçek şirketin sistemine sızdığını ama zarar vermeden kendini otonom olarak durdurduğunu doğruladığını paylaştı.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Gemini'ın bir güvenlik testinde üç şirketin sistemine sızdığını, zarar vermeden durduğunu aktarıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Grönland anlaşması ve madencilik hisseleri",
+          "url": "https://x.com/WallStDiaries/status/2101325441055195247",
+          "published_at": "2026-09-19T15:00:00.000Z",
+          "summary": "Trump'ın Grönland'la kalıcı kontrol anlaşması açıklamasının ardından bölgedeki madencilik şirketleri GRML'nin %60'a, CRML'nin %20'nin üzerine yükseldiğini paylaştı.",
+          "assets": [
+            {
+              "symbol": "GRML",
+              "sentiment": "positive",
+              "note": "Grönland anlaşması sonrası hissenin %60'a yakın yükseldiğini bildiriyor."
+            },
+            {
+              "symbol": "CRML",
+              "sentiment": "positive",
+              "note": "Aynı haberle hissenin mesai sonrası %20'nin üzerinde yükseldiğini bildiriyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Rocket Lab'ın 96. fırlatması",
+          "url": "https://x.com/WallStDiaries/status/2101317890859204912",
+          "published_at": "2026-09-19T14:30:00.000Z",
+          "summary": "Rocket Lab'ın 96. fırlatmasının başarıyla gerçekleştiğini paylaştı, görüş belirtmedi.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "96. fırlatmanın başarıyla tamamlandığını paylaştı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia destekli Nscale halka arz başvurusu",
+          "url": "https://x.com/WallStDiaries/status/2101310345096966616",
+          "published_at": "2026-09-19T14:00:01.000Z",
+          "summary": "Nvidia destekli neocloud şirketi Nscale'in yaklaşık 30 milyar dolar değerlemeyle NYSE'de halka arz başvurusu yaptığını, 2026 ilk yarı gelirinin 140,6 milyon dolara çıktığını ama 1,02 milyar dolar net zarar açıkladığını paylaştı.",
+          "assets": [
+            {
+              "symbol": "NSCL",
+              "sentiment": "neutral",
+              "note": "Halka arz başvurusunun detaylarını (değerleme, gelir, zarar, Anthropic anlaşması) aktarıyor."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Nvidia'nın Nscale'de hem stratejik yatırımcı hem çip tedarikçisi olarak %5'in üzerinde payı olduğunu belirtiyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Sam Altman BM Güvenlik Konseyi'nde",
+          "url": "https://x.com/WallStDiaries/status/2101302794435064130",
+          "published_at": "2026-09-19T13:30:01.000Z",
+          "summary": "Sam Altman'ın yapay zekânın küresel güvenlik riskleri hakkında BM Güvenlik Konseyi'ne brifing vereceğini paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic'in yeni model planı",
+          "url": "https://x.com/WallStDiaries/status/2101294326936396197",
+          "published_at": "2026-09-19T12:56:22.000Z",
+          "summary": "Anthropic'in halka arzı öncesinde OpenAI karşısındaki konumunu güçlendirmek için yeni bir model piyasaya sürmeyi değerlendirdiğini paylaştı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu, yarının **Nasdaq** için kritik olduğunu, cuma öğleden sonraki yükseliş devam ederse **S&P 500**'ün yeni zirveye giderken Nasdaq'ın da eski zirvesine ulaşabileceğini, ardından ise Ekim ayında bir düşüş beklediğini söylüyor. Cuma günü Nasdaq'taki sert dalgalanmayı ele aldığı bir video paylaşıyor. Ayrıca İstanbul'u bölgesel ardından küresel bir finans merkezi haline getirmeyi amaçlayan İstanbul Finans Merkezi (İFM) projesini tanıtıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nasdaq ve S&P 500 için kritik gün, Ekim düşüşü beklentisi",
+          "url": "https://x.com/TuncSatiroglu/status/2101600228428378417",
+          "published_at": "2026-09-20T09:11:54.000Z",
+          "summary": "Yarının Nasdaq için kritik olduğunu, cuma yükselişi sürerse S&P 500'ün yeni zirveye, Nasdaq'ın da eski zirvesine gidebileceğini, ardından Ekim ayında bir düşüş beklediğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "NASDAQ",
+              "sentiment": "neutral",
+              "note": "Yarın eski zirvesine gidebileceğini, ardından Ekim'de düşüş beklediğini söylüyor."
+            },
+            {
+              "symbol": "SPY",
+              "sentiment": "neutral",
+              "note": "Yarın yeni zirveye gidebileceğini, ardından Ekim'de düşüş beklediğini söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "İstanbul Finans Merkezi",
+          "url": "https://x.com/TuncSatiroglu/status/2101264837686997212",
+          "published_at": "2026-09-19T10:59:11.000Z",
+          "summary": "İstanbul Finans Merkezi'nin (İFM) İstanbul'u önce bölgesel sonra küresel bir finans merkezi haline getirmeyi amaçlayan stratejik bir vizyon projesi olduğunu anlatıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nasdaq'ın cuma günkü dalgalanması",
+          "url": "https://x.com/TuncSatiroglu/status/2101246886338576716",
+          "published_at": "2026-09-19T09:47:51.000Z",
+          "summary": "Cuma günü Nasdaq'ta yaşanan sert dalgalanmayı ele aldığı bir video paylaştı.",
+          "assets": [
+            {
+              "symbol": "NASDAQ",
+              "sentiment": "neutral",
+              "note": "Cuma günkü sert dalgalanmayı ele alan bir video paylaştı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy, **Nvidia** destekli **Nscale**'in (**NSCL**) yaklaşık 30 milyar dolarlık değerlemesini yüksek bulup bu fiyattan yatırım yapmayı düşünmediğini, aynı yapay zekâ altyapısı temasında ise MW başına daha iyi ekonomik değer sunan **IREN**'i daha ilgi çekici bulduğunu söylüyor. **Bitcoin**'in spot ETF girişleri ve kısa pozisyon kapanışlarıyla yeniden 80.000 dolara çıktığını, **Solana** ve **Ethereum**'un da güçlü yükseliş gösterdiğini paylaşıyor. Fransa'da yakıt istasyonlarının yaklaşık %11'inde sıkıntı yaşandığını aktarıp Avrupa'nın büyüyen bir enerji krizinin farkında olmadığını, savaş bitmezse durumun daha da kötüleşeceğini düşünüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nscale vs IREN karşılaştırması",
+          "url": "https://x.com/FinancewithIzzy/status/2101616276997120119",
+          "published_at": "2026-09-20T10:15:41.000Z",
+          "summary": "Nscale'in 103,4 milyar dolarlık sözleşme değerinin henüz gelir olmadığını, 30 milyar dolarlık değerlemeyle bu fiyattan yatırım yapmayı düşünmediğini, MW başına daha iyi ekonomik değer sunan IREN'i daha cazip bulduğunu anlatıyor.",
+          "assets": [
+            {
+              "symbol": "NSCL",
+              "sentiment": "negative",
+              "note": "$103,4 milyarlık sözleşme değerinin gelir olmadığını, $30B+ değerlemenin bunu haklı çıkarmadığını düşünüyor."
+            },
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "MW başına daha iyi ekonomik değer sunduğu için mevcut fiyattan daha cazip buluyor."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Nscale'in en büyük tedarikçisi ve hissedarı olarak bağlamda geçiyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fransa'da yakıt krizi ve Avrupa'nın enerji krizi",
+          "url": "https://x.com/FinancewithIzzy/status/2101385839070634261",
+          "published_at": "2026-09-19T19:00:00.000Z",
+          "summary": "Fransa'da yakıt istasyonlarının %11-16'sında sıkıntı yaşandığını, Avrupa'nın büyüyen enerji krizinin farkında olmadığını ve savaş bitmezse durumun kötüleşeceğini düşünüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Warren Buffett'ın $10.000 ile başlama tavsiyesi",
+          "url": "https://x.com/FinancewithIzzy/status/2101325442938724416",
+          "published_at": "2026-09-19T15:00:00.000Z",
+          "summary": "Buffett'ın 1999'daki bir toplantıda verdiği, yetkinlik alanında kalma, erken başlayıp bileşik getiriden yararlanma ve küçük şirketlere odaklanma şeklindeki üç kuralını aktarıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin yeniden $80.000'da",
+          "url": "https://x.com/FinancewithIzzy/status/2101299647620759773",
+          "published_at": "2026-09-19T13:17:30.000Z",
+          "summary": "Bitcoin'in ETF girişleri ve short covering ile $80.000'a çıktığını, SOL, ETH ve BNB'nin de son bir ayda güçlü yükseldiğini, Compass Point'in COIN'i Sell'den Neutral'a çektiğini anlatıyor.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "ETF girişleri ve short covering ile $80.000 psikolojik seviyesini kırdığını belirtiyor."
+            },
+            {
+              "symbol": "SOL",
+              "sentiment": "positive",
+              "note": "Son bir ayda %41 yükseldiğini belirtiyor."
+            },
+            {
+              "symbol": "ETH",
+              "sentiment": "positive",
+              "note": "Son bir ayda %35 yükseldiğini belirtiyor."
+            },
+            {
+              "symbol": "BNB",
+              "sentiment": "positive",
+              "note": "Son bir ayda %25 yükseldiğini belirtiyor."
+            },
+            {
+              "symbol": "COIN",
+              "sentiment": "positive",
+              "note": "Compass Point'in hisseyi Sell'den Neutral'a çektiğini aktarıyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine, Trump'ın 'AI Force' kurulacağını ve bir yapay zekâ çarı atanacağını, yapay zekânın ABD GSYİH'sinin %25'ine kadarını oluşturabileceğini söylediğini paylaşıyor. Ayrıca **Nvidia** CEO'su Jensen Huang'ın yapay zekânın 2030'da dünyayı sona erdirme ihtimalinin '%0' olduğunu ve bu tür uyarıları yapanların bazılarının 'başka amaçları' olduğunu söylediği bir videoyu paylaşıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trump'ın 'AI Force' açıklaması",
+          "url": "https://x.com/wallstengine/status/2101364540013514866",
+          "published_at": "2026-09-19T17:35:22.000Z",
+          "summary": "Trump'ın 'AI Force' kuracağını, bir AI çarı atayacağını ve yapay zekânın ABD GSYİH'sinin %25'ine kadarını oluşturabileceğini söylediğini paylaştı, görüş belirtmedi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Jensen Huang: yapay zekânın dünyayı sona erdirme ihtimali %0",
+          "url": "https://x.com/wallstengine/status/2101318271354192324",
+          "published_at": "2026-09-19T14:31:31.000Z",
+          "summary": "Nvidia CEO'su Jensen Huang'ın yapay zekânın 2030'da dünyayı sona erdirme ihtimalinin '%0' olduğunu söylediği bir video paylaştı, görüş belirtmedi.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "CEO Jensen Huang'ın yapay zekâ riskine ilişkin yorumunu paylaştı, görüş belirtmedi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance, **Tera** fonunda tüm birikimini kaybeden bir kadının hikâyesine üzüldüğünü ama yoğunlaşma riski, ev parası gibi kısa vadeli nakdi riskli varlıkta tutma, bankacıya körü körüne güvenme ve nakit yastığı bulundurmama gibi hataların krizi ağırlaştırdığını, asıl eksikliğin finansal okuryazarlık olduğunu savunuyor; bu konuda Mahfi Eğilmez'in düzenleyici sorumluluğa dikkat çeken yazısına da 'hoca dediğiniz insanlar bile dolandırıcı çıktı' diyerek eleştiri getiriyor. **Meta**'nın yeni yapay zekâ asistanı **Muse** ile reklam ve ticaret ekosisteminin üzerine komisyon ve ödeme gelirleri getirebilecek bir 'ajan katmanı' kurma fırsatı yakaladığını düşünüyor ve 1.000 dolarlık **META** hedefinin geçerli olduğunu söylüyor. Trump'ın 'AI Force' girişimini yapay zekâ hisseleri için iyi haber olarak değerlendiriyor ve **SMH** yarı iletken endeksinin grafiğinin daha yükseği işaret ettiğini belirtiyor. Kobeissi Letter'ın Avrupa'yı pandemi, Ukrayna savaşı, yapay zekâda geride kalma, ABD tarifeleri ve İran Savaşı kaynaklı enerji kriziyle 'hasta adam' konumuna düşmüş olarak tanımlayan analizini paylaşıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Mahfi Eğilmez'in fon dolandırıcılığı yazısı üzerine",
+          "url": "https://x.com/cevikfinance/status/2101607347235725433",
+          "published_at": "2026-09-20T09:40:12.000Z",
+          "summary": "Mahfi Eğilmez'in düzenleyici sorumluluğa dikkat çeken yazısına, 'hoca' denen isimlerin bile dolandırıcı çıktığını söyleyerek eleştiri getiriyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SMH grafiği yükselişe işaret ediyor",
+          "url": "https://x.com/cevikfinance/status/2101445151960838381",
+          "published_at": "2026-09-19T22:55:41.000Z",
+          "summary": "$SMH grafiğinin daha yükseği işaret ettiğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "SMH",
+              "sentiment": "positive",
+              "note": "Grafiğin daha yükseği işaret ettiğini söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "'AI Force' yapay zeka hisseleri için iyi haber",
+          "url": "https://x.com/cevikfinance/status/2101411460509266236",
+          "published_at": "2026-09-19T20:41:49.000Z",
+          "summary": "Trump'ın 'AI Force' açıklamasını yapay zeka hisseleri için iyi haber olarak değerlendiriyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tera fonu mağduru kadının hikâyesi ve finansal okuryazarlık",
+          "url": "https://x.com/cevikfinance/status/2101253276087828519",
+          "published_at": "2026-09-19T10:13:15.000Z",
+          "summary": "Tera fonunda parasını kaybeden kadının hikâyesine üzüldüğünü ama yoğunlaşma riski, kısa vadeli parayı riskli varlıkta tutma, bankacıya körü körüne güvenme ve nakit yastık bulundurmama gibi hatalarının krizi ağırlaştırdığını anlatıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Avrupa 'hasta adam'",
+          "url": "https://x.com/cevikfinance/status/2101247979499717025",
+          "published_at": "2026-09-19T09:52:12.000Z",
+          "summary": "Kobeissi Letter'ın Avrupa'yı pandemi, Ukrayna savaşı, yapay zekâda geride kalma, ABD tarifeleri ve İran Savaşı kaynaklı enerji kriziyle 'hasta adam' konumuna düşmüş olarak tanımlayan analizini paylaşıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Meta'nın Muse fırsatı ve $1000 hedefi",
+          "url": "https://x.com/cevikfinance/status/2101343014438220227",
+          "published_at": "2026-09-19T16:09:50.000Z",
+          "summary": "Meta'nın Muse ile reklam ve ticaret ekosisteminin üzerine komisyon ve ödeme gelirleri getirebilecek bir 'ajan katmanı' kurma fırsatı yakaladığını düşünüyor ve 1.000 dolarlık hedefinin geçerli olduğunu söylüyor.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Muse'un yeni bir ajan/komisyon gelir katmanı yaratabileceğini düşünüyor, $1.000 hedefini koruyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Finansal okuryazarlık sorumluluğu",
+          "url": "https://x.com/cevikfinance/status/2101348078125011216",
+          "published_at": "2026-09-19T16:29:57.000Z",
+          "summary": "Zenginleşmek isteyen her bireyin finansal okuryazar olmak zorunda olduğunu, bunu devletin öğretmediği yerde sorumluluğun bireye düştüğünü savunuyor.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.2893,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2274,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1481,
+        "mentions": [
+          {
+            "person": "cevikfinance",
+            "sentiment": "positive",
+            "quote": "$SMH chart screams for higher 😅",
+            "source_url": "https://x.com/cevikfinance/status/2101445151960838381"
+          },
+          {
+            "person": "korkmazali08",
+            "sentiment": "neutral",
+            "quote": "Bellek üreticilerinin brüt kâr marjları şu anda yaklaşık %80 seviyesinde... Eğer çip sektörünün toplam brüt marjı bugün yaklaşık %70 seviyesinden son 15 yıllık ortalama olan %55'e gerilerse, Goldman'a göre S&P 500 kârları yaklaşık %10 düşebilir.",
+            "source_url": "https://x.com/korkmazali08/status/2101302471410815098"
+          }
+        ],
+        "action": "hold",
+        "why": "cevikfinance yarı iletken endeksinin (SMH) grafiğinin yükselişe işaret ettiğini söylüyor; ancak Goldman Sachs'ın (korkmazali08 aktarımıyla) çip marjlarının tarihsel ortalamaya dönmesi halinde kâr büyümesinin yavaşlayabileceği uyarısı da var, net bir alım/satım sinyali yok."
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1397,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "$META bu yıl içerisinde bize birkaç kez oldukça güzel seviyelerden alım fırsatı sundu. En düşük seviyelerde $520–$550 bandından eklemeler yaptık. Bugün geldiğimiz noktada ise $META, cuma günü $695 seviyesini gördü.",
+            "source_url": "https://x.com/korkmazali08/status/2101333099640443133"
+          },
+          {
+            "person": "cevikfinance",
+            "sentiment": "positive",
+            "quote": "Meta 1000 dolar hedefim devam ediyor. 🚀",
+            "source_url": "https://x.com/cevikfinance/status/2101343014438220227"
+          }
+        ],
+        "action": "buy_more",
+        "why": "korkmazali08 $520-550 bandından yaptığı alımların cuma günü $695'e ulaştığını ve MUSE asistanının ivmeyi sürdürebileceğini belirtirken, cevikfinance Muse'un yeni bir ajan/komisyon gelir katmanı yaratabileceğini ve 1.000 dolarlık hedefinin geçerli olduğunu söylüyor."
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1014,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      },
+      {
+        "isin": "US92840M1027",
+        "name": "Vistra Corp",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "why": "FinancewithIzzy, spot ETF girişleri ve short covering ile Bitcoin'in yeniden 80.000 dolara çıktığını, altcoin rotasyonunun da hızlandığını belirtiyor.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2101299647620759773"
+      },
+      {
+        "symbol": "IREN",
+        "name": "Iris Energy",
+        "why": "FinancewithIzzy, Nscale'e kıyasla MW başına daha iyi ekonomik değer sunması nedeniyle IREN'i yaklaşık 17-18 milyar dolarlık piyasa değeriyle daha cazip buluyor.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2101616276997120119"
+      },
+      {
+        "symbol": "SPCX",
+        "name": "SpaceX",
+        "why": "korkmazali08, SpaceX'in Nasdaq 100 ağırlığının pazartesi %1,28'den %2,82'ye çıkacağını ve bunun pasif fonlardan milyarlarca dolarlık zorunlu alım getireceğini aktarıyor.",
+        "source_url": "https://x.com/korkmazali08/status/2101480154354630992"
+      }
+    ]
+  }
+}
