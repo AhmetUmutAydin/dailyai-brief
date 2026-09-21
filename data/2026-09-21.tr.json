@@ -1,0 +1,773 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T06:30:54Z",
+  "errors": [
+    "Bora Özkent: YouTube video akışı alınamadı, arama sonucu da video getirmedi.",
+    "Defiant Gatekeeper: YouTube video akışı alınamadı, arama sonucu da video getirmedi.",
+    "Barbarians Trading: YouTube video akışı alınamadı, arama sonucu da video getirmedi."
+  ],
+  "attention": [
+    {
+      "title": "Tera fonları krizinde tasfiye kapsamı netleşiyor: 500 bin yatırımcı, ~830 milyar TL",
+      "person": "dtfinans_",
+      "why": "SPK'nın tasfiyesine karar verdiği 131 fon ve 7 portföy yönetim şirketinde yaklaşık 500.000 yatırımcının 827-850 milyar TL (17-18 milyar dolar) büyüklüğünde parası bulunuyor; TERA'nın tasfiyeye giren 5 fonu bu tutarın yaklaşık %64'ünü oluşturuyor.",
+      "source_url": "https://x.com/dtfinans_/status/2101894946814910638"
+    },
+    {
+      "title": "jrouldz: PLTR'da 2021'den beri süren pozisyon artık ~10 kat getiride",
+      "person": "jrouldz",
+      "why": "2021 sonunda girip 2,5 yıl boyunca eleştirilere rağmen ortalama almaya devam ettiği PLTR pozisyonunun bugün ortalama maliyetine göre yaklaşık 10 kat getiride olduğunu ve pozisyonunu hâlâ koruduğunu açıkladı.",
+      "source_url": "https://x.com/jrouldz/status/2101799679365132325"
+    },
+    {
+      "title": "Bernstein: Bakırda 2027'den itibaren ciddi arz açığı bekleniyor",
+      "person": "cevikfinance",
+      "why": "Elektrikli araç, yenilenebilir enerji ve yapay zeka veri merkezi talebinin hızla artmasına karşın yeni maden açmanın 10-15 yıl sürmesi nedeniyle arzın talebi karşılayamayacağını ve bakır üreticisi şirketlerin/ETF'lerin önemli bir yatırım teması olmaya devam edeceğini aktardı.",
+      "source_url": "https://x.com/cevikfinance/status/2101824859974058345"
+    },
+    {
+      "title": "Micron ($MU) gece piyasasında 1.027 dolar seviyesinde",
+      "person": "korkmazali08",
+      "why": "Micron hissesinin gece piyasasında somut bir fiyat seviyesinden, 1.027 dolardan işlem gördüğünü paylaştı.",
+      "source_url": "https://x.com/korkmazali08/status/2101833414907195582"
+    },
+    {
+      "title": "Nvidia CEO'su Jensen Huang: Yapay zeka 'inanılmaz kârlı' bir dönüm noktasına ulaştı",
+      "person": "wallstengine",
+      "why": "Huang, yapay zekanın bu yıl büyük bir dönüm noktasına ulaştığını, talebin patladığını ve token üretiminin artık son derece kârlı olduğunu söyledi; ayrıca ABD'nin en gelişmiş çiplerini önce kendi pazarında kullanması gerektiğini savunarak Dario Amodei'nin Çin'e çip satışının durdurulması çağrısına katılmadığını belirtti.",
+      "source_url": "https://x.com/wallstengine/status/2101679798389223717"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Tera Portföy / TP2 para piyasası fonları krizi",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "TP2 fonundaki DSTKF teminatının toplam fonun yaklaşık %25'i (~50 milyar TL) olduğunu, aynı şirkete verilebilecek borcun fon büyüklüğünün en fazla %10'u ile sınırlı olması nedeniyle Tera'nın bu teminata karşılık en fazla ~22 milyar TL borçlanmış olabileceğini, şirketin ~92-95 milyar TL özkaynağıyla bu borcu karşılayabileceğini ve sorunun varlık değersizleşmesi değil likidite sıkışıklığından kaynaklandığını savundu; SPK'nın PPF'ler için net bir açıklama yapmamasını sert şekilde eleştirdi.",
+          "quote": "TP2'nin içindeki DSTKF'lerin büyüklüğü toplam fonun yaklaşık %25'i kadardı. Bu da yaklaşık 50 milyar TL ediyor... Tera, 50 milyar TL'lik DSTKF hissesine karşılık TP2 fonundan en fazla 22 milyar TL civarında borç almış olabilir... Tera'nın kendi özkaynakları da 30 Haziran itibarıyla toplamda yaklaşık 92–95 milyar TL.",
+          "source_url": "https://x.com/dtfinans_/status/2101625379534303411"
+        },
+        {
+          "person": "jeoekonomiTR",
+          "view": "Fonlardaki çalkantıyı değerlendiren Berk Dinçtürk'ün, küresel sermaye için denetlenebilir piyasaların şart olduğunu belirttiğini ve yüksek kaldıraçlı işlemlerin taşıdığı risklere dikkat çektiğini aktardı.",
+          "quote": "Fonlardaki çalkantıyı değerlendiren ve küresel sermaye için denetlenebilir piyasaların şart olduğunu belirten Berk Dinçtürk, yüksek kaldıraçlı işlemlerin taşıdığı risklere dikkat çekti.",
+          "source_url": "https://x.com/jeoekonomiTR/status/2101733027193688346"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Ülkenin birçok 'saygın' ekonomistinin Tera fonu krizi konusunda bugüne kadar tek kelime etmeyip şimdi köşe yazılarıyla akıl verdiğini eleştirdi.",
+          "quote": "Ülkenin bir çok \"saygın\" ekonomisti Tera fonu konusunda bugüne kadar tek kelime etmemiş, korkularından sessiz kalıp insanları uyarmamış. Şimdi çıkmış paragraflar dolusu köşe yazıları yazıyorlar, millete akıl veriyorlar.",
+          "source_url": "https://x.com/cevikfinance/status/2101741318833643829"
+        }
+      ]
+    },
+    {
+      "topic": "ABD-Çin ticaret görüşmeleri (New York, Bessent-He Lifeng)",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "ABD Hazine Bakanı Bessent'in Çin ile ticaret ve yapay zekâ konusunda 'oldukça başarılı' bir görüşme gerçekleştirdiğini paylaştı ve bunun olumlu olabileceğini belirtti.",
+          "quote": "ABD Hazine Bakanı Scott Bessent, New York'ta gerçekleştirilen görüşmelerin ardından Çin ile ticaret ve yapay zekâ konularında \"oldukça başarılı bir görüşme\" gerçekleştirdiklerini söyledi.",
+          "source_url": "https://x.com/korkmazali08/status/2101827103171748072"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Bessent'in Çin ile ticaret ve yapay zeka konusunda 'çok başarılı bir etkileşim' yaşadığını aktardı, kendi görüşünü eklemedi.",
+          "quote": "U.S. Treasury Secretary Scott Bessent says he \"had a very successful engagement\" with China on trade and AI, after a day of talks in New York, per Reuters.",
+          "source_url": "https://x.com/wallstengine/status/2101822412912570799"
+        }
+      ]
+    },
+    {
+      "topic": "Nvidia CEO'su Jensen Huang'ın kapsamlı röportajı",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "Huang'ın röportajından, yapay zekanın bu yıl büyük bir dönüm noktasına ulaştığını ve token üretiminin artık 'inanılmaz kârlı' olduğunu; ABD'nin en gelişmiş yapay zeka çiplerini önce kendi pazarında kullanması ve Vera Rubin'in zaten seri üretimde olup Çin'in yıllar gerisinde bulunması gerektiğini savunduğunu, ancak Dario Amodei'nin güçlü ABD yapay zeka teknolojisinin Çin'e satışının durdurulması çağrısına kesinlikle katılmadığını; ayrıca sektörün veri merkezleri konusunda toplumlarla yeterince erken iletişime geçmediğini kabul ettiğini aktardı.",
+          "quote": "AI crossed a major turning point earlier this year: It became genuinely useful, demand surged, and token generation is now \"incredibly profitable.\" The capability of the technology has now reached an extremely useful state.",
+          "source_url": "https://x.com/wallstengine/status/2101679798389223717"
+        }
+      ]
+    },
+    {
+      "topic": "Ortadoğu/Ukrayna jeopolitik gerilimi ve enerji-petrol piyasasına etkisi",
+      "views": [
+        {
+          "person": "FinancewithIzzy",
+          "view": "Ukrayna'daki enerji altyapısına yönelik saldırıların sürmesi ve Trump'ın enerji ateşkesinin net bir zemine oturmamasının Avrupa'yı kış öncesi ciddi bir enerji riskiyle karşı karşıya bıraktığını; Yemen-Suudi Arabistan gerilimi ve tanker saldırılarının petrol arzında yeni bir darboğaz riski yarattığını; petrolün yüksek kalması durumunda enflasyon baskısının artıp faiz indirimi beklentilerinin azalacağını ve risk iştahının düşeceğini; Japonya Merkez Bankası'nın faizi %1,25'e yükseltmesinin de küresel likiditeyi etkilediğini belirtti; kendisi pozisyonlarını koruduğunu söyledi.",
+          "quote": "Petrol yüksek kalırsa zincir bence oldukça net: Enerji maliyetleri ↑ Enflasyon baskısı ↑ Faiz indirimi beklentileri ↓ Daha yüksek faiz beklentisi ↑ Risk iştahı ↓... Ben de pozisyonlarımı tutuyorum.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2101628460879732777"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Ukrayna'nın Moskova'ya tek günde 1600'den fazla drone ile saldırı düzenlemesi ve Moskova'daki petrol tesislerinin yanmasının ardından Nasdaq hafta sonu vadeli işlemlerinin yaklaşık %0,35 gerilediğini paylaştı.",
+          "quote": "Ukrayna Moskova'ya tek bir günde 1600'den fazla drone ile toplu saldırı düzenledi. Moskova'daki petrol tesisleri yanıyor. Haber üzerine Nasdaq haftasonu piyasası %0.35 kadar düştü.",
+          "source_url": "https://x.com/cevikfinance/status/2101660921726640580"
+        }
+      ]
+    },
+    {
+      "topic": "Çin'in yarı iletken üretiminde ilerlemesi (CXMT)",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "Çin'in CXMT şirketinin beşinci nesil DRAM platformunda seri üretime başladığını, dört kat desenleme ile bellek hücresi aralığını 11,95nm'ye indirdiğini ve önceki nesle göre gofret başına en az %50 daha fazla çip üretebildiğini, bunun Çin'in yabancı çip üretim teknolojisine bağımlılığını azaltma çabasının bir parçası olduğunu aktardı.",
+          "quote": "CXMT says the platform reduces key memory-cell spacing to 11.95nm using quadruple patterning, allowing more memory to be packed onto each chip... the new platform can produce at least 50% more gross chip dies per wafer than its fourth-generation process.",
+          "source_url": "https://x.com/wallstengine/status/2101636124338720988"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies",
+      "priority": "high",
+      "why": "jrouldz 2021'den beri süren pozisyonunu somut tarih ve getiri (yaklaşık 10x) ile paylaştı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "Entered in late 2021 • kept averaging for 2.5 years through pain • ignored everyone who promised me \"it's just a no-moat consulting company\"... now one of my best performers ever (near 10x on the average)",
+          "source_url": "https://x.com/jrouldz/status/2101799679365132325"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "wallstengine, Nvidia CEO Jensen Huang'ın yapay zekanın büyük bir dönüm noktasına ulaştığına ve token üretiminin artık son derece kârlı olduğuna dair somut açıklamalarını aktardı; ayrıca Huang'ın Çin'e çip satışı konusunda Amodei ile görüş ayrılığını da paylaştı.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "AI crossed a major turning point earlier this year: It became genuinely useful, demand surged, and token generation is now \"incredibly profitable.\"",
+          "source_url": "https://x.com/wallstengine/status/2101679798389223717"
+        }
+      ]
+    },
+    {
+      "symbol": "RGTI",
+      "name": "Rigetti Computing",
+      "priority": "high",
+      "why": "jrouldz pozisyonunun %90'ını net olarak sattığını belirtti.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$RGTI I sold off 90%.",
+          "source_url": "https://x.com/jrouldz/status/2101693514639630435"
+        }
+      ]
+    },
+    {
+      "symbol": "QBTS",
+      "name": "D-Wave Quantum",
+      "priority": "high",
+      "why": "jrouldz pozisyonunun %75'ini net olarak sattığını belirtti.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$QBTS I sold off 75% (mostly Q4 2025 and slowly more through this year).",
+          "source_url": "https://x.com/jrouldz/status/2101693514639630435"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "priority": "medium",
+      "why": "korkmazali08 gece piyasasında somut bir fiyat seviyesi paylaştı (1.027 dolar).",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Gece marketinde $MU $1027 seviyesinde işlem görüyor.",
+          "source_url": "https://x.com/korkmazali08/status/2101833414907195582"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "medium",
+      "why": "jrouldz somut pozisyon geçmişini (satış ve tekrar tutma) paylaştı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$AAPL I kept adding for years after the original buy, as recently as 2020 covid dip, but then sold off all the newer lots and ~half the original lot from late 2021-2022. then switched back to hold",
+          "source_url": "https://x.com/jrouldz/status/2101693514639630435"
+        }
+      ]
+    },
+    {
+      "symbol": "DFTX",
+      "name": "Ault Disruptive Technologies",
+      "priority": "medium",
+      "why": "jrouldz son aylarda pozisyonunun yaklaşık üçte birini sattığını belirtti.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$DFTX and $CRWD I've sold off ~1/3 each (just the past few months)",
+          "source_url": "https://x.com/jrouldz/status/2101693514639630435"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "priority": "medium",
+      "why": "jrouldz son aylarda pozisyonunun yaklaşık üçte birini sattığını belirtti.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$DFTX and $CRWD I've sold off ~1/3 each (just the past few months)",
+          "source_url": "https://x.com/jrouldz/status/2101693514639630435"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Microsoft AI CEO'su Mustafa Süleyman, yapay zekanın kontrol dışına çıkmasını önlemek adına küresel ölçekte ve ABD nezdinde katı güvenlik standartlarının getirilmesi gerektiğini savundu.",
+          "source_url": "https://x.com/WallStDiaries/status/2101743062930112882"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$META's first commercial for Muse.",
+          "source_url": "https://x.com/wallstengine/status/2101656117424402644"
+        }
+      ]
+    },
+    {
+      "symbol": "CRML",
+      "name": "Critical Metals Corp",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "$CRML neden uçtu gece piyasasında? Grönland konusunda anlaşıldığı için mi? Var mı bilen?",
+          "source_url": "https://x.com/cevikfinance/status/2101829863350886865"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent, yatırımda şansla düzenli getiriyi birbirine karıştırmamak gerektiğini; hepimizin çok şanslı yatırımlarla bir anda büyük para kazanabileceğini ama buna süreklilik kazandırmanın hiç kolay olmadığını vurguladı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Şans ve düzenli getiri",
+          "url": "https://x.com/BoraOzkent/status/2101634380238037354",
+          "published_at": "2026-09-20T11:27:37.000Z",
+          "summary": "İnsanların şansla düzenli getiriyi karıştırdığını, şanslı büyük kazançların olabileceğini ama bunu sürdürülebilir kılmanın kolay olmadığını söyledi.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": "jeoekonomiTR, Berk Dinçtürk'ün fonlardaki çalkantıyı değerlendirdiği ve küresel sermaye için denetlenebilir piyasaların şart olduğunu belirttiği, yüksek kaldıraçlı işlemlerin taşıdığı risklere dikkat çektiği bir videoyu paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Berk Dinçtürk: kaldıraç riski ve denetlenebilir piyasalar",
+          "url": "https://x.com/jeoekonomiTR/status/2101733027193688346",
+          "published_at": "2026-09-20T17:59:36.000Z",
+          "summary": "Berk Dinçtürk'ün fon çalkantısını değerlendirip yüksek kaldıraçlı işlemlerin risklerine dikkat çektiği bir videoyu paylaştı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08, ABD Hazine Bakanı Scott Bessent'in New York'ta Çin ile ticaret ve yapay zekâ konularında \"oldukça başarılı\" görüşmeler yürüttüğünü ve bunun olumlu olabileceğini aktardı. Gece piyasasında **MU** (Micron) hissesinin 1.027 dolar seviyesinden işlem gördüğünü paylaştı. ABD borsalarında düşük hacimli small-cap hisselerde sosyal medya fenomenlerine gizli ödemeler yapılarak fiyat manipülasyonu yapıldığını, SEC'in 2022'de bu şekilde yaklaşık 100 milyon dolar haksız kazanç sağlayan sekiz kişiye dava açtığını hatırlatarak artan kripto 'kazanç' paylaşımlarına dikkat çekti. ABD vadeli endeksleri haftaya yatay bir başlangıç yaptı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ABD-Çin görüşmesi 'başarılı' geçti",
+          "url": "https://x.com/korkmazali08/status/2101827103171748072",
+          "published_at": "2026-09-21T00:13:26.000Z",
+          "summary": "Bessent'in New York'ta Çin ile ticaret ve yapay zekâ konusunda 'oldukça başarılı' bir görüşme yaptığını paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Micron gece piyasasında 1.027 dolarda",
+          "url": "https://x.com/korkmazali08/status/2101833414907195582",
+          "published_at": "2026-09-21T00:38:30.000Z",
+          "summary": "$MU'nun gece piyasasında 1.027 dolar seviyesinden işlem gördüğünü paylaştı.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Gece piyasasında 1.027 dolar seviyesinden işlem gördüğünü bildirdi, yön belirtmedi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kripto fenomenlerinin PR paylaşımlarına uyarı",
+          "url": "https://x.com/korkmazali08/status/2101831816806056145",
+          "published_at": "2026-09-21T00:32:09.000Z",
+          "summary": "Son günlerde artan 'ne kadar kazandım' tarzı kripto paylaşımlarının muhtemelen PR amaçlı olduğu konusunda uyardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "ABD vadeli endeksleri yatay açıldı",
+          "url": "https://x.com/korkmazali08/status/2101794489387876536",
+          "published_at": "2026-09-20T22:03:50.000Z",
+          "summary": "ABD vadeli endekslerinin haftaya yatay bir başlangıç yaptığını paylaştı (Dow +%0,07, S&P +%0,06, Nasdaq -%0,07, Russell -%0,11, VIX 18,08).",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Small-cap hisselerde influencer manipülasyonu uyarısı",
+          "url": "https://x.com/korkmazali08/status/2101777575353725197",
+          "published_at": "2026-09-20T20:56:37.000Z",
+          "summary": "Düşük hacimli small-cap hisselerde sosyal medya fenomenlerine gizli ödemeler yapılarak manipülasyon yapıldığını, SEC'in 2022'de bu yolla ~100 milyon dolar kazanç sağlayan sekiz kişiye dava açtığını hatırlattı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_, TP2 fonundaki DSTKF teminatının toplam fonun yaklaşık %25'i (~50 milyar TL) olduğunu, tek şirkete verilebilecek ters repo sınırının %10 olması nedeniyle Tera'nın bu teminata karşılık en fazla ~22 milyar TL borçlanmış olabileceğini, şirketin ~92-95 milyar TL özkaynağıyla bu borcu karşılayabileceğini hesapladı ve sorunun varlık değersizleşmesi değil likidite sıkışıklığından kaynaklandığını savundu. Tera'nın TRJ, FSU, TMM ve TRU fonlarındaki tüm satış taleplerini karşıladığını hatırlatarak TP2'de sorun çıkma ihtimalinin çok düşük olduğunu belirtti. SPK'nın PPF'ler için net, ayrı bir açıklama yapmamasını sert şekilde eleştirdi ve mağdurların yaşadığı çaresizliğe dikkat çekti.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "DSTKF teminat matematiği: Tera'nın borcu en fazla ~22 milyar TL",
+          "url": "https://x.com/dtfinans_/status/2101625379534303411",
+          "published_at": "2026-09-20T10:51:51.000Z",
+          "summary": "TP2'deki DSTKF teminatının ~50 milyar TL (fonun %25'i) olduğunu, %10 tek şirket sınırı nedeniyle Tera'nın en fazla ~22 milyar TL borçlanmış olabileceğini ve ~92-95 milyar TL özkaynakla bu borcu karşılayabileceğini hesapladı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Teminat çıkışı düzeltmesi: nakitle kapatılmış olmalı",
+          "url": "https://x.com/dtfinans_/status/2101638180403322986",
+          "published_at": "2026-09-20T11:42:43.000Z",
+          "summary": "DSTKF'lerin TP2 teminatından çıkması için borcun teminat takası değil nakitle kapatılmış olması gerektiğini açıkladı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PPF tasfiyesinin boyutu: 500 bin yatırımcı, ~830 milyar TL",
+          "url": "https://x.com/dtfinans_/status/2101894946814910638",
+          "published_at": "2026-09-21T04:43:01.000Z",
+          "summary": "SPK'nın tasfiyesine karar verdiği 131 fonda yaklaşık 500.000 yatırımcının 827-850 milyar TL'sinin bulunduğunu ve TERA'nın 5 fonunun bu tutarın %64'ünü oluşturduğunu paylaşarak SPK'yı hızlı ödeme yapmaması için eleştirdi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tera'nın diğer fonlarda tüm satış talepleri karşılandı",
+          "url": "https://x.com/dtfinans_/status/2101718451878240475",
+          "published_at": "2026-09-20T17:01:41.000Z",
+          "summary": "Tera'nın TRJ, FSU, TMM ve TRU fonlarındaki tüm satış taleplerini karşıladığını, bunun TP2'de sorun çıkma ihtimalini iyice düşürdüğünü belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Takasbank'ta likidite blokajı",
+          "url": "https://x.com/dtfinans_/status/2101717045733663119",
+          "published_at": "2026-09-20T16:56:06.000Z",
+          "summary": "Çok fazla satış talebi gelmesi nedeniyle Takasbank'ın blokaj koyduğunu ve bunun bir likidite sorunu olduğunu açıkladı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SPK'ya ayrı PPF açıklaması çağrısı",
+          "url": "https://x.com/dtfinans_/status/2101892455264079939",
+          "published_at": "2026-09-21T04:33:07.000Z",
+          "summary": "SPK'yı PPF'leri hisse fonlarıyla aynı kefeye koymakla ve mağdurlara net açıklama yapmamakla eleştirdi.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries, Microsoft (**MSFT**) Yapay Zeka CEO'su Mustafa Süleyman'ın, yapay zekanın kontrolden çıkmasını önlemek için hem küresel hem ABD çapında katı güvenlik standartları çağrısında bulunduğunu, Çin ile rekabet gerekçesinin temel önlemleri ertelemek için kullanılmaması gerektiğini savunduğunu ve yapay zekaya insan benzeri haklar verilmesine karşı çıktığını aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Mustafa Süleyman'dan yapay zeka güvenliği çağrısı",
+          "url": "https://x.com/WallStDiaries/status/2101743062930112882",
+          "published_at": "2026-09-20T18:39:29.000Z",
+          "summary": "Microsoft AI CEO'su Mustafa Süleyman'ın yapay zekada katı güvenlik standartları çağrısında bulunduğunu ve Çin rekabetinin bu önlemleri ertelemek için gerekçe olamayacağını söylediğini paylaştı.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Mustafa Süleyman'ın yapay zeka güvenlik standartları çağrısını aktardı, kendi görüşünü eklemedi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu, İstanbul Finans Merkezi'nin (İFM) küresel finans dünyasının yeni merkezi olma yolunda emin adımlarla ilerlediğini belirtti. Ayrıca Peter Lynch'in pazartesi günleri satış yapılmaması yönündeki öğüdünü hatırlattı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "İstanbul Finans Merkezi vizyonu",
+          "url": "https://x.com/TuncSatiroglu/status/2101915889960702101",
+          "published_at": "2026-09-21T06:06:14.000Z",
+          "summary": "İstanbul Finans Merkezi'nin küresel finans dünyasının yeni merkezi olma yolunda emin adımlarla ilerlediğini belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Peter Lynch'in pazartesi öğüdü",
+          "url": "https://x.com/TuncSatiroglu/status/2101643038556831905",
+          "published_at": "2026-09-20T12:02:01.000Z",
+          "summary": "Peter Lynch'in pazartesi günleri satış yapılmaması yönündeki öğüdünü hatırlattı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy, Ukrayna'daki enerji altyapısı saldırılarının sürmesi, Trump'ın enerji ateşkesinin net bir zemine oturmaması ve Yemen-Suudi Arabistan geriliminin petrol arzında yeni bir darboğaz riski yarattığını; bunun enflasyon baskısını artırıp faiz indirimi beklentilerini azaltabileceğini ve risk iştahını düşürebileceğini, ayrıca Japonya Merkez Bankası'nın faizi %1,25'e yükseltmesinin küresel likiditeyi de etkilediğini belirtti. Bu tabloya rağmen kendi pozisyonlarını koruduğunu söyledi. Brian Feroldi'nin, iyi bir şirkette hikaye bozulmadığı sürece kalabilmenin önemine dair paylaşımını aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Jeopolitik risk zinciri ve faiz beklentileri",
+          "url": "https://x.com/FinancewithIzzy/status/2101628460879732777",
+          "published_at": "2026-09-20T11:04:06.000Z",
+          "summary": "Ukrayna ve Ortadoğu'daki jeopolitik gerilimlerin petrolü yukarı, dolayısıyla enflasyon baskısını yukarı, faiz indirimi beklentisini aşağı çekebileceğini anlattı ve pozisyonlarını koruduğunu söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Brian Feroldi: erken satış hatası",
+          "url": "https://x.com/FinancewithIzzy/status/2101628688572006907",
+          "published_at": "2026-09-20T11:05:00.000Z",
+          "summary": "Brian Feroldi'nin, doğru şirkette hikaye bozulmadığı sürece kalabilmenin en pahalı yatırım hatalarından erken satıştan kaçınmak için önemli olduğuna dair paylaşımını aktardı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine, Nvidia CEO'su Jensen Huang'ın kapsamlı röportajından, yapay zekanın bu yıl büyük bir dönüm noktasına ulaştığını ve token üretiminin artık 'inanılmaz kârlı' olduğunu, ABD'nin en gelişmiş **NVDA** çiplerini önce kendi pazarında kullanması gerektiğini ve Dario Amodei'nin Çin'e güçlü yapay zeka teknolojisi satışını durdurma çağrısına katılmadığını aktardı. ABD Hazine Bakanı Bessent'in Çin ile ticaret ve yapay zeka konusunda 'çok başarılı bir etkileşim' yaşadığını paylaştı. Çin'in CXMT şirketinin beşinci nesil DRAM platformunda seri üretime geçtiğini ve bunun Çin'in yabancı çip teknolojisine bağımlılığını azaltma çabasının bir parçası olduğunu aktardı. **META**'nın Muse için ilk reklamını yayınladığını paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Jensen Huang: AI 'inanılmaz kârlı' dönüm noktasına ulaştı",
+          "url": "https://x.com/wallstengine/status/2101679798389223717",
+          "published_at": "2026-09-20T14:28:05.000Z",
+          "summary": "Huang'ın, yapay zekanın bu yıl büyük bir dönüm noktasına ulaştığını ve token üretiminin artık inanılmaz kârlı olduğunu söylediğini paylaştı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "CEO Huang'a göre yapay zeka talebi patladı ve token üretimi artık son derece kârlı, teknoloji 'son derece kullanışlı' bir seviyeye ulaştı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Huang: ABD gelişmiş çipleri önce kendi pazarında kullanmalı",
+          "url": "https://x.com/wallstengine/status/2101682548158202069",
+          "published_at": "2026-09-20T14:39:01.000Z",
+          "summary": "Huang'ın, ABD'nin en gelişmiş NVDA çiplerini önce kendi pazarında kullanması gerektiğini, ancak Amodei'nin Çin'e çip satışını durdurma çağrısına katılmadığını söylediğini paylaştı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Huang, Vera Rubin'in zaten seri üretimde olduğunu ve Çin'in yıllar gerisinde kaldığını, ancak Amodei'nin ihracat durdurma çağrısına katılmadığını söyledi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Huang: veri merkezleri konusunda topluluklarla geç konuştuk",
+          "url": "https://x.com/wallstengine/status/2101686262935753097",
+          "published_at": "2026-09-20T14:53:47.000Z",
+          "summary": "Huang'ın, yapay zeka sektörünün veri merkezleri konusunda toplumlarla yeterince erken iletişime geçmediğini kabul ettiğini paylaştı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Huang, yeni tesislerin daha az su kullandığını ve güç/yol/okul finansmanına destek olması gerektiğini söyledi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bessent-Çin görüşmesi 'çok başarılı'",
+          "url": "https://x.com/wallstengine/status/2101822412912570799",
+          "published_at": "2026-09-20T23:54:47.000Z",
+          "summary": "Bessent'in Çin ile ticaret ve yapay zeka konusunda çok başarılı bir görüşme yaptığını aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Çin'in CXMT'si 5. nesil DRAM'de seri üretime geçti",
+          "url": "https://x.com/wallstengine/status/2101636124338720988",
+          "published_at": "2026-09-20T11:34:33.000Z",
+          "summary": "CXMT'nin beşinci nesil DRAM platformunda seri üretime başladığını ve gofret başına en az %50 daha fazla çip üretebildiğini paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Meta'nın ilk Muse reklamı",
+          "url": "https://x.com/wallstengine/status/2101656117424402644",
+          "published_at": "2026-09-20T12:53:59.000Z",
+          "summary": "Meta'nın Muse için ilk reklamını yayınladığını paylaştı.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Meta'nın yeni AI ürünü Muse için ilk ticari reklamını paylaştı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz, $PLTR'a 2021 sonunda girdiğini, iki buçuk yıl boyunca 'moatsuz danışmanlık şirketi' ve 'aşırı değerli' eleştirilerini görmezden gelerek pozisyonunu artırmaya devam ettiğini ve bugün ortalama maliyetine göre yaklaşık 10 kat getiri elde ettiğini, bunun uzun vadeli inançla acı çekerek ortalama almanın en iyi örneklerinden biri olduğunu anlattı. Diğer yandan $AAPL pozisyonunun büyük kısmını elinde tutarken $RGTI'nin %90'ını, $QBTS'nin %75'ini, $DFTX ve $CRWD'nin ise yaklaşık üçte birini sattığını belirtti.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PLTR'da 2,5 yıllık sabırlı pozisyon artık ~10x'te",
+          "url": "https://x.com/jrouldz/status/2101799679365132325",
+          "published_at": "2026-09-20T22:24:27.000Z",
+          "summary": "2021 sonunda girdiği PLTR pozisyonunu 2,5 yıl boyunca eleştirilere rağmen artırmaya devam ettiğini ve bugün ortalama maliyetine göre yaklaşık 10 kat getiride olduğunu, pozisyonunu koruduğunu anlattı.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "2021 sonunda girdi, 2,5 yıl ortalama aldı, bugün ortalama maliyetine göre ~10x getiride ve pozisyonunu koruyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AAPL, RGTI, QBTS, DFTX, CRWD pozisyon güncellemesi",
+          "url": "https://x.com/jrouldz/status/2101693514639630435",
+          "published_at": "2026-09-20T15:22:36.000Z",
+          "summary": "AAPL'de yeni lotları ve orijinal lotun yarısını sattığını, RGTI'nin %90'ını, QBTS'nin %75'ini, DFTX ve CRWD'nin ise yaklaşık üçte birini sattığını, diğer pozisyonlarında ise hiç kâr realize etmediğini açıkladı.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Yıllarca ekleme yaptıktan sonra yeni lotları ve orijinal lotun yarısını sattı, sonra tekrar tutmaya döndü."
+            },
+            {
+              "symbol": "RGTI",
+              "sentiment": "negative",
+              "note": "Pozisyonunun %90'ını sattı."
+            },
+            {
+              "symbol": "QBTS",
+              "sentiment": "negative",
+              "note": "Pozisyonunun %75'ini sattı."
+            },
+            {
+              "symbol": "DFTX",
+              "sentiment": "negative",
+              "note": "Pozisyonunun yaklaşık üçte birini sattı."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "negative",
+              "note": "Pozisyonunun yaklaşık üçte birini sattı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance, Bernstein'ın hazırladığı bir grafiğe dayanarak elektrikli araçlar, yenilenebilir enerji ve yapay zeka veri merkezleri talebiyle bakır piyasasında 2027'den itibaren ciddi bir arz açığı beklendiğini, yeni maden açmanın 10-15 yıl sürebildiğini ve bu nedenle bakır üreticisi şirketlerin ve bakır ETF'lerinin önemli bir yatırım teması olmaya devam edeceğini aktardı. Ukrayna'nın Moskova'ya bir günde 1600'den fazla drone ile saldırı düzenlemesinin ardından Nasdaq hafta sonu vadeli işlemlerinin yaklaşık %0,35 gerilediğini paylaştı. Ülkenin birçok 'saygın' ekonomistinin Tera fonu krizi konusunda bugüne kadar sessiz kalıp şimdi akıl verdiğini eleştirdi. Gece piyasasında $CRML'in neden yükseldiğini sorguladı; Grönland anlaşmasıyla ilişkili olabileceğini düşündü ama emin olamadı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bernstein: Bakırda 2027'den itibaren arz açığı",
+          "url": "https://x.com/cevikfinance/status/2101824859974058345",
+          "published_at": "2026-09-21T00:04:31.000Z",
+          "summary": "Bernstein'ın grafiğine göre 2027'den itibaren bakırda ciddi arz açığı beklendiğini ve bakır üreticisi şirketlerin/ETF'lerin önemli bir yatırım teması olacağını aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Ukrayna'nın Moskova'ya drone saldırısı, Nasdaq vadelileri düştü",
+          "url": "https://x.com/cevikfinance/status/2101660921726640580",
+          "published_at": "2026-09-20T13:13:05.000Z",
+          "summary": "Ukrayna'nın Moskova'ya 1600'den fazla drone ile saldırı düzenlemesinin ardından Nasdaq hafta sonu vadeli işlemlerinin yaklaşık %0,35 gerilediğini paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Sessiz kalan ekonomistlere eleştiri",
+          "url": "https://x.com/cevikfinance/status/2101741318833643829",
+          "published_at": "2026-09-20T18:32:33.000Z",
+          "summary": "Birçok 'saygın' ekonomistin Tera fonu krizinde bugüne kadar sessiz kalıp şimdi köşe yazılarıyla akıl verdiğini eleştirdi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "CRML'nin gece piyasasındaki yükselişi sorgusu",
+          "url": "https://x.com/cevikfinance/status/2101829863350886865",
+          "published_at": "2026-09-21T00:24:24.000Z",
+          "summary": "$CRML'nin gece piyasasında neden yükseldiğini, Grönland anlaşmasıyla ilgili olup olmadığını sordu, net bilgisi olmadığını belirtti.",
+          "assets": [
+            {
+              "symbol": "CRML",
+              "sentiment": "neutral",
+              "note": "Gece piyasasındaki yükselişin nedenini sordu, Grönland anlaşmasıyla bağlantılı olabileceğini düşündü ama emin değildi."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.2893,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2274,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1481,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1397,
+        "mentions": [
+          {
+            "person": "wallstengine",
+            "sentiment": "neutral",
+            "quote": "$META's first commercial for Muse.",
+            "source_url": "https://x.com/wallstengine/status/2101656117424402644"
+          }
+        ],
+        "action": "hold",
+        "why": "wallstengine'a göre Meta bugün Muse için ilk reklamını yayınladı; bu tek başına pozisyon değişikliği gerektirecek somut bir gerekçe değil."
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1014,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      },
+      {
+        "isin": "US92840M1027",
+        "name": "Vistra Corp",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "PLTR",
+        "name": "Palantir Technologies",
+        "why": "jrouldz'a göre 2021 sonunda girdiği pozisyonu, eleştirilere rağmen 2,5 yıl boyunca ortalama alarak artırmaya devam etti; bugün ortalama maliyetine göre yaklaşık 10 kat getiride ve pozisyonunu hâlâ koruyor.",
+        "source_url": "https://x.com/jrouldz/status/2101799679365132325"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "why": "wallstengine'ın aktardığına göre CEO Jensen Huang, yapay zekanın 'inanılmaz kârlı' bir dönüm noktasına ulaştığını ve talebin patladığını söyledi; ayrıca ABD'nin en gelişmiş çiplerini önce kendi pazarında kullanması gerektiğini savundu.",
+        "source_url": "https://x.com/wallstengine/status/2101679798389223717"
+      }
+    ]
+  }
+}

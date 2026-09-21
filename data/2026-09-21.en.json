@@ -1,0 +1,773 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T06:30:54Z",
+  "errors": [
+    "Bora Özkent: could not fetch the YouTube feed; the search fallback also returned no videos.",
+    "Defiant Gatekeeper: could not fetch the YouTube feed; the search fallback also returned no videos.",
+    "Barbarians Trading: could not fetch the YouTube feed; the search fallback also returned no videos."
+  ],
+  "attention": [
+    {
+      "title": "Scope of Tera fund liquidation crisis becomes clearer: 500,000 investors, ~830 billion TL",
+      "person": "dtfinans_",
+      "why": "The 131 funds and 7 portfolio management companies the CMB (SPK) ordered liquidated hold roughly 827-850 billion TL (17-18 billion dollars) belonging to about 500,000 investors; TERA's 5 liquidated funds account for about 64% of that total.",
+      "source_url": "https://x.com/dtfinans_/status/2101894946814910638"
+    },
+    {
+      "title": "jrouldz: PLTR position running since 2021 now up ~10x",
+      "person": "jrouldz",
+      "why": "Said he entered PLTR in late 2021 and kept averaging in for 2.5 years despite criticism, and that the position is now up roughly 10x on his average cost while he still holds it.",
+      "source_url": "https://x.com/jrouldz/status/2101799679365132325"
+    },
+    {
+      "title": "Bernstein: a serious copper supply deficit expected from 2027",
+      "person": "cevikfinance",
+      "why": "Said demand from EVs, renewable energy and AI data centers is rising fast while opening a new copper mine can take 10-15 years, so supply won't keep up with demand, and copper producers/ETFs will remain a major investment theme.",
+      "source_url": "https://x.com/cevikfinance/status/2101824859974058345"
+    },
+    {
+      "title": "Micron ($MU) trading at $1,027 in the overnight market",
+      "person": "korkmazali08",
+      "why": "Shared a concrete overnight price level for Micron: trading at $1,027.",
+      "source_url": "https://x.com/korkmazali08/status/2101833414907195582"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang: AI has reached an 'incredibly profitable' turning point",
+      "person": "wallstengine",
+      "why": "Huang said AI reached a major turning point this year, demand surged, and token generation is now extremely profitable; he also argued the US should use its most advanced chips domestically first, disagreeing with Dario Amodei's call to stop selling powerful AI chips to China.",
+      "source_url": "https://x.com/wallstengine/status/2101679798389223717"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Tera Portföy / TP2 money market fund crisis",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Argued that DSTKF collateral inside the TP2 fund was about 25% of the fund (~50 billion TL), that since a single counterparty can be lent at most 10% of fund size Tera could have borrowed at most ~22 billion TL against that collateral, that the company's ~92-95 billion TL in equity could cover that debt, and that the problem stems from a liquidity squeeze rather than asset devaluation; sharply criticized the CMB (SPK) for not issuing a clear statement on PPFs.",
+          "quote": "The DSTKF holdings inside TP2 were about 25% of the total fund. That's roughly 50 billion TL... Against that 50 billion TL of DSTKF shares, Tera may have borrowed at most around 22 billion TL from the TP2 fund... Tera's own equity as of June 30 also totals roughly 92-95 billion TL.",
+          "source_url": "https://x.com/dtfinans_/status/2101625379534303411"
+        },
+        {
+          "person": "jeoekonomiTR",
+          "view": "Relayed that Berk Dinçtürk, assessing the turmoil in the funds, said regulated markets are essential for global capital and flagged the risks carried by highly leveraged transactions.",
+          "quote": "Assessing the turmoil in the funds and stating that regulated markets are essential for global capital, Berk Dinçtürk flagged the risks carried by highly leveraged transactions.",
+          "source_url": "https://x.com/jeoekonomiTR/status/2101733027193688346"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Criticized many of the country's 'respected' economists for not saying a word about the Tera fund crisis until now, and now churning out op-eds lecturing the public.",
+          "quote": "Many of the country's \"respected\" economists haven't said a single word about the Tera fund matter until now, staying silent out of fear instead of warning people. Now they've come out writing paragraphs of op-eds, lecturing everyone.",
+          "source_url": "https://x.com/cevikfinance/status/2101741318833643829"
+        }
+      ]
+    },
+    {
+      "topic": "US-China trade talks (New York, Bessent-He Lifeng)",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "Shared that US Treasury Secretary Bessent held a 'quite successful' meeting with China on trade and AI, and said this could be positive.",
+          "quote": "US Treasury Secretary Scott Bessent said that following talks held in New York, they had a \"quite successful meeting\" with China on trade and AI matters.",
+          "source_url": "https://x.com/korkmazali08/status/2101827103171748072"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Relayed that Bessent had a 'very successful engagement' with China on trade and AI, without adding his own view.",
+          "quote": "U.S. Treasury Secretary Scott Bessent says he \"had a very successful engagement\" with China on trade and AI, after a day of talks in New York, per Reuters.",
+          "source_url": "https://x.com/wallstengine/status/2101822412912570799"
+        }
+      ]
+    },
+    {
+      "topic": "Nvidia CEO Jensen Huang's wide-ranging interview",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "Relayed that from Huang's interview, AI reached a major turning point this year and token generation is now 'incredibly profitable'; that the US should use its most advanced AI chips domestically first, with Vera Rubin already in volume production and China years behind, though he strongly disagreed with Dario Amodei's call to stop selling powerful US AI technology to China; and that the industry admitted it didn't engage communities on data centers early enough.",
+          "quote": "AI crossed a major turning point earlier this year: It became genuinely useful, demand surged, and token generation is now \"incredibly profitable.\" The capability of the technology has now reached an extremely useful state.",
+          "source_url": "https://x.com/wallstengine/status/2101679798389223717"
+        }
+      ]
+    },
+    {
+      "topic": "Middle East/Ukraine geopolitical tension and impact on energy-oil markets",
+      "views": [
+        {
+          "person": "FinancewithIzzy",
+          "view": "Said continued attacks on Ukraine's energy infrastructure and Trump's energy ceasefire failing to take firm shape are putting Europe back at serious energy risk before winter; that Yemen-Saudi Arabia tension and tanker attacks are raising a new bottleneck risk in oil supply; that if oil stays high, inflation pressure would rise, rate-cut expectations would fall, and risk appetite would drop; and that the Bank of Japan raising rates to 1.25% is also a separate factor for global liquidity; said he himself is holding his positions.",
+          "quote": "If oil stays high, I think the chain is quite clear: energy costs up, inflation pressure up, rate-cut expectations down, higher-rate expectations up, risk appetite down... I'm holding my positions too.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2101628460879732777"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Shared that after Ukraine launched a single-day attack of over 1,600 drones on Moscow, Nasdaq weekend futures fell about 0.35%.",
+          "quote": "Ukraine launched a mass attack of more than 1,600 drones on Moscow in a single day. Oil facilities in Moscow are burning. Following the news, Nasdaq's weekend market fell about 0.35%.",
+          "source_url": "https://x.com/cevikfinance/status/2101660921726640580"
+        }
+      ]
+    },
+    {
+      "topic": "China's progress in semiconductor manufacturing (CXMT)",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "Relayed that China's CXMT began mass production on its fifth-generation DRAM platform, reducing key memory-cell spacing to 11.95nm using quadruple patterning, and that it can produce at least 50% more chip dies per wafer than its prior generation, part of China's push to reduce dependence on foreign chipmaking technology.",
+          "quote": "CXMT says the platform reduces key memory-cell spacing to 11.95nm using quadruple patterning, allowing more memory to be packed onto each chip... the new platform can produce at least 50% more gross chip dies per wafer than its fourth-generation process.",
+          "source_url": "https://x.com/wallstengine/status/2101636124338720988"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies",
+      "priority": "high",
+      "why": "jrouldz shared a concrete date and return (roughly 10x) for a position he has run since 2021.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "Entered in late 2021 • kept averaging for 2.5 years through pain • ignored everyone who promised me \"it's just a no-moat consulting company\"... now one of my best performers ever (near 10x on the average)",
+          "source_url": "https://x.com/jrouldz/status/2101799679365132325"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "wallstengine relayed Nvidia CEO Jensen Huang's concrete statements that AI reached a major turning point and token generation is now extremely profitable; also shared Huang's disagreement with Amodei over chip sales to China.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "AI crossed a major turning point earlier this year: It became genuinely useful, demand surged, and token generation is now \"incredibly profitable.\"",
+          "source_url": "https://x.com/wallstengine/status/2101679798389223717"
+        }
+      ]
+    },
+    {
+      "symbol": "RGTI",
+      "name": "Rigetti Computing",
+      "priority": "high",
+      "why": "jrouldz stated he clearly sold 90% of his position.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$RGTI I sold off 90%.",
+          "source_url": "https://x.com/jrouldz/status/2101693514639630435"
+        }
+      ]
+    },
+    {
+      "symbol": "QBTS",
+      "name": "D-Wave Quantum",
+      "priority": "high",
+      "why": "jrouldz stated he clearly sold 75% of his position.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$QBTS I sold off 75% (mostly Q4 2025 and slowly more through this year).",
+          "source_url": "https://x.com/jrouldz/status/2101693514639630435"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "priority": "medium",
+      "why": "korkmazali08 shared a concrete overnight price level ($1,027).",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Trading at the $1027 level in the overnight market.",
+          "source_url": "https://x.com/korkmazali08/status/2101833414907195582"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "medium",
+      "why": "jrouldz shared a concrete position history (selling and returning to holding).",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$AAPL I kept adding for years after the original buy, as recently as 2020 covid dip, but then sold off all the newer lots and ~half the original lot from late 2021-2022. then switched back to hold",
+          "source_url": "https://x.com/jrouldz/status/2101693514639630435"
+        }
+      ]
+    },
+    {
+      "symbol": "DFTX",
+      "name": "Ault Disruptive Technologies",
+      "priority": "medium",
+      "why": "jrouldz said he sold about a third of his position in recent months.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$DFTX and $CRWD I've sold off ~1/3 each (just the past few months)",
+          "source_url": "https://x.com/jrouldz/status/2101693514639630435"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "priority": "medium",
+      "why": "jrouldz said he sold about a third of his position in recent months.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$DFTX and $CRWD I've sold off ~1/3 each (just the past few months)",
+          "source_url": "https://x.com/jrouldz/status/2101693514639630435"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Microsoft AI CEO Mustafa Suleyman argued for strict safety standards, both globally and in the US, to prevent AI from going out of control.",
+          "source_url": "https://x.com/WallStDiaries/status/2101743062930112882"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$META's first commercial for Muse.",
+          "source_url": "https://x.com/wallstengine/status/2101656117424402644"
+        }
+      ]
+    },
+    {
+      "symbol": "CRML",
+      "name": "Critical Metals Corp",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "Why did $CRML spike in the overnight market? Because of the Greenland deal? Does anyone know?",
+          "source_url": "https://x.com/cevikfinance/status/2101829863350886865"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent stressed that people shouldn't confuse luck with consistent returns in investing; all of us can have very lucky investments and suddenly make big money, but giving that consistency is never easy.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Luck and consistent returns",
+          "url": "https://x.com/BoraOzkent/status/2101634380238037354",
+          "published_at": "2026-09-20T11:27:37.000Z",
+          "summary": "Said people confuse luck with consistent returns; lucky big wins can happen, but making that sustainable isn't easy.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": "jeoekonomiTR shared a video in which Berk Dinçtürk assessed the turmoil in the funds, said regulated markets are essential for global capital, and flagged the risks carried by highly leveraged transactions.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Berk Dinçtürk: leverage risk and regulated markets",
+          "url": "https://x.com/jeoekonomiTR/status/2101733027193688346",
+          "published_at": "2026-09-20T17:59:36.000Z",
+          "summary": "Shared a video in which Berk Dinçtürk assessed the fund turmoil and flagged the risks of highly leveraged transactions.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 relayed that US Treasury Secretary Scott Bessent held \"quite successful\" talks with China on trade and AI in New York, and said this could be positive. Shared that **MU** (Micron) traded at the $1,027 level in the overnight market. Recalling that in low-volume small-cap stocks, hidden payments are made to social media influencers for posts, and that the SEC sued eight social media figures in 2022 over roughly $100 million in ill-gotten gains from this scheme, he flagged the recent rise in crypto 'gains' posts. Shared that US futures opened the week roughly flat.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "US-China talks 'successful'",
+          "url": "https://x.com/korkmazali08/status/2101827103171748072",
+          "published_at": "2026-09-21T00:13:26.000Z",
+          "summary": "Shared that Bessent had a 'quite successful' meeting with China on trade and AI in New York.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Micron at $1,027 in overnight market",
+          "url": "https://x.com/korkmazali08/status/2101833414907195582",
+          "published_at": "2026-09-21T00:38:30.000Z",
+          "summary": "Shared that $MU was trading at the $1,027 level in the overnight market.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Reported it trading at the $1,027 level overnight, gave no directional view."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Warning on crypto influencer PR posts",
+          "url": "https://x.com/korkmazali08/status/2101831816806056145",
+          "published_at": "2026-09-21T00:32:09.000Z",
+          "summary": "Warned that the recent surge in 'how much I made' crypto posts is likely a PR scheme.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "US futures opened flat",
+          "url": "https://x.com/korkmazali08/status/2101794489387876536",
+          "published_at": "2026-09-20T22:03:50.000Z",
+          "summary": "Shared that US futures opened the week roughly flat (Dow +0.07%, S&P +0.06%, Nasdaq -0.07%, Russell -0.11%, VIX 18.08).",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Warning on small-cap influencer manipulation",
+          "url": "https://x.com/korkmazali08/status/2101777575353725197",
+          "published_at": "2026-09-20T20:56:37.000Z",
+          "summary": "Recalled that low-volume small-cap stocks see manipulation via hidden payments to social media influencers, and that the SEC sued eight people in 2022 over roughly $100M gained this way.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_ calculated that the DSTKF collateral inside the TP2 fund was about 25% of the total fund (~50 billion TL), that because the reverse-repo limit to a single company is 10%, Tera could have borrowed at most ~22 billion TL against that collateral, that the company's ~92-95 billion TL equity could cover that debt, and argued the problem stems from a liquidity squeeze, not asset devaluation. Noting that Tera fulfilled all redemption requests in its TRJ, FSU, TMM and TRU funds, he said the odds of a problem in TP2 are very low. He sharply criticized the CMB (SPK) for not issuing a clear, separate statement on PPFs and flagged the desperation of affected investors.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "DSTKF collateral math: Tera's debt at most ~22 billion TL",
+          "url": "https://x.com/dtfinans_/status/2101625379534303411",
+          "published_at": "2026-09-20T10:51:51.000Z",
+          "summary": "Calculated that DSTKF collateral in TP2 was ~50 billion TL (25% of the fund), that the 10% single-counterparty limit means Tera could have borrowed at most ~22 billion TL, and that ~92-95 billion TL in equity could cover that.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Correction on collateral removal: must have been settled in cash",
+          "url": "https://x.com/dtfinans_/status/2101638180403322986",
+          "published_at": "2026-09-20T11:42:43.000Z",
+          "summary": "Clarified that for DSTKF shares to leave TP2's collateral, the debt must have been settled in cash rather than swapped for other collateral.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Scale of the PPF liquidation: 500,000 investors, ~830 billion TL",
+          "url": "https://x.com/dtfinans_/status/2101894946814910638",
+          "published_at": "2026-09-21T04:43:01.000Z",
+          "summary": "Shared that roughly 500,000 investors have 827-850 billion TL in the 131 funds the CMB ordered liquidated, with TERA's 5 funds making up 64% of that, criticizing the CMB for not paying out quickly.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tera honored all redemptions in its other funds",
+          "url": "https://x.com/dtfinans_/status/2101718451878240475",
+          "published_at": "2026-09-20T17:01:41.000Z",
+          "summary": "Said Tera fulfilled all redemption requests in its TRJ, FSU, TMM and TRU funds, further lowering the odds of a problem in TP2.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Liquidity block at Takasbank",
+          "url": "https://x.com/dtfinans_/status/2101717045733663119",
+          "published_at": "2026-09-20T16:56:06.000Z",
+          "summary": "Explained that Takasbank imposed a block due to an overwhelming volume of redemption requests, calling it a liquidity issue.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Call for a separate PPF statement from the CMB",
+          "url": "https://x.com/dtfinans_/status/2101892455264079939",
+          "published_at": "2026-09-21T04:33:07.000Z",
+          "summary": "Criticized the CMB for lumping PPFs together with equity funds and for not giving affected investors a clear statement.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries relayed that Microsoft (**MSFT**) AI CEO Mustafa Suleyman called for strict safety standards, both globally and in the US, to prevent AI from spiraling out of control, argued that competition with China shouldn't be used as a reason to delay core safeguards, and opposed granting AI human-like rights.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Mustafa Suleyman calls for AI safety",
+          "url": "https://x.com/WallStDiaries/status/2101743062930112882",
+          "published_at": "2026-09-20T18:39:29.000Z",
+          "summary": "Shared that Microsoft AI CEO Mustafa Suleyman called for strict AI safety standards and said competition with China cannot be a reason to delay them.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Relayed Mustafa Suleyman's call for AI safety standards, added no view of his own."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu said the Istanbul Finance Center (İFM) is moving steadily toward becoming a new center of global finance. He also recalled Peter Lynch's advice not to sell on Mondays.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Istanbul Finance Center vision",
+          "url": "https://x.com/TuncSatiroglu/status/2101915889960702101",
+          "published_at": "2026-09-21T06:06:14.000Z",
+          "summary": "Said the Istanbul Finance Center is moving steadily toward becoming a new center of global finance.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Peter Lynch's Monday advice",
+          "url": "https://x.com/TuncSatiroglu/status/2101643038556831905",
+          "published_at": "2026-09-20T12:02:01.000Z",
+          "summary": "Recalled Peter Lynch's advice not to sell on Mondays.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy said continuing attacks on Ukraine's energy infrastructure, Trump's energy ceasefire failing to take firm shape, and Yemen-Saudi Arabia tension are creating a new bottleneck risk in oil supply; that if oil stays high, inflation pressure would rise, rate-cut expectations would fall and risk appetite would drop, and that the Bank of Japan raising rates to 1.25% is also affecting global liquidity. He said he is holding his positions despite this backdrop. He relayed Brian Feroldi's post on the importance of staying in a good company as long as the thesis is intact.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Geopolitical risk chain and rate expectations",
+          "url": "https://x.com/FinancewithIzzy/status/2101628460879732777",
+          "published_at": "2026-09-20T11:04:06.000Z",
+          "summary": "Explained how geopolitical tension in Ukraine and the Middle East could push oil up, inflation pressure up and rate-cut expectations down, and said he is holding his positions.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Brian Feroldi: the cost of selling too early",
+          "url": "https://x.com/FinancewithIzzy/status/2101628688572006907",
+          "published_at": "2026-09-20T11:05:00.000Z",
+          "summary": "Relayed Brian Feroldi's post on how avoiding an early sale, as long as a good company's story is intact, matters more than one of the costliest investing mistakes.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine relayed from Nvidia CEO Jensen Huang's wide-ranging interview that AI reached a major turning point this year and token generation is now 'incredibly profitable', that the US should use its most advanced **NVDA** chips domestically first, and that he disagreed with Dario Amodei's call to stop selling powerful AI technology to China. Shared that US Treasury Secretary Bessent had a 'very successful engagement' with China on trade and AI. Relayed that China's CXMT moved to mass production on its fifth-generation DRAM platform, part of China's push to reduce dependence on foreign chip technology. Shared that **META** aired its first commercial for Muse.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Jensen Huang: AI hit an 'incredibly profitable' turning point",
+          "url": "https://x.com/wallstengine/status/2101679798389223717",
+          "published_at": "2026-09-20T14:28:05.000Z",
+          "summary": "Shared that Huang said AI reached a major turning point this year and token generation is now incredibly profitable.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Per CEO Huang, AI demand surged and token generation is now extremely profitable, with the technology reaching an 'extremely useful' state."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Huang: US should use advanced chips domestically first",
+          "url": "https://x.com/wallstengine/status/2101682548158202069",
+          "published_at": "2026-09-20T14:39:01.000Z",
+          "summary": "Shared that Huang said the US should use its most advanced NVDA chips domestically first, but disagreed with Amodei's call to stop chip sales to China.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Huang said Vera Rubin is already in volume production and China is years behind, but he disagreed with Amodei's export-halt call."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Huang: we talked to communities about data centers too late",
+          "url": "https://x.com/wallstengine/status/2101686262935753097",
+          "published_at": "2026-09-20T14:53:47.000Z",
+          "summary": "Shared that Huang admitted the AI industry didn't engage communities on data centers early enough.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Huang said newer facilities use less water and should help fund power, roads and schools."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bessent-China talks 'very successful'",
+          "url": "https://x.com/wallstengine/status/2101822412912570799",
+          "published_at": "2026-09-20T23:54:47.000Z",
+          "summary": "Relayed that Bessent had a very successful meeting with China on trade and AI.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "China's CXMT reaches mass production on 5th-gen DRAM",
+          "url": "https://x.com/wallstengine/status/2101636124338720988",
+          "published_at": "2026-09-20T11:34:33.000Z",
+          "summary": "Shared that CXMT began mass production on its fifth-generation DRAM platform, producing at least 50% more chip dies per wafer.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Meta's first Muse commercial",
+          "url": "https://x.com/wallstengine/status/2101656117424402644",
+          "published_at": "2026-09-20T12:53:59.000Z",
+          "summary": "Shared that Meta aired its first commercial for Muse.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Shared Meta's first commercial for its new AI product, Muse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz said he entered $PLTR in late 2021 and kept adding to the position for two and a half years despite 'no-moat consulting company' and 'grossly overvalued' criticism, and that it's now up roughly 10x on his average cost, calling it one of the best examples of averaging through pain for long-term conviction. He also said he's holding most of his $AAPL position while having sold 90% of $RGTI, 75% of $QBTS, and about a third each of $DFTX and $CRWD.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "2.5 years of patient PLTR position now at ~10x",
+          "url": "https://x.com/jrouldz/status/2101799679365132325",
+          "published_at": "2026-09-20T22:24:27.000Z",
+          "summary": "Said he kept adding to his PLTR position entered in late 2021 for 2.5 years despite criticism, and that it's now up roughly 10x on his average cost, a position he still holds.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "Entered late 2021, averaged in for 2.5 years, now up ~10x on average cost, still holding."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AAPL, RGTI, QBTS, DFTX, CRWD position update",
+          "url": "https://x.com/jrouldz/status/2101693514639630435",
+          "published_at": "2026-09-20T15:22:36.000Z",
+          "summary": "Said he sold the newer lots and half the original lot of AAPL, sold 90% of RGTI, 75% of QBTS, and about a third each of DFTX and CRWD, with no profit taken on his other positions.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "After adding for years, sold newer lots and about half the original lot, then switched back to holding."
+            },
+            {
+              "symbol": "RGTI",
+              "sentiment": "negative",
+              "note": "Sold 90% of the position."
+            },
+            {
+              "symbol": "QBTS",
+              "sentiment": "negative",
+              "note": "Sold 75% of the position."
+            },
+            {
+              "symbol": "DFTX",
+              "sentiment": "negative",
+              "note": "Sold about a third of the position."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "negative",
+              "note": "Sold about a third of the position."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance, citing a Bernstein chart, relayed that a serious copper supply deficit is expected from 2027 given EV, renewable-energy and AI data-center demand, that opening a new mine can take 10-15 years, and that copper producers and copper ETFs will remain a major investment theme. He shared that after Ukraine's attack of over 1,600 drones on Moscow in a single day, Nasdaq weekend futures fell about 0.35%. He criticized many of the country's 'respected' economists for staying silent on the Tera fund crisis and only now lecturing everyone. He questioned why $CRML spiked in the overnight market, wondering if it was tied to the Greenland deal, without being sure.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bernstein: copper supply deficit from 2027",
+          "url": "https://x.com/cevikfinance/status/2101824859974058345",
+          "published_at": "2026-09-21T00:04:31.000Z",
+          "summary": "Relayed a Bernstein chart showing a serious copper supply deficit expected from 2027, with copper producers/ETFs remaining a major investment theme.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Ukraine's drone attack on Moscow, Nasdaq futures fell",
+          "url": "https://x.com/cevikfinance/status/2101660921726640580",
+          "published_at": "2026-09-20T13:13:05.000Z",
+          "summary": "Shared that Nasdaq weekend futures fell about 0.35% after Ukraine launched an attack of over 1,600 drones on Moscow.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Criticism of silent economists",
+          "url": "https://x.com/cevikfinance/status/2101741318833643829",
+          "published_at": "2026-09-20T18:32:33.000Z",
+          "summary": "Criticized many 'respected' economists for staying silent on the Tera fund crisis and only now lecturing everyone in op-eds.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Question over CRML's overnight spike",
+          "url": "https://x.com/cevikfinance/status/2101829863350886865",
+          "published_at": "2026-09-21T00:24:24.000Z",
+          "summary": "Asked why $CRML spiked in the overnight market and whether it was related to the Greenland deal, saying he had no clear answer.",
+          "assets": [
+            {
+              "symbol": "CRML",
+              "sentiment": "neutral",
+              "note": "Asked why it spiked overnight, thought it might be tied to the Greenland deal but wasn't sure."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.2893,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2274,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1481,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1397,
+        "mentions": [
+          {
+            "person": "wallstengine",
+            "sentiment": "neutral",
+            "quote": "$META's first commercial for Muse.",
+            "source_url": "https://x.com/wallstengine/status/2101656117424402644"
+          }
+        ],
+        "action": "hold",
+        "why": "Per wallstengine, Meta aired its first commercial for Muse today; on its own that's not a concrete reason to change the position."
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1014,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US92840M1027",
+        "name": "Vistra Corp",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "PLTR",
+        "name": "Palantir Technologies",
+        "why": "Per jrouldz, he kept averaging into the position he entered in late 2021 for 2.5 years despite criticism; it's now up roughly 10x on his average cost and he still holds it.",
+        "source_url": "https://x.com/jrouldz/status/2101799679365132325"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "why": "Per wallstengine, CEO Jensen Huang said AI reached an 'incredibly profitable' turning point and demand surged; he also argued the US should use its most advanced chips domestically first.",
+        "source_url": "https://x.com/wallstengine/status/2101679798389223717"
+      }
+    ]
+  }
+}
