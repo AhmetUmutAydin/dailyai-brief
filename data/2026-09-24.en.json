@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T07:15:48.000Z",
+  "errors": [
+    "Bora Özkent: Could not fetch X data (Apify usage limit reached)",
+    "Heisenberg: Could not fetch X data (Apify usage limit reached)",
+    "ulkser: Could not fetch X data (Apify usage limit reached)",
+    "jeoekonomiTR: Could not fetch X data (Apify usage limit reached)",
+    "Ahmet Sunelcan: Could not fetch X data (Apify usage limit reached)",
+    "sgundoganX: Could not fetch X data (Apify usage limit reached)",
+    "korkmazali08: Could not fetch X data (Apify usage limit reached)",
+    "dtfinans_: Could not fetch X data (Apify usage limit reached)",
+    "Yatirim101: Could not fetch X data (Apify usage limit reached)",
+    "WallStDiaries: Could not fetch X data (Apify usage limit reached)",
+    "Tunç Şatıroğlu: Could not fetch X data (Apify usage limit reached)",
+    "MrTradeer: Could not fetch X data (Apify usage limit reached)",
+    "FinancewithIzzy: Could not fetch X data (Apify usage limit reached)",
+    "wallstengine: Could not fetch X data (Apify usage limit reached)",
+    "jrouldz: Could not fetch X data (Apify usage limit reached)",
+    "cevikfinance: Could not fetch X data (Apify usage limit reached)"
+  ],
+  "attention": [],
+  "macro": [],
+  "assets": [],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    },
+    {
+      "name": "korkmazali08",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    },
+    {
+      "name": "dtfinans_",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    },
+    {
+      "name": "Yatirim101",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    },
+    {
+      "name": "WallStDiaries",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    },
+    {
+      "name": "MrTradeer",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    },
+    {
+      "name": "FinancewithIzzy",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    },
+    {
+      "name": "wallstengine",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    },
+    {
+      "name": "jrouldz",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    },
+    {
+      "name": "cevikfinance",
+      "digest": [],
+      "items": [],
+      "group": "Others"
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.2893,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2274,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1481,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1397,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1014,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US92840M1027",
+        "name": "Vistra Corp",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      }
+    ],
+    "ideas": []
+  }
+}
