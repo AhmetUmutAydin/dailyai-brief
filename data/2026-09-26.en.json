@@ -1,0 +1,1896 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T07:30:00Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Personal AI agents are shifting stock winners and losers",
+      "person": "Bora Özkent",
+      "why": "Personal agents like Muse and Grok are taking over shopping and software use, boosting CPU makers (Intel, AMD, ARM), while Amazon blocked Muse from shopping on its site.",
+      "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+    },
+    {
+      "title": "Turkey's money-market fund crisis awaits a concrete payout move from the regulator",
+      "person": "dtfinans_",
+      "why": "Central bank data shows money-market fund assets shrank 21.4% in a week, a 456 billion TL drop and the sharpest weekly decline since March 2025.",
+      "source_url": "https://x.com/dtfinans_/status/2103391718871835119"
+    },
+    {
+      "title": "US 30-year mortgage rate tops 7% for the first time in 1.5 years",
+      "person": "WallStDiaries",
+      "why": "Rising bond yields and inflation pressure pushed the mortgage rate to 7.03%, the first time above 7% since January 2025; housing demand and affordability are under pressure.",
+      "source_url": "https://x.com/WallStDiaries/status/2103537517379350918"
+    },
+    {
+      "title": "A $150 billion IPO valuation is being discussed for Solidigm",
+      "person": "wallstengine",
+      "why": "SK Hynix is weighing an IPO for its US storage unit Solidigm in 2027; it could become the largest semiconductor IPO in US history.",
+      "source_url": "https://x.com/wallstengine/status/2103527967792275830"
+    },
+    {
+      "title": "Neo Cloud stocks sold off despite strong CIFR news",
+      "person": "FinancewithIzzy",
+      "why": "Even after Cipher Digital extended the Barber Lake deal to 20 years and pushed revenue above $9 billion, the stock closed down 2.18% — a sign the sector selloff is now decoupled from company news.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2103568556562477353"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US consumer confidence and inflation expectations",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Wrote that the real story in the Michigan survey won't be the headline but the embedded inflation-expectations line, which could feed the rise in bond yields.",
+          "quote": "In the Michigan survey, what gets priced isn't the headline but the embedded inflation-expectations line.",
+          "source_url": "https://x.com/WallStDiaries/status/2103389180206153948"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Said the picture is weak even though consumer confidence came in slightly better than expected, and that the rise in 1-year inflation expectations to 4.6% could push the Fed to be more cautious on rate cuts.",
+          "quote": "Even though it came in slightly better than expected, the picture is weak... This outlook could make the Fed more cautious about rate cuts.",
+          "source_url": "https://x.com/korkmazali08/status/2103497006551302320"
+        }
+      ]
+    },
+    {
+      "topic": "The 5% rate regime is becoming permanent in the US",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Wrote that the 30-year yield hitting its highest since 2004 is not a tailwind for equity multiples or borrowing costs, and that the 5% level is being priced as a permanent new regime rather than a temporary spike.",
+          "quote": "As money stays expensive, equity valuations and the appetite to roll over debt face a tougher test.",
+          "source_url": "https://x.com/WallStDiaries/status/2103424280721560059"
+        }
+      ]
+    },
+    {
+      "topic": "Iran-US: Strait of Hormuz talks and the ceasefire offer",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "Reported per WSJ that Trump rejected Iran's 7-day ceasefire offer, which was tied to lifting the Strait of Hormuz blockade, and told aides he expects to begin bombing Iran after the midterm elections.",
+          "quote": "According to WSJ, President Trump rejected Iran's 7-day ceasefire offer and told his aides he expects to begin bombing Iran after November's midterm elections.",
+          "source_url": "https://x.com/korkmazali08/status/2103651080080969992"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Said US and Iranian negotiators are discussing lifting the blockade in exchange for reopening the Strait of Hormuz, that neither side wants to give up leverage first, and that oil pricing remains headline-driven.",
+          "quote": "Neither side wants to give up its leverage first; oil pricing remains driven by the news flow.",
+          "source_url": "https://x.com/WallStDiaries/status/2103524774311809179"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey: dispute over the payout schedule in the money-market fund (PPF) crisis",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Argued he does not accept a priority payout plan for investors under 1 million TL, that money in PPFs is liquid and deposit-like, that investors shouldn't pay for the regulator's negligence, and that everyone should be paid in full immediately.",
+          "quote": "We do not accept the 1 million TL issue. Having less than 1 million TL inside doesn't mean someone is a small investor... There is no priority here, people have their own cash and it will all be paid to everyone immediately.",
+          "source_url": "https://x.com/dtfinans_/status/2103717302755594457"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "Multiple sources reported that agentic AI and data-center investment are boosting demand for Nvidia.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Will this benefit companies like Nvidia? Probably... demand for AI processors is rising.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "xAI could more than double the Nvidia chip count in its Colossus 2 AI supercomputer by year-end, from 550K today to as many as 1.21M.",
+          "source_url": "https://x.com/wallstengine/status/2103414825284178126"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Elon Musk announced that xAI aims to double the number of Nvidia chips used in its massive Colossus 2 data center by year-end.",
+          "source_url": "https://x.com/WallStDiaries/status/2103401623594922056"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "priority": "high",
+      "why": "The Copilot overhaul and Nadella's claim that the agent market could grow as big as the cloud business drew wide attention; the stock rose 3% on the day.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "MICROSOFT REBUILDS COPILOT AS AN \"OS FOR WORK\"... Microsoft is positioning Copilot less as a personal AI chatbot and more as the AI layer across work.",
+          "source_url": "https://x.com/wallstengine/status/2103457685022867494"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Azure revenue will probably grow, but software license revenue will decline.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "Canaccord raised its price target to $950 while Meta shareholder Bora Özkent thinks the valuation is rising too fast.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Canaccord raises $META PT to $950, saying Muse's 2.5M+ downloads in 2 weeks and expanding access through glasses, Mac and a dedicated device strengthen the case for AI monetization via subscriptions and transaction fees.",
+          "source_url": "https://x.com/wallstengine/status/2103441983658459617"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Meta's value has risen a bit too fast... we don't yet know how these moves will affect Meta's revenue, profit and cash flow.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "priority": "medium",
+      "why": "Bora Özkent thinks Amazon's decision to block Meta's Muse agent from shopping on its site isn't smart; he believes it's trying to protect ad and cross-sell revenue.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Amazon is trying to block this. Is it a smart move? No. I'm an Amazon investor myself. I did not like this move at all.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet (Google)",
+      "priority": "medium",
+      "why": "Bora Özkent thinks agents won't watch ads, which could reduce Google's search ad revenue.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Google's biggest revenue source is ads. That revenue will probably decline, because the agent won't go and watch the ads.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "priority": "high",
+      "why": "Bora Özkent said CPU makers are benefiting from agent demand, while FinancewithIzzy highlighted that AMD is up 193% after 5 years of trading sideways.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "That day Intel, AMD, and CPU designer ARM rallied tremendously.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "AMD traded sideways for almost 5 years... Where AMD stands today is a reminder of that once again.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2103467053864591724"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "priority": "high",
+      "why": "Bora Özkent said CPU makers are benefiting from agent demand, while korkmazali08 shared that Pelosi's INTC position is up 38.6% since the disclosure.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "That day Intel, AMD, and CPU designer ARM rallied tremendously.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$INTC: $88 → $122 | +38.6% Stocks tied to Pelosi are basically flying",
+          "source_url": "https://x.com/korkmazali08/status/2103690145685725509"
+        }
+      ]
+    },
+    {
+      "symbol": "OKTA",
+      "name": "Okta",
+      "priority": "medium",
+      "why": "Bora Özkent thinks identity verification will gain importance in the agent economy, but finds the stock expensive.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "I find the stock very expensive. I just can't get in... In the end an agent is a digital identity.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "FROG",
+      "name": "JFrog",
+      "priority": "medium",
+      "why": "Bora Özkent thinks JFrog, which stores and secures software packages, could stand out as agentic software grows.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "It stores the packages produced by dev teams, checks their security, and manages their release into production... Frog could be interesting from that angle.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "RMBS",
+      "name": "Rambus",
+      "priority": "medium",
+      "why": "Bora Özkent thinks agents' need for more context/memory access could benefit Rambus's interface-chip business.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "This could grow even faster with agents. Why? Because agents hold more context. There's a need for fast memory access.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "NVT",
+      "name": "nVent Electric",
+      "priority": "medium",
+      "why": "Bora Özkent thinks stronger agentic AI will increase data-center heat, which could benefit nVent's cooling and protection equipment.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "As agentic AI strengthens, data centers will face heavier loads. Heat will increase further. They'll need to be cooled.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "DOCN",
+      "name": "DigitalOcean",
+      "priority": "medium",
+      "why": "Bora Özkent thinks small teams running agents without setting up their own servers could benefit DigitalOcean; he regrets selling the stock too early.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "A small team can run an agent without setting up its own server. Revenue can grow as usage grows... I made a big mistake with this stock... we sold and got out early during a market shakeout.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "AKAM",
+      "name": "Akamai",
+      "priority": "high",
+      "why": "The stock rose 20% on the day after an $11 billion partnership with Anthropic; Bora Özkent sees more upside.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "AKAM was up 20% yesterday... I think this company still has room to run. Yesterday's rally was because of a partnership with Anthropic... they signed an $11 billion deal.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce",
+      "priority": "medium",
+      "why": "Bora Özkent thinks Salesforce, which sells human-seat-based subscriptions, could be hurt as the number of agents grows.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "It sells companies usage rights, subscription seats for people. But as the number of agents grows, the number of people will shrink. That could hit Salesforce negatively.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings",
+      "priority": "medium",
+      "why": "Bora Özkent thinks personal agents negotiating directly with hotels could erode Booking.com's intermediary power.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Booking.com's power to rank at the top of search and hold onto hotels could weaken.",
+          "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+        }
+      ]
+    },
+    {
+      "symbol": "CIFR",
+      "name": "Cipher Digital",
+      "priority": "high",
+      "why": "Even after Barber Lake was extended to 20 years and revenue passed $9 billion, the stock still closed lower; FinancewithIzzy reads this as a sign the market is looking past company news to other factors.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "The Barber Lake contract was extended to 20 years. → +$5.2B in additional contracted revenue → Total revenue now above $9B... Very good news I think",
+          "source_url": "https://x.com/FinancewithIzzy/status/2103463244308341028"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Cipher Digital extended the contracted life of its Barber Lake data center from 10 to 20 years, increasing total contracted revenue from $3.8B to more than $9B.",
+          "source_url": "https://x.com/wallstengine/status/2103452286651641857"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "high",
+      "why": "korkmazali08 assessed that an Iridium acquisition could turn Rocket Lab into an integrated space company, though integration risk is high; jrouldz is keeping the position at 11% of his portfolio.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "A successful integration could diversify Rocket Lab's revenue and move the company into a position where it both builds infrastructure in space and generates recurring revenue from it... But integrating such a large acquisition while ramping up Neutron is a serious test.",
+          "source_url": "https://x.com/korkmazali08/status/2103571574511091946"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$RKLB is 11% of my long term port as of today. That is plenty 😅",
+          "source_url": "https://x.com/jrouldz/status/2103469390549377117"
+        }
+      ]
+    },
+    {
+      "symbol": "000660.KS",
+      "name": "SK Hynix (Solidigm)",
+      "priority": "high",
+      "why": "SK Hynix considering a 2027 IPO for its storage unit Solidigm at up to a $150 billion valuation could become the largest semiconductor IPO in US history.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "SOLIDIGM EYES $150B IPO... could raise about $15B and value the company at up to $150B, per Reuters.",
+          "source_url": "https://x.com/wallstengine/status/2103527967792275830"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Memory maker $SKHY SK Hynix is considering taking its US storage subsidiary Solidigm public as early as 2027. The deal, which could give the company a $150 billion valuation, aims to raise about $15 billion.",
+          "source_url": "https://x.com/korkmazali08/status/2103569859850256831"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "high",
+      "why": "Larry Ellison pledged $57.6 billion worth of ORCL shares as collateral for personal loans, while the company's New Mexico data-center lease also carries non-cancellable terms.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Larry Ellison pledged $57.6 billion worth of $ORCL shares as collateral... he pledged 413 million shares against personal term loans he took to finance ventures outside the company.",
+          "source_url": "https://x.com/korkmazali08/status/2103633097493262755"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Oracle's New Mexico data center lease has \"hell-or-high-water\" terms, so it can't be terminated and $ORCL must pay rent whether or not the site has power, the WSJ reports.",
+          "source_url": "https://x.com/wallstengine/status/2103422727357169994"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "priority": "high",
+      "why": "korkmazali08, tracking Nancy Pelosi's trade, shared that the stock is up 42.2% since the disclosure; ulkser reported it closed the day up 7%.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$BE: $204 → $290 | +42.2% ... Stocks tied to Pelosi are basically flying",
+          "source_url": "https://x.com/korkmazali08/status/2103690145685725509"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$BE even on holiday it keeps working, +7% in the pocket",
+          "source_url": "https://x.com/ulkser/status/2103498759246135716"
+        }
+      ]
+    },
+    {
+      "symbol": "NATGAS",
+      "name": "Natural Gas",
+      "priority": "high",
+      "why": "ulkser shared that he closed a position bought at the 2.7 level at 3.30, contributing 62% annually to his FX portfolio.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Widowmaker $NATGAS 2.7 den alabildim yesil bolge indirmediler bugun 3.30 dan kapadim... FX tarafinda aldigim islemlerin total portfoye etkisi bu sene %62 oldu bu trade ile beraber",
+          "source_url": "https://x.com/ulkser/status/2103385836708327797"
+        }
+      ]
+    },
+    {
+      "symbol": "FLEX",
+      "name": "Flex Ltd",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan announced he closed the position, without giving a reason.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "$FLEX kapatıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2103572039671902424"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "priority": "high",
+      "why": "Believing valuations had entered bubble territory, jrouldz sold a third of his CRWD position to lock in gains.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "I've already sold off 1/3 of my initial CRWD shares (enough to book 2x gains)... The valuations have reached bubble territory",
+          "source_url": "https://x.com/jrouldz/status/2103460563141513609"
+        }
+      ]
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare",
+      "priority": "high",
+      "why": "Citing valuation concerns, jrouldz started trimming his NET position.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "I started trimming profits on NET yesterday... the valuations have reached bubble territory",
+          "source_url": "https://x.com/jrouldz/status/2103460563141513609"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "medium",
+      "why": "Despite valuation concerns, jrouldz has not sold any of PLTR, his largest position.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I have not sold any PLTR (which is a larger position than both others combined)",
+          "source_url": "https://x.com/jrouldz/status/2103460563141513609"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "priority": "high",
+      "why": "jrouldz finds QQQ's technical picture strong after it rose 24% since the Iran conflict began in February.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$QQQ is up 24% since the Iran conflict started in February so im glad I ignored all those doomers too",
+          "source_url": "https://x.com/jrouldz/status/2103541484033020293"
+        }
+      ]
+    },
+    {
+      "symbol": "DNA",
+      "name": "Ginkgo Bioworks",
+      "priority": "high",
+      "why": "After a 48% gain in a month, jrouldz took profit on a quarter of his DNA position and is holding the rest.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "Trimmed 25% of the $DNA position this morning 48% gains in one month too good to pass up 🤝 holding the remainder",
+          "source_url": "https://x.com/jrouldz/status/2103572413682237699"
+        }
+      ]
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike",
+      "priority": "high",
+      "why": "BofA downgraded Nike to Underperform and cut its price target from $47 to $30, taking its FY27 estimate 14% below consensus.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "BofA downgraded $NKE to Underperform, cutting its price target to $30 from $47... It now expects sales declines through FY27",
+          "source_url": "https://x.com/wallstengine/status/2103436666056868243"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "China is reviewing the use of Broadcom network switches in state-backed data centers, where this hardware holds up to 90% share in some deployments.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "China is reviewing the use of Broadcom network switches in state-backed data centers. According to the report, this hardware holds up to 90% share in some deployments.",
+          "source_url": "https://x.com/WallStDiaries/status/2103446923529306482"
+        }
+      ]
+    },
+    {
+      "symbol": "FSLR",
+      "name": "First Solar",
+      "priority": "high",
+      "why": "Peaking bond yields and rising financing costs sent First Solar down more than 10% to a 52-week low.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Leading maker First Solar's shares fell sharply, dropping more than 10% to a 52-week low, as a broad selloff hit the sector.",
+          "source_url": "https://x.com/WallStDiaries/status/2103435594336534726"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "WallStDiaries noted that an average mining cost around $85,000 makes that level a reference point for supply-side stress.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "If the average cost of Bitcoin mining is around $85,000, this level could be an important reference. The longer it stays above it, the more miner selling pressure could ease.",
+          "source_url": "https://x.com/WallStDiaries/status/2103405395121189033"
+        }
+      ]
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "priority": "medium",
+      "why": "WallStDiaries noted Solana holds a clear lead with 46% share of non-BTC/ETH spot ETF volume, showing capital spreading into a broader crypto basket.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Solana leads with a 46% share of non-Bitcoin, non-Ethereum spot ETF volume.",
+          "source_url": "https://x.com/WallStDiaries/status/2103405395104719041"
+        }
+      ]
+    },
+    {
+      "symbol": "NVO",
+      "name": "Novo Nordisk",
+      "priority": "high",
+      "why": "Novo Nordisk signed a €1.17 billion licensing deal with Nanexa for injection-frequency-reducing PharmaShell technology; Nanexa shares jumped more than 110% after the deal.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Novo Nordisk signed a €1.17 billion licensing deal with Sweden's Nanexa for PharmaShell technology aimed at reducing injection frequency in obesity and diabetes treatments.",
+          "source_url": "https://x.com/WallStDiaries/status/2103412944927416561"
+        }
+      ]
+    },
+    {
+      "symbol": "SMCI",
+      "name": "Super Micro Computer",
+      "priority": "high",
+      "why": "Supermicro said it's moving full speed ahead with SpaceXAI on a gigawatt-scale data-center buildout using Nvidia GB300 systems, and teased a year-end surprise announcement.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Supermicro $SMCI says it's moving \"full speed ahead\" with SpaceXAI on a gigawatt-scale AI data center buildout powered by Nvidia $NVDA GB300 systems.",
+          "source_url": "https://x.com/wallstengine/status/2103544246200668187"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "high",
+      "why": "Tesla opened its first Semi factory with capacity for 50,000 trucks a year and ramped Optimus production from dozens to hundreds of units per quarter, though hand/wrist assembly issues persist.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Tesla has opened its new Semi factory in Sparks, Nevada, with capacity planned for 50,000 trucks a year... Deliveries begin this week, with DHL, PepsiCo and US Foods among customers.",
+          "source_url": "https://x.com/wallstengine/status/2103410491645431832"
+        }
+      ]
+    },
+    {
+      "symbol": "OURA",
+      "name": "Oura",
+      "priority": "high",
+      "why": "Demand for smart-ring maker Oura's IPO reached roughly 4x the available supply; the company is pricing at $40-$44 and could reach a $14.1 billion valuation.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "OURA IPO IS ~4X OVERSUBSCRIBED... Oura and existing shareholders are offering 50M shares at $40-$44 each, raising up to $2.2B.",
+          "source_url": "https://x.com/wallstengine/status/2103570279796711915"
+        }
+      ]
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale",
+      "priority": "high",
+      "why": "In its Q4 fiscal-year results, net sales rose 11.2% and operating income rose 13.8%; membership revenue was a source of stability but gross margin slipped 11 basis points.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Net Sales: $93.9 Billion, up 11.2% ... Operating Income: $3.8 Billion, up 13.8% — ahead of sales growth",
+          "source_url": "https://x.com/WallStDiaries/status/2103390221802885360"
+        }
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding",
+      "priority": "medium",
+      "why": "The Dutch Prime Minister raised export restrictions on ASML in talks with Trump; Washington's pressure to limit sales to China continues.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "In his meeting with US President Trump, the Dutch Prime Minister raised export restrictions targeting chipmaking giant ASML.",
+          "source_url": "https://x.com/WallStDiaries/status/2103446921524494820"
+        }
+      ]
+    },
+    {
+      "symbol": "AUR",
+      "name": "Aurora Innovation",
+      "priority": "high",
+      "why": "sgundoganX shared that Morgan Stanley has steadily raised its AUR price targets since 2025 and increased its position.",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "positive",
+          "quote": "Morgan Stanley $AUR pozisyonunu artırdı. 143M —> 165M... Bull Case: 2025 yılı $24, 2026 başında $30 ve şimdi $40 oldu.",
+          "source_url": "https://x.com/sgundoganX/status/2103560165882822668"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent explains how personal AI agents — Meta's **Muse** and the Grok agent he uses heavily himself — are set to transform daily life and shopping, saying he has handed off everything from trip planning to email management to his agent. He says the most concrete investment impact of this shift is rising inference-compute demand, which is why CPU makers like **Intel**, **AMD** and **ARM** have gained value; he adds **Nvidia** could also benefit from rising demand, though it isn't as dominant in inference as in training. He cites Deloitte's estimate of $35-45 billion in agent-subscription revenue by 2030 and McKinsey's estimate that agent-managed shopping could reach $3-5 trillion.\n\nOn individual companies, he thinks **Meta** could profit from Muse subscriptions and commissions but that its valuation is rising fast; **Google**'s ad revenue could shrink since agents won't watch ads; and **Microsoft** could see Azure grow while software-license revenue bleeds. He doesn't think **Amazon**'s move to block Muse from shopping is smart, and says it bothers him as an Amazon investor. He thinks **Salesforce** and **Booking.com** could be hurt by their human/intermediary-based models, while **Akamai** still has room to run after its 20% jump on the Anthropic deal, and that **Okta**, **JFrog**, **Rambus**, **nVent** and **DigitalOcean** are lesser-known names that could benefit from the agent economy (identity verification, software security, memory, cooling, cloud infrastructure).",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "If Everyone Has an AI Agent, Which Stocks Get Stronger?",
+          "url": "https://www.youtube.com/watch?v=QM5jI5Uohbw",
+          "published_at": "2026-09-25T09:28:33+00:00",
+          "summary": "Using Meta's **Muse** and the Grok agent he uses himself as examples, Bora Özkent explains how personal AI agents are changing daily life, from trip planning to shopping, email management and subscription tracking. He says agents run on large data centers behind the scenes, that inference compute will reach two-thirds of total AI compute in 2026, and that this is lifting the value of CPU makers **Intel**, **AMD** and **ARM**. He cites Deloitte's estimate of $35-45 billion in agent-subscription revenue and McKinsey's estimate that agents could manage $3-5 trillion in shopping by 2030, against which software and ad companies could lose roughly $234 billion in revenue. He says **Meta** could profit from subscriptions and commissions but its valuation is rising fast; **Google**'s ad revenue, **Microsoft**'s software-license revenue, and **Salesforce**'s and **Booking.com**'s intermediary/seat-based models are all at risk. He says he doesn't find **Amazon**'s decision to block Muse from shopping smart, and that it bothers him as an Amazon investor. He assesses that **Akamai** still has upside after its 20% rally on the Anthropic deal, and that **Okta**, **JFrog**, **Rambus**, **nVent** and **DigitalOcean** are lesser-known names that could benefit from the agent economy.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "He said it will probably benefit from rising agent-compute demand, though it isn't as dominant in inference as in training."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "He said Azure revenue could grow while software-license revenue could decline."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "He said Muse could bring subscription and commission revenue, but valuation is rising fast and it's unclear whether revenue will keep pace."
+            },
+            {
+              "symbol": "AMZN",
+              "sentiment": "negative",
+              "note": "He said he doesn't find the decision to block Muse from shopping smart, and thinks Amazon is trying to protect its ad revenue."
+            },
+            {
+              "symbol": "GOOGL",
+              "sentiment": "negative",
+              "note": "He said agents won't watch ads, which could shrink search ad revenue."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "He said CPU makers are gaining value from agent demand."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "positive",
+              "note": "He said CPU makers are gaining value from agent demand."
+            },
+            {
+              "symbol": "OKTA",
+              "sentiment": "positive",
+              "note": "He said verifying agent identities will gain importance, but finds the stock expensive."
+            },
+            {
+              "symbol": "FROG",
+              "sentiment": "positive",
+              "note": "He said the growth of agentic software could highlight the software package security/management business."
+            },
+            {
+              "symbol": "RMBS",
+              "sentiment": "positive",
+              "note": "He said agents' greater need for memory/context access could benefit the interface-chip business."
+            },
+            {
+              "symbol": "NVT",
+              "sentiment": "positive",
+              "note": "He said rising data-center heat could benefit cooling-equipment providers."
+            },
+            {
+              "symbol": "DOCN",
+              "sentiment": "positive",
+              "note": "He said small teams running agents without their own servers could benefit the company; he regrets selling the stock too early."
+            },
+            {
+              "symbol": "AKAM",
+              "sentiment": "positive",
+              "note": "He thinks the stock, up 20% after the $11 billion Anthropic deal, still has room to run."
+            },
+            {
+              "symbol": "CRM",
+              "sentiment": "negative",
+              "note": "He said the seat-based subscription model could suffer as the number of agents grows."
+            },
+            {
+              "symbol": "BKNG",
+              "sentiment": "negative",
+              "note": "He said personal agents negotiating directly with hotels could reduce the company's intermediary power."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser said he closed a natural-gas (**NATGAS**) position bought at the 2.7 level at 3.30 today, contributing 62% to his annual FX portfolio return. He shared that a company's stock went from limit-down to limit-up after its owner announced a 1-billion buyback program, and congratulated the young owner.\n\nHe noted **Bloom Energy (BE)** was up 7% even during the holiday, and shared without comment a statement that the US is in a strong position at the Strait of Hormuz and isn't in a hurry to reach a deal with Iran.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Natural-gas trade closed from 2.7 to 3.30",
+          "url": "https://x.com/ulkser/status/2103385836708327797",
+          "published_at": "2026-09-25T07:27:17.000Z",
+          "summary": "He shared that he closed a natural-gas (NATGAS) position bought at 2.7 at 3.30, contributing 62% to his annual FX portfolio return.",
+          "assets": [
+            {
+              "symbol": "NATGAS",
+              "sentiment": "positive",
+              "note": "Position bought at 2.7 was closed at 3.30, contributing 62% annually to the FX portfolio."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Surprise BIST buyback sends a stock from limit-down to limit-up",
+          "url": "https://x.com/ulkser/status/2103437882442600733",
+          "published_at": "2026-09-25T10:54:05.000Z",
+          "summary": "He shared that a company whose owner had been mocked on social media announced a 1-billion buyback, sending the stock from limit-down to limit-up on 6.6 million lots of volume.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bloom Energy up 7% even on holiday",
+          "url": "https://x.com/ulkser/status/2103498759246135716",
+          "published_at": "2026-09-25T14:55:59.000Z",
+          "summary": "He noted that Bloom Energy (BE) kept delivering, up 7%, even during the holiday period.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "Noted as up 7% even during the holiday period."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Statement on the US position at the Strait of Hormuz shared",
+          "url": "https://x.com/ulkser/status/2103542168954564641",
+          "published_at": "2026-09-25T17:48:29.000Z",
+          "summary": "He shared without comment FinancialJuice's statement that a US official said Washington is in a strong position at the Strait of Hormuz and isn't in a hurry to reach a deal with Iran.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan shared Hamza Şahin's daily portfolio update, saying the account is worth following. He announced he closed his **FLEX** position.\n\nHe wrote that he's bothered by continuous share dilution in a stock he bought at $50 and partly sold at $160, of which he still holds a small amount, but that he's waiting for the price to rise before trimming further.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Shared Hamza Şahin's portfolio update",
+          "url": "https://x.com/AhmetSunelcan1/status/2103416582483656803",
+          "published_at": "2026-09-25T09:29:27.000Z",
+          "summary": "He shared Hamza Şahin's daily portfolio update, saying the account is worth following.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "FLEX position closed",
+          "url": "https://x.com/AhmetSunelcan1/status/2103572039671902424",
+          "published_at": "2026-09-25T19:47:11.000Z",
+          "summary": "He announced he closed his Flex Ltd (FLEX) position, without giving a reason.",
+          "assets": [
+            {
+              "symbol": "FLEX",
+              "sentiment": "neutral",
+              "note": "Position closed, no reason given."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bothered by dilution but waiting to exit",
+          "url": "https://x.com/AhmetSunelcan1/status/2103606148960239757",
+          "published_at": "2026-09-25T22:02:43.000Z",
+          "summary": "He wrote that he's bothered by continuous share dilution in a stock he bought at $50 and sold half of at $160, of which he still holds a small amount, but that he's waiting for the price to rise before trimming further.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "sgundoganX shared that Morgan Stanley has steadily raised its **Aurora Innovation (AUR)** price targets since 2025 — the bull case going from $24 to $40 and the base case from $12 to $18 — and increased its position from 143 million to 165 million shares. He said he would buy again if the price returns to those levels.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Morgan Stanley's AUR price-target history",
+          "url": "https://x.com/sgundoganX/status/2103560165882822668",
+          "published_at": "2026-09-25T19:00:00.000Z",
+          "summary": "He shared that Morgan Stanley has steadily raised its Aurora Innovation (AUR) price targets since 2025, with the bull case going from $24 to $40, and increased its position from 143 million to 165 million shares.",
+          "assets": [
+            {
+              "symbol": "AUR",
+              "sentiment": "positive",
+              "note": "Morgan Stanley has steadily raised its targets since 2025; bull case went from $24 to $40, position raised from 143M to 165M shares."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 wrote today that Trump rejected Iran's 7-day ceasefire offer and that the real obstacle facing the market remains the Iran issue. He reported that SK Hynix is weighing a $150 billion IPO valuation for its storage unit Solidigm, and that Rocket Lab's attempted Iridium acquisition could turn it into an integrated space company, though integration risk is high. He shared that Nancy Pelosi's **Bloom Energy (BE)** and **Intel (INTC)** trades are up 42.2% and 38.6% respectively since disclosure, and that Larry Ellison pledged $57.6 billion worth of **Oracle (ORCL)** shares as collateral for personal loans. He noted US consumer confidence fell and inflation expectations rose, which could make the Fed more cautious.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Citi: raise US equity weighting",
+          "url": "https://x.com/korkmazali08/status/2103467409822609541",
+          "published_at": "2026-09-25T12:51:25.000Z",
+          "summary": "He reported that Citi maintains an 'overweight' view on US stocks, sees pullbacks as buying opportunities, and thinks AI will remain the key driver for equities despite high oil prices, rates and Fed uncertainty.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Final University of Michigan sentiment reading: 47.8",
+          "url": "https://x.com/korkmazali08/status/2103485023735382298",
+          "published_at": "2026-09-25T14:01:25.000Z",
+          "summary": "He shared that the final University of Michigan consumer sentiment reading came in at 47.8, versus an expectation of 47.5.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "US consumer confidence fell, inflation expectations rose",
+          "url": "https://x.com/korkmazali08/status/2103497006551302320",
+          "published_at": "2026-09-25T14:49:02.000Z",
+          "summary": "He wrote that US consumer confidence fell from 51.7 to 48.1 in September and that 1-year inflation expectations rose to 4.6%, which could make the Fed more cautious about rate cuts.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Cognition's annualized revenue nears $1 billion",
+          "url": "https://x.com/korkmazali08/status/2103498708704796854",
+          "published_at": "2026-09-25T14:55:47.000Z",
+          "summary": "He shared that AI coding startup Cognition's annualized revenue is nearing $1 billion based on its September performance, roughly double the run rate from four months earlier.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Market volumes weak, breadth of the rally questioned",
+          "url": "https://x.com/korkmazali08/status/2103567744813699531",
+          "published_at": "2026-09-25T19:30:07.000Z",
+          "summary": "He wrote that trading volumes remain weak and that the rally concentrating in a few large stocks doesn't mean broad market strength.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SK Hynix weighing an IPO for Solidigm",
+          "url": "https://x.com/korkmazali08/status/2103569859850256831",
+          "published_at": "2026-09-25T19:38:31.000Z",
+          "summary": "He shared that SK Hynix's storage unit Solidigm may be taken public as early as 2027, in a deal that could raise about $15 billion and value the company at $150 billion.",
+          "assets": [
+            {
+              "symbol": "000660.KS",
+              "sentiment": "neutral",
+              "note": "Reported that SK Hynix is weighing a 2027 IPO for Solidigm at a $150 billion valuation."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "What would a Rocket Lab-Iridium deal mean?",
+          "url": "https://x.com/korkmazali08/status/2103571574511091946",
+          "published_at": "2026-09-25T19:45:20.000Z",
+          "summary": "He assessed that Rocket Lab acquiring Iridium could turn it into an integrated space company with ready-made communications infrastructure and recurring revenue, though integration risk and a high valuation narrow the margin for error.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "If the Iridium acquisition goes through, it's an opportunity to become an integrated space company, but integration risk is high."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Iran remains the market's main obstacle",
+          "url": "https://x.com/korkmazali08/status/2103632593153396870",
+          "published_at": "2026-09-25T23:47:48.000Z",
+          "summary": "He wrote that a few obstacles related to the Iran war still stand in the way of the market moving higher.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Larry Ellison pledged ORCL shares as loan collateral",
+          "url": "https://x.com/korkmazali08/status/2103633097493262755",
+          "published_at": "2026-09-25T23:49:48.000Z",
+          "summary": "He shared that Larry Ellison pledged 413 million Oracle shares, worth $57.6 billion, as collateral for personal loans financing ventures outside the company, and that Oracle said this doesn't pose a material risk.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "neutral",
+              "note": "Ellison pledged $57.6 billion worth of ORCL shares as collateral for personal loans."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump rejects Iran's 7-day ceasefire offer",
+          "url": "https://x.com/korkmazali08/status/2103651080080969992",
+          "published_at": "2026-09-26T01:01:16.000Z",
+          "summary": "He reported, per WSJ, that Trump rejected Iran's 7-day ceasefire offer tied to lifting the Hormuz blockade, and expects to begin bombing Iran after the midterms.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Rocket Lab completes Iridium-related launch successfully",
+          "url": "https://x.com/korkmazali08/status/2103667685057798339",
+          "published_at": "2026-09-26T02:07:15.000Z",
+          "summary": "He shared that Rocket Lab successfully launched Synspective's 13th StriX satellite, marking Electron's 97th launch and a 100% mission-success record.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "positive",
+              "note": "Successful launch of the 13th StriX satellite maintained a 100% mission-success record."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Pelosi's BE and INTC trades deliver strong returns",
+          "url": "https://x.com/korkmazali08/status/2103690145685725509",
+          "published_at": "2026-09-26T03:36:30.000Z",
+          "summary": "He shared that Nancy Pelosi's BE and INTC trades, disclosed on August 24, are up 42.2% and 38.6% respectively since then.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "Pelosi's trade is up 42.2% since August 24."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "positive",
+              "note": "Pelosi's trade is up 38.6% since August 24."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_'s focus today was again TEFAS's money-market fund (PPF) crisis: he shared that central bank data show fund assets fell 21.4% in a week, that a meeting at the presidency planned priority payouts for victims under 1 million TL, and that Bulls, Pardus and A1 Capital funds said they could pay out. He argued he doesn't accept the 1-million-TL threshold, that PPFs are deposit-like products, and that investors shouldn't pay for the regulator's negligence. He reported that Tera Portföy owns 47% of Katılımevim, that most senior executives besides the jailed Emre Tezmen aren't on detention lists, and that funds like PNU and PRY kept growing despite being in liquidation. He demanded the regulator pay out immediately and in full.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Four critical problems in the PPF crisis",
+          "url": "https://x.com/dtfinans_/status/2103384061188210987",
+          "published_at": "2026-09-25T07:20:13.000Z",
+          "summary": "He shared four critical issues in the fund crisis: the transfer of seized assets to the treasury, early exiters from equity funds draining the fund pool, PPFs needing priority, and uncertainty over order timing.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Central bank data: PPF assets fell 21.4% in a week",
+          "url": "https://x.com/dtfinans_/status/2103391718871835119",
+          "published_at": "2026-09-25T07:50:39.000Z",
+          "summary": "He shared that, per central bank data, money-market fund assets fell from 2.14 trillion TL to 1.68 trillion TL in the week of September 18 — a 21.4% drop, the sharpest weekly decline since March 2025.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PNU and PRY funds kept growing during liquidation",
+          "url": "https://x.com/dtfinans_/status/2103405052966633491",
+          "published_at": "2026-09-25T08:43:38.000Z",
+          "summary": "He wrote that the PNU and PRY money-market funds kept growing despite being in liquidation, and that these liquid, low-risk funds should be converted to cash and paid out faster.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tera's mandatory tender offer for PEKGY ended",
+          "url": "https://x.com/dtfinans_/status/2103414493732913567",
+          "published_at": "2026-09-25T09:21:09.000Z",
+          "summary": "He shared news that Tera Yatırım Holding decided to end its mandatory tender offer process for a company worth 25-30 billion TL.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tera's 47% stake in Katılımevim questioned",
+          "url": "https://x.com/dtfinans_/status/2103435755561402827",
+          "published_at": "2026-09-25T10:45:38.000Z",
+          "summary": "He shared that Tera owns 47% of Katılımevim, and that how much Emlak Katılım paid for that stake, and whether it flows into the fund pool, will be an important development.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Detention records at Tera Portföy questioned",
+          "url": "https://x.com/dtfinans_/status/2103536023032807720",
+          "published_at": "2026-09-25T17:24:04.000Z",
+          "summary": "He shared that while Emre Tezmen is jailed for organized fraud, Tera Portföy's board chairman was released under judicial control, and that most senior executives aren't on detention lists.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Proposal to use Tera Tower's assets",
+          "url": "https://x.com/dtfinans_/status/2103578633914781941",
+          "published_at": "2026-09-25T20:13:23.000Z",
+          "summary": "He wrote that the assets of jailed fund fraudster Emre Tezmen, including Tera Tower in Maslak, should be transferred to the treasury and used to pay back victims.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Presidential meeting on fund victims: priority under 1 million TL",
+          "url": "https://x.com/dtfinans_/status/2103700683341885635",
+          "published_at": "2026-09-26T04:18:22.000Z",
+          "summary": "He shared that a meeting at the presidency planned priority payouts for victims under 1 million TL, that Bulls, Pardus and A1 Capital funds said they could pay investors back, while writing that the 1-million-TL threshold is absurd and the damage belongs to the regulator.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "dtfinans_'s objection to the 1-million-TL threshold",
+          "url": "https://x.com/dtfinans_/status/2103717302755594457",
+          "published_at": "2026-09-26T05:24:24.000Z",
+          "summary": "He argued he doesn't accept the 1-million-TL threshold, that PPFs are deposit-like products, that investors shouldn't pay for the regulator's negligence, and that everyone should be paid in full immediately.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries wrote today that the US 30-year Treasury yield hit 5.44%, its highest since 2004, that the mortgage rate topped 7% for the first time since January 2025, and that Michigan consumer confidence was expected to fall while inflation expectations rise. It reported that US and Iranian negotiators are discussing lifting the blockade in exchange for reopening the Strait of Hormuz, with neither side wanting to give up leverage first. It shared that **Nvidia (NVDA)** chip demand is rising via xAI's Colossus 2 center, that China is reviewing **Broadcom (AVGO)** network switches, and that First Solar fell more than 10% on financing pressure. It also added that Novo Nordisk signed a €1.17 billion deal with Nanexa and that Solana leads crypto ETF volume with a 46% share.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Today's US data calendar and an inflation-expectations warning",
+          "url": "https://x.com/WallStDiaries/status/2103389180206153948",
+          "published_at": "2026-09-25T07:40:34.000Z",
+          "summary": "It wrote that Michigan consumer confidence was expected to fall from 51.7 to 47.6, and that the real key data point would be the embedded inflation-expectations line, which could feed bond yields.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Costco's Q4 results came in strong",
+          "url": "https://x.com/WallStDiaries/status/2103390221802885360",
+          "published_at": "2026-09-25T07:44:42.000Z",
+          "summary": "It reported that Costco's net sales rose 11.2% and operating income rose 13.8%, that membership revenue was a source of stability, while gross margin slipped 11 basis points.",
+          "assets": [
+            {
+              "symbol": "COST",
+              "sentiment": "positive",
+              "note": "Net sales up 11.2%, operating income up 13.8%; gross margin slipped slightly."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "US 30-year Treasury yield at its highest since 2004",
+          "url": "https://x.com/WallStDiaries/status/2103394086946300051",
+          "published_at": "2026-09-25T08:00:04.000Z",
+          "summary": "It wrote that the 30-year US Treasury yield hit 5.44%, its highest since 2004, which is not a tailwind for equity multiples or borrowing costs.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Jobless claims stayed low",
+          "url": "https://x.com/WallStDiaries/status/2103397215129497764",
+          "published_at": "2026-09-25T08:12:29.000Z",
+          "summary": "It wrote that initial jobless claims came in below expectations, that the labor market isn't loosening, and that this narrows the Fed's room to maneuver.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia chip demand doubling via Colossus 2",
+          "url": "https://x.com/WallStDiaries/status/2103401623594922056",
+          "published_at": "2026-09-25T08:30:01.000Z",
+          "summary": "It wrote that Elon Musk announced xAI aims to double the number of Nvidia chips used in its Colossus 2 data center by year-end.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "xAI aims to double the chip count at Colossus 2 by year-end."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "$85,000 mining-cost threshold important for Bitcoin",
+          "url": "https://x.com/WallStDiaries/status/2103405395121189033",
+          "published_at": "2026-09-25T08:45:00.000Z",
+          "summary": "It wrote that an average Bitcoin mining cost around $85,000 could make that level an important reference for supply-side stress.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "The $85,000 mining-cost level is being watched as an important reference."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Solana leads crypto ETF volume",
+          "url": "https://x.com/WallStDiaries/status/2103405395104719041",
+          "published_at": "2026-09-25T08:45:00.000Z",
+          "summary": "It wrote that Solana leads with a 46% share of non-BTC/ETH spot ETF volume, showing capital spreading into a broader crypto basket.",
+          "assets": [
+            {
+              "symbol": "SOL",
+              "sentiment": "neutral",
+              "note": "Leads with a 46% share of non-BTC/ETH spot ETF volume."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Novo Nordisk's $1.17B licensing deal with Nanexa",
+          "url": "https://x.com/WallStDiaries/status/2103412944927416561",
+          "published_at": "2026-09-25T09:15:00.000Z",
+          "summary": "It wrote that Novo Nordisk signed a €1.17 billion licensing deal with Sweden's Nanexa for PharmaShell technology to reduce injection frequency, and that Nanexa shares jumped more than 110%.",
+          "assets": [
+            {
+              "symbol": "NVO",
+              "sentiment": "positive",
+              "note": "Signed a €1.17 billion PharmaShell licensing deal with Nanexa."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "The 5% rate regime is becoming permanent",
+          "url": "https://x.com/WallStDiaries/status/2103424280721560059",
+          "published_at": "2026-09-25T10:00:02.000Z",
+          "summary": "It wrote that the 5% threshold in US Treasury yields is being priced as a permanent new regime, which will put equity valuations and debt-rollover appetite through a tougher test.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bitget's CEO confirmed the cyberattack",
+          "url": "https://x.com/WallStDiaries/status/2103435594630402266",
+          "published_at": "2026-09-25T10:45:00.000Z",
+          "summary": "It wrote that Bitget's CEO confirmed the cyberattack and that the $351.6 million loss will be fully covered by the $464 million protection fund.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "First Solar fell sharply on financing pressure",
+          "url": "https://x.com/WallStDiaries/status/2103435594336534726",
+          "published_at": "2026-09-25T10:45:00.000Z",
+          "summary": "It wrote that peaking bond yields and rising borrowing costs sent First Solar down more than 10% to a 52-week low.",
+          "assets": [
+            {
+              "symbol": "FSLR",
+              "sentiment": "negative",
+              "note": "Fell more than 10% to a 52-week low on financing pressure."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Export restrictions on ASML on the table",
+          "url": "https://x.com/WallStDiaries/status/2103446921524494820",
+          "published_at": "2026-09-25T11:30:00.000Z",
+          "summary": "It wrote that the Dutch Prime Minister raised export restrictions on ASML in talks with Trump, amid continued US pressure to limit sales to China.",
+          "assets": [
+            {
+              "symbol": "ASML",
+              "sentiment": "negative",
+              "note": "US pressure to restrict exports to China is a risk to ASML's market share."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "China reviewing Broadcom network switches",
+          "url": "https://x.com/WallStDiaries/status/2103446923529306482",
+          "published_at": "2026-09-25T11:30:01.000Z",
+          "summary": "It wrote that China is reviewing the use of Broadcom network switches in state-backed data centers, where this hardware holds up to 90% share in some deployments.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "negative",
+              "note": "China reviewing Broadcom network switches in state-backed data centers puts Chinese revenue at risk."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "30-year mortgage rate tops 7%",
+          "url": "https://x.com/WallStDiaries/status/2103537517379350918",
+          "published_at": "2026-09-25T17:30:00.000Z",
+          "summary": "It wrote that the US 30-year fixed mortgage rate topped 7% for the first time since January 2025, reaching 7.03%, and that housing demand is under pressure.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Strait of Hormuz bargaining on the table",
+          "url": "https://x.com/WallStDiaries/status/2103524774311809179",
+          "published_at": "2026-09-25T16:39:22.000Z",
+          "summary": "It wrote that US and Iranian negotiators are discussing lifting the blockade in exchange for Iran reopening the Strait of Hormuz, with neither side wanting to give up leverage first.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu wrote that Google sending TPUs to space shows the real bottleneck in AI is data-center capacity, and that a lasting solution may lie in space. He posted a video arguing the market has bottomed and will make a new high before a decline scenario continues. In a second video calling for sharp moves in crypto, he said he isn't selling his current positions.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Google is sending TPUs to space",
+          "url": "https://x.com/TuncSatiroglu/status/2103395037170257984",
+          "published_at": "2026-09-25T08:03:50.000Z",
+          "summary": "He wrote that Google sending TPUs to space shows the real bottleneck in AI is data-center capacity, and that a lasting solution may lie in space.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Market bottomed: new high, then a decline scenario",
+          "url": "https://x.com/TuncSatiroglu/status/2103438242528047456",
+          "published_at": "2026-09-25T10:55:31.000Z",
+          "summary": "He posted a video arguing the market has bottomed and will make a new high first, followed by a possible decline scenario.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Expects sharp moves in crypto",
+          "url": "https://x.com/TuncSatiroglu/status/2103728199951958307",
+          "published_at": "2026-09-26T06:07:42.000Z",
+          "summary": "He posted a video saying he expects sharp moves in crypto; in a follow-up reply he said he isn't selling his current positions.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy read the seating at the Trump-Xi state dinner — with Elon Musk, Jensen Huang and Tim Cook at the same table — as an important signal for AI, chips and the US-China power balance. He called **Cipher Digital (CIFR)**'s extension of the Barber Lake deal to 20 years, pushing total revenue above $9 billion, very good news, but noted the stock still fell 2.18%, showing the market is now looking past company news to other factors like liquidity, rates and valuation. He said **AMD**'s path after 5 years of sideways trading is a reminder of the value of patient investors who trust the fundamental story.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Tech leaders share a table at the Trump-Xi state dinner",
+          "url": "https://x.com/FinancewithIzzy/status/2103430439041925556",
+          "published_at": "2026-09-25T10:24:31.000Z",
+          "summary": "He wrote that Elon Musk, Lisa Su, Jensen Huang and Tim Cook sitting at the same table at the Trump-Xi state dinner is an important signal for AI, chips, EVs and the US-China power balance.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "CIFR's Barber Lake move: revenue tops $9 billion",
+          "url": "https://x.com/FinancewithIzzy/status/2103463244308341028",
+          "published_at": "2026-09-25T12:34:52.000Z",
+          "summary": "He wrote that Cipher Digital extending the Barber Lake deal to 20 years pushed total revenue above $9 billion, calling it very good news.",
+          "assets": [
+            {
+              "symbol": "CIFR",
+              "sentiment": "positive",
+              "note": "Barber Lake extended to 20 years, total revenue above $9B; called very good news."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AMD's 5-year test of patience",
+          "url": "https://x.com/FinancewithIzzy/status/2103467053864591724",
+          "published_at": "2026-09-25T12:50:00.000Z",
+          "summary": "He wrote that AMD's position today, after 5 years of sideways trading, shows the value of a patient investor who trusts the fundamental story.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "After ~5 years sideways, up roughly 193% YTD; framed as the payoff of patient investing."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CIFR and Neo Cloud sold off despite strong news",
+          "url": "https://x.com/FinancewithIzzy/status/2103568556562477353",
+          "published_at": "2026-09-25T19:33:20.000Z",
+          "summary": "He wrote that despite the strong Barber Lake news, CIFR closed down 2.18% and Neo Cloud stocks broadly sold off, showing the market is now looking past company news to factors like liquidity, rates and valuation.",
+          "assets": [
+            {
+              "symbol": "CIFR",
+              "sentiment": "neutral",
+              "note": "Despite strong news, the stock closed down 2.18%; market focused on other factors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine reported today that Tesla opened its new Semi truck factory in Nevada (capacity ~1,000 trucks/week) and ramped Optimus production from dozens to hundreds of units per quarter, and that Microsoft is reframing Copilot as the 'OS for work' with Satya Nadella saying the agent market could grow bigger than the cloud business. It wrote that SK Hynix is weighing a $150 billion IPO valuation for Solidigm, potentially the largest US semiconductor IPO ever, and that Cipher Digital extended its Barber Lake data-center deal to 20 years, pushing revenue above $9 billion. It shared that Oura's IPO drew roughly 4x oversubscription, that BofA cut Nike's price target from $47 to $30, and that a US court upheld Anthropic's Pentagon contracting ban. It also added that Meta's Muse partnered with Plaid and that Canaccord raised Meta's price target to $950.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Tesla opens its first high-volume Semi factory",
+          "url": "https://x.com/wallstengine/status/2103410491645431832",
+          "published_at": "2026-09-25T09:05:15.000Z",
+          "summary": "It wrote that Tesla opened its new Semi factory in Nevada with capacity for 50,000 trucks a year (~1,000/week), with DHL, PepsiCo and US Foods among the customers.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "positive",
+              "note": "The new Nevada Semi factory has ~1,000 trucks/week capacity; deliveries begin this week."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Ex-Tesla Dojo founders' chip startup nears $10B valuation",
+          "url": "https://x.com/wallstengine/status/2103414135384080770",
+          "published_at": "2026-09-25T09:19:44.000Z",
+          "summary": "It wrote that DensityAI, founded by former Tesla Dojo leaders, is in talks to raise funding at a $10 billion valuation, backed by an AWS chip-purchase agreement.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "xAI could double its Nvidia chip count by year-end",
+          "url": "https://x.com/wallstengine/status/2103414825284178126",
+          "published_at": "2026-09-25T09:22:28.000Z",
+          "summary": "It wrote that xAI's Colossus 2 supercomputer could go from 550K to as many as 1.21 million Nvidia chips by year-end.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "xAI could go from 550K to 1.21M chips at Colossus 2 by year-end."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oracle's New Mexico lease carries non-cancellable terms",
+          "url": "https://x.com/wallstengine/status/2103422727357169994",
+          "published_at": "2026-09-25T09:53:52.000Z",
+          "summary": "It wrote that Oracle's New Mexico data-center lease has 'hell-or-high-water' terms, meaning it must pay rent whether or not the site has power, per WSJ.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "The New Mexico data-center lease is non-cancellable, with rent due even without power on site."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fed plans to raise bank oversight thresholds",
+          "url": "https://x.com/wallstengine/status/2103428841251406129",
+          "published_at": "2026-09-25T10:18:10.000Z",
+          "summary": "It wrote that the Fed is working on a proposal to raise its top oversight threshold from $700B to about $960B, which could give regional banks more room to grow and pursue M&A.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "OpenAI's $500 ChatGPT Pro Max plan",
+          "url": "https://x.com/wallstengine/status/2103430497573691779",
+          "published_at": "2026-09-25T10:24:45.000Z",
+          "summary": "It wrote that OpenAI is planning a $500/month ChatGPT Pro Max plan, with the only stated extra benefit being 'fastest Work and Codex.'",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "BofA downgrades Nike to Underperform",
+          "url": "https://x.com/wallstengine/status/2103436666056868243",
+          "published_at": "2026-09-25T10:49:15.000Z",
+          "summary": "It wrote that BofA downgraded Nike to Underperform and cut its price target from $47 to $30, taking its FY27 sales estimate 14% below consensus.",
+          "assets": [
+            {
+              "symbol": "NKE",
+              "sentiment": "negative",
+              "note": "Downgraded to Underperform, PT cut from $47 to $30, expects FY27 sales declines."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Canaccord raises Meta's price target to $950",
+          "url": "https://x.com/wallstengine/status/2103441983658459617",
+          "published_at": "2026-09-25T11:10:23.000Z",
+          "summary": "It wrote that Canaccord raised Meta's price target to $950, citing Muse's 2.5M+ downloads in two weeks and expanding access as support for AI monetization via subscriptions and transaction fees.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Canaccord raised its PT to $950, citing Muse's 2.5M+ downloads in two weeks."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Cipher Digital extends Barber Lake deal to 20 years",
+          "url": "https://x.com/wallstengine/status/2103452286651641857",
+          "published_at": "2026-09-25T11:51:20.000Z",
+          "summary": "It wrote that Cipher Digital extended the Barber Lake data center's contract from 10 to 20 years, raising total contracted revenue from $3.8B to more than $9B.",
+          "assets": [
+            {
+              "symbol": "CIFR",
+              "sentiment": "neutral",
+              "note": "Barber Lake extended to 20 years, total contracted revenue up from $3.8B to over $9B."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft rebuilds Copilot as an 'OS for work'",
+          "url": "https://x.com/wallstengine/status/2103457685022867494",
+          "published_at": "2026-09-25T12:12:47.000Z",
+          "summary": "It wrote that Microsoft reorganized Copilot around four pieces — Home, Code, Autopilot and Office — positioning it as the AI layer across work rather than a personal chatbot.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Copilot rebuilt around Home/Code/Autopilot/Office as the 'AI layer across work.'"
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump: Xi liked the term 'super intelligence'",
+          "url": "https://x.com/wallstengine/status/2103468107612491989",
+          "published_at": "2026-09-25T12:54:12.000Z",
+          "summary": "It wrote that Trump said Xi Jinping seemed to like his proposal to call AI 'super intelligence.'",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nscale raises $2.36B in convertible notes",
+          "url": "https://x.com/wallstengine/status/2103475403839213906",
+          "published_at": "2026-09-25T13:23:11.000Z",
+          "summary": "It wrote that Nscale, an Nvidia-backed AI cloud provider that filed to list on the NYSE, raised $2.36B led by Third Point, with Nvidia separately committing another $1B.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tesla ramps Optimus production 10x",
+          "url": "https://x.com/wallstengine/status/2103480907562996128",
+          "published_at": "2026-09-25T13:45:03.000Z",
+          "summary": "It wrote that Tesla increased Optimus output from a few dozen units per week in Q2 to several hundred, targeting 1,000+/week by year-end, though hand/wrist assembly issues persist.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "positive",
+              "note": "Optimus output up 10x this quarter, targeting 1,000+/week by year-end; hand/wrist assembly issues remain."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fed's Schmid: US debt looks 'extreme'",
+          "url": "https://x.com/wallstengine/status/2103486997063196701",
+          "published_at": "2026-09-25T14:09:15.000Z",
+          "summary": "It wrote that Kansas City Fed President Schmid said US debt looks 'extreme' and that the Fed still hasn't fixed the inflation problem.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Jensen Huang: technology, not regulation, is what's needed now",
+          "url": "https://x.com/wallstengine/status/2103503855115973021",
+          "published_at": "2026-09-25T15:16:14.000Z",
+          "summary": "It wrote that Jensen Huang said companies should shut down unsafe labs themselves, but that today's problems need technology more than regulation.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Satya Nadella: the agent era could be bigger than the cloud",
+          "url": "https://x.com/wallstengine/status/2103508329951895739",
+          "published_at": "2026-09-25T15:34:01.000Z",
+          "summary": "It wrote that Satya Nadella used Microsoft's 20 years in Quincy, Washington to illustrate data centers' local economic impact, arguing sustained contribution earns 'permission' from communities.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Nadella said the data-center presence raised local tax revenue ~12x and added 1,000+ jobs."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic remains blacklisted from Pentagon contracts",
+          "url": "https://x.com/wallstengine/status/2103525603328889078",
+          "published_at": "2026-09-25T16:42:40.000Z",
+          "summary": "It wrote that a US appeals court let the Pentagon keep Anthropic blacklisted from military contracts after labeling it a national security risk.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SK Hynix's Solidigm eyes a $150B IPO",
+          "url": "https://x.com/wallstengine/status/2103527967792275830",
+          "published_at": "2026-09-25T16:52:03.000Z",
+          "summary": "It wrote that SK Hynix is weighing an IPO for its US storage unit Solidigm in 2027, potentially raising $15B at a $150B valuation — possibly the largest US semiconductor IPO ever.",
+          "assets": [
+            {
+              "symbol": "000660.KS",
+              "sentiment": "positive",
+              "note": "Solidigm could IPO in 2027 at a $150B valuation, potentially the largest US semiconductor IPO ever."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Solidigm's IPO could dwarf past semiconductor listings",
+          "url": "https://x.com/wallstengine/status/2103530718005731770",
+          "published_at": "2026-09-25T17:02:59.000Z",
+          "summary": "It wrote that Solidigm's potential $150B valuation would exceed past IPO valuations like Astera Labs, Mobileye, GlobalFoundries, Arm and Cerebras.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Supermicro moving full speed ahead with SpaceXAI",
+          "url": "https://x.com/wallstengine/status/2103544246200668187",
+          "published_at": "2026-09-25T17:56:44.000Z",
+          "summary": "It wrote that Supermicro is moving full speed ahead with SpaceXAI on a gigawatt-scale AI data-center buildout using Nvidia GB300 systems, and teased a year-end 'surprise' announcement.",
+          "assets": [
+            {
+              "symbol": "SMCI",
+              "sentiment": "positive",
+              "note": "Moving full speed ahead on a gigawatt-scale GB300 buildout with SpaceXAI."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oura's IPO draws 4x oversubscription",
+          "url": "https://x.com/wallstengine/status/2103570279796711915",
+          "published_at": "2026-09-25T19:40:11.000Z",
+          "summary": "It wrote that smart-ring maker Oura's IPO drew roughly 4x as many orders as shares available, pricing at $40-$44 for up to a $14.1B valuation.",
+          "assets": [
+            {
+              "symbol": "OURA",
+              "sentiment": "positive",
+              "note": "IPO demand ~4x supply; pricing at $40-44 for up to a $14.1B valuation."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta's Muse partners with Plaid",
+          "url": "https://x.com/wallstengine/status/2103572176540729413",
+          "published_at": "2026-09-25T19:47:44.000Z",
+          "summary": "It wrote that Meta's Muse partnered with Plaid to bring financial account connectivity into its AI agent.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Muse partnered with Plaid for financial account connectivity."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Satya Nadella: agent era could be the biggest TAM expansion ever",
+          "url": "https://x.com/wallstengine/status/2103612752531268035",
+          "published_at": "2026-09-25T22:28:58.000Z",
+          "summary": "It wrote that Microsoft's CEO called the agent opportunity probably the biggest TAM expansion ever, saying the agent era could be even bigger than the cloud business.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump rejects Iran's ceasefire offer",
+          "url": "https://x.com/wallstengine/status/2103714788027298196",
+          "published_at": "2026-09-26T05:14:25.000Z",
+          "summary": "It wrote, per WSJ, that Trump rejected Iran's 7-day ceasefire offer and won't lift the naval blockade.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz wrote that, believing valuations had entered bubble territory, he trimmed a third of **CrowdStrike (CRWD)** and cut **Cloudflare (NET)** to lock in gains, while not selling any of **Palantir (PLTR)**, his largest position. He said he finds **QQQ**'s technical picture strong after it rose 24% since the Iran conflict began in February. He shared that after a 48% gain in a month he took profit on a quarter of his **Ginkgo Bioworks (DNA)** position and is holding the rest. He said **Rocket Lab (RKLB)** makes up 11% of his long-term portfolio, which he considers plenty.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Valuation dilemma in CRWD, NET and PLTR",
+          "url": "https://x.com/jrouldz/status/2103460563141513609",
+          "published_at": "2026-09-25T12:24:13.000Z",
+          "summary": "He wrote that the combined market cap of PLTR, CRWD and NET went from $90B to $840B, and that believing valuations had entered bubble territory, he started trimming NET and sold a third of CRWD, while not selling any PLTR.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "No sales made; remains the largest position."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "negative",
+              "note": "A third of the position sold on valuation concerns, locking in a 2x gain."
+            },
+            {
+              "symbol": "NET",
+              "sentiment": "negative",
+              "note": "Position started being trimmed on valuation concerns."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "RKLB at 11% of the portfolio, plenty",
+          "url": "https://x.com/jrouldz/status/2103469390549377117",
+          "published_at": "2026-09-25T12:59:17.000Z",
+          "summary": "He wrote that Rocket Lab (RKLB) makes up 11% of his long-term portfolio, which he considers plenty.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "11% of the long-term portfolio; no further buying planned."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "QQQ's technical picture looks strong",
+          "url": "https://x.com/jrouldz/status/2103524299550105886",
+          "published_at": "2026-09-25T16:37:29.000Z",
+          "summary": "He wrote that zooming into QQQ's chart, he finds the technical picture strong.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Technical picture assessed as strong."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "QQQ up 24% since the Iran conflict began",
+          "url": "https://x.com/jrouldz/status/2103541484033020293",
+          "published_at": "2026-09-25T17:45:46.000Z",
+          "summary": "He wrote that QQQ is up 24% since the Iran conflict began in February, and that he's glad he ignored the doomers.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Up 24% since the Iran conflict began in February."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "A quarter of the DNA position taken off",
+          "url": "https://x.com/jrouldz/status/2103572413682237699",
+          "published_at": "2026-09-25T19:48:40.000Z",
+          "summary": "He wrote that he took profit on a quarter of his Ginkgo Bioworks (DNA) position after a 48% gain in a month, holding the rest as the theme may still be early.",
+          "assets": [
+            {
+              "symbol": "DNA",
+              "sentiment": "positive",
+              "note": "25% of the position realized after a 48% gain in a month; remainder held."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.119,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.218,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1586,
+        "mentions": [
+          {
+            "person": "wallstengine",
+            "sentiment": "positive",
+            "quote": "Canaccord raises $META PT to $950, saying Muse's 2.5M+ downloads in 2 weeks and expanding access through glasses, Mac and a dedicated device strengthen the case for AI monetization via subscriptions and transaction fees.",
+            "source_url": "https://x.com/wallstengine/status/2103441983658459617"
+          },
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "Meta's value has risen a bit too fast... we don't yet know how these moves will affect Meta's revenue, profit and cash flow.",
+            "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+          }
+        ],
+        "action": "hold",
+        "why": "Canaccord raised its price target to $950, but Bora Özkent thinks the valuation is rising fast and its impact on earnings is unclear; there is no clear buy/sell case."
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1438,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "negative",
+            "quote": "China is reviewing the use of Broadcom network switches in state-backed data centers. According to the report, this hardware holds up to 90% share in some deployments.",
+            "source_url": "https://x.com/WallStDiaries/status/2103446923529306482"
+          }
+        ],
+        "action": "hold",
+        "why": "Per WallStDiaries, China reviewing Broadcom's network switches is a risk, but there's no concrete case for selling."
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1208,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1015,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US92840M1027",
+        "name": "Vistra Corp",
+        "weight": 0.0905,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0478,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "RKLB",
+        "name": "Rocket Lab",
+        "why": "Per korkmazali08, if the Iridium acquisition goes through it could turn Rocket Lab into an integrated space company with ready-made communications infrastructure, customers and recurring revenue instead of building a satellite network from scratch; but integration risk and a high valuation narrow the margin for error.",
+        "source_url": "https://x.com/korkmazali08/status/2103571574511091946"
+      },
+      {
+        "symbol": "AKAM",
+        "name": "Akamai",
+        "why": "Per Bora Özkent, Akamai — up 20% after its $11 billion Anthropic deal — still has upside in the agentic AI era thanks to its content-delivery and cybersecurity businesses.",
+        "source_url": "https://www.youtube.com/watch?v=QM5jI5Uohbw"
+      },
+      {
+        "symbol": "CIFR",
+        "name": "Cipher Digital",
+        "why": "Per FinancewithIzzy, extending Barber Lake to 20 years and pushing revenue above $9 billion is very strong news; the stock falling anyway could be a pricing opportunity.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2103463244308341028"
+      }
+    ]
+  }
+}
