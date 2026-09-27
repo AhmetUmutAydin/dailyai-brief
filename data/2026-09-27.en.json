@@ -1,0 +1,1106 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T07:21:37Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "US 10-year Treasury yield hit its highest level since 2006",
+      "person": "Defiant Gatekeeper",
+      "why": "The yield passed 5.1% and is heading toward 5.2%; the Fed's hawkish inflation stance combined with treating AI as 'too big to fail' is letting stocks keep rising anyway.",
+      "source_url": "https://www.youtube.com/watch?v=V3wA6sIl2AY"
+    },
+    {
+      "title": "SPK's rule change put 131 funds from 7 fund management firms into liquidation",
+      "person": "Berk Dinçtürk",
+      "why": "Berk Dinçtürk argued the rule change aims to make the fund market safer and more institutional rather than shrink it, and is laying the groundwork for big money coming into Turkey.",
+      "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+    },
+    {
+      "title": "Hyperscaler bond issuance jumped from $35B to $200B in a year",
+      "person": "jrouldz",
+      "why": "Alphabet's 100-year, 6.125%-coupon sterling bond was 10x oversubscribed; jrouldz read this as evidence mega-cap tech firms are becoming as creditworthy as governments.",
+      "source_url": "https://x.com/jrouldz/status/2103842242427302209"
+    },
+    {
+      "title": "JPMorgan targets $65 for IREN with $24B revenue forecast for 2030",
+      "person": "FinancewithIzzy",
+      "why": "The model factors in a $9.7B Microsoft contract, a $3.4B/5-year Nvidia contract, and a $4B ARR target for December 2026; FinancewithIzzy said it rests on a conservative $/MW assumption.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2103887575379247269"
+    },
+    {
+      "title": "More oil passed through the Strait of Hormuz than before the war",
+      "person": "Tunç Şatıroğlu",
+      "why": "Per the US Energy Secretary, 20 million barrels moved through in a single day this week (vs. 13 million barrels/day the prior week); the Saudi pipeline comes fully back online on Tuesday.",
+      "source_url": "https://x.com/TuncSatiroglu/status/2104088886637219974"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Why US stocks aren't falling even as bond yields rise",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "He said the US 10-year yield passing 5.1% (highest since 2006) hasn't stopped stocks from rising because the market treats AI as immune to macro swings and 'too big to fail,' and that markets can stay irrational for a long time.",
+          "quote": "The market can remain irrational for a long time; instead of denying it, we should go along with what the market is doing.",
+          "source_url": "https://www.youtube.com/watch?v=V3wA6sIl2AY"
+        },
+        {
+          "person": "jrouldz",
+          "view": "He argued mega-cap tech firms (Alphabet, Meta, Oracle) have become as powerful and creditworthy as governments, that their bond issuance (including Alphabet's 100-year 6.125% sterling bond) proves this structural shift, and that it forces Treasury yields to stay high via supply and demand.",
+          "quote": "Treasury yields have been pegged to a new standard. They need to stay high to compete.",
+          "source_url": "https://x.com/jrouldz/status/2103842242427302209"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "He wrote that the sharp rise in the MOVE index is normally a negative signal for tech stocks, but strong AI-company earnings are currently offsetting the rate pressure, and that his own risk system watches whether SPX and especially NDX sit above or below the 50-day EMA.",
+          "quote": "There's no fixed mechanical inverse correlation between MOVE and Nasdaq... I think the current reason is that ongoing strong AI-company earnings are suppressing the rate pressure.",
+          "source_url": "https://x.com/cevikfinance/status/2103934490540155154"
+        }
+      ]
+    },
+    {
+      "topic": "Iran-US: ceasefire proposal rejected, Strait of Hormuz tension continues",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "He reported that Trump rejected Iran's 7-day ceasefire proposal (offered in exchange for reopening the Strait of Hormuz and resuming nuclear talks), and that Washington is keeping renewed operations on the table after the November midterms.",
+          "quote": "Trump said Saturday he rejected Iran's latest proposal... \"They have made a proposal and I rejected it.\"",
+          "source_url": "https://x.com/wallstengine/status/2103862588828504434"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "He wrote that Iran's latest offer confirmed it won't give up nuclear weapons, so the standoff will likely continue past the election, but he sees a low chance Trump resumes bombing after the election — in which case markets could rally post-election.",
+          "quote": "In that case we could see a rally in the markets after the election.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2104088886637219974"
+        }
+      ]
+    },
+    {
+      "topic": "US-China: $30B reciprocal tariff cut and the Xi-Trump meeting outcomes",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "He reported that the US and China agreed to recommend more favorable tariff treatment on $30B of non-sensitive goods in each direction following Xi Jinping's state visit, and that China also agreed to buy at least 10 million metric tons of US coal in both 2027 and 2028.",
+          "quote": "The U.S. and China agreed to recommend more favorable tariff treatment on $30B of non-sensitive goods in each direction following Xi Jinping's state visit.",
+          "source_url": "https://x.com/wallstengine/status/2103812748530556979"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "He added that the deal could lower prices on consumer goods like small appliances, toys and child car seats, and that the White House said talks on rare earth elements are ongoing.",
+          "quote": "The White House said talks on rare earth elements are still ongoing.",
+          "source_url": "https://x.com/korkmazali08/status/2103862700489011447"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "He shared the eight-point outcome of the Xi-Trump meeting (mutual attendance at APEC/G20, Iran's commitment not to develop nuclear weapons, no tolls on international waterways, counter-narcotics cooperation, a new round of the AI dialogue in November 2026) and called it good news for the market.",
+          "quote": "Another piece of good news for the market.",
+          "source_url": "https://x.com/cevikfinance/status/2103981592578494921"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey: money market fund (PPF) liquidations and the payout dispute",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "He said around 131 funds from 7 fund management firms were put into liquidation, that the rule change aims to make the fund market safer and more institutional rather than shrink it, and that he sees this as laying groundwork for big money coming into Turkey.",
+          "quote": "This regulation was actually made not to shrink the fund market but to turn it into a more reliable, healthier and more institutional structure.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        },
+        {
+          "person": "dtfinans_",
+          "view": "He argued that prioritizing payouts by a 1 million TL threshold is unjust, that PPFs were sold as a risk-free/liquid product, that investors shouldn't pay for SPK's supervisory failure, and that everyone should be paid in full immediately.",
+          "quote": "Make those responsible pay out the PPFs... please let everyone's money be paid. People trusted SPK's oversight and saw this as a safe haven.",
+          "source_url": "https://x.com/dtfinans_/status/2104027483779526886"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey's target of bringing inflation down to single digits",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "He said he doesn't believe Vice President Cevdet Yılmaz's pledge to bring inflation back to single digits, recalling that a similar target failed in 2023.",
+          "quote": "In 2023 there was a plan to bring it to single digits within three years. It failed. I don't believe Cevdet Yılmaz will succeed this time either.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2104092482007073170"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "IREN",
+      "name": "IREN Limited",
+      "priority": "high",
+      "why": "FinancewithIzzy said JPMorgan's new model forecasts $24B revenue and a $65 price target by 2030, and that this rests on a conservative assumption.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "JPMorgan's new model paints a much bigger picture: Price target: $65, 2030 revenue estimate: $24 billion",
+          "source_url": "https://x.com/FinancewithIzzy/status/2103887575379247269"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent Crude",
+      "priority": "high",
+      "why": "Both Defiant Gatekeeper and Tunç Şatıroğlu said rising Saudi supply is pushing oil down or will push it down further; Tunç gave a concrete level and date.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "After Saudi Arabia announced stable output of 7.5 million barrels a day, the oil price fell to around $92.",
+          "source_url": "https://www.youtube.com/watch?v=V3wA6sIl2AY"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "negative",
+          "quote": "We expect it to drop a bit further this week once the Saudi pipeline is fully back online.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2104088886637219974"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "Oil has topped between 11:30–12 every single day this week. This is bizarre.",
+          "source_url": "https://x.com/ulkser/status/2103878187445022947"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "Tunç Şatıroğlu wrote that if Monday's launch succeeds, the stock could clear the $155 resistance level.",
+      "mentions": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "positive",
+          "quote": "If tomorrow's launch succeeds, we could see $SPCX trade above $155.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2104095474710110436"
+        }
+      ]
+    },
+    {
+      "symbol": "AAL",
+      "name": "American Airlines",
+      "priority": "medium",
+      "why": "ulkser said he expects a breakout in the stock.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$AAL kopus bekliyorum (expecting a breakout)",
+          "source_url": "https://x.com/ulkser/status/2103932523046732110"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "priority": "low",
+      "why": "",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Intel $INTC shares are up 38% this month, on track for their second-best monthly gain since 1987.",
+          "source_url": "https://x.com/wallstengine/status/2103848162242998660"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "low",
+      "why": "",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "A federal jury found Apple's Taptic Engine... infringed two Taction patents... could ultimately have to pay more than $5.7B",
+          "source_url": "https://x.com/wallstengine/status/2103864884756971558"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "WallStDiaries reported that, per SemiAnalysis data, demand for Nvidia chips is at record levels, with even cloud providers that have flawed infrastructure easily finding profitable customers.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "According to SemiAnalysis data, demand for Nvidia GPUs is at record levels.",
+          "source_url": "https://x.com/WallStDiaries/status/2103862162468876435"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "medium",
+      "why": "jrouldz said he sees a technical breakout and is holding his ~11% position while waiting for the Neutron launch.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$RKLB wedge breakout",
+          "source_url": "https://x.com/jrouldz/status/2103996031989952791"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "priority": "medium",
+      "why": "jrouldz said he sees a technical breakout and is holding long-term without a price target, based on the growth potential of the quantum computing market.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$IONQ wedge breakout",
+          "source_url": "https://x.com/jrouldz/status/2103922162394427438"
+        }
+      ]
+    },
+    {
+      "symbol": "DFTX",
+      "name": "DFTX",
+      "priority": "high",
+      "why": "jrouldz said full FDA approval is the next catalyst after the company cleared phase 3 on most trials, that analysts are giving price targets in the 70s-90s, and that he expects technical support at $35.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "they have now cleared phase 3 on three of four major trials... Pro analysts are giving this price targets in the 70s to 90s now.",
+          "source_url": "https://x.com/jrouldz/status/2103834400534270198"
+        }
+      ]
+    },
+    {
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF Trust",
+      "priority": "medium",
+      "why": "jrouldz has been saying for weeks that a test of $720 would be healthy, but said he isn't counting on it.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I've been saying for a few weeks that SPY $720 would be healthy but I'm not counting on it",
+          "source_url": "https://x.com/jrouldz/status/2103849342939676695"
+        }
+      ]
+    },
+    {
+      "symbol": "OPEN",
+      "name": "Opendoor Technologies",
+      "priority": "medium",
+      "why": "jrouldz thinks retail interest could pour back in as investors mistakenly buy the ticker during the OpenAI IPO.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I love the thesis that clueless people will buy this by mistake when it's time for the OpenAI ipo... retail fomo might come pouring right back in",
+          "source_url": "https://x.com/jrouldz/status/2103894852714762454"
+        }
+      ]
+    },
+    {
+      "symbol": "TEM",
+      "name": "Tempus AI",
+      "priority": "medium",
+      "why": "jrouldz said he took a swing position to ride short-term hype around the AI-biotech crossover, and is considering taking profit to keep his total biotech exposure in check.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I really added TEM swing specifically to ride the short term hype wave around the crossover of biotech and AI... I will be very tempted to cash out",
+          "source_url": "https://x.com/jrouldz/status/2103927822058209351"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "WallStDiaries reported spot Bitcoin ETFs saw their strongest week of 2026 with $2.4B in weekly net inflows.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Spot Bitcoin ETFs posted their strongest performance since October, with $2.4 billion in weekly net inflows.",
+          "source_url": "https://x.com/WallStDiaries/status/2103926409593077929"
+        }
+      ]
+    },
+    {
+      "symbol": "THYAO",
+      "name": "Turkish Airlines",
+      "priority": "medium",
+      "why": "Berk Dinçtürk thinks the Boeing deal could be a short-term catalyst for a company whose market value sits below book value.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "One example is Turkish Airlines... if you buy it and wait, it will offer you quite good potential.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        }
+      ]
+    },
+    {
+      "symbol": "XAU",
+      "name": "Gold",
+      "priority": "high",
+      "why": "Berk Dinçtürk forecast that, due to the global debt load and central bank reserve diversification, gold could reach 5-digit levels (above $10,000) by the end of the Trump term.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "By the end of the Trump term, silver goes up a notch, gold hits 5 digits.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        }
+      ]
+    },
+    {
+      "symbol": "XAG",
+      "name": "Silver",
+      "priority": "medium",
+      "why": "Berk Dinçtürk thinks silver will keep rising alongside gold as a supply-constrained asset in a monetary-inflation environment.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Not just gold, silver keeps rising too.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        }
+      ]
+    },
+    {
+      "symbol": "SPX",
+      "name": "S&P 500",
+      "priority": "high",
+      "why": "Berk Dinçtürk expects gains through year-end, noting the PEG ratio is at a 30-year low; Defiant Gatekeeper said the index is staying resilient on the AI theme despite rising bond yields.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Looking at this point, I still think the S&P 500 has room to run... but the window of opportunity is narrowing.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "positive",
+          "quote": "Despite rising yields, stocks keep rising; the market sees AI as immune to macro swings.",
+          "source_url": "https://www.youtube.com/watch?v=V3wA6sIl2AY"
+        }
+      ]
+    },
+    {
+      "symbol": "COPPER",
+      "name": "Copper",
+      "priority": "low",
+      "why": "",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Copper has quietly been one of the best-performing instruments this year.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        }
+      ]
+    },
+    {
+      "symbol": "KOSPI",
+      "name": "KOSPI Index",
+      "priority": "medium",
+      "why": "Berk Dinçtürk thinks the index, which rose 120% before retreating to a 70% gain, is overextended and not a place to look for new opportunities.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "negative",
+          "quote": "The South Korea index actually rose 120% before pulling back to a 70% gain... it doesn't make much sense for investors to chase an index that's already up 70% from here.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent lays out four basic ways to make money: labor (selling your time), capital (putting money to work through investing), arbitrage (buying cheap and selling dear — including the information arbitrage he practices himself), and insurance (taking on someone else's risk for a premium). He notes labor has a hard ceiling of about 2,000 working hours a year, making it risky to rely on alone, while a steady $500/month invested in US stocks could grow to $1.13 million over 30 years at a 10% nominal return. He explains information arbitrage through his own business: he gathers data from paid subscriptions, summarizes and adds commentary with AI, then resells it at a higher price to his School members and on social media.\n\nHe frames the fourth mechanism, insurance, more broadly than just insurance companies — as guaranteeing a customer outcome or helping reduce someone's risk (such as through stock analysis). He says none of these is enough on its own; for durable, scalable income they must be turned into a system, like his own Terminal platform. He assigns viewers homework: map their own income sources onto these four categories and work out how to turn them into a system.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "There Are 4 Ways to Make Money, the Rest Is Nonsense!",
+          "url": "https://www.youtube.com/watch?v=M7qtACFd9g4",
+          "published_at": "2026-09-27T06:30:22+00:00",
+          "summary": "Inspired by a tweet, Bora Özkent walks through four mechanisms for making money: labor (selling your time, capped at roughly 2,000 hours a year), capital (regular stock investing — $500/month could grow to $1.13 million over 30 years at a 10% nominal return), arbitrage (buying cheap and selling dear, including the information arbitrage he practices himself by summarizing paid sources with AI and reselling to his School members), and insurance (taking on someone else's risk for a premium, or reducing a customer's risk via a guarantee). He adds a fifth layer — tying all of this into a system, like his own Terminal platform — as what makes income durable and scalable. He assigns viewers homework: map their income sources onto these four categories and work out how to systematize them.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": "Defiant Gatekeeper explains that the S&P 500 and Nasdaq kept climbing last week even as the US 10-year yield passed 5.1% (highest since 2006) and is heading toward 5.2%. He attributes stocks holding up despite rising yields to three things: oil retreating on peace-deal hopes (falling to around $92 after Saudi Arabia announced stable output of 7.5 million barrels/day), hawkish inflation remarks from Fed officials Waller and Barkin, and the Fed treating AI infrastructure investment as both disinflationary long-term and 'too big to fail.' He says the market now treats AI as immune to macro swings, so no matter how much the Fed hikes, AI infrastructure spending is priced as protected. He concludes markets can stay irrational for a long time, so the right move is to go along with market moves rather than deny them.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Stock market is feeling invincible",
+          "url": "https://www.youtube.com/watch?v=V3wA6sIl2AY",
+          "published_at": "2026-09-26T13:24:19+00:00",
+          "summary": "Defiant Gatekeeper notes the S&P 500 rose 1.2% and the Nasdaq over 2% last week, even as the US 10-year yield passed 5.1% (highest since 2006) and is heading toward 5.2%. He finds it strange that stocks are rising alongside yields, and attributes it to three factors: oil falling to around $92 after Saudi Arabia announced stable output of 7.5 million barrels a day, hawkish inflation comments from Fed officials Waller and Barkin, and the Fed (Schmid, Warsh) framing AI infrastructure investment as both disinflationary long-term and 'too big to fail.' He says the market now prices AI as immune to macro swings, so AI infrastructure spending is treated as protected no matter how much the Fed tightens. He concludes markets can stay irrational for a long time, and the right approach is to move with market behavior rather than deny it.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "negative",
+              "note": "He reported the price fell to around $92 after Saudi Arabia announced stable output of 7.5 million barrels a day."
+            },
+            {
+              "symbol": "SPX",
+              "sentiment": "positive",
+              "note": "He said the index is staying resilient on the AI theme despite rising bond yields, with the market treating AI as immune to macro swings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": "Berk Dinçtürk thinks SPK putting roughly 131 funds from 7 fund managers into liquidation is meant to make the fund market safer and more institutional, not to shrink it, and sees this as laying groundwork for big money coming into Turkey. He says Turkey is gaining geopolitical importance via the middle corridor and its defense industry, which will eventually pull in capital, and that companies like **Turkish Airlines**, trading below book value, are a good opportunity for investors especially after the Boeing deal.\n\nOn the US side, he explains that even though the Fed unexpectedly hiked rates, the economy is growing at 6.5% nominal, and with $40 trillion in debt the Fed has very little tolerance for recession. He says the **S&P 500**'s PEG ratio is at a 30-year low, sees upside through year-end, but notes the window is narrowing and recommends carrying existing positions with trailing stops. As a new investment theme, he says AI is shifting from hardware to software, making crypto assets and tokenization increasingly important, and recommends a slice of the portfolio in metals/commodities (rare earths, **gold**, **silver**, **copper**). Given the global debt load and central banks diversifying reserves, he expects **gold** to reach 5-digit levels (above $10,000) by the end of the Trump term, with **silver** following the same rally. He adds that the **Korea index**, up 120% before pulling back to a 70% gain, looks overextended and isn't the place to look for new opportunities — pointing instead to commodity-rich South American markets like Brazil and Argentina.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "The Ground Has Been Prepared for Big Money | Berk Dinçtürk | Investment Tips",
+          "url": "https://www.youtube.com/watch?v=Id4SKbooboc",
+          "published_at": "2026-09-26T07:16:01.614Z",
+          "summary": "Berk Dinçtürk says the liquidation of roughly 131 funds from 7 fund managers (following SPK's August 28 rule changes) is meant to make the fund market safer and more institutional rather than shrink it, and sees it as laying groundwork for big money coming into Turkey, whose rising geopolitical weight via the middle corridor and defense industry will eventually attract capital. He says **Turkish Airlines**, trading below book value, is a good opportunity for investors especially after its Boeing deal. In the US, despite an unexpected Fed rate hike, the economy is growing 6.5% nominal, and with $40 trillion in debt the Fed has very little tolerance for recession — so the **S&P 500**'s PEG ratio sits at a 30-year low with upside through year-end (the November election), though the window is narrowing and he recommends carrying positions with trailing stops. He says AI is shifting from hardware to software/blockchain, making crypto assets and tokenization more important, and recommends a metals/commodities slice of the portfolio (rare earths, **gold**, **silver**, **copper**). Given the global debt load and central bank reserve diversification, he expects **gold** to reach 5-digit levels (above $10,000) by the end of the Trump term, with **silver** rallying too. He adds that the **Korea index**, up 120% before pulling back to a 70% gain, looks overextended, and that commodity-rich markets like Brazil and Argentina look more attractive.",
+          "assets": [
+            {
+              "symbol": "THYAO",
+              "sentiment": "positive",
+              "note": "Trading below book value; the Boeing deal could be a short-term catalyst."
+            },
+            {
+              "symbol": "SPX",
+              "sentiment": "positive",
+              "note": "PEG ratio is at a 30-year low; sees upside through year-end but the window is narrowing."
+            },
+            {
+              "symbol": "XAU",
+              "sentiment": "positive",
+              "note": "Could reach 5-digit levels (above $10,000) by the end of the Trump term."
+            },
+            {
+              "symbol": "XAG",
+              "sentiment": "positive",
+              "note": "Expected to keep rising alongside gold."
+            },
+            {
+              "symbol": "COPPER",
+              "sentiment": "positive",
+              "note": "Quietly one of the best-performing instruments this year."
+            },
+            {
+              "symbol": "KOSPI",
+              "sentiment": "negative",
+              "note": "Rose 120% before pulling back to 70%; looks overextended and not worth chasing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser said he expects a breakout in **AAL**. He also shared, without comment, an observation that oil prices have topped out between 11:30 and noon every day this week, referencing BlackRock's Aladdin platform.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Expecting a breakout in AAL",
+          "url": "https://x.com/ulkser/status/2103932523046732110",
+          "published_at": "2026-09-26T19:39:37.000Z",
+          "summary": "He wrote that he expects a breakout in $AAL.",
+          "assets": [
+            {
+              "symbol": "AAL",
+              "sentiment": "positive",
+              "note": "Expects a breakout in the stock."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Shared a pattern of oil topping out at the same time daily",
+          "url": "https://x.com/ulkser/status/2103878187445022947",
+          "published_at": "2026-09-26T16:03:42.000Z",
+          "summary": "He shared, without comment, an observation that oil has topped out between 11:30 and noon every day this week, referencing BlackRock's Aladdin platform.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 shared that Trump rejected Iran's 7-day ceasefire proposal and that military options remain on the table after the election. He reported the US-China $30B reciprocal tariff cut and ongoing rare-earth talks. He also posted educational content listing brokers Turkish investors can use for US stocks (Midas, İş Yatırım, IBKR, etc.) and US-listed country ETFs.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trump rejected Iran's ceasefire proposal",
+          "url": "https://x.com/korkmazali08/status/2103857833448259844",
+          "published_at": "2026-09-26T14:42:49.000Z",
+          "summary": "He shared a video saying Trump rejected Iran's 7-day ceasefire proposal and that things will fully come to a head after the election.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "US-China $30B tariff-cut agreement",
+          "url": "https://x.com/korkmazali08/status/2103862700489011447",
+          "published_at": "2026-09-26T15:02:10.000Z",
+          "summary": "He reported the US and China agreed to a reciprocal $30B tariff cut, and that the White House said rare-earth talks are ongoing.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Investing in US stocks: country ETFs and broker options",
+          "url": "https://x.com/korkmazali08/status/2103885001297113510",
+          "published_at": "2026-09-26T16:30:47.000Z",
+          "summary": "He explained how to invest from Turkey in US markets and various country ETFs, which brokers to use (Midas, İş Yatırım, IBKR, etc.), and tax/commission points to watch.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_ argued that prioritizing PPF (money market fund) payouts by a 1 million TL threshold is unjust, that PPFs were sold as a risk-free/liquid product, and that investors shouldn't bear the cost of SPK's supervisory failure. He demanded everyone be paid in full immediately, and welcomed officials finally addressing the issue.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "The 1 million TL threshold in the PPF liquidation seen as unjust",
+          "url": "https://x.com/dtfinans_/status/2104027483779526886",
+          "published_at": "2026-09-27T01:56:57.000Z",
+          "summary": "He wrote that he doesn't accept prioritized payouts based on a 1 million TL threshold, that PPFs were sold as a liquid, risk-free product, and that investors won't pay for SPK's negligence.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Dispute over SPK's PPF oversight responsibility",
+          "url": "https://x.com/dtfinans_/status/2104064720085139911",
+          "published_at": "2026-09-27T04:24:55.000Z",
+          "summary": "He argued SPK itself was supposed to oversee PPF holdings, so investors can't be blamed, and that SPK should be the one to pay.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries reported the 10-year yield rose 17bp on the week to 5.16%, with the Nasdaq 100 up 3.25% while the Russell 2000 fell. He shared that **Bitcoin** is meeting resistance in the $85-87K band but spot ETFs saw $2.4B in weekly net inflows, and that foreign investors poured a record $942B into US stocks over the past 12 months. He reported Trump rejected Iran's ceasefire offer, that demand for **Nvidia** chips is at record levels despite infrastructure flaws, and that Trump approved new standards that effectively end the EV mandate.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Weekly market wrap: bond yields and indexes",
+          "url": "https://x.com/WallStDiaries/status/2103820914575966333",
+          "published_at": "2026-09-26T12:16:07.000Z",
+          "summary": "He reported the 10-year yield rose 17bp on the week to 5.16%, with PMI hitting a 5-year high pushing October rate-hike odds toward 70%, while the Nasdaq 100 rose 3.25% and the Russell 2000 fell 0.80%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin testing resistance in the $85-87K band",
+          "url": "https://x.com/WallStDiaries/status/2103831961215127629",
+          "published_at": "2026-09-26T13:00:01.000Z",
+          "summary": "He reported Bitcoin is meeting stiff resistance in the $85,000-$87,000 band, with $37M in sell orders against $21.1M in buy orders, while spot ETF inflows are providing a floor.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "Testing resistance in the $85-87K band, with sell orders outweighing buy orders."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Middle East AI data-center investment hit by the Iran war",
+          "url": "https://x.com/WallStDiaries/status/2103839505530978699",
+          "published_at": "2026-09-26T13:30:00.000Z",
+          "summary": "He wrote that tech giants' AI infrastructure investments in the Gulf, drawn by cheap energy, have been shaken by the Iran war, with data centers becoming targets and reshaping cost and security calculations.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "US-China $30B tariff agreement",
+          "url": "https://x.com/WallStDiaries/status/2103847064425705634",
+          "published_at": "2026-09-26T14:00:02.000Z",
+          "summary": "He reported the US and China agreed on a reciprocal $30B tariff cut and launched a new AI dialogue.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump rejected Iran's ceasefire offer",
+          "url": "https://x.com/WallStDiaries/status/2103854605910311131",
+          "published_at": "2026-09-26T14:30:00.000Z",
+          "summary": "He wrote that Trump turned down Iran's 7-day ceasefire offer, with Washington keeping renewed operations on the table after the November midterms.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia chip demand at record levels despite infrastructure flaws",
+          "url": "https://x.com/WallStDiaries/status/2103862162468876435",
+          "published_at": "2026-09-26T15:00:02.000Z",
+          "summary": "He reported that, per SemiAnalysis data, demand for Nvidia chips is at record levels, with even cloud providers with flawed infrastructure easily finding profitable customers.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Chip demand is at record levels; even providers with weak infrastructure are easily finding profitable customers."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump and tech CEOs to meet on AI safety September 29",
+          "url": "https://x.com/WallStDiaries/status/2103869705882915327",
+          "published_at": "2026-09-26T15:30:00.000Z",
+          "summary": "He reported Trump, House Speaker Mike Johnson and tech CEOs will meet on September 29 to discuss AI oversight and safety policy.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Record foreign capital inflow into US stocks",
+          "url": "https://x.com/WallStDiaries/status/2103926194219495661",
+          "published_at": "2026-09-26T19:14:28.000Z",
+          "summary": "He wrote that foreign investors poured a net $942B into US stocks and funds over the past 12 months, fueling the Wall Street rally.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin ETFs post 2026's strongest weekly inflow",
+          "url": "https://x.com/WallStDiaries/status/2103926409593077929",
+          "published_at": "2026-09-26T19:15:19.000Z",
+          "summary": "He wrote that spot Bitcoin ETFs posted 2026's strongest performance with $2.4B in weekly net inflows, pushing funds back into positive territory for the year.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Spot ETFs saw $2.4B in weekly net inflows, pushing funds back into positive territory for 2026."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump effectively ends the EV mandate",
+          "url": "https://x.com/WallStDiaries/status/2103934207428796758",
+          "published_at": "2026-09-26T19:46:18.000Z",
+          "summary": "He reported Trump approved new fuel-economy standards that effectively end the Biden-era EV mandate, reshaping the industry's electrification timeline.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu wrote that more oil is now moving through the Strait of Hormuz than before the war (20 million barrels a day), that the Saudi pipeline returns fully online on Tuesday, and that since Iran's latest offer confirmed it won't give up nuclear weapons the standoff will likely persist until the election — though a post-election market rally is possible. He said he doesn't believe Vice President Cevdet Yılmaz's pledge to bring inflation to single digits, citing the failure of a similar 2023 target. He forecast that if Monday's **SpaceX** launch succeeds, the stock could clear the $155 resistance level.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "More oil now passes through Hormuz than before the war",
+          "url": "https://x.com/TuncSatiroglu/status/2104088886637219974",
+          "published_at": "2026-09-27T06:00:57.000Z",
+          "summary": "He wrote that per the US Energy Secretary, 20 million barrels a day moved through this week, that the Saudi pipeline fully returns online Tuesday, and that since Iran confirmed it won't drop its nuclear program the standoff continues until the election — though a post-election rally is possible.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "negative",
+              "note": "Expects the price to ease further once the Saudi pipeline is fully back online; Friday's close was $101.9."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Doesn't trust the single-digit inflation target",
+          "url": "https://x.com/TuncSatiroglu/status/2104092482007073170",
+          "published_at": "2026-09-27T06:15:14.000Z",
+          "summary": "He wrote that he doesn't believe Cevdet Yılmaz's pledge to bring inflation to single digits, citing the failure of a similar 2023 target.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "$155 resistance in view after SpaceX launch",
+          "url": "https://x.com/TuncSatiroglu/status/2104095474710110436",
+          "published_at": "2026-09-27T06:27:08.000Z",
+          "summary": "He wrote that if Monday's launch succeeds, $SPCX could clear the $155 resistance level.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "A successful launch is expected to push it above the $155 resistance level."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bessent thanks Turkey for cooperation against Iran",
+          "url": "https://x.com/TuncSatiroglu/status/2104091096427151390",
+          "published_at": "2026-09-27T06:09:44.000Z",
+          "summary": "He shared that US Treasury Secretary Bessent thanked Turkey, the UK, Oman and the UAE for cooperating on efforts to cut off Iran's oil revenue.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "A critical week for the Nasdaq, time for caution",
+          "url": "https://x.com/TuncSatiroglu/status/2103770152341020882",
+          "published_at": "2026-09-26T08:54:25.000Z",
+          "summary": "He shared a video titled 'Nasdaq Enters a Critical Week, Let's Pause Now,' signaling a cautious stance on the Nasdaq.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy said the market's odd behavior stems from rising bond yields, oil above $100, and the market testing how long it can tolerate high rates, noting Barclays remains overweight equities but expects volatility. He explained that **IREN** has moved past the Bitcoin-miner-to-AI narrative, with JPMorgan's new model forecasting $24B revenue and a $65 target by 2030, backed by Microsoft ($9.7B) and Nvidia ($3.4B/5-year) contracts.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Barclays: stocks nearing a breaking point but still overweight",
+          "url": "https://x.com/FinancewithIzzy/status/2103756463910883420",
+          "published_at": "2026-09-26T08:00:01.000Z",
+          "summary": "He wrote that the market's odd behavior stems from rising bond yields, oil above $100, and the market testing how long it can tolerate high rates — though Barclays remains overweight equities.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "JPMorgan sets a $65 target for IREN",
+          "url": "https://x.com/FinancewithIzzy/status/2103887575379247269",
+          "published_at": "2026-09-26T16:41:00.000Z",
+          "summary": "He explained that IREN has moved past the Bitcoin-miner-to-AI story, with JPMorgan's new model — forecasting $24B revenue and a $65 target by 2030 — resting on Microsoft and Nvidia contracts.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "JPMorgan's model forecasts $24B revenue and a $65 target by 2030, backed by Microsoft and Nvidia contracts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine reported the US and China agreed on a reciprocal $30B tariff cut following Xi Jinping's visit, with China also agreeing to buy at least 10 million metric tons of US coal in 2027-2028. He shared that **Intel** is up 38% this month, its second-best month since 1987, and that **Apple** was hit with a record $5.7B patent verdict over its Taptic Engine. He reported Trump rejected Iran's ceasefire offer, and that Trump and Xi will meet again in November at APEC and in December at the G20.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "US-China $30B tariff agreement",
+          "url": "https://x.com/wallstengine/status/2103812748530556979",
+          "published_at": "2026-09-26T11:43:40.000Z",
+          "summary": "He reported the US and China agreed to recommend a reciprocal $30B tariff cut following Xi Jinping's visit, with China committing to buy at least 10 million metric tons of US coal in 2027-2028.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Intel is up 38% this month",
+          "url": "https://x.com/wallstengine/status/2103848162242998660",
+          "published_at": "2026-09-26T14:04:24.000Z",
+          "summary": "He reported Intel shares are up 38% this month, on track for their second-best monthly gain since 1987.",
+          "assets": [
+            {
+              "symbol": "INTC",
+              "sentiment": "neutral",
+              "note": "Up 38% this month, its second-best month since 1987."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump rejected Iran's ceasefire offer",
+          "url": "https://x.com/wallstengine/status/2103862588828504434",
+          "published_at": "2026-09-26T15:01:43.000Z",
+          "summary": "He reported Trump rejected Iran's 7-day ceasefire offer and is considering resuming bombing after the midterms.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Apple hit with a record $5.7B Taptic Engine verdict",
+          "url": "https://x.com/wallstengine/status/2103864884756971558",
+          "published_at": "2026-09-26T15:10:51.000Z",
+          "summary": "He wrote that a jury found Apple's Taptic Engine infringed two Taction patents, in what could be the largest US patent verdict to date.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Hit with a record $5.7B verdict over the Taptic Engine patent case; plans to appeal."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump and Xi to meet again in November and December",
+          "url": "https://x.com/wallstengine/status/2103932636125401403",
+          "published_at": "2026-09-26T19:40:04.000Z",
+          "summary": "He reported Trump and Xi will meet again at APEC in Shenzhen in November and the G20 in Miami in December.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz argued mega-cap tech firms (**Alphabet**, **Meta**, **Oracle**) have become as powerful and creditworthy as governments, noting Alphabet's 100-year, 6.125%-coupon sterling bond was 10x oversubscribed and that hyperscaler bond issuance jumped from $35B to $200B this year, pushing US Treasury yields higher. He said he's holding his **DFTX** position — which cleared phase 3 on most trials — through an expected FDA approval, with analysts targeting $70-90, and that he sees technical breakouts in **IONQ** and **RKLB**, holding his ~11% **RKLB** position while waiting for the Neutron launch. He noted **SPY** testing $720 would be healthy though he isn't counting on it, that **OPEN** could see retail interest return amid OpenAI-IPO ticker confusion, and that he's considering taking profit on **TEM** to keep his AI-biotech crossover exposure in check.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "DFTX: FDA approval expected after phase 3",
+          "url": "https://x.com/jrouldz/status/2103834400534270198",
+          "published_at": "2026-09-26T13:09:43.000Z",
+          "summary": "He wrote he's holding his $DFTX position after it cleared phase 3 on most trials, that full FDA approval is the next catalyst, that analysts are targeting the 70s-90s, and that he expects technical support at $35.",
+          "assets": [
+            {
+              "symbol": "DFTX",
+              "sentiment": "positive",
+              "note": "Cleared phase 3 on most trials; FDA approval is the next catalyst, with analysts targeting 70s-90s and technical support at $35."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hyperscaler bond issuance signals competition with governments",
+          "url": "https://x.com/jrouldz/status/2103842242427302209",
+          "published_at": "2026-09-26T13:40:52.000Z",
+          "summary": "He wrote that Alphabet, Meta and Oracle's high-yield/long-dated bond issuance proves mega-cap tech firms have become as creditworthy as governments, and that this is pushing US Treasury yields higher through competition.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "A $720 SPY test would be healthy, but not expected",
+          "url": "https://x.com/jrouldz/status/2103849342939676695",
+          "published_at": "2026-09-26T14:09:05.000Z",
+          "summary": "He wrote he's been saying for weeks that a $720 test on SPY would be healthy, but isn't counting on it.",
+          "assets": [
+            {
+              "symbol": "SPY",
+              "sentiment": "neutral",
+              "note": "Says a test of $720 would be healthy but isn't counting on it."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Expecting OpenAI-IPO ticker confusion to hit OPEN",
+          "url": "https://x.com/jrouldz/status/2103894852714762454",
+          "published_at": "2026-09-26T17:09:56.000Z",
+          "summary": "He wrote he's still watching $OPEN, and thinks retail interest could pour back in as investors mistakenly buy the ticker during the OpenAI IPO.",
+          "assets": [
+            {
+              "symbol": "OPEN",
+              "sentiment": "positive",
+              "note": "Thinks retail interest could return via ticker confusion during the OpenAI IPO."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Technical breakout in IONQ",
+          "url": "https://x.com/jrouldz/status/2103922162394427438",
+          "published_at": "2026-09-26T18:58:27.000Z",
+          "summary": "He wrote he sees a wedge breakout in $IONQ.",
+          "assets": [
+            {
+              "symbol": "IONQ",
+              "sentiment": "positive",
+              "note": "Sees a technical breakout; holding long-term without a price target, based on quantum computing market growth potential."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Considering taking profit on TEM",
+          "url": "https://x.com/jrouldz/status/2103927822058209351",
+          "published_at": "2026-09-26T19:20:56.000Z",
+          "summary": "He wrote he added $TEM as a swing position to ride short-term hype around the AI-biotech crossover, and is considering taking profit to keep his total biotech exposure in check.",
+          "assets": [
+            {
+              "symbol": "TEM",
+              "sentiment": "positive",
+              "note": "Took a swing position to ride the AI-biotech crossover hype, considering profit-taking to limit total biotech exposure."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Technical breakout in RKLB, holding for Neutron",
+          "url": "https://x.com/jrouldz/status/2103996031989952791",
+          "published_at": "2026-09-26T23:51:59.000Z",
+          "summary": "He wrote he sees a wedge breakout in $RKLB, doesn't expect a serious move until the Neutron launch, but is holding his ~11% position.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "positive",
+              "note": "Sees a technical breakout; holding his ~11% position while waiting for the Neutron launch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance shared the news that Trump rejected Iran's ceasefire offer, noting he had predicted it; he called the eight-point outcome of the Xi-Trump meeting (reciprocal tariff cut, Iran's non-nuclear commitment, a new AI dialogue, etc.) good news for the market. He wrote that a rising MOVE index is normally bad for tech stocks, but strong AI-company earnings are currently offsetting that pressure, and that his own risk system watches whether SPX/NDX sit above or below the 50-day EMA.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trump rejected Iran's ceasefire offer",
+          "url": "https://x.com/cevikfinance/status/2103779556427760064",
+          "published_at": "2026-09-26T09:31:47.000Z",
+          "summary": "He shared that Trump rejected Iran's 7-day ceasefire offer, noting he had predicted it.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Xi-Trump meeting's eight-point outcome seen as good news for markets",
+          "url": "https://x.com/cevikfinance/status/2103981592578494921",
+          "published_at": "2026-09-26T22:54:36.000Z",
+          "summary": "He shared the eight-point outcome of the Xi-Trump meeting (reciprocal tariff cut, Iran's non-nuclear commitment, a new AI dialogue, etc.) and called it good news for the market.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "MOVE index rising, but AI earnings offset the pressure",
+          "url": "https://x.com/cevikfinance/status/2103934490540155154",
+          "published_at": "2026-09-26T19:47:26.000Z",
+          "summary": "He wrote that a rising MOVE index is normally bad for tech stocks, but current strong AI earnings are offsetting the pressure, and that he personally watches whether SPX/NDX sit above or below the 50-day EMA.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.119,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.218,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1586,
+        "mentions": [
+          {
+            "person": "jrouldz",
+            "sentiment": "neutral",
+            "quote": "$META bond yields over 7%",
+            "source_url": "https://x.com/jrouldz/status/2103842242427302209"
+          }
+        ],
+        "action": "hold",
+        "why": "jrouldz noted Meta's bond yield topped 7% as part of his thesis that mega-caps are becoming as creditworthy as governments; there's no concrete buy/sell case for the stock."
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1438,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1208,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1015,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US92840M1027",
+        "name": "Vistra Corp",
+        "weight": 0.0905,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0478,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today."
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "IREN",
+        "name": "IREN Limited",
+        "why": "Per FinancewithIzzy, JPMorgan's new model forecasts $24B revenue and a $65 target by 2030, backed by Microsoft and Nvidia contracts.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2103887575379247269"
+      },
+      {
+        "symbol": "IONQ",
+        "name": "IonQ",
+        "why": "jrouldz said he sees a technical breakout and is holding long-term based on the quantum computing market's growth potential.",
+        "source_url": "https://x.com/jrouldz/status/2103922162394427438"
+      },
+      {
+        "symbol": "XAU",
+        "name": "Gold",
+        "why": "Per Berk Dinçtürk, given the global debt load and central bank reserve diversification, gold could reach 5-digit levels (above $10,000) by the end of the Trump term.",
+        "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+      }
+    ]
+  }
+}

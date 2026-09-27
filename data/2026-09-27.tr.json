@@ -1,0 +1,1106 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T07:21:37Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "ABD 10 yıllık tahvil faizi 2006'dan bu yana en yüksek seviyeye çıktı",
+      "person": "Defiant Gatekeeper",
+      "why": "Faiz %5,1'i geçip %5,2'ye yöneldi; Fed'in enflasyona karşı şahin duruşu ve yapay zekayı 'batmasına izin verilemeyecek' unsur olarak görmesi hisselerin yine de yükselmesine yol açıyor.",
+      "source_url": "https://www.youtube.com/watch?v=V3wA6sIl2AY"
+    },
+    {
+      "title": "SPK düzenlemesiyle 7 fon şirketinin 131 fonu tasfiyeye alındı",
+      "person": "Berk Dinçtürk",
+      "why": "Berk Dinçtürk, düzenlemenin fon piyasasını küçültmek değil daha güvenli/kurumsal hale getirmek için yapıldığını, bunun Türkiye'ye gelecek büyük paraya zemin hazırladığını savundu.",
+      "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+    },
+    {
+      "title": "Hyperscaler tahvil ihracı bir yılda 35 milyar dolardan 200 milyar dolara sıçradı",
+      "person": "jrouldz",
+      "why": "Alphabet'in 100 yıl vadeli, %6,125 kuponlu sterlin bonosu 10 kat fazla talep gördü; jrouldz bunu mega-cap teknoloji şirketlerinin devletler kadar kredibl hale gelmesinin kanıtı olarak yorumladı.",
+      "source_url": "https://x.com/jrouldz/status/2103842242427302209"
+    },
+    {
+      "title": "JPMorgan, IREN için 65 dolar hedef fiyat ve 2030'da 24 milyar dolar gelir öngörüyor",
+      "person": "FinancewithIzzy",
+      "why": "Model Microsoft'la 9,7 milyar, Nvidia'yla 3,4 milyar dolarlık kontratları ve Aralık 2026'da 4 milyar dolar ARR hedefini içeriyor; FinancewithIzzy bunun konservatif bir $/MW varsayımına dayandığını belirtti.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2103887575379247269"
+    },
+    {
+      "title": "Hürmüz Boğazı'ndan savaş öncesinden fazla petrol geçti",
+      "person": "Tunç Şatıroğlu",
+      "why": "ABD Enerji Bakanı'na göre bu hafta bir günde 20 milyon varil petrol taşındı (önceki hafta günlük 13 milyon varildi); Suudi boru hattı salı günü yeniden tam devreye giriyor.",
+      "source_url": "https://x.com/TuncSatiroglu/status/2104088886637219974"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "ABD'de tahvil faizleri yükselirken hisseler neden düşmüyor",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "ABD 10 yıllık tahvil faizinin %5,1'i geçip 2006'dan bu yana en yükseğe çıkmasına rağmen hisselerin yükselişini sürdürdüğünü, bunun nedeninin piyasanın yapay zekayı makro dalgalanmalara karşı bağışık ve 'batmasına izin verilemeyecek' bir unsur olarak görmesi olduğunu, piyasanın uzun süre irrasyonel kalabileceğini söyledi.",
+          "quote": "Piyasa uzun süre irrasyonel kalabilir; buna karşı direnmek yerine piyasa hareketleriyle uyum sağlamalıyız.",
+          "source_url": "https://www.youtube.com/watch?v=V3wA6sIl2AY"
+        },
+        {
+          "person": "jrouldz",
+          "view": "Mega-cap teknoloji şirketlerinin (Alphabet, Meta, Oracle) artık hükümetler kadar güçlü ve kredibl hale geldiğini, bono ihraçlarının (100 yıllık %6,125 sterlin bonosu dahil) bu yapısal değişimin kanıtı olduğunu, bunun arz-talep yoluyla hazine faizlerini yüksek tutmaya zorladığını savundu.",
+          "quote": "Treasury yields have been pegged to a new standard. They need to stay high to compete.",
+          "source_url": "https://x.com/jrouldz/status/2103842242427302209"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "MOVE endeksindeki sert yükselişin normalde teknoloji hisseleri için negatif bir sinyal olduğunu ama şu anda yapay zeka şirketlerinin güçlü bilançolarının faiz baskısını bastırdığını, kendi risk yönetiminde SPX ve özellikle NDX'in 50 günlük ortalamanın üstünde/altında olmasına baktığını yazdı.",
+          "quote": "MOVE ile Nasdaq arasında sabit mekanik bir ters korelasyon yok... Bence şu anki sebep YZ şirketleri tarafındaki devam eden güçlü bilançoların faiz baskısını bastırması.",
+          "source_url": "https://x.com/cevikfinance/status/2103934490540155154"
+        }
+      ]
+    },
+    {
+      "topic": "İran-ABD: ateşkes teklifi reddedildi, Hürmüz Boğazı gerilimi sürüyor",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "Trump'ın, İran'ın Hürmüz Boğazı'nın açılması ve nükleer görüşmelerin yeniden başlaması karşılığında sunduğu 7 günlük ateşkes teklifini reddettiğini, Washington'ın Kasım ara seçimlerinin ardından operasyonları yeniden başlatmayı masada tuttuğunu aktardı.",
+          "quote": "Trump said Saturday he rejected Iran's latest proposal... \"They have made a proposal and I rejected it.\"",
+          "source_url": "https://x.com/wallstengine/status/2103862588828504434"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "İran'ın son teklifinde nükleer silahtan vazgeçmeyeceğini açıkladığını, dolayısıyla mevcut durumun seçimden sonra da süreceğini, ancak Trump'ın seçim sonrası bombalamaya devam etme ihtimalini düşük gördüğünü, bu durumda seçim sonrası piyasalarda ralli görülebileceğini yazdı.",
+          "quote": "Bu durumda seçimden sonra piyasalarda bir ralli görebiliriz.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2104088886637219974"
+        }
+      ]
+    },
+    {
+      "topic": "ABD-Çin: 30 milyar dolarlık karşılıklı tarife indirimi ve Xi-Trump görüşmesi çıktıları",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "ABD ve Çin'in, Xi Jinping'in devlet ziyareti sonrası karşılıklı 30 milyar dolarlık 'hassas olmayan' ürünlerde daha uygun tarife uygulamayı önerdiğini, Çin'in ayrıca 2027 ve 2028'de en az 10 milyon ton ABD kömürü almayı kabul ettiğini aktardı.",
+          "quote": "The U.S. and China agreed to recommend more favorable tariff treatment on $30B of non-sensitive goods in each direction following Xi Jinping's state visit.",
+          "source_url": "https://x.com/wallstengine/status/2103812748530556979"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Anlaşmanın küçük ev aletleri, oyuncaklar ve çocuk oto koltukları gibi tüketim ürünlerinde fiyat düşürebileceğini, Beyaz Saray'ın nadir toprak elementlerine ilişkin görüşmelerin sürdüğünü açıkladığını ekledi.",
+          "quote": "Beyaz Saray, nadir toprak elementlerine ilişkin görüşmelerin ise sürdüğünü açıkladı.",
+          "source_url": "https://x.com/korkmazali08/status/2103862700489011447"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Xi-Trump görüşmesinin sekiz maddelik çıktısını (APEC/G20 karşılıklı katılım, İran'ın nükleer silah geliştirmemesi taahhüdü, uluslararası su yollarında geçiş ücreti alınmaması, uyuşturucuyla mücadele iş birliği, Kasım 2026'da yeni bir YZ diyaloğu turu) paylaşarak bunun piyasa için iyi haber olduğunu yazdı.",
+          "quote": "Piyasa için bir güzel haber daha.",
+          "source_url": "https://x.com/cevikfinance/status/2103981592578494921"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye: Para piyasası fonu (PPF) tasfiyeleri ve ödeme tartışması",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "7 fon yönetim şirketinin yaklaşık 131 fonunda tasfiye kararı verildiğini, düzenlemenin amacının fon piyasasını küçültmek değil daha güvenilir ve kurumsal bir yapıya kavuşturmak olduğunu, bu adımın Türkiye'ye gelecek büyük paraya zemin hazırladığını düşündüğünü söyledi.",
+          "quote": "Şimdi bu yapılan düzenleme aslında fon piyasasını küçültmek için değil daha güvenilir, daha sağlıklı ve daha kurumsal bir yapıya çevirmek için yapılmış durumda.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        },
+        {
+          "person": "dtfinans_",
+          "view": "1 milyon TL eşiğine göre öncelik sırası uygulanmasını adaletsiz bulduğunu, PPF'lerin risksiz/likit bir ürün olarak satıldığını, SPK'nın denetim ihmalinin bedelini yatırımcının ödememesi gerektiğini, herkese eksiksiz ve derhal ödeme yapılması gerektiğini savundu.",
+          "quote": "Ppf leri ödettirin sorumluluklara... lütfen herkesin parası ödensin. İnsanlar spk denetimine güvendi güvenli liman olarak gördü burayı.",
+          "source_url": "https://x.com/dtfinans_/status/2104027483779526886"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye'de enflasyonu tek haneye indirme hedefi",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın enflasyonu yeniden tek haneli seviyelere indirme sözüne inanmadığını, 2023'te benzer bir hedefin başarısız olduğunu hatırlattı.",
+          "quote": "2023'te üç yıl içinde tek haneye indirme perspektifi vardı. Başarısız oldu. Bundan sonra da Cevdet Yılmaz'ın başarılı olacağına inanmıyorum.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2104092482007073170"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "IREN",
+      "name": "IREN Limited",
+      "priority": "high",
+      "why": "FinancewithIzzy, JPMorgan'ın yeni modelinin 2030'da 24 milyar dolar gelir ve 65 dolar hedef fiyat öngördüğünü, bunun konservatif bir varsayıma dayandığını belirtti.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "JPMorgan'ın yeni modeli çok daha büyük bir tablo çiziyor: Hedef fiyat: $65, 2030 gelir tahmini: $24 milyar",
+          "source_url": "https://x.com/FinancewithIzzy/status/2103887575379247269"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent Petrol",
+      "priority": "high",
+      "why": "Defiant Gatekeeper ve Tunç Şatıroğlu, Suudi arzının artmasıyla petrol fiyatının gerilediğini/gerileyeceğini aktardı; Tunç somut seviye ve tarih verdi.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Suudi Arabistan'ın günlük 7,5 milyon varillik istikrarlı üretimi açıklanmasının ardından petrol fiyatı yaklaşık 92 dolara geriledi.",
+          "source_url": "https://www.youtube.com/watch?v=V3wA6sIl2AY"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "negative",
+          "quote": "Suudi Arabistan boru hattının tam olarak devreye alınmasıyla bu hafta bir parça daha düşmesini bekleriz.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2104088886637219974"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "Oil has topped between 11:30–12 every single day this week. This is bizarre.",
+          "source_url": "https://x.com/ulkser/status/2103878187445022947"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "Tunç Şatıroğlu, pazartesi günkü fırlatmanın başarılı olması halinde hissenin 155 dolar direncinin üzerini görebileceğini yazdı.",
+      "mentions": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "positive",
+          "quote": "Yarın fırlatmanın başarılı olmasıyla $SPCX hissesinde 155 doların üzerini görebiliriz.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2104095474710110436"
+        }
+      ]
+    },
+    {
+      "symbol": "AAL",
+      "name": "American Airlines",
+      "priority": "medium",
+      "why": "ulkser hissede kopuş (breakout) beklediğini paylaştı.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$AAL kopus bekliyorum",
+          "source_url": "https://x.com/ulkser/status/2103932523046732110"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "priority": "low",
+      "why": "",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Intel $INTC shares are up 38% this month, on track for their second-best monthly gain since 1987.",
+          "source_url": "https://x.com/wallstengine/status/2103848162242998660"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "low",
+      "why": "",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "A federal jury found Apple's Taptic Engine... infringed two Taction patents... could ultimately have to pay more than $5.7B",
+          "source_url": "https://x.com/wallstengine/status/2103864884756971558"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "WallStDiaries, SemiAnalysis verilerine göre Nvidia çiplerine talebin rekor seviyede olduğunu, altyapısı kusurlu bulut sağlayıcıların bile kolayca kârlı müşteri bulabildiğini aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "SemiAnalysis verilerine göre Nvidia grafik işlemcilerine talep rekor seviyede.",
+          "source_url": "https://x.com/WallStDiaries/status/2103862162468876435"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "medium",
+      "why": "jrouldz teknik kopuş sinyali gördüğünü, Neutron fırlatmasını bekleyerek ~%11'lik pozisyonunu koruduğunu yazdı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$RKLB wedge breakout",
+          "source_url": "https://x.com/jrouldz/status/2103996031989952791"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "priority": "medium",
+      "why": "jrouldz teknik kopuş gördüğünü, uzun vadeli hedefi olmadan kuantum bilişim pazarındaki büyüme potansiyeline dayanarak tutmaya devam ettiğini yazdı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$IONQ wedge breakout",
+          "source_url": "https://x.com/jrouldz/status/2103922162394427438"
+        }
+      ]
+    },
+    {
+      "symbol": "DFTX",
+      "name": "DFTX",
+      "priority": "high",
+      "why": "jrouldz, faz 3 denemelerinin çoğunu geçen şirkette FDA onayının bir sonraki katalizör olacağını, analistlerin 70-90 dolar bandında hedef fiyat verdiğini, teknik olarak 35 dolarda destek beklediğini yazdı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "they have now cleared phase 3 on three of four major trials... Pro analysts are giving this price targets in the 70s to 90s now.",
+          "source_url": "https://x.com/jrouldz/status/2103834400534270198"
+        }
+      ]
+    },
+    {
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF Trust",
+      "priority": "medium",
+      "why": "jrouldz haftalardır 720 dolar seviyesinin test edilmesinin sağlıklı olacağını söylüyor ama bunu beklemediğini belirtti.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I've been saying for a few weeks that SPY $720 would be healthy but I'm not counting on it",
+          "source_url": "https://x.com/jrouldz/status/2103849342939676695"
+        }
+      ]
+    },
+    {
+      "symbol": "OPEN",
+      "name": "Opendoor Technologies",
+      "priority": "medium",
+      "why": "jrouldz, OpenAI halka arzı sırasında yatırımcıların ticker'ı karıştırıp yanlışlıkla alım yapmasıyla perakende ilgisinin geri dönebileceğini düşünüyor.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I love the thesis that clueless people will buy this by mistake when it's time for the OpenAI ipo... retail fomo might come pouring right back in",
+          "source_url": "https://x.com/jrouldz/status/2103894852714762454"
+        }
+      ]
+    },
+    {
+      "symbol": "TEM",
+      "name": "Tempus AI",
+      "priority": "medium",
+      "why": "jrouldz, yapay zeka-biyoteknoloji kesişimindeki kısa vadeli ilgiden yararlanmak için swing pozisyon aldığını, toplam biyoteknoloji ağırlığını sınırlı tutmak için kâr realize etmeyi düşündüğünü yazdı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I really added TEM swing specifically to ride the short term hype wave around the crossover of biotech and AI... I will be very tempted to cash out",
+          "source_url": "https://x.com/jrouldz/status/2103927822058209351"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "WallStDiaries, spot Bitcoin ETF'lerine haftalık 2,4 milyar dolarlık net girişle 2026'nın en güçlü haftasının yaşandığını aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Spot Bitcoin ETF'leri, haftalık 2,4 milyar dolarlık net girişle Ekim ayından bu yana en güçlü performansını gösterdi.",
+          "source_url": "https://x.com/WallStDiaries/status/2103926409593077929"
+        }
+      ]
+    },
+    {
+      "symbol": "THYAO",
+      "name": "Türk Hava Yolları",
+      "priority": "medium",
+      "why": "Berk Dinçtürk, piyasa değeri defter değerinin altında kalan şirketin Boeing ile yaptığı anlaşmanın kısa vadeli katalizör olabileceğini düşünüyor.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Bunlardan bir tanesi örnek Türk Hava Yolları... bunu alıp beklediğinizde size oldukça iyi potansiyel sunacak.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        }
+      ]
+    },
+    {
+      "symbol": "XAU",
+      "name": "Altın",
+      "priority": "high",
+      "why": "Berk Dinçtürk, küresel borç yükü ve merkez bankası rezerv çeşitlendirmesi nedeniyle Trump dönemi sonuna kadar altının 5 haneli (10.000 doların üzeri) seviyeleri görebileceğini öngördü.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Trump dönemi sonuna kadar gümüş basamaklı, altın 5 basamaklı.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        }
+      ]
+    },
+    {
+      "symbol": "XAG",
+      "name": "Gümüş",
+      "priority": "medium",
+      "why": "Berk Dinçtürk, parasal enflasyon ortamında arzı sınırlı varlıklar olarak altının yanı sıra gümüşün de yükselişini sürdüreceğini düşünüyor.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Sadece altın değil gümüş de yükselmeye devam eder.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        }
+      ]
+    },
+    {
+      "symbol": "SPX",
+      "name": "S&P 500",
+      "priority": "high",
+      "why": "Berk Dinçtürk, PEG oranının 30 yılın dibinde olduğunu belirterek yıl sonuna kadar yükseliş bekliyor; Defiant Gatekeeper ise yükselen tahvil faizine rağmen endeksin yapay zeka temasıyla dirençli kaldığını aktardı.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Bu noktada baktığımızda ben S&P 500'ün hala gidecek yeri olduğunu düşünüyorum... Fırsat penceresi giderek daralıyor.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "positive",
+          "quote": "Yükselen faize rağmen hisseler yükselişini sürdürüyor; piyasa yapay zekayı makro dalgalanmalara karşı bağışık görüyor.",
+          "source_url": "https://www.youtube.com/watch?v=V3wA6sIl2AY"
+        }
+      ]
+    },
+    {
+      "symbol": "COPPER",
+      "name": "Bakır",
+      "priority": "low",
+      "why": "",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Bakır bu sene sessiz sedasız en iyi performans gösteren enstrümanlardan bir tanesi oldu.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        }
+      ]
+    },
+    {
+      "symbol": "KOSPI",
+      "name": "Kospi Endeksi",
+      "priority": "medium",
+      "why": "Berk Dinçtürk, %120 yükseldikten sonra %70'e gerileyen endeksin şişmiş olduğunu, burada yeni fırsat aramanın mantıklı olmadığını düşünüyor.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "negative",
+          "quote": "Güney Kore endeksi aslında %120 yükseldikten sonra %70'e kadar geriledi... yatırımcıların bu noktadan sonra gidip %70 yükselmiş endeksin peşine düşmesi çok akla yatkın değil.",
+          "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent, parayı kazanmanın dört temel mekanizmasını anlatıyor: emek (zamanı satmak), sermaye (yatırım yaparak paranın çalışması), arbitraj (ucuza alıp pahalıya satmak; kendisinin yaptığı gibi bilgi arbitrajı da dahil) ve sigorta (karşı tarafın riskini üstlenip prim almak). Emeğin yıllık 2.000 saatlik bir üst sınırı olduğunu, bu yüzden sadece emeğe dayanmanın riskli olduğunu; buna karşılık Amerikan borsasına düzenli aylık 500 dolarlık yatırımın 30 yılda %10 nominal getiriyle 1,13 milyon dolara ulaşabileceğini örnek veriyor. Bilgi arbitrajını kendi iş modeli üzerinden anlatıyor: ücretli abone olduğu kaynaklardan topladığı bilgiyi yapay zekayla özetleyip yorumlayarak School üyelerine ve sosyal medyada daha pahalıya sattığını söylüyor.\n\nDördüncü mekanizma olan sigortayı sadece sigorta şirketleri değil, müşteriye garanti vermek veya risk azaltmaya yardımcı olmak (örneğin hisse analizleri) olarak da tanımlıyor. Bütün bunları tek başına yeterli görmüyor; sürekli gelir ve ölçeklenebilirlik için bir sisteme (kendi platformu Terminal gibi) dönüştürülmesi gerektiğini vurguluyor. İzleyicilerine kendi gelir kaynaklarını bu dört kategoriye göre sorgulamalarını ve bir sisteme dönüştürmeye çalışmalarını ev ödevi olarak veriyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Para Kazanmanın 4 Yolu Var, Gerisi Palavra !",
+          "url": "https://www.youtube.com/watch?v=M7qtACFd9g4",
+          "published_at": "2026-09-27T06:30:22+00:00",
+          "summary": "Bora Özkent, bir tweet'ten ilham alarak parayı kazanmanın dört mekanizmasını anlatıyor: emek (zamanı satmak, yıllık en fazla 2.000 saatle sınırlı), sermaye (borsaya düzenli yatırım; 30 yılda aylık 500 dolar %10 nominal getiriyle 1,13 milyon dolara ulaşabilir), arbitraj (ucuza alıp pahalıya satmak; kendi yaptığı bilgi arbitrajı dahil: ücretli kaynaklardan topladığı bilgiyi yapay zekayla özetleyip School üyelerine satıyor) ve sigorta (karşı tarafın riskini üstlenip prim almak, ya da müşteriye garanti vererek riskini azaltmak). Beşinci unsur olarak bunların hepsini bir sisteme (kendi Terminal platformu gibi) bağlamanın sürekliliği ve ölçeklenmeyi sağladığını vurguluyor. İzleyicilerine kendi gelir kaynaklarını bu dört kategoriye göre sorgulamalarını ve bir sisteme dönüştürmeye çalışmalarını ev ödevi olarak veriyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": "Defiant Gatekeeper, S&P 500 ve Nasdaq'ın geçen hafta yükselmeye devam ettiğini, buna karşın ABD 10 yıllık tahvil faizinin %5,1'i geçip 2006'dan bu yana en yükseğe çıktığını ve %5,2'ye yöneldiğini anlatıyor. Yükselen faize rağmen hisselerin düşmemesini üç başlıkla açıklıyor: barış anlaşması beklentisiyle petrolün gerilemesi (Suudi Arabistan'ın günlük 7,5 milyon varillik istikrarlı üretimi sonrası ~92 dolara inmesi), Fed yetkilileri Waller ve Barkin'in enflasyona karşı şahin açıklamaları ve Fed'in yapay zeka altyapı yatırımlarını uzun vadede enflasyonu düşürücü ve 'batmasına izin verilemeyecek' bir unsur olarak görmesi. Piyasanın yapay zekayı makro dalgalanmalara karşı bağışık gördüğünü, bu nedenle Fed ne kadar faiz artırırsa artırsın yapay zeka altyapı yatırımının korunacağının fiyatlandığını söylüyor. Sonuç olarak piyasanın uzun süre irrasyonel kalabileceğini, bu yüzden piyasa hareketlerini inkar etmek yerine onlara uyum sağlamak gerektiğini vurguluyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Stock market is feeling invincible",
+          "url": "https://www.youtube.com/watch?v=V3wA6sIl2AY",
+          "published_at": "2026-09-26T13:24:19+00:00",
+          "summary": "Defiant Gatekeeper, geçen hafta S&P 500'ün %1,2, Nasdaq'ın %2'nin üzerinde yükseldiğini, buna karşın ABD 10 yıllık tahvil faizinin %5,1'i geçip 2006'dan bu yana en yükseğe çıktığını ve %5,2'ye doğru gittiğini anlatıyor. Faiz yükselirken hisselerin de yükselmesini normalde tuhaf bulduğunu, bunu üç unsurla açıklıyor: Suudi Arabistan'ın günlük 7,5 milyon varillik istikrarlı üretimini duyurması sonrası petrolün ~92 dolara gerilemesi, Fed yetkilileri Waller ve Barkin'in enflasyona karşı şahin açıklamaları, ve Fed'in (Schmid, Warsh) yapay zeka altyapı yatırımlarını uzun vadede enflasyonu düşürücü ve 'batmasına izin verilemeyecek' bir unsur olarak görmesi. Piyasanın artık yapay zekayı makro dalgalanmalara karşı bağışık gördüğünü, Fed ne kadar sıkılaşırsa sıkılaşsın yapay zeka altyapı yatırımının korunacağının fiyatlandığını söylüyor. Sonuç olarak piyasanın uzun süre irrasyonel kalabileceğini, doğru yaklaşımın piyasa hareketlerini inkar etmek yerine onlarla uyum içinde hareket etmek olduğunu vurguluyor.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "negative",
+              "note": "Suudi Arabistan'ın günlük 7,5 milyon varillik istikrarlı üretimi sonrası fiyatın yaklaşık 92 dolara gerilediğini aktardı."
+            },
+            {
+              "symbol": "SPX",
+              "sentiment": "positive",
+              "note": "Yükselen tahvil faizine rağmen endeksin yapay zeka temasıyla dirençli kaldığını, piyasanın YZ'yi makro dalgalanmalara karşı bağışık gördüğünü belirtti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": "Berk Dinçtürk, SPK'nın 7 fon yönetim şirketine ait yaklaşık 131 fonu tasfiyeye almasının fon piyasasını küçültmek için değil daha güvenilir ve kurumsal bir yapıya kavuşturmak için yapıldığını, bu adımın Türkiye'ye gelecek büyük paraya zemin hazırladığını düşünüyor. Türkiye'nin orta koridor ve savunma sanayii üzerinden jeopolitik önem kazandığını, bunun er ya da geç sermayeyi çekeceğini, **Türk Hava Yolları** gibi piyasa değeri defter değerinin altında kalan şirketlerin (özellikle Boeing anlaşması sonrası) yatırımcılar için iyi bir fırsat olduğunu söylüyor.\n\nABD tarafında Fed'in beklenmedik şekilde faiz artırmasına rağmen ekonominin %6,5 nominal büyüdüğünü, 40 trilyon dolarlık borç yükü nedeniyle Fed'in resesyona tahammülünün çok düşük olduğunu anlatıyor. **S&P 500**'ün kâr büyümesine göre (PEG) 30 yılın en ucuz seviyelerinde olduğunu, yıl sonuna kadar yükseliş potansiyeli gördüğünü ama fırsat penceresinin daraldığını, mevcut pozisyonların kâr stoplarıyla taşınmasını önerdiğini belirtiyor. Yeni yatırım teması olarak yapay zekanın donanımdan yazılıma geçtiğini, bu yüzden kripto varlıkların ve tokenizasyonun önem kazanacağını; portföyde madenler/emtia temasına (nadir toprak elementleri, **altın**, **gümüş**, **bakır**) yer verilmesini öneriyor. Küresel borç yükü ve merkez bankalarının rezerv çeşitlendirmesi nedeniyle Trump dönemi sonuna kadar **altın**ın 5 haneli (10.000 doların üzeri) seviyeleri görebileceğini, **gümüş**ün de bu yükselişi takip edeceğini düşünüyor. **Güney Kore endeksi**nin %120 yükselip %70'e gerileyerek şiştiğini, burada yeni fırsat aramanın mantıklı olmadığını, bunun yerine Brezilya/Arjantin gibi emtia zengin Güney Amerika ülkelerine bakılabileceğini ekliyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Büyük paraya zemin hazırlandı | Berk Dinçtürk | Yatırım İpuçları",
+          "url": "https://www.youtube.com/watch?v=Id4SKbooboc",
+          "published_at": "2026-09-26T07:16:01.614Z",
+          "summary": "Berk Dinçtürk, 7 fon yönetim şirketine ait yaklaşık 131 fonun tasfiyeye alınmasının (28 Ağustos'taki SPK düzenlemelerinin devamı) fon piyasasını küçültmek için değil daha güvenilir ve kurumsal bir yapıya kavuşturmak için yapıldığını, bunun Türkiye'ye gelecek büyük paraya zemin hazırladığını düşünüyor; Türkiye'nin orta koridor ve savunma sanayii üzerinden yükselen jeopolitik önemi sermayeyi çekecek diyor. Piyasa değeri defter değerinin altında kalan **Türk Hava Yolları**'nın (özellikle Boeing anlaşması sonrası) yatırımcı için iyi bir fırsat olduğunu söylüyor. ABD'de Fed'in beklenmedik faiz artışına rağmen ekonominin %6,5 nominal büyüdüğünü, 40 trilyon dolarlık borç yükü nedeniyle Fed'in resesyona tahammülünün çok düşük olduğunu, bu yüzden **S&P 500**'ün PEG oranına göre 30 yılın en ucuz seviyelerinde kaldığını ve yıl sonuna (Kasım seçimlerine) kadar yükseliş potansiyeli taşıdığını, ama fırsat penceresinin daraldığını, mevcut pozisyonların kâr stoplarıyla taşınmasını önerdiğini belirtiyor. Yapay zekanın donanımdan yazılıma/blockchain'e geçtiğini, bu yüzden kripto varlıklar ve tokenizasyonun önem kazanacağını, portföyde madenler temasına (nadir toprak elementleri, **altın**, **gümüş**, **bakır**) yer verilmesini öneriyor. Küresel borç yükü ve merkez bankası rezerv çeşitlendirmesi nedeniyle Trump dönemi sonuna kadar **altın**ın 5 haneli (10.000 doların üzeri), **gümüş**ün de yükselen seviyeler görebileceğini düşünüyor. **Güney Kore endeksi**'nin %120 yükselip %70'e gerileyerek şiştiğini, burada yeni fırsat aramanın mantıklı olmadığını, Brezilya/Arjantin gibi emtia zengin ülkelerin daha cazip olduğunu ekliyor.",
+          "assets": [
+            {
+              "symbol": "THYAO",
+              "sentiment": "positive",
+              "note": "Piyasa değeri defter değerinin altında, Boeing anlaşması kısa vadeli katalizör olabilir."
+            },
+            {
+              "symbol": "SPX",
+              "sentiment": "positive",
+              "note": "PEG oranı 30 yılın en düşük seviyelerinde, yıl sonuna kadar yükseliş potansiyeli var ama fırsat penceresi daralıyor."
+            },
+            {
+              "symbol": "XAU",
+              "sentiment": "positive",
+              "note": "Trump dönemi sonuna kadar 5 haneli (10.000 doların üzeri) seviyeler görebilir."
+            },
+            {
+              "symbol": "XAG",
+              "sentiment": "positive",
+              "note": "Altınla birlikte yükselişini sürdürecek."
+            },
+            {
+              "symbol": "COPPER",
+              "sentiment": "positive",
+              "note": "Bu sene sessiz sedasız en iyi performans gösteren enstrümanlardan biri oldu."
+            },
+            {
+              "symbol": "KOSPI",
+              "sentiment": "negative",
+              "note": "%120 yükselip %70'e geriledi, şişmiş; burada yeni fırsat aramak mantıklı değil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser, **AAL** hissesinde kopuş (breakout) beklediğini paylaştı. Ayrıca petrol fiyatının bu hafta her gün saat 11:30-12 arasında tepe yaptığına dair bir gözlemi, BlackRock'ın Aladdin platformuna gönderme yaparak yorumsuz paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AAL'de kopuş bekleniyor",
+          "url": "https://x.com/ulkser/status/2103932523046732110",
+          "published_at": "2026-09-26T19:39:37.000Z",
+          "summary": "$AAL hissesinde kopuş (breakout) beklediğini yazdı.",
+          "assets": [
+            {
+              "symbol": "AAL",
+              "sentiment": "positive",
+              "note": "Hissede kopuş (breakout) bekliyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Petrol fiyatının günlük tepe yapma paterni paylaşıldı",
+          "url": "https://x.com/ulkser/status/2103878187445022947",
+          "published_at": "2026-09-26T16:03:42.000Z",
+          "summary": "Petrol fiyatının bu hafta her gün 11:30-12 arasında tepe yaptığına dair bir gözlemi, BlackRock'ın Aladdin platformuna gönderme yaparak yorumsuz paylaştı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08, Trump'ın İran'ın 7 günlük ateşkes teklifini reddettiğini ve seçim sonrası askeri seçeneklerin masada kaldığını paylaştı. ABD-Çin arasındaki karşılıklı 30 milyar dolarlık tarife indirimi anlaşmasını ve nadir toprak elementleri görüşmelerinin sürdüğünü aktardı. Türkiye'den ABD hisselerine yatırım yapılabilecek aracı kurumları (Midas, İş Yatırım, IBKR vb.) ve ABD'de işlem gören ülke ETF'lerini listeleyen eğitici içerikler paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trump İran'ın ateşkes teklifini reddetti",
+          "url": "https://x.com/korkmazali08/status/2103857833448259844",
+          "published_at": "2026-09-26T14:42:49.000Z",
+          "summary": "Trump'ın İran'ın 7 günlük ateşkes teklifini reddettiğini, seçim sonrası kılıçların tamamen çekileceğini belirten bir video paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "ABD-Çin 30 milyar dolarlık tarife indirimi anlaşması",
+          "url": "https://x.com/korkmazali08/status/2103862700489011447",
+          "published_at": "2026-09-26T15:02:10.000Z",
+          "summary": "ABD ve Çin'in karşılıklı 30 milyar dolarlık tarife indirimi anlaşmasına vardığını, Beyaz Saray'ın nadir toprak elementleri görüşmelerinin sürdüğünü açıkladığını aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "ABD hisselerine yatırım: ülke ETF'leri ve aracı kurum seçenekleri",
+          "url": "https://x.com/korkmazali08/status/2103885001297113510",
+          "published_at": "2026-09-26T16:30:47.000Z",
+          "summary": "Türkiye'den ABD borsalarına ve çeşitli ülke ETF'lerine nasıl yatırım yapılabileceğini, kullanılabilecek aracı kurumları (Midas, İş Yatırım, IBKR vb.) ve vergi/komisyon dikkat noktalarını anlattı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_, PPF (para piyasası fonu) tasfiyelerinde 1 milyon TL eşiğine göre öncelik sırası uygulanmasını adaletsiz bulduğunu, PPF'lerin risksiz/likit bir ürün olarak satıldığını ve SPK'nın denetim ihmalinin bedelini yatırımcının ödememesi gerektiğini savundu. Herkese eksiksiz ve derhal ödeme yapılmasını istedi, konuya el atılmasından memnuniyet duydu.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF tasfiyesinde 1 milyon TL eşiği adaletsizliği",
+          "url": "https://x.com/dtfinans_/status/2104027483779526886",
+          "published_at": "2026-09-27T01:56:57.000Z",
+          "summary": "1 milyon TL eşiğine göre öncelikli ödeme yapılmasını kabul etmediğini, PPF'lerin likit ve risksiz bir ürün olarak satıldığını, SPK'nın ihmalinin bedelini yatırımcının ödemeyeceğini yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SPK'nın PPF denetim sorumluluğu tartışması",
+          "url": "https://x.com/dtfinans_/status/2104064720085139911",
+          "published_at": "2026-09-27T04:24:55.000Z",
+          "summary": "SPK'nın PPF içeriğini kendisinin denetlediğini, dolayısıyla yatırımcıların suçlanamayacağını, ödemenin SPK tarafından yapılması gerektiğini savundu.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries, 10 yıllık tahvil faizinin haftada 17 baz puan artışla %5,16'ya çıktığını, Nasdaq 100'ün %3,25 yükselirken Russell 2000'in gerilediğini aktardı. **Bitcoin**'in 85-87 bin dolar bandında dirençle karşılaştığını ama spot ETF'lere haftalık 2,4 milyar dolar net giriş olduğunu, yabancı yatırımcıların ABD hisselerine son 12 ayda rekor 942 milyar dolar aktardığını paylaştı. Trump'ın İran'ın ateşkes teklifini reddettiğini, **Nvidia** çiplerine talebin altyapı sorunlarına rağmen rekor seviyede olduğunu ve Trump'ın EV zorunluluğunu fiilen sona erdiren yeni standardı onayladığını bildirdi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Haftalık piyasa değerlendirmesi: tahvil faizleri ve endeksler",
+          "url": "https://x.com/WallStDiaries/status/2103820914575966333",
+          "published_at": "2026-09-26T12:16:07.000Z",
+          "summary": "10 yıllık tahvil faizinin haftada 17 baz puan artışla %5,16'ya çıktığını, PMI'nin 5 yılın zirvesine çıkmasının ekim ayı faiz artırım beklentisini %70'e yaklaştırdığını, Nasdaq 100'ün %3,25 yükselirken Russell 2000'in %0,80 gerilediğini aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin 85-87 bin dolar bandında direnç testinde",
+          "url": "https://x.com/WallStDiaries/status/2103831961215127629",
+          "published_at": "2026-09-26T13:00:01.000Z",
+          "summary": "Bitcoin'in 85.000-87.000 dolar bandında sert dirençle karşılaştığını, emir defterinde 37 milyon dolarlık satışa karşı 21,1 milyon dolarlık alış olduğunu, spot ETF girişlerinin altta zemin oluşturduğunu aktardı.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "85-87 bin dolar bandında direnç testi sürüyor, emir defterinde satış baskısı alışın üzerinde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Ortadoğu'daki YZ veri merkezi yatırımları İran savaşından etkileniyor",
+          "url": "https://x.com/WallStDiaries/status/2103839505530978699",
+          "published_at": "2026-09-26T13:30:00.000Z",
+          "summary": "Körfez'in ucuz enerji avantajıyla bölgeye yönelen teknoloji devlerinin AI altyapı yatırımlarının İran savaşıyla sarsıldığını, veri merkezlerinin hedef haline gelmesinin maliyet ve güvenlik hesaplarını değiştirdiğini yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "ABD-Çin 30 milyar dolarlık tarife anlaşması",
+          "url": "https://x.com/WallStDiaries/status/2103847064425705634",
+          "published_at": "2026-09-26T14:00:02.000Z",
+          "summary": "ABD ve Çin'in karşılıklı 30 milyar dolarlık gümrük vergisi indirimi üzerinde uzlaştığını ve yapay zekâ alanında yeni bir diyalog başlattığını aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump İran'ın ateşkes teklifini reddetti",
+          "url": "https://x.com/WallStDiaries/status/2103854605910311131",
+          "published_at": "2026-09-26T14:30:00.000Z",
+          "summary": "Trump'ın İran'ın sunduğu 7 günlük ateşkes teklifini geri çevirdiğini, Washington'ın kasım ara seçimleri sonrası operasyonları yeniden başlatmayı masada tuttuğunu yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia çip talebi altyapı sorunlarına rağmen rekor seviyede",
+          "url": "https://x.com/WallStDiaries/status/2103862162468876435",
+          "published_at": "2026-09-26T15:00:02.000Z",
+          "summary": "SemiAnalysis verilerine göre Nvidia çiplerine talebin rekor seviyede olduğunu, altyapısı kusurlu bulut sağlayıcılarının bile kolayca kârlı müşteri bulabildiğini aktardı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Çip talebi rekor seviyede; altyapısı zayıf sağlayıcılar bile kolayca kârlı müşteri buluyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump ve teknoloji CEO'ları 29 Eylül'de YZ güvenliği için buluşuyor",
+          "url": "https://x.com/WallStDiaries/status/2103869705882915327",
+          "published_at": "2026-09-26T15:30:00.000Z",
+          "summary": "Trump, Meclis Başkanı Mike Johnson ve teknoloji CEO'larının yapay zekâ denetimi ve güvenlik politikalarını görüşmek üzere 29 Eylül'de bir araya geleceğini aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "ABD borsalarında rekor yabancı sermaye girişi",
+          "url": "https://x.com/WallStDiaries/status/2103926194219495661",
+          "published_at": "2026-09-26T19:14:28.000Z",
+          "summary": "Yabancı yatırımcıların son 12 ayda ABD hisse ve fonlarına net 942 milyar dolar aktardığını, bunun Wall Street rallisini desteklediğini yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin ETF'lerinde 2026'nın en güçlü haftalık girişi",
+          "url": "https://x.com/WallStDiaries/status/2103926409593077929",
+          "published_at": "2026-09-26T19:15:19.000Z",
+          "summary": "Spot Bitcoin ETF'lerinin haftalık 2,4 milyar dolar net girişle 2026'nın en güçlü performansını gösterdiğini, bu sayede fonların yıl genelinde yeniden pozitif bölgeye geçtiğini yazdı.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Spot ETF'lere haftalık 2,4 milyar dolar net giriş oldu, fonlar 2026 genelinde yeniden pozitife geçti."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump EV zorunluluğunu fiilen sona erdirdi",
+          "url": "https://x.com/WallStDiaries/status/2103934207428796758",
+          "published_at": "2026-09-26T19:46:18.000Z",
+          "summary": "Trump'ın, Biden döneminde getirilen elektrikli araç zorunluluğunu fiilen bitiren yeni yakıt tasarrufu standartlarını onayladığını, bunun sektörün elektrifikasyon takvimini değiştirdiğini aktardı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu, Hürmüz Boğazı'ndan savaş öncesinden fazla petrol geçtiğini (günlük 20 milyon varil), Suudi boru hattının salı günü yeniden tam devreye gireceğini, İran'ın nükleer silahtan vazgeçmeyeceğini açıkladığı için seçime kadar mevcut durumun süreceğini ama seçim sonrası piyasalarda ralli görülebileceğini yazdı. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın enflasyonu tek haneye indirme sözüne, 2023'teki benzer hedefin başarısız olmasını gerekçe göstererek inanmadığını belirtti. **SpaceX**'in pazartesi günkü fırlatmasının başarılı olması halinde hissenin 155 dolar direncinin üzerini görebileceğini öngördü.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Hürmüz Boğazı'ndan savaş öncesinden fazla petrol geçti",
+          "url": "https://x.com/TuncSatiroglu/status/2104088886637219974",
+          "published_at": "2026-09-27T06:00:57.000Z",
+          "summary": "ABD Enerji Bakanı'na göre bu hafta günde 20 milyon varil petrol taşındığını, Suudi boru hattının salı günü tam devreye gireceğini, İran'ın nükleer silahtan vazgeçmeyeceğini açıkladığı için mevcut durumun seçime kadar süreceğini ama seçim sonrası ralli görülebileceğini yazdı.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "negative",
+              "note": "Suudi boru hattı tam devreye girince fiyatın biraz daha gerilemesini bekliyor; cuma kapanışı 101,9 dolardı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Enflasyonu tek haneye indirme hedefine güvenmiyor",
+          "url": "https://x.com/TuncSatiroglu/status/2104092482007073170",
+          "published_at": "2026-09-27T06:15:14.000Z",
+          "summary": "Cevdet Yılmaz'ın enflasyonu tek haneye indirme sözüne, 2023'teki benzer hedefin başarısız olmasını örnek göstererek inanmadığını yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX fırlatması sonrası 155 dolar direnci hedefte",
+          "url": "https://x.com/TuncSatiroglu/status/2104095474710110436",
+          "published_at": "2026-09-27T06:27:08.000Z",
+          "summary": "Pazartesi günkü fırlatmanın başarılı olması halinde $SPCX hissesinin 155 dolar direncinin üzerini görebileceğini yazdı.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Başarılı fırlatma sonrası 155 dolar direncinin üzeri hedefleniyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bessent, İran'a karşı iş birliği için Türkiye'ye teşekkür etti",
+          "url": "https://x.com/TuncSatiroglu/status/2104091096427151390",
+          "published_at": "2026-09-27T06:09:44.000Z",
+          "summary": "ABD Hazine Bakanı Bessent'in İran'ın petrol gelirlerini kesmeye yönelik çabalarda iş birliği yaptığı için Türkiye, İngiltere, Umman ve BAE'ye teşekkür ettiğini paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nasdaq'ta kritik hafta, dikkatli olma zamanı",
+          "url": "https://x.com/TuncSatiroglu/status/2103770152341020882",
+          "published_at": "2026-09-26T08:54:25.000Z",
+          "summary": "'Nasdaq Kritik Haftaya Girdi, Artık Duralım' başlıklı bir video paylaşarak Nasdaq'a temkinli yaklaştığını işaret etti.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy, piyasanın tuhaf davranışının nedeninin tahvil faizlerinin yükselmesi, petrolün 100 doların üzerinde olması ve piyasanın yüksek faizlere ne kadar dayanabileceğini test etmesi olduğunu, Barclays'in hisselerde hâlâ overweight kaldığını ama volatilite beklediğini paylaştı. **IREN**'in artık Bitcoin madenciliğinden YZ şirketine dönüşüm hikâyesini aştığını, JPMorgan'ın yeni modelinin 2030'da 24 milyar dolar gelir ve 65 dolar hedef fiyat öngördüğünü, bunun Microsoft (9,7 milyar dolar) ve Nvidia (3,4 milyar dolar/5 yıl) kontratlarına dayandığını anlattı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Barclays: hisseler kırılma noktasına yaklaşıyor ama hâlâ overweight",
+          "url": "https://x.com/FinancewithIzzy/status/2103756463910883420",
+          "published_at": "2026-09-26T08:00:01.000Z",
+          "summary": "Piyasanın garip davranışının tahvil faizlerindeki yükseliş, 100 doların üzerindeki petrol fiyatı ve piyasanın yüksek faizlere ne kadar dayanabileceğini test etmesinden kaynaklandığını, Barclays'in yine de hisselerde overweight kaldığını yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "IREN için JPMorgan'dan 65 dolar hedef fiyat",
+          "url": "https://x.com/FinancewithIzzy/status/2103887575379247269",
+          "published_at": "2026-09-26T16:41:00.000Z",
+          "summary": "IREN'in Bitcoin madencisinden YZ şirketine dönüşüm hikâyesini aştığını, JPMorgan'ın 2030'da 24 milyar dolar gelir ve 65 dolar hedef fiyat öngören yeni modelinin Microsoft ve Nvidia kontratlarına dayandığını anlattı.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "JPMorgan modeli 2030'da 24 milyar dolar gelir ve 65 dolar hedef fiyat öngörüyor; Microsoft ve Nvidia kontratları destekliyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine, ABD ile Çin'in Xi Jinping'in ziyareti sonrası karşılıklı 30 milyar dolarlık tarife indirimi anlaşmasına vardığını ve Çin'in 2027-2028'de en az 10 milyon ton ABD kömürü almayı kabul ettiğini aktardı. **Intel**'in bu ay %38 yükselerek 1987'den bu yana en iyi ikinci ayını yaşadığını, **Apple**'ın Taptic Engine patent davasında 5,7 milyar dolarlık rekor tazminata çarptırıldığını paylaştı. Trump'ın İran'ın ateşkes teklifini reddettiğini, Trump ile Xi'nin kasımda APEC'te ve aralıkta G20'de yeniden görüşeceğini bildirdi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ABD-Çin 30 milyar dolarlık tarife anlaşması",
+          "url": "https://x.com/wallstengine/status/2103812748530556979",
+          "published_at": "2026-09-26T11:43:40.000Z",
+          "summary": "ABD ve Çin'in, Xi Jinping'in ziyareti sonrası karşılıklı 30 milyar dolarlık tarife indirimi önermeyi kabul ettiğini, Çin'in 2027-2028'de en az 10 milyon ton ABD kömürü almayı taahhüt ettiğini aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Intel bu ay %38 yükseldi",
+          "url": "https://x.com/wallstengine/status/2103848162242998660",
+          "published_at": "2026-09-26T14:04:24.000Z",
+          "summary": "Intel hisselerinin bu ay %38 yükselerek 1987'den bu yana en iyi ikinci ayını yaşadığını bildirdi.",
+          "assets": [
+            {
+              "symbol": "INTC",
+              "sentiment": "neutral",
+              "note": "Bu ay %38 yükselerek 1987'den bu yana en iyi ikinci ayını yaşıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump İran'ın ateşkes teklifini reddetti",
+          "url": "https://x.com/wallstengine/status/2103862588828504434",
+          "published_at": "2026-09-26T15:01:43.000Z",
+          "summary": "Trump'ın İran'ın sunduğu 7 günlük ateşkes teklifini reddettiğini, ara seçimler sonrası bombalamaya devam etmeyi düşündüğünü aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Apple'a Taptic Engine davasında 5,7 milyar dolarlık rekor tazminat",
+          "url": "https://x.com/wallstengine/status/2103864884756971558",
+          "published_at": "2026-09-26T15:10:51.000Z",
+          "summary": "Bir jürinin, Apple'ın Taptic Engine teknolojisinin Taction'ın iki patentini ihlal ettiğine karar verdiğini, bunun ABD'deki en büyük patent tazminatı olabileceğini yazdı.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Taptic Engine patent davasında 5,7 milyar dolarlık rekor tazminata çarptırıldı, temyiz edecek."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump ile Xi kasımda ve aralıkta yeniden görüşecek",
+          "url": "https://x.com/wallstengine/status/2103932636125401403",
+          "published_at": "2026-09-26T19:40:04.000Z",
+          "summary": "Trump ile Xi'nin kasımda Shenzhen'deki APEC'te, aralıkta da Miami'deki G20'de yeniden bir araya geleceğini bildirdi.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz, mega-cap teknoloji şirketlerinin (**Alphabet**, **Meta**, **Oracle**) artık hükümetler kadar güçlü ve kredibl hale geldiğini, Alphabet'in 100 yıl vadeli %6,125 kuponlu sterlin bonosunun 10 kat fazla talep gördüğünü, hyperscaler tahvil ihracının yıl içinde 35 milyar dolardan 200 milyar dolara sıçradığını, bunun ABD tahvil faizlerini yukarı çektiğini savundu. **DFTX**'te faz 3 denemelerinin çoğunu geçen pozisyonunu FDA onayı beklentisiyle korurken analistlerin 70-90 dolar hedef verdiğini, **IONQ** ve **RKLB**'de teknik kopuş gördüğünü, **RKLB**'de Neutron fırlatmasını bekleyerek ~%11'lik pozisyonunu koruduğunu yazdı. **SPY**'da 720 dolar seviyesinin test edilmesinin sağlıklı olacağını ama bunu beklemediğini, **OPEN**'da OpenAI halka arzı karışıklığıyla perakende ilgisinin geri dönebileceğini, **TEM**'de yapay zeka-biyoteknoloji kesişimindeki kısa vadeli ilgiden yararlanmak için kâr realize etmeyi düşündüğünü belirtti.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "DFTX: faz 3 sonrası FDA onayı bekleniyor",
+          "url": "https://x.com/jrouldz/status/2103834400534270198",
+          "published_at": "2026-09-26T13:09:43.000Z",
+          "summary": "$DFTX'te faz 3 denemelerinin çoğunu geçen pozisyonunu koruduğunu, tam FDA onayının bir sonraki katalizör olacağını, analistlerin 70-90 dolar bandında hedef fiyat verdiğini, teknik olarak 35 dolarda destek beklediğini yazdı.",
+          "assets": [
+            {
+              "symbol": "DFTX",
+              "sentiment": "positive",
+              "note": "Faz 3 denemelerinin çoğunu geçti, FDA onayı sonraki katalizör; analistler 70-90 dolar hedef veriyor, teknik destek 35 dolarda."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hyperscaler'ların tahvil ihracı hükümetlerle rekabeti işaret ediyor",
+          "url": "https://x.com/jrouldz/status/2103842242427302209",
+          "published_at": "2026-09-26T13:40:52.000Z",
+          "summary": "Alphabet, Meta ve Oracle'ın yüksek faizli/uzun vadeli tahvil ihraçlarının mega-cap teknoloji şirketlerinin artık hükümetler kadar kredibl hale geldiğinin ve bunun ABD tahvil faizlerini rekabet yoluyla yukarı çektiğinin kanıtı olduğunu yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "$720 SPY testi sağlıklı olur ama beklemiyor",
+          "url": "https://x.com/jrouldz/status/2103849342939676695",
+          "published_at": "2026-09-26T14:09:05.000Z",
+          "summary": "Haftalardır SPY'da 720 dolar seviyesinin test edilmesinin sağlıklı olacağını söylediğini ama bunu beklemediğini yazdı.",
+          "assets": [
+            {
+              "symbol": "SPY",
+              "sentiment": "neutral",
+              "note": "720 dolar seviyesinin test edilmesinin sağlıklı olacağını ama bunu beklemediğini yazdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "OPEN'da OpenAI halka arzı karışıklığı bekleniyor",
+          "url": "https://x.com/jrouldz/status/2103894852714762454",
+          "published_at": "2026-09-26T17:09:56.000Z",
+          "summary": "$OPEN'ı izlemeye devam ettiğini, OpenAI halka arzı sırasında yatırımcıların ticker'ı karıştırıp yanlışlıkla alım yapmasıyla perakende ilgisinin geri dönebileceğini düşündüğünü yazdı.",
+          "assets": [
+            {
+              "symbol": "OPEN",
+              "sentiment": "positive",
+              "note": "OpenAI halka arzı sırasında ticker karışıklığıyla perakende ilgisinin geri dönebileceğini düşünüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IONQ'da teknik kopuş",
+          "url": "https://x.com/jrouldz/status/2103922162394427438",
+          "published_at": "2026-09-26T18:58:27.000Z",
+          "summary": "$IONQ'da kama (wedge) formasyonundan kopuş gördüğünü yazdı.",
+          "assets": [
+            {
+              "symbol": "IONQ",
+              "sentiment": "positive",
+              "note": "Teknik kopuş gördü; uzun vadeli hedefi olmadan kuantum bilişim pazarındaki büyüme potansiyeline dayanarak tutuyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TEM'de kâr realize etmeyi düşünüyor",
+          "url": "https://x.com/jrouldz/status/2103927822058209351",
+          "published_at": "2026-09-26T19:20:56.000Z",
+          "summary": "$TEM'i yapay zeka-biyoteknoloji kesişimindeki kısa vadeli ilgiden yararlanmak için swing pozisyon olarak aldığını, toplam biyoteknoloji ağırlığını sınırlı tutmak için kâr realize etmeyi düşündüğünü yazdı.",
+          "assets": [
+            {
+              "symbol": "TEM",
+              "sentiment": "positive",
+              "note": "YZ-biyoteknoloji kesişimindeki kısa vadeli ilgiden yararlanmak için swing pozisyon aldı, toplam biyoteknoloji ağırlığını sınırlamak için kâr realize etmeyi düşünüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "RKLB'de teknik kopuş, Neutron beklentisiyle pozisyon korunuyor",
+          "url": "https://x.com/jrouldz/status/2103996031989952791",
+          "published_at": "2026-09-26T23:51:59.000Z",
+          "summary": "$RKLB'de kama formasyonundan kopuş gördüğünü, Neutron fırlatmasına kadar ciddi bir hareket beklemediğini ama ~%11'lik pozisyonunu koruduğunu yazdı.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "positive",
+              "note": "Teknik kopuş gördü; Neutron fırlatmasını bekleyerek ~%11'lik pozisyonunu koruyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance, Trump'ın İran'ın ateşkes teklifini reddetmesini öngörmüş olduğunu belirterek haberi paylaştı; ABD-Çin arasındaki Xi-Trump görüşmesinin sekiz maddelik çıktısını (karşılıklı tarife indirimi, İran'ın nükleer silah geliştirmemesi taahhüdü, YZ diyaloğu vb.) piyasa için iyi haber olarak nitelendirdi. MOVE endeksindeki yükselişin normalde teknoloji hisseleri için olumsuz olduğunu ama şu anda güçlü YZ bilançolarının bu baskıyı bastırdığını, kendi risk yönetiminde SPX/NDX'in 50 günlük ortalamanın üstünde mi altında mı olduğuna baktığını yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trump İran'ın ateşkes teklifini reddetti",
+          "url": "https://x.com/cevikfinance/status/2103779556427760064",
+          "published_at": "2026-09-26T09:31:47.000Z",
+          "summary": "Trump'ın İran'ın 7 günlük ateşkes teklifini reddettiğini paylaşarak bunu önceden öngörmüş olduğunu belirtti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Xi-Trump görüşmesinin sekiz maddelik çıktısı piyasa için iyi haber",
+          "url": "https://x.com/cevikfinance/status/2103981592578494921",
+          "published_at": "2026-09-26T22:54:36.000Z",
+          "summary": "Xi-Trump görüşmesinin sekiz maddelik çıktısını (karşılıklı tarife indirimi, İran'ın nükleer silah geliştirmemesi taahhüdü, YZ diyaloğu vb.) paylaşarak piyasa için iyi haber olduğunu yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "MOVE endeksi yükseliyor ama YZ bilançoları baskıyı bastırıyor",
+          "url": "https://x.com/cevikfinance/status/2103934490540155154",
+          "published_at": "2026-09-26T19:47:26.000Z",
+          "summary": "MOVE endeksindeki yükselişin normalde teknoloji hisseleri için olumsuz olduğunu ama şu anki güçlü YZ bilançolarının bu baskıyı bastırdığını, kendisinin SPX/NDX'in 50 günlük ortalamanın üstünde mi altında mı olduğuna baktığını yazdı.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.119,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.218,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1586,
+        "mentions": [
+          {
+            "person": "jrouldz",
+            "sentiment": "neutral",
+            "quote": "$META bond yields over 7%",
+            "source_url": "https://x.com/jrouldz/status/2103842242427302209"
+          }
+        ],
+        "action": "hold",
+        "why": "jrouldz, Meta'nın tahvil faizinin %7'yi aştığını mega-cap şirketlerin hükümetler kadar kredibl hale gelmesi tezi kapsamında paylaştı; hisse için somut bir alım/satım gerekçesi yok."
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1438,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1208,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1015,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      },
+      {
+        "isin": "US92840M1027",
+        "name": "Vistra Corp",
+        "weight": 0.0905,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0478,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok."
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "IREN",
+        "name": "IREN Limited",
+        "why": "FinancewithIzzy'e göre JPMorgan'ın yeni modeli 2030'da 24 milyar dolar gelir ve 65 dolar hedef fiyat öngörüyor; Microsoft ve Nvidia kontratları bunu destekliyor.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2103887575379247269"
+      },
+      {
+        "symbol": "IONQ",
+        "name": "IonQ",
+        "why": "jrouldz teknik kopuş sinyali gördüğünü, kuantum bilişim pazarındaki büyüme potansiyeline dayanarak uzun vadeli tutmaya devam ettiğini yazdı.",
+        "source_url": "https://x.com/jrouldz/status/2103922162394427438"
+      },
+      {
+        "symbol": "XAU",
+        "name": "Altın",
+        "why": "Berk Dinçtürk'e göre küresel borç yükü ve merkez bankası rezerv çeşitlendirmesi nedeniyle Trump dönemi sonuna kadar altın 5 haneli (10.000 doların üzeri) seviyeleri görebilir.",
+        "source_url": "https://www.youtube.com/watch?v=Id4SKbooboc"
+      }
+    ]
+  }
+}
