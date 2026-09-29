@@ -1230,7 +1230,13 @@
         ],
         "action": "hold",
         "why": "jrouldz uzun vadeli tezi sorguladığını yazdı ama seviye ya da tarih vermedi.",
-        "opinion": "%21'lik ağırlık tek kağıt riskini portföyün en büyük kalemi yapıyor; yüksek faiz ortamı fintech ve kredi maliyetlerini doğrudan etkiler, pozisyon boyutu hisseden çok daha önemli bir karar."
+        "opinion": "%21'lik ağırlık tek kağıt riskini portföyün en büyük kalemi yapıyor; yüksek faiz ortamı fintech ve kredi maliyetlerini doğrudan etkiler, pozisyon boyutu hisseden çok daha önemli bir karar.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Yüksek ağırlık tek kağıt riskini büyütüyor; jrouldz uzun vadeli tezi sorguladığını yazdı.",
+          "Tezi bozan somut bir veri ya da seviye bugün kaynaklarda yok, satış için erken.",
+          "Yüksek faiz ortamı kredi maliyetlerini ve fintech marjlarını baskılayabilir."
+        ]
       },
       {
         "isin": "US30303M1027",
@@ -1252,7 +1258,13 @@
         ],
         "action": "hold",
         "why": "Korkmaz 780-800 direnç beklentisiyle META'nın 780'den döndüğünü söyledi, Çevik Enterprise Platform hamlesini olumladı; somut al/sat gerekçesi yok.",
-        "opinion": "Kurumsal yapay zeka birimi yeni bir gelir kalemi açabilir, ama reklam dışı gelirin kanıtlanması zaman alır ve harcama kalemleri büyüyor; bakılacak şey birimin fiyatlaması ve ilk müşteri verileri."
+        "opinion": "Kurumsal yapay zeka birimi yeni bir gelir kalemi açabilir, ama reklam dışı gelirin kanıtlanması zaman alır ve harcama kalemleri büyüyor; bakılacak şey birimin fiyatlaması ve ilk müşteri verileri.",
+        "ai_action": "hold",
+        "ai_points": [
+          "korkmazali08 ve cevikfinance olumlu, kurumsal yapay zeka birimi yeni gelir kalemi açabilir.",
+          "Harcama kalemleri büyüyor ve reklam dışı gelir henüz kanıtlanmadı.",
+          "korkmazali08'e göre 780-800 bölgesi direnç olarak izleniyor."
+        ]
       },
       {
         "isin": "US11135F1012",
@@ -1261,7 +1273,13 @@
         "mentions": [],
         "action": "hold",
         "why": "Bugün yeni bilgi yok.",
-        "opinion": "Kaynaklarda anılmadı; yapay zeka konsantrasyonunun tarihi zirvede olduğu bir dönemde yarı iletken ağırlığı hem fırsat hem yoğunlaşma riski taşıyor, Micron bilançosu (30 Eylül) sektör tonunu belirleyebilir."
+        "opinion": "Kaynaklarda anılmadı; yapay zeka konsantrasyonunun tarihi zirvede olduğu bir dönemde yarı iletken ağırlığı hem fırsat hem yoğunlaşma riski taşıyor, Micron bilançosu (30 Eylül) sektör tonunu belirleyebilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Yapay zeka döngüsünün merkezinde yer alan yarı iletken teması güçlü.",
+          "Ağırlık yüksek ve sektör konsantrasyonu var; bugün kaynaklarda anılmadı.",
+          "Micron bilançosu (30 Eylül) sektör tonunu belirleyebilir."
+        ]
       },
       {
         "isin": "US05605H1005",
@@ -1270,7 +1288,13 @@
         "mentions": [],
         "action": "hold",
         "why": "Bugün yeni bilgi yok.",
-        "opinion": "Kaynaklarda anılmadı; nükleer/enerji teması yapay zeka elektrik talebiyle destekleniyor ama hisse küçük ve haber duyarlı, sözleşme ve politika haberlerine bakılmalı."
+        "opinion": "Kaynaklarda anılmadı; nükleer/enerji teması yapay zeka elektrik talebiyle destekleniyor ama hisse küçük ve haber duyarlı, sözleşme ve politika haberlerine bakılmalı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Nükleer/enerji teması yapay zeka elektrik talebiyle destekleniyor.",
+          "Hisse küçük ve haber duyarlı, sözleşme ve politika haberleri oynaklık yaratabilir.",
+          "Bugün kaynaklarda yeni bilgi yok, değiştirmek için gerekçe yok."
+        ]
       },
       {
         "isin": "US75734B1008",
@@ -1279,7 +1303,13 @@
         "mentions": [],
         "action": "hold",
         "why": "Bugün yeni bilgi yok.",
-        "opinion": "Kaynaklarda anılmadı; Meta'nın yapay zeka yetenek harcamaları ve reklam pazarındaki OpenAI hamleleri sektör dinamiğini değiştiriyor, kullanıcı ve reklam geliri büyümesi izlenmeli."
+        "opinion": "Kaynaklarda anılmadı; Meta'nın yapay zeka yetenek harcamaları ve reklam pazarındaki OpenAI hamleleri sektör dinamiğini değiştiriyor, kullanıcı ve reklam geliri büyümesi izlenmeli.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Kullanıcı ve reklam geliri büyümesi tezi sürüyor.",
+          "Meta ve OpenAI'nin reklam pazarındaki hamleleri rekabeti artırıyor.",
+          "Bugün kaynaklarda anılmadı, yeni bir tetikleyici yok."
+        ]
       },
       {
         "isin": "IE00BD8PGZ49",
@@ -1301,7 +1331,13 @@
         ],
         "action": "hold",
         "why": "Korkmaz ve Çevik uzun vadeli faizlerin çok yıllık zirvede olduğunu paylaştı, ancak kimse bu ETF için net bir görüş vermedi.",
-        "opinion": "Uzun vadeli Treasury faizleri yükselirken bu ETF fiyat baskısı altında kalır; Fed'in 28 Ekim kararı ve %68'lik artırım olasılığı belirleyici, kupon getirisi bugünkü giriş için avantaj olabilir ama süre riski yüksek."
+        "opinion": "Uzun vadeli Treasury faizleri yükselirken bu ETF fiyat baskısı altında kalır; Fed'in 28 Ekim kararı ve %68'lik artırım olasılığı belirleyici, kupon getirisi bugünkü giriş için avantaj olabilir ama süre riski yüksek.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Uzun vadeli faizler çok yıllık zirvede, korkmazali08 10 yıllık faizin %5,26'ya çıktığını paylaştı; bu ETF fiyat baskısı altında.",
+          "Kupon getirisi yüksek ve faiz düşerse fiyat kazancı sağlar.",
+          "Süre riski yüksek olduğu için ağırlığı artırmak için erken."
+        ]
       },
       {
         "isin": "LU1900067601",
@@ -1323,7 +1359,13 @@
         ],
         "action": "hold",
         "why": "dtfinans_ CDS priminin Mayıs'tan beri en yüksekte olduğunu ve risk primi düzeltmesi riskini yazdı; Yatirim101 tasfiye belirsizliğine dikkat çekti, ikisi de somut seviye vermedi.",
-        "opinion": "Fon krizi ve yüksek CDS Türk varlıkları için belirsizlik primi yaratıyor; kur riski taşıyan bu kalemin ağırlığı küçük, ama SPK ve Hazine'den gelecek somut adımlar yönü belirler."
+        "opinion": "Fon krizi ve yüksek CDS Türk varlıkları için belirsizlik primi yaratıyor; kur riski taşıyan bu kalemin ağırlığı küçük, ama SPK ve Hazine'den gelecek somut adımlar yönü belirler.",
+        "ai_action": "hold",
+        "ai_points": [
+          "dtfinans_ CDS priminin yüksek olduğunu ve risk primi düzeltmesi riskini yazdı.",
+          "Yatirim101 fonlardaki tasfiye belirsizliğine dikkat çekti.",
+          "Ağırlık küçük olduğu için risk sınırlı; SPK ve Hazine adımları beklenmeli."
+        ]
       },
       {
         "isin": "US34631F1021",
@@ -1332,7 +1374,13 @@
         "mentions": [],
         "action": "hold",
         "why": "Bugün yeni bilgi yok.",
-        "opinion": "Kaynaklarda anılmadı; elektrik altyapısı ve veri merkezi talebi temasına bağlı küçük bir pozisyon, hisse yakın zamanda halka arz olduğu için oynaklık yüksek olabilir ve bilanço/rehber öne çıkar."
+        "opinion": "Kaynaklarda anılmadı; elektrik altyapısı ve veri merkezi talebi temasına bağlı küçük bir pozisyon, hisse yakın zamanda halka arz olduğu için oynaklık yüksek olabilir ve bilanço/rehber öne çıkar.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Elektrik altyapısı ve veri merkezi talebi teması destekleyici.",
+          "Yakın zamanda halka arz olduğu için oynaklık yüksek olabilir.",
+          "Bugün kaynaklarda anılmadı; bilanço/rehber öne çıkacak."
+        ]
       }
     ],
     "ideas": [
