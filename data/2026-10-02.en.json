@@ -1,0 +1,1700 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T07:27:06.486Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Broadcom to provide Anthropic with up to $42B in financing",
+      "person": "FinancewithIzzy",
+      "why": "According to Izzy, the seller is financing its customer who then buys from the same seller; this can speed up growth but adds customer credit risk.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2105684064166355359"
+    },
+    {
+      "title": "Micron sold off despite record earnings and strong guidance",
+      "person": "cevikfinance",
+      "why": "Cuma Cevik says he is surprised the stock was sold even though Q1 revenue guidance of $61.5B was about 7.9% above the $57.02B consensus.",
+      "source_url": "https://x.com/cevikfinance/status/2105666238005252594"
+    },
+    {
+      "title": "US 10-year yield above 5.33%, highest since April 2002",
+      "person": "wallstengine",
+      "why": "Yields are at a level not seen since 2002; Tunç Şatıroğlu argues long-term yields could fall if oil declines.",
+      "source_url": "https://x.com/wallstengine/status/2105576492612903366"
+    },
+    {
+      "title": "Nike guided FY27 EPS far below consensus",
+      "person": "wallstengine",
+      "why": "FY27 adjusted EPS guidance is $1.15-$1.35 versus $1.65 expected; revenue is guided down high-single digits and Converse fell 28%.",
+      "source_url": "https://x.com/wallstengine/status/2105754125493555497"
+    },
+    {
+      "title": "Interim payout up to TRY 1M in fund crisis and Erdoğan's statement",
+      "person": "dtfinans_",
+      "why": "dtfinans_ shared President Erdoğan's statement that the fund issue will be resolved quickly and fairly; PPF and equity fund holders are debating the TRY 1M cap on principal and interest.",
+      "source_url": "https://x.com/dtfinans_/status/2105632618385645592"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Fed and interest rates",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "Trump said he does not blame Warsh for last month's 25 bp Fed hike and that in his place he would probably have voted against the board.",
+          "quote": "I don't blame Kevin Warsh. In his place I would probably have voted against the board's decision",
+          "source_url": "https://x.com/korkmazali08/status/2105688312803393537"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Fed's Jefferson said the September hike will help anchor inflation expectations and the Fed may need more time before its next move.",
+          "quote": "Fed’s Jefferson says the September rate hike will help anchor inflation expectations. The Fed may need “more time” before deciding on its next move.",
+          "source_url": "https://x.com/wallstengine/status/2105712665041789070"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "St. Louis Fed President Musalem said cutting communication too much could create volatility risk in markets.",
+          "quote": "It is stressed that investors may price sharply under uncertainty, and that clear messages are critical.",
+          "source_url": "https://x.com/WallStDiaries/status/2105760664690044998"
+        }
+      ]
+    },
+    {
+      "topic": "Bond yields and oil",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "He says control of Hormuz has passed to the US and that falling oil could pull down inflation and long-term yields in developed economies.",
+          "quote": "I think that when oil prices start falling, it could bring a decline in the rising long-term bond yields in developed countries and relieve markets",
+          "source_url": "https://x.com/TuncSatiroglu/status/2105566785906806877"
+        },
+        {
+          "person": "wallstengine",
+          "view": "The US 10-year yield rose above 5.33%, the highest since April 2002.",
+          "quote": "U.S. 10 Year Yield > 5.33%; Highest since April 2002",
+          "source_url": "https://x.com/wallstengine/status/2105576492612903366"
+        },
+        {
+          "person": "ulkser",
+          "view": "Some US indicators show oversold readings; a possible easing in bonds would bring another leg higher; his portfolio is net long.",
+          "quote": "A possible easing in bonds will bring another leg up.",
+          "source_url": "https://x.com/ulkser/status/2105637537939374243"
+        }
+      ]
+    },
+    {
+      "topic": "Iran, Hormuz and oil supply",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "Trump said Iran wants a deal but that if they will not comply it is better not to make one and finish the job.",
+          "quote": "Iran wants to make a deal. Maybe we will, maybe we won't.",
+          "source_url": "https://x.com/korkmazali08/status/2105839567785840890"
+        },
+        {
+          "person": "wallstengine",
+          "view": "The US is sending a third carrier strike group and extra Marine ships to the Middle East, adding up to 10,000 troops by end of November.",
+          "quote": "The U.S. is sending a third aircraft-carrier strike group and additional Marine ships to the Middle East, adding up to 10,000 troops by the end of November",
+          "source_url": "https://x.com/wallstengine/status/2105718315926860259"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Per Goldman, Persian Gulf oil exports are back above the 2025 average, but refinery capacity problems mean recovery will take time.",
+          "quote": "The US Energy Secretary had also noted serious refinery capacity problems. Recovery there will take time.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2105599733331067346"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey: macroprudential steps and inflation",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "He criticizes the loosening of the SME loan growth cap as trying to reach the inflation target via credit growth; citing the IMF, he says rates would need to rise to 48% for the 15% interim target.",
+          "quote": "As I expected, the SME loan growth limit, part of commercial credit, has been loosened through macroprudential non-measures so that commercial credit growth rises even more.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2105917744499822722"
+        }
+      ]
+    },
+    {
+      "topic": "European inflation",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "German September flash HICP rose 0.6% m/m (August 0.2%), reviving pressure on the ECB.",
+          "quote": "Germany's September flash EU-harmonised CPI (HICP) rose 0.6% month on month, clearly above August's 0.2%.",
+          "source_url": "https://x.com/WallStDiaries/status/2105729207879827632"
+        }
+      ]
+    },
+    {
+      "topic": "US labor and manufacturing data",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "US initial jobless claims came in at 197K versus 200K expected.",
+          "quote": "US initial jobless claims were 197K.",
+          "source_url": "https://x.com/korkmazali08/status/2105637565264978316"
+        },
+        {
+          "person": "wallstengine",
+          "view": "S&P Global US manufacturing PMI rose to 55.9 from 53.9, the highest since May 2022, with AI-related equipment spending helping demand.",
+          "quote": "Manufacturing PMI rose to 55.9 from 53.9, the highest since May 2022",
+          "source_url": "https://x.com/wallstengine/status/2105658025415782436"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey fund crisis (PPF and equity funds)",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Erdoğan said the fund-market problem will be resolved quickly and fairly; dtfinans_ shared the statement.",
+          "quote": "We are successfully overcoming the problem that emerged in a certain part of the fund market.",
+          "source_url": "https://x.com/dtfinans_/status/2105632618385645592"
+        },
+        {
+          "person": "ulkser",
+          "view": "He asks whether the principal of equity-fund holders should be repaid.",
+          "quote": "Do you think the principal of equity fund holders should be repaid?",
+          "source_url": "https://x.com/ulkser/status/2105644761373979019"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "high",
+      "why": "Cuma Cevik gives clear targets despite the post-earnings selling, while Izzy is more cautious on prices.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Q1 FY27 guidance",
+          "source_url": "https://x.com/cevikfinance/status/2105666238005252594"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "I defend memory companies but I am now more cautious on prices.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2105762108390641776"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "Three sources covered the $42B Anthropic financing; Izzy sees both opportunity and credit risk.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "A big growth opportunity for $AVGO.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2105684064166355359"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$AVGO agreed to provide up to $42B in financing for Anthropic's AI infrastructure expansion.",
+          "source_url": "https://x.com/korkmazali08/status/2105633772104216992"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Broadcom $AVGO has agreed to provide Anthropic with up to $42B in financing tied to its AI infrastructure buildout.",
+          "source_url": "https://x.com/wallstengine/status/2105600530558918931"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "name": "Roundhill Memory ETF",
+      "priority": "medium",
+      "why": "Cuma Cevik gave a short-term target of $81 and a long-term target of $100.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$81 is a reasonable short term target.",
+          "source_url": "https://x.com/cevikfinance/status/2105761456109101561"
+        }
+      ]
+    },
+    {
+      "symbol": "SKHY",
+      "name": "SK hynix (ADR)",
+      "priority": "medium",
+      "why": "Cuma Cevik sees a possible $238 over the long term.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "A $238 outcome is quite possible over the long term.",
+          "source_url": "https://x.com/cevikfinance/status/2105753568313557467"
+        }
+      ]
+    },
+    {
+      "symbol": "FRVO",
+      "name": "Fervo Energy",
+      "priority": "medium",
+      "why": "Serkan Gündoğan opened a position at $14, citing Cape Station entering commercial operation.",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "positive",
+          "quote": "New position: $FRVO. My first thesis played out, so today I took a position at $14.",
+          "source_url": "https://x.com/sgundoganX/status/2105730124767277383"
+        }
+      ]
+    },
+    {
+      "symbol": "CRDO",
+      "name": "Credo Technology",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan placed a trim order at $205; his effective cost is $161.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "I placed a small trim order on $CRDO at 205.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2105665731878666383"
+        }
+      ]
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials",
+      "priority": "medium",
+      "why": "Izzy explained moving AMAT up on his radar through HBM and DRAM capacity expansion.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "$AMAT has moved up seriously on my radar in recent days.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2105748390420050048"
+        }
+      ]
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "priority": "medium",
+      "why": "Dr J Rould said he will dump it if the setup breaks down.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "If this $SOFI setup breaks down I am going to dump it",
+          "source_url": "https://x.com/jrouldz/status/2105658770143514893"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "high",
+      "why": "Cuma Cevik says the downtrend has technically ended; Citi raised its 12-month forecast to $113,000.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Bitcoin has moved above the last lower high (May) and technically ended the downtrend that has been going since October 2025.",
+          "source_url": "https://x.com/cevikfinance/status/2105749241754796035"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Citigroup raised its 12-month Bitcoin price forecast to $113,000 from $82,000",
+          "source_url": "https://x.com/wallstengine/status/2105588647181553983"
+        }
+      ]
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike",
+      "priority": "high",
+      "why": "Two sources commented on Nike; FY27 EPS guidance is far below expectations.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "FY27 Guide: Adj. EPS: $1.15-$1.35 (Est. $1.65)",
+          "source_url": "https://x.com/wallstengine/status/2105754125493555497"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "There were people praising $NIKE at one point; it has fallen 80% from the top of a company that old.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2105756691048669384"
+        }
+      ]
+    },
+    {
+      "symbol": "ACN",
+      "name": "Accenture",
+      "priority": "medium",
+      "why": "It beat estimates across the board and the stock rose 23%.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Accenture $ACN +23% after beating estimates across the board",
+          "source_url": "https://x.com/wallstengine/status/2105667282177556656"
+        }
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "priority": "high",
+      "why": "Serkan Uelker says the stock pulled back to its 20-day average; Wall Street Diaries highlighted the $95B AI server backlog.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "$DELL is struggling with its 20-day average.",
+          "source_url": "https://x.com/ulkser/status/2105723742127378900"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "The $95B AI server backlog sent Dell shares up 6%",
+          "source_url": "https://x.com/WallStDiaries/status/2105632571648254021"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "high",
+      "why": "Dr J Rould put it on his trim list, and Needham warned of a long-term risk.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "In long term port my top “healthy trim” list is $AAPL $NET $CRWD $PLTR",
+          "source_url": "https://x.com/jrouldz/status/2105751285085679799"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Needham says Apple $AAPL’s biggest long-term risk is $META or another AI-first competitor building an agent + hardware ecosystem that disintermediates the iPhone.",
+          "source_url": "https://x.com/wallstengine/status/2105689134665015346"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "priority": "medium",
+      "why": "Dr J Rould put it on his trim list and said it is hard to sleep holding it.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "It is getting hard to sleep at night holding $CRWD",
+          "source_url": "https://x.com/jrouldz/status/2105747141956428029"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "priority": "medium",
+      "why": "Dr J Rould expects range-bound trading between $50 support and $70 resistance.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "support at $50, resistance at $70, time to settle in for some chop in between",
+          "source_url": "https://x.com/jrouldz/status/2105644113370477037"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "medium",
+      "why": "Dr J Rould said he prefers it to ASTS on both fundamentals and chart structure.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "We all know im a much bigger $RKLB fan fundamentally in this moment I happen to like the RKLB chart structure much better too",
+          "source_url": "https://x.com/jrouldz/status/2105645982406869468"
+        }
+      ]
+    },
+    {
+      "symbol": "SKBNK",
+      "name": "Sekerbank",
+      "priority": "medium",
+      "why": "Serkan Uelker said he made a small purchase at 5.20 and will add at 4.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Most recently I bought a little #SKBNK at 5.20, I wrote I would add at 4.",
+          "source_url": "https://x.com/ulkser/status/2105772523916783696"
+        }
+      ]
+    },
+    {
+      "symbol": "XU100",
+      "name": "BIST 100 Index",
+      "priority": "medium",
+      "why": "Serkan Uelker spelled out a plan to add below 215 in dollar terms.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "I will make my next addition if it drops below 215 USD, otherwise I keep holding my current positions.",
+          "source_url": "https://x.com/ulkser/status/2105631747471724782"
+        }
+      ]
+    },
+    {
+      "symbol": "USO",
+      "name": "Oil",
+      "priority": "high",
+      "why": "Two sources covered oil: Tunç Şatıroğlu expects a decline, Wall Street Diaries relayed the US sale of another 40M barrels from reserves.",
+      "mentions": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "negative",
+          "quote": "In this situation oil prices will soon start falling again.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2105566785906806877"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "The US administration announced it will sell another 40 million barrels of crude from strategic reserves.",
+          "source_url": "https://x.com/WallStDiaries/status/2105608799985746322"
+        }
+      ]
+    },
+    {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum",
+      "priority": "medium",
+      "why": "Goldman upgraded to Buy with a $69 price target.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Goldman Sachs upgraded Occidental to Buy from Neutral and raised its PT to $69 from $63.",
+          "source_url": "https://x.com/wallstengine/status/2105584663016476934"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$NVDA, meanwhile, has risen steadily for 5 years to 954%.",
+          "source_url": "https://x.com/korkmazali08/status/2105628395727925717"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg gave a short warning: stay away from anywhere promising extraordinarily fast gains or risk-free returns, since money can be made perfectly well through normal means.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Warning against promises of quick gains",
+          "url": "https://x.com/heisenbergtrx/status/2105647852282171472",
+          "published_at": "2026-10-01T13:15:43.000Z",
+          "summary": "He said to stay away from places promising very fast gains or risk-free returns, and that money can be made normally too.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "**Serkan Uelker** plans to add to the **BIST 100** below 215 in dollar terms and keep current positions; he bought **SKBNK** at 5.20 and will add at 4, while **GLRMK** is at a loss but held. In the US he noted Europe and small caps have corrected 7-11% while the **NDX** and **SPX** stayed near highs, and said his portfolio is net long. He is watching **Dell** pull back to its 20-day average and has no position. On the cash side he started buying 2-5 year government bonds through IBKR.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Shared BSZRESEARCH's VIAV and ENS scan",
+          "url": "https://x.com/ulkser/status/2105907052866674972",
+          "published_at": "2026-10-02T06:25:41.000Z",
+          "summary": "He pointed to activity in AI and optics and shared BSZRESEARCH's $VIAV and $ENS scan.",
+          "assets": [
+            {
+              "symbol": "VIAV",
+              "sentiment": "positive",
+              "note": "BSZRESEARCH'ün taramasını paylaşırken VIAV'ın güzel bir kalkış içinde göründüğünü söyledi."
+            },
+            {
+              "symbol": "ENS",
+              "sentiment": "neutral",
+              "note": "Sadece BSZRESEARCH'ün taramasındaki hisse olarak paylaştı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BIST positions and SKBNK purchase",
+          "url": "https://x.com/ulkser/status/2105772523916783696",
+          "published_at": "2026-10-01T21:31:07.000Z",
+          "summary": "He wrote that he has not sold his stocks, bought SKBNK at 5.20 and will add at 4, and holds GLRMK at a loss.",
+          "assets": [
+            {
+              "symbol": "SKBNK",
+              "sentiment": "positive",
+              "note": "5,20'den küçük alım yaptı, 4'te eklemeyi planlıyor."
+            },
+            {
+              "symbol": "GLRMK",
+              "sentiment": "neutral",
+              "note": "Zararda ama tutmaya devam ediyor."
+            },
+            {
+              "symbol": "ISCTR",
+              "sentiment": "neutral",
+              "note": "O gün aldığı hisseler hâlâ artıda."
+            },
+            {
+              "symbol": "GARAN",
+              "sentiment": "neutral",
+              "note": "O gün aldığı hisseler hâlâ artıda."
+            },
+            {
+              "symbol": "YKBNK",
+              "sentiment": "neutral",
+              "note": "O gün aldığı hisseler hâlâ artıda."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "DELL at its 20-day average",
+          "url": "https://x.com/ulkser/status/2105723742127378900",
+          "published_at": "2026-10-01T18:17:17.000Z",
+          "summary": "He said $DELL is struggling with its 20-day average, he has no position, and a bottom might be tried with a stop.",
+          "assets": [
+            {
+              "symbol": "DELL",
+              "sentiment": "neutral",
+              "note": "20 günlük ortalamayla cebelleşiyor, pozisyonu yok."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Buying government bonds via IBKR",
+          "url": "https://x.com/ulkser/status/2105722423655981162",
+          "published_at": "2026-10-01T18:12:02.000Z",
+          "summary": "He wrote that he started buying 2-5 year government bonds via IBKR, staggered every 2-3 months, with $IEI and $SHY as alternatives.",
+          "assets": [
+            {
+              "symbol": "IEI",
+              "sentiment": "neutral",
+              "note": "İsteyenler için alternatif ETF olarak önerdi."
+            },
+            {
+              "symbol": "SHY",
+              "sentiment": "neutral",
+              "note": "İsteyenler için alternatif ETF olarak önerdi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oversold signals in the US",
+          "url": "https://x.com/ulkser/status/2105637537939374243",
+          "published_at": "2026-10-01T12:34:44.000Z",
+          "summary": "He said some US indicators show oversold readings, an easing in bonds would bring another leg higher, and his portfolio is net long.",
+          "assets": [
+            {
+              "symbol": "RSP",
+              "sentiment": "neutral",
+              "note": "Düzeltmesini çoktan yaptı."
+            },
+            {
+              "symbol": "IWM",
+              "sentiment": "neutral",
+              "note": "Düzeltmesini çoktan yaptı."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "Megacap hisselerle ayakta."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "215 dollar level for BIST 100",
+          "url": "https://x.com/ulkser/status/2105631747471724782",
+          "published_at": "2026-10-01T12:11:44.000Z",
+          "summary": "He wrote he will add next below 215 in dollar terms, otherwise he keeps current positions.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "positive",
+              "note": "Dolar bazında 215 altında ekleme planı var."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Correction in Europe and small caps",
+          "url": "https://x.com/ulkser/status/2105620898888011790",
+          "published_at": "2026-10-01T11:28:37.000Z",
+          "summary": "He noted Europe corrected 8-11% and $RSP 7% while $NDX and $SPX are near highs.",
+          "assets": [
+            {
+              "symbol": "RSP",
+              "sentiment": "neutral",
+              "note": "Kanal tepesinden reddedilmedi, yaklaşık %7 düzeltti."
+            },
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "Zirvede."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Principal question for equity funds",
+          "url": "https://x.com/ulkser/status/2105644761373979019",
+          "published_at": "2026-10-01T13:03:26.000Z",
+          "summary": "He asked followers whether the principal of equity funds, excluding PPF, should be repaid.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "**Ahmet Sunelcan** placed a small trim order on **CRDO** at $205 on an active day for optics; his effective cost is $161 and the position looked too big to him. He pointed out that **Nike** has fallen 80% from its peak. On memory, he said the CPU bottleneck has only just begun and the excessive caution toward DRAM and NAND persists, but there is no need to be angry about it.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trimming CRDO at 205",
+          "url": "https://x.com/AhmetSunelcan1/status/2105665731878666383",
+          "published_at": "2026-10-01T14:26:46.000Z",
+          "summary": "He wrote he placed a small trim order on $CRDO at 205 on optics day, his effective cost is $161 and he wanted to reduce the position.",
+          "assets": [
+            {
+              "symbol": "CRDO",
+              "sentiment": "neutral",
+              "note": "205'ten küçük azaltma emri, efektif maliyet 161 dolar; güzel bir satış yeri olmadığını ama pozisyonun fazla geldiğini söyledi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nike down 80%",
+          "url": "https://x.com/AhmetSunelcan1/status/2105756691048669384",
+          "published_at": "2026-10-01T20:28:12.000Z",
+          "summary": "He wrote that some people used to praise $NIKE and the stock has fallen 80% from its peak.",
+          "assets": [
+            {
+              "symbol": "NKE",
+              "sentiment": "negative",
+              "note": "Tepeden %80 düşüş."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CPU bottleneck and memory stocks",
+          "url": "https://x.com/AhmetSunelcan1/status/2105672047611281709",
+          "published_at": "2026-10-01T14:51:52.000Z",
+          "summary": "He said the CPU bottleneck has just started, caution toward DRAM and NAND is excessive, and there is no need to be angry.",
+          "assets": [
+            {
+              "symbol": "DRAM",
+              "sentiment": "neutral",
+              "note": "DRAM ve NAND'e yapılanların aşırı tedbirli olduğuna katılıyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "**Serkan Gündoğan** opened a new position in **FRVO** at $14 as his fifth holding, citing Cape Station entering commercial operation on September 30 and management meeting its stated date. He sees geothermal as the riskiest position in his portfolio.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "New FRVO position",
+          "url": "https://x.com/sgundoganX/status/2105730124767277383",
+          "published_at": "2026-10-01T18:42:38.000Z",
+          "summary": "He took a $FRVO position at $14 after Cape Station entered commercial operation on September 30 and management kept its date, stressing it is a high-risk company.",
+          "assets": [
+            {
+              "symbol": "FRVO",
+              "sentiment": "positive",
+              "note": "14 dolardan yeni pozisyon; öğrenme eğrisi şirketin hendeği."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Risk of the geothermal position",
+          "url": "https://x.com/sgundoganX/status/2105733012662984773",
+          "published_at": "2026-10-01T18:54:07.000Z",
+          "summary": "He said 60-80M USD revenue is projected for next year, Google is the biggest backer, and one would need to wait at least 2-3 years.",
+          "assets": [
+            {
+              "symbol": "FRVO",
+              "sentiment": "neutral",
+              "note": "Portföyündeki en riskli pozisyon, yeni anlaşmalar şirketi yukarı taşıyabilir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "**Ali Korkmaz** relayed Trump's Iran and Fed remarks: Trump said he does not blame Warsh for the rate hike. He shared that **AVGO** will provide up to $42B in financing to Anthropic. He also relayed the 197K initial jobless claims and a five-year return comparison of Lider Turizm and **NVDA**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trump does not blame Warsh for the hike",
+          "url": "https://x.com/korkmazali08/status/2105688312803393537",
+          "published_at": "2026-10-01T15:56:30.000Z",
+          "summary": "He relayed Trump telling Time he does not blame Warsh for the Fed hike and blames the board instead.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "$42B from Broadcom to Anthropic",
+          "url": "https://x.com/korkmazali08/status/2105633772104216992",
+          "published_at": "2026-10-01T12:19:46.000Z",
+          "summary": "He wrote that $AVGO will provide up to $42B for Anthropic's infrastructure expansion and Anthropic could become its largest customer by 2027.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "42 milyar dolara kadar finansman; Anthropic 2027'ye kadar en büyük işlem kapasitesi müşterisi olabilir."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "US initial jobless claims 197K",
+          "url": "https://x.com/korkmazali08/status/2105637565264978316",
+          "published_at": "2026-10-01T12:34:51.000Z",
+          "summary": "He shared that US initial jobless claims were 197K versus 200K expected.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump: Iran wants a deal",
+          "url": "https://x.com/korkmazali08/status/2105839567785840890",
+          "published_at": "2026-10-02T01:57:32.000Z",
+          "summary": "He shared Trump saying Iran wants a deal but it is better to make none if they will not comply.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Lider Turizm vs NVDA returns",
+          "url": "https://x.com/korkmazali08/status/2105628395727925717",
+          "published_at": "2026-10-01T11:58:24.000Z",
+          "summary": "He wrote that Lider Turizm fell from its peak to about 33% in five-year dollar-based returns while $NVDA stands at 954%.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "5 yıldır istikrarlı yükselerek %954'te."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "**dtfinans_** relayed developments in the fund crisis: he shared Erdoğan's statement that the problem will be solved quickly and fairly, and the interim payment of up to TRY 1M. He wrote that each PPF is assessed on its own and that equity funds are not attracting buyers.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Erdoğan statement on funds",
+          "url": "https://x.com/dtfinans_/status/2105632618385645592",
+          "published_at": "2026-10-01T12:15:11.000Z",
+          "summary": "He shared Erdoğan's speech saying the fund-market problem will be resolved quickly and fairly.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Demand for principal and interest for PPF",
+          "url": "https://x.com/dtfinans_/status/2105870077409272112",
+          "published_at": "2026-10-02T03:58:46.000Z",
+          "summary": "He backed a post saying the interim payment is not the final result and demanding principal, accrued interest and default interest for PPF.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "No buyers for equity funds",
+          "url": "https://x.com/dtfinans_/status/2105676338967261245",
+          "published_at": "2026-10-01T15:08:55.000Z",
+          "summary": "He wrote that each fund is assessed on its own and that the shares in the equity fund are not attracting buyers.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "**Wall Street Diaries** covered **Micron**'s earnings beat and guidance and **Nike**'s weak revenue and China picture. Standout items were German September flash CPI rising 0.6% m/m and the US selling another 40M barrels from strategic oil reserves. It also shared Trump's call for Powell to resign and Musalem's warning on Fed communication.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Micron earnings lift guidance",
+          "url": "https://x.com/WallStDiaries/status/2105637352551195076",
+          "published_at": "2026-10-01T12:34:00.000Z",
+          "summary": "It reported Micron's Q4 revenue of $54.23B and EPS of $33.42, both beating expectations.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Q4 gelir 54,23 milyar dolar, EPS 33,42 dolar; Q1 gelir rehberliği 60-63 milyar dolar."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nike Q1 earnings",
+          "url": "https://x.com/WallStDiaries/status/2105886336750133688",
+          "published_at": "2026-10-02T05:03:22.000Z",
+          "summary": "Nike revenue fell 4% to $11.2B, gross margin widened to 42.8%, and China and Converse stayed weak.",
+          "assets": [
+            {
+              "symbol": "NKE",
+              "sentiment": "negative",
+              "note": "Gelir %4 düştü, Çin ve Converse zayıf, brüt marj %42,8."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "German inflation jump",
+          "url": "https://x.com/WallStDiaries/status/2105729207879827632",
+          "published_at": "2026-10-01T18:39:00.000Z",
+          "summary": "It reported German September flash HICP rising 0.6% m/m, above August's 0.2%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "US to sell 40M barrels from reserves",
+          "url": "https://x.com/WallStDiaries/status/2105608799985746322",
+          "published_at": "2026-10-01T10:40:32.000Z",
+          "summary": "It reported the US will sell another 40M barrels of crude from strategic reserves to lower fuel prices.",
+          "assets": [
+            {
+              "symbol": "USO",
+              "sentiment": "neutral",
+              "note": "40 milyon varil ek rezerv satışı arz baskısını hafifletmeyi hedefliyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump demands Powell resign",
+          "url": "https://x.com/WallStDiaries/status/2105620994471698673",
+          "published_at": "2026-10-01T11:29:00.000Z",
+          "summary": "It reported Trump demanding Powell resign from the Fed board.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Musalem: Fed communication risk",
+          "url": "https://x.com/WallStDiaries/status/2105760664690044998",
+          "published_at": "2026-10-01T20:44:00.000Z",
+          "summary": "It reported Musalem saying the Fed cutting communication too much could create volatility risk.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Dell's AI backlog",
+          "url": "https://x.com/WallStDiaries/status/2105632571648254021",
+          "published_at": "2026-10-01T12:15:00.000Z",
+          "summary": "It reported Dell shares rising 6% on a $95B AI server order backlog.",
+          "assets": [
+            {
+              "symbol": "DELL",
+              "sentiment": "positive",
+              "note": "95 milyar dolarlık yapay zekâ sunucu sipariş birikimi, hisse %6 yükseldi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Market wrap: PCE and rate pressure",
+          "url": "https://x.com/WallStDiaries/status/2105564590721360129",
+          "published_at": "2026-10-01T07:44:52.000Z",
+          "summary": "It reported that despite PCE coming below expectations the 10-year yield kept rising and the Dow ended September down about 4.3%.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "**Tunç Şatıroğlu** thinks control of the Strait of Hormuz has passed to the US and that falling oil could bring long-term bond yields down. He criticizes the loosening of Turkey's SME loan growth cap, arguing rates would need to rise to 48% for the 15% interim inflation target.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Hormuz control with US, oil to fall",
+          "url": "https://x.com/TuncSatiroglu/status/2105566785906806877",
+          "published_at": "2026-10-01T07:53:35.000Z",
+          "summary": "He wrote that control of Hormuz has passed to the US, oil prices will fall and this could pull long-term bond yields down.",
+          "assets": [
+            {
+              "symbol": "USO",
+              "sentiment": "negative",
+              "note": "Petrol fiyatlarının yakında tekrar düşüşe geçeceğini öngörüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Gulf oil exports recovered",
+          "url": "https://x.com/TuncSatiroglu/status/2105599733331067346",
+          "published_at": "2026-10-01T10:04:31.000Z",
+          "summary": "Per Goldman, Gulf oil exports are above the 2025 average, but refinery problems mean recovery will take time.",
+          "assets": [
+            {
+              "symbol": "USO",
+              "sentiment": "neutral",
+              "note": "Ham petrol ihracatı toparlandı, rafine ürün tarafı yavaş."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Criticism of hitting inflation target via credit growth",
+          "url": "https://x.com/TuncSatiroglu/status/2105919458103750832",
+          "published_at": "2026-10-02T07:14:59.000Z",
+          "summary": "He criticized raising the SME loan growth cap from 4.5% to 5%, writing that the promise to bring inflation to single digits has not been kept.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SME loan cap loosened",
+          "url": "https://x.com/TuncSatiroglu/status/2105917744499822722",
+          "published_at": "2026-10-02T07:08:11.000Z",
+          "summary": "He wrote that rates need to rise to 48% but the credit growth limit was loosened instead.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Central Bank macroprudential release",
+          "url": "https://x.com/TuncSatiroglu/status/2105917150422802474",
+          "published_at": "2026-10-02T07:05:49.000Z",
+          "summary": "He shared the Central Bank's macroprudential announcement, writing that they decided to reach inflation targets by increasing credit growth.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "**MrTradeer** touched on the fund payout, writing that one could receive TRY 350K plus an inflation adjustment and that not selling is hard to understand.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Fund payout comment",
+          "url": "https://x.com/MrTradeer/status/2105682091451285911",
+          "published_at": "2026-10-01T15:31:46.000Z",
+          "summary": "He said it is hard not to sell with this profit and payout, as one can receive TRY 350K plus an inflation adjustment.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "After **Micron**'s earnings, **Izzy** still defends memory companies but is now more cautious on prices. He put **AMAT** on his radar via memory and HBM capacity expansion and says it is up 13% since his post. He read **Broadcom**'s $42B financing of Anthropic as a growth opportunity but also a customer credit risk.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Micron podcast",
+          "url": "https://x.com/FinancewithIzzy/status/2105762108390641776",
+          "published_at": "2026-10-01T20:49:44.000Z",
+          "summary": "He shared a podcast on Micron's record earnings and whether the rally is running out of steam; he still defends memory companies but is more cautious on prices.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Bellek şirketlerini savunuyor ama fiyatlarda daha temkinli."
+            },
+            {
+              "symbol": "SNDK",
+              "sentiment": "neutral",
+              "note": "Podcast etiketinde yer aldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AMAT up 13% since his post",
+          "url": "https://x.com/FinancewithIzzy/status/2105748390420050048",
+          "published_at": "2026-10-01T19:55:13.000Z",
+          "summary": "He highlights $AMAT on fab equipment demand from HBM, DRAM and advanced packaging; last quarter revenue was $9.12B and EPS $3.50.",
+          "assets": [
+            {
+              "symbol": "AMAT",
+              "sentiment": "positive",
+              "note": "Paylaşımdan bu yana %13 yükseldi; bellek kaynaklı ekipman talebi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom financing Anthropic",
+          "url": "https://x.com/FinancewithIzzy/status/2105684064166355359",
+          "published_at": "2026-10-01T15:39:37.000Z",
+          "summary": "He read $AVGO lending Anthropic up to $42B as a growth opportunity but also customer credit risk.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Büyük büyüme fırsatı, ancak harcamaların sürdürülebilir gelire dönüşmesi önemli."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Citadel reports 4.7% stake in IREN",
+          "url": "https://x.com/FinancewithIzzy/status/2105584679642382706",
+          "published_at": "2026-10-01T09:04:42.000Z",
+          "summary": "He wrote that Ken Griffin's Citadel-linked entities reported a 4.7% stake in $IREN to the SEC, which he sees as positive.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "Citadel bağlantılı şirketlerin %4,7 pay bildirmesi bence olumlu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "**Wall St Engine** reported **Nike** guiding EPS far below expectations, **Accenture** beating estimates and rising 23%, and **Broadcom** providing $42B of financing to Anthropic. Data included the US 10-year yield rising above 5.33%, the highest since 2002, and US manufacturing PMI rising to 55.9. It also shared news of a third carrier strike group heading to the Middle East.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nike earnings and weak guidance",
+          "url": "https://x.com/wallstengine/status/2105754125493555497",
+          "published_at": "2026-10-01T20:18:01.000Z",
+          "summary": "Nike revenue of $11.21B missed estimates; FY27 EPS guidance is $1.15-$1.35 versus $1.65 expected.",
+          "assets": [
+            {
+              "symbol": "NKE",
+              "sentiment": "negative",
+              "note": "FY27 EPS rehberliği beklentinin çok altında, Converse -%28."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Accenture +23% after earnings",
+          "url": "https://x.com/wallstengine/status/2105667282177556656",
+          "published_at": "2026-10-01T14:32:56.000Z",
+          "summary": "Accenture beat with $18.7B revenue and $3.29 EPS in Q4 and the stock rose 23%.",
+          "assets": [
+            {
+              "symbol": "ACN",
+              "sentiment": "positive",
+              "note": "Tüm kalemlerde beklenti aşıldı, hisse %23 yukarıda."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom's Anthropic financing",
+          "url": "https://x.com/wallstengine/status/2105600530558918931",
+          "published_at": "2026-10-01T10:07:41.000Z",
+          "summary": "It reported Broadcom will provide Anthropic up to $42B in financing, the debt may be convertible into Anthropic shares, and the filing flags conflict-of-interest risks.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "42 milyar dolarlık finansman, Anthropic 2027'de en büyük hesaplama müşterisi olacak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Citi raises Bitcoin forecast",
+          "url": "https://x.com/wallstengine/status/2105588647181553983",
+          "published_at": "2026-10-01T09:20:28.000Z",
+          "summary": "It reported Citigroup raised its 12-month Bitcoin forecast to $113,000 from $82,000, with Bitcoin down 4% YTD.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "Citi 12 aylık tahmini 113 bin dolara çıkardı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Goldman upgrades Occidental to Buy",
+          "url": "https://x.com/wallstengine/status/2105584663016476934",
+          "published_at": "2026-10-01T09:04:38.000Z",
+          "summary": "It reported Goldman upgraded Occidental to Buy and raised the price target to $69.",
+          "assets": [
+            {
+              "symbol": "OXY",
+              "sentiment": "positive",
+              "note": "Hedef fiyat 63'ten 69 dolara çıktı; sermaye verimliliği ve borç azaltımı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "US 10-year yield highest since 2002",
+          "url": "https://x.com/wallstengine/status/2105576492612903366",
+          "published_at": "2026-10-01T08:32:10.000Z",
+          "summary": "It reported the US 10-year yield rose above 5.33%, the highest since April 2002.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "US manufacturing PMI 55.9",
+          "url": "https://x.com/wallstengine/status/2105658025415782436",
+          "published_at": "2026-10-01T13:56:09.000Z",
+          "summary": "It reported the S&P Global manufacturing PMI rose from 53.9 to 55.9, the highest since May 2022.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Fed's Cook: AI is the top 2027 risk",
+          "url": "https://x.com/wallstengine/status/2105752124034588948",
+          "published_at": "2026-10-01T20:10:04.000Z",
+          "summary": "It reported Fed's Cook saying AI is the top risk for 2027 and is already causing inflationary pressure.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Fed's Jefferson: September hike anchors expectations",
+          "url": "https://x.com/wallstengine/status/2105712665041789070",
+          "published_at": "2026-10-01T17:33:16.000Z",
+          "summary": "It reported Jefferson saying the September hike helps anchor inflation expectations and more time may be needed before the next move.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "US sends third carrier group to Middle East",
+          "url": "https://x.com/wallstengine/status/2105718315926860259",
+          "published_at": "2026-10-01T17:55:43.000Z",
+          "summary": "Per the WSJ, the US is sending a third carrier strike group, adding up to 10,000 troops by end of November.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "US presses France and Germany on diesel stocks",
+          "url": "https://x.com/wallstengine/status/2105565690547806301",
+          "published_at": "2026-10-01T07:49:14.000Z",
+          "summary": "Per Reuters, the US is pressing France and Germany to release 120M barrels of emergency diesel over six months or face a possible export ban.",
+          "assets": [
+            {
+              "symbol": "USO",
+              "sentiment": "neutral",
+              "note": "Dizel stokları üzerinde ABD baskısı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Needham: Apple's biggest risk is Meta",
+          "url": "https://x.com/wallstengine/status/2105689134665015346",
+          "published_at": "2026-10-01T15:59:46.000Z",
+          "summary": "Per Needham, Apple's biggest long-term risk is Meta or another AI-first rival building an agent and hardware ecosystem that disintermediates the iPhone.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "negative",
+              "note": "En büyük uzun vadeli risk Meta'nın ekosistemi."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Needham'a göre Apple'ın çekirdek işine doğrudan saldıran ürünler geliştiriyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "**Dr J Rould** wrote that **AAPL**, **NET**, **CRWD** and **PLTR** are on his trim list in the long-term portfolio and that he struggles to sleep holding **CRWD**. He said he will dump **SoFi** if the setup breaks, that **ASTS** will stay range-bound between $50 and $70, and that he likes **RKLB** better on both fundamentals and chart.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trim list",
+          "url": "https://x.com/jrouldz/status/2105751285085679799",
+          "published_at": "2026-10-01T20:06:43.000Z",
+          "summary": "He wrote that $AAPL, $NET, $CRWD and $PLTR are on his trim list in the long-term portfolio and he is tempted to trim $ABCL and $ARKG.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "negative",
+              "note": "Kâr realizasyonu listesinde."
+            },
+            {
+              "symbol": "NET",
+              "sentiment": "negative",
+              "note": "Kâr realizasyonu listesinde."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "negative",
+              "note": "Kâr realizasyonu listesinde."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "negative",
+              "note": "Kâr realizasyonu listesinde."
+            },
+            {
+              "symbol": "ABCL",
+              "sentiment": "neutral",
+              "note": "Azaltmayı düşünüyor."
+            },
+            {
+              "symbol": "ARKG",
+              "sentiment": "neutral",
+              "note": "Azaltmayı düşünüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hard to sleep holding CRWD",
+          "url": "https://x.com/jrouldz/status/2105747141956428029",
+          "published_at": "2026-10-01T19:50:16.000Z",
+          "summary": "He wrote it is getting hard to sleep at night holding $CRWD.",
+          "assets": [
+            {
+              "symbol": "CRWD",
+              "sentiment": "negative",
+              "note": "Pozisyonla uyumakta zorlanıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Will dump SoFi if setup breaks",
+          "url": "https://x.com/jrouldz/status/2105658770143514893",
+          "published_at": "2026-10-01T13:59:06.000Z",
+          "summary": "He wrote he will dump $SOFI if the setup breaks, but stays patient for now.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "neutral",
+              "note": "Kurulum bozulursa satacak, şimdilik sabırlı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "HOOD position small but not selling",
+          "url": "https://x.com/jrouldz/status/2105663232778379286",
+          "published_at": "2026-10-01T14:16:50.000Z",
+          "summary": "He wrote his $HOOD position is smaller and that although fintech in general has him jaded, he does not want to sell HOOD.",
+          "assets": [
+            {
+              "symbol": "HOOD",
+              "sentiment": "positive",
+              "note": "Rakiplerinden ayrıştığı için satmayı düşünmüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ASTS $50-$70 range",
+          "url": "https://x.com/jrouldz/status/2105644113370477037",
+          "published_at": "2026-10-01T13:00:52.000Z",
+          "summary": "He said $ASTS will chop sideways between $50 support and $70 resistance.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "neutral",
+              "note": "50 dolar destek, 70 dolar direnç arasında yatay bekliyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Prefers RKLB over ASTS",
+          "url": "https://x.com/jrouldz/status/2105645982406869468",
+          "published_at": "2026-10-01T13:08:17.000Z",
+          "summary": "He wrote he is a much bigger $RKLB fan fundamentally and also likes its chart structure much better.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "positive",
+              "note": "Hem temel hem grafik yapısı açısından ASTS'den daha iyi."
+            },
+            {
+              "symbol": "ASTS",
+              "sentiment": "neutral",
+              "note": "RKLB'ye göre geride."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "**Cuma Cevik** is positive on memory as he sees a shortage lasting through 2028: he targets $81 short term and $100 long term for the **DRAM** ETF and $238 long term for **SKHY**. He was surprised **Micron** was sold despite strong earnings. He said **Bitcoin** has technically ended its downtrend and kept his view that the first week of October would be the low.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Micron earnings and selloff",
+          "url": "https://x.com/cevikfinance/status/2105666238005252594",
+          "published_at": "2026-10-01T14:28:47.000Z",
+          "summary": "He wrote Micron's Q4 revenue of $54.23B beat by 6.2% and Q1 guidance of $61.5B was 7.9% above consensus, and that he cannot believe it was sold.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Gelir, EPS ve rehberlikte güçlü beat; satılmasına şaştı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "$81 and $100 targets for DRAM ETF",
+          "url": "https://x.com/cevikfinance/status/2105761456109101561",
+          "published_at": "2026-10-01T20:47:08.000Z",
+          "summary": "He gave $81 as a reasonable short-term target and $100 as a long-term target based on the memory shortage lasting through 2028.",
+          "assets": [
+            {
+              "symbol": "DRAM",
+              "sentiment": "positive",
+              "note": "Kısa vade 81, uzun vade 100 dolar hedef."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Memory shortage could last to 2028",
+          "url": "https://x.com/cevikfinance/status/2105767399731417331",
+          "published_at": "2026-10-01T21:10:46.000Z",
+          "summary": "He wrote he is positive on memory because HBM keeps absorbing wafer capacity and new fabs will not add supply before 2028.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Bellek kıtlığının 2028'e kadar sürmesini bekliyor."
+            },
+            {
+              "symbol": "SNDK",
+              "sentiment": "positive",
+              "note": "Aynı bellek tezinin parçası."
+            },
+            {
+              "symbol": "DRAM",
+              "sentiment": "positive",
+              "note": "Uzun vadeli pozitif."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "$238 possibility for SKHY",
+          "url": "https://x.com/cevikfinance/status/2105753568313557467",
+          "published_at": "2026-10-01T20:15:48.000Z",
+          "summary": "He wrote he sees a good setup in $SKHY and that $238 is quite possible over the long term.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Uzun vadede 238 dolar ihtimali."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin ended its downtrend",
+          "url": "https://x.com/cevikfinance/status/2105749241754796035",
+          "published_at": "2026-10-01T19:58:36.000Z",
+          "summary": "He wrote Bitcoin moved above its last lower high and technically ended the downtrend running since October 2025.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Düşüş trendini teknik olarak bitirdi, ikinci boğa bayrağı hazır."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "First week of October to be the low",
+          "url": "https://x.com/cevikfinance/status/2105749867674890546",
+          "published_at": "2026-10-01T20:01:06.000Z",
+          "summary": "He said his view that the first week of October would be the low is unchanged, and although the index did not show it, stocks saw a correction.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0998,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2126,
+        "mentions": [
+          {
+            "person": "jrouldz",
+            "sentiment": "neutral",
+            "quote": "If this $SOFI setup breaks down I am going to dump it",
+            "source_url": "https://x.com/jrouldz/status/2105658770143514893"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Dr J Rould, SoFi gets dumped if the setup breaks down, but he stays patient for now; no concrete trigger yet.",
+        "opinion": "About a fifth of the portfolio sits in one stock; the main risk is this concentration along with yields at their highest since 2002. Credit quality and the rate path are what to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "At about 21% it is the largest position, so single-stock risk is high.",
+          "High long-term yields can weigh on fintech valuations.",
+          "Dr J Rould says he will sell if the setup breaks, a technical warning sign.",
+          "There is no new information today that requires selling."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1475,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "neutral",
+            "quote": "Zuckerberg sold $1-2M of shares, it doesn't matter much",
+            "source_url": "https://x.com/korkmazali08/status/2105758056399151233"
+          },
+          {
+            "person": "wallstengine",
+            "sentiment": "neutral",
+            "quote": "META is developing products that directly attack AAPL's core business, we believe.",
+            "source_url": "https://x.com/wallstengine/status/2105689134665015346"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Ali Korkmaz, Zuckerberg's small share sale does not matter; Needham says Meta is developing products that attack Apple's core business.",
+        "opinion": "Rivals see Meta's AI and hardware moves as a strategic threat, which is positive; but the return on AI spending is still the main question mark.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Needham viewing Meta as a threat to Apple shows its strategic strength.",
+          "It is uncertain whether AI investment turns into durable revenue.",
+          "The founder sale is small and not a signal on its own."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1383,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "positive",
+            "quote": "A big growth opportunity for $AVGO. But as much as the size of the deal, it matters whether this spending turns into sustainable revenue.",
+            "source_url": "https://x.com/FinancewithIzzy/status/2105684064166355359"
+          },
+          {
+            "person": "korkmazali08",
+            "sentiment": "neutral",
+            "quote": "$AVGO agreed to provide up to $42B in financing for Anthropic's AI infrastructure expansion.",
+            "source_url": "https://x.com/korkmazali08/status/2105633772104216992"
+          },
+          {
+            "person": "wallstengine",
+            "sentiment": "neutral",
+            "quote": "Broadcom $AVGO has agreed to provide Anthropic with up to $42B in financing tied to its AI infrastructure buildout.",
+            "source_url": "https://x.com/wallstengine/status/2105600530558918931"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Izzy, the $42B Anthropic financing is a big opportunity but carries customer credit risk.",
+        "opinion": "Anthropic becoming the largest compute customer in 2027 gives demand visibility; on the other hand the supplier-financier role creates conflict-of-interest risk on pricing and access.",
+        "ai_action": "hold",
+        "ai_points": [
+          "A large customer locking in capacity for years improves demand visibility.",
+          "Financing the customer adds credit and conflict-of-interest risk.",
+          "According to Izzy, the real question is whether the spending turns into sustainable revenue.",
+          "At 13.8% of the portfolio, the concentration is reasonable."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1141,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Nuclear and defense demand continues, and the US Senate blocking a cap on data-center electricity prices is a supportive backdrop for the energy-demand story; the main risk is order timing.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Demand for nuclear energy is supported by AI data centers.",
+          "The timing of the company's orders and contracts can be lumpy.",
+          "There is no data directly on this stock in today's sources."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0961,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "As an ad-driven stock, growth and traffic data plus Google search arrangements are decisive; a 9.6% weight on its own adds to volatility.",
+        "ai_action": "hold",
+        "ai_points": [
+          "High growth expectations lead to volatile share moves.",
+          "AI changes in search raise traffic-source risk.",
+          "There is no information on this stock in today's sources."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0779,
+        "mentions": [
+          {
+            "person": "Tunç Şatıroğlu",
+            "sentiment": "positive",
+            "quote": "I think that when oil prices start falling, it could bring a decline in the rising long-term bond yields in developed countries and relieve markets",
+            "source_url": "https://x.com/TuncSatiroglu/status/2105566785906806877"
+          },
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "A possible easing in bonds will bring another leg up.",
+            "source_url": "https://x.com/ulkser/status/2105637537939374243"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Tunç Şatıroğlu, long-term yields can fall if oil drops; that condition has not materialized yet.",
+        "opinion": "Yields are the highest since 2002; for this fund that means both price pressure and strong upside if yields fall later. Long-duration risk is high.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Fund price is under pressure as the US 10-year yield rises to 5.33%.",
+          "If yields fall, 20+ year bonds could deliver strong gains.",
+          "Tunç Şatıroğlu's scenario depends on oil falling and is not certain yet.",
+          "At 7.8% it acts as a hedge in the portfolio."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0684,
+        "mentions": [
+          {
+            "person": "ulkser",
+            "sentiment": "neutral",
+            "quote": "I will make my next addition if it drops below 215 USD, otherwise I keep holding my current positions.",
+            "source_url": "https://x.com/ulkser/status/2105631747471724782"
+          },
+          {
+            "person": "Tunç Şatıroğlu",
+            "sentiment": "negative",
+            "quote": "As I expected, the SME loan growth limit, part of commercial credit, has been loosened through macroprudential non-measures so that commercial credit growth rises even more.",
+            "source_url": "https://x.com/TuncSatiroglu/status/2105917744499822722"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Serkan Uelker, he adds if the BIST 100 falls below 215 in dollar terms, otherwise he holds current positions.",
+        "opinion": "Loosening the credit growth cap could raise inflation and currency risk; the fund is USD-based but exposed to TRY assets, so central bank policy and the fund-crisis news flow are decisive.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Steps that boost credit growth raise inflation and TRY risk (according to Tunç Şatıroğlu).",
+          "Serkan Uelker plans to buy below 215 in dollar terms, so he does not see the current level as cheap.",
+          "The fund crisis creates a confidence risk in Turkish markets."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0453,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The electrical equipment side benefits from data-center investment; the US Senate blocking the electricity price cap supports the demand story, but there is single-stock risk at a small weight.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Data-center electricity demand provides a strong backdrop.",
+          "As a recently listed company its volatility can be high.",
+          "There is no direct information on this stock in today's sources."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "FRVO",
+        "name": "Fervo Energy",
+        "why": "Serkan Gündoğan took a position at $14; Cape Station entered commercial operation on September 30 and management kept its date, though he calls it a high-risk company.",
+        "source_url": "https://x.com/sgundoganX/status/2105730124767277383"
+      },
+      {
+        "symbol": "DRAM",
+        "name": "Roundhill Memory ETF",
+        "why": "Cuma Cevik gives $81 short-term and $100 long-term targets, arguing the memory shortage will last through 2028.",
+        "source_url": "https://x.com/cevikfinance/status/2105761456109101561"
+      },
+      {
+        "symbol": "AMAT",
+        "name": "Applied Materials",
+        "why": "Izzy says HBM and DRAM capacity expansion will lift fab equipment demand, noting last quarter revenue rose 25% to $9.12B.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2105748390420050048"
+      }
+    ]
+  }
+}
