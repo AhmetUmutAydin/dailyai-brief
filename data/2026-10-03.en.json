@@ -1,0 +1,1843 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T07:39:48.205Z",
+  "errors": [
+    "X batch query (FinancewithIzzy, wallstengine, jrouldz, cevikfinance) failed and was retried per account"
+  ],
+  "attention": [
+    {
+      "title": "Fed hike odds fall to 17.2% after weak jobs data",
+      "person": "korkmazali08",
+      "why": "September payrolls came in at 29k (expected 90k); per CME FedWatch the probability of a hold on October 28 is 82.8% and of a 25bp hike 17.2%.",
+      "source_url": "https://x.com/korkmazali08/status/2106007207951368461"
+    },
+    {
+      "title": "Broadcom's $60B Anthropic financing is pressuring the stock",
+      "person": "Bora Özkent",
+      "why": "Bora Özkent finds the stock cheap and says it returns to his radar once financing is settled.",
+      "source_url": "https://www.youtube.com/watch?v=51AR7QRVN0I"
+    },
+    {
+      "title": "Gold: \"don't buy\", $5,000 view hinges on the 10-year yield",
+      "person": "Tunç Şatıroğlu",
+      "why": "If US 10-years go to 5.5%, $5,000 won't come; he attributes gold's decline to high long-term yields.",
+      "source_url": "https://x.com/TuncSatiroglu/status/2106050380400623841"
+    },
+    {
+      "title": "Partial profit on CRDO at 212; next add point 135",
+      "person": "korkmazali08",
+      "why": "He sold some to rebalance a position bought at 172; his earlier note said he would add at 135 if the decline continued.",
+      "source_url": "https://x.com/korkmazali08/status/2106003643430498721"
+    },
+    {
+      "title": "Toshiba's HDD expansion hit STX and WDC",
+      "person": "Ahmet Sunelcan",
+      "why": "According to Ahmet Sunelcan, Toshiba's contribution adds 4-5% to annual supply while demand grows 25-30%.",
+      "source_url": "https://x.com/AhmetSunelcan1/status/2106107525351256381"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US jobs data and the Fed",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "Expectations of a Fed hike fell after the weak jobs data; probability of a hold on October 28 is 82.8%.",
+          "quote": "Zayıf istihdam verisinin ardından Fed’in faiz artıracağına yönelik beklentiler geriledi.",
+          "source_url": "https://x.com/korkmazali08/status/2106007207951368461"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "The data is highly questionable; there are constant backward revisions and the model proved wrong.",
+          "quote": "Bu tarım dışı istihdam verisi çok su kaldırır. Sürekli geriye dönük revizyonlar oluyor.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2106002144067531022"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "After the data the 10-year yield fell to 5.18% and the 2-year to 4.72%; Fed hike pressure eased.",
+          "quote": "Fed'in faiz artış baskısı hafifleyip alıcılar piyasaya döndü.",
+          "source_url": "https://x.com/WallStDiaries/status/2106042197657198653"
+        }
+      ]
+    },
+    {
+      "topic": "US long-term bond yields",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "The rise in yields comes from US growth and the unwinding of the Japanese carry trade, not inflation.",
+          "quote": "Ben faiz artışlarının ilişkisi kesinlikle enflasyon dışındaki her şeyle ilgili.",
+          "source_url": "https://www.youtube.com/watch?v=51AR7QRVN0I"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "There is a temporary irrationality in the market; yields will fall but will not return to the old very low levels for years.",
+          "quote": "Yani piyasada bir irrasyonel durum var ve bu durumun geçici olacağını düşünüyorum.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2105995728950833249"
+        },
+        {
+          "person": "ulkser",
+          "view": "Asks whether the top has been seen in bonds (TLT, IEI, SHY) and will check back in 6-7 months.",
+          "quote": "Acaba en tepeyi bildik mi?",
+          "source_url": "https://x.com/ulkser/status/2106002508019814516"
+        }
+      ]
+    },
+    {
+      "topic": "Hormuz, oil and diesel",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Oil has settled around $100; the real inflation pressure is in diesel due to refinery constraints.",
+          "quote": "Esas şu anda enflasyonu zorlayan konu ama petrol fiyatları değil.",
+          "source_url": "https://www.youtube.com/watch?v=51AR7QRVN0I"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Iran lost control in Hormuz; he says oil prices will start to fall with increased supply.",
+          "quote": "Zaman ilerledikçe bu endişelerin de azalacağını ve petrol fiyatlarının artan arzla birlikte gerilemeye başlayacağını söylemek mümkün.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2106268000995479720"
+        },
+        {
+          "person": "wallstengine",
+          "view": "G7 leaders agreed to release up to 100 million barrels of emergency diesel and crude over four months.",
+          "quote": "French President Emmanuel Macron says G7 leaders have agreed to release up to 100M barrels of emergency diesel and crude oil stocks over four months",
+          "source_url": "https://x.com/wallstengine/status/2106021716699046244"
+        }
+      ]
+    },
+    {
+      "topic": "European inflation and the French bond premium",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "Eurozone September inflation at 3.8% is the highest since September 2023; the France-Germany 10-year spread is the highest since 2011.",
+          "quote": "Eurozone September CPI rose 3.8% YoY (est. 3.7%, prior 3.2%), the highest since September 2023.",
+          "source_url": "https://x.com/wallstengine/status/2105952009388236986"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey's PPF crisis",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Finds the advance payment news good but insufficient; the demand for full payment continues.",
+          "quote": "Güzel haber. Mağduriyeti bitiremiyorsan hasarını azalt insanlara sabretmeleri için alan yarat. Yine yeterli değil ama güzel haber.",
+          "source_url": "https://x.com/dtfinans_/status/2106099285016432755"
+        },
+        {
+          "person": "MrTradeer",
+          "view": "Shares news that principal will be paid in October with an inflation adjustment as confirmation of his earlier prediction.",
+          "quote": "Dün enf tutarı eklenir demiştim.",
+          "source_url": "https://x.com/MrTradeer/status/2106128159351456186"
+        }
+      ]
+    },
+    {
+      "topic": "Credit growth and inflation in Turkey",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "The macroprudential decision won't hit the inflation target; credit growth is what expands the money supply most.",
+          "quote": "Enflasyon hedefi yine tutmadığında bugün verilen makroihtiyatsızlık kararının yanlış olduğunu göreceğimiz gibi hak verenlerin de yanıldığını göreceğiz maalesef.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2105983525111665145"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "Three people commented; Bora Özkent finds it cheap and awaits the $60B financing being settled.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "I find Broadcom cheap.",
+          "source_url": "https://www.youtube.com/watch?v=51AR7QRVN0I"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "I love you $AVGO",
+          "source_url": "https://x.com/dtfinans_/status/2106033526454059336"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Broadcom $AVGO is assembling roughly $60B of financing to help Anthropic and other AI customers fund chip & infrastructure purchases",
+          "source_url": "https://x.com/wallstengine/status/2105965357492232306"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "high",
+      "why": "Several people commented after earnings and analyst targets rose.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Micron delivered an incredible earnings report.",
+          "source_url": "https://www.youtube.com/watch?v=51AR7QRVN0I"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "We also traded $MU from 800 to 940.",
+          "source_url": "https://x.com/ulkser/status/2105986567684927681"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "Analyst price target updates after $MU earnings: Rosenblatt: $1,500 → $1,900.",
+          "source_url": "https://x.com/cevikfinance/status/2105945163008754090"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "One-sided positive view; Morgan Stanley's top-pick call and the $5.7T valuation stood out.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Morgan Stanley reinstated $NVDA as its “Top Semiconductor Pick”.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2106004468286570836"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Morgan Stanley reinstated $NVDA as its top semiconductor pick after a roadshow with Jensen Huang.",
+          "source_url": "https://x.com/wallstengine/status/2105961401730977860"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "medium",
+      "why": "One positive and two neutral takes around Muse.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$META jumped to another level with Muse.",
+          "source_url": "https://x.com/cevikfinance/status/2106145393587482747"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "BNP Paribas on Meta Muse: Popularity Rising, Revenue Model Becoming Clearer.",
+          "source_url": "https://x.com/WallStDiaries/status/2106037741029134439"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$META is opening Muse up to custom hardware.",
+          "source_url": "https://x.com/wallstengine/status/2106119980278493584"
+        }
+      ]
+    },
+    {
+      "symbol": "CRDO",
+      "name": "Credo Technology",
+      "priority": "high",
+      "why": "Two people trimmed the same day and gave clear levels (212, 230, 135).",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "I am taking some profit at $212 on $CRDO, which we bought at $172.",
+          "source_url": "https://x.com/korkmazali08/status/2106003643430498721"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "I just placed an extremely small sell order for $CRDO at 230.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2106024460272934953"
+        }
+      ]
+    },
+    {
+      "symbol": "STX",
+      "name": "Seagate Technology",
+      "priority": "high",
+      "why": "Two people commented after the Toshiba news; sharp decline.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "These companies were pricing the future and sold off hard on the news; I think the selling was somewhat exaggerated.",
+          "source_url": "https://x.com/korkmazali08/status/2106033098010018052"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "$STX and $WDC fell. Does it solve the bottleneck? Toshiba's contribution adds ~4-5% to annual supply.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2106107525351256381"
+        }
+      ]
+    },
+    {
+      "symbol": "WDC",
+      "name": "Western Digital",
+      "priority": "high",
+      "why": "Two people commented after the Toshiba news; nearly $20B of value lost in a day.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "On news that Toshiba PLANS a $380M investment, $WDC alone lost nearly $20B in value today.",
+          "source_url": "https://x.com/korkmazali08/status/2106034888784642157"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "$STX and $WDC fell.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2106107525351256381"
+        }
+      ]
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra",
+      "priority": "high",
+      "why": "Three sources shared the same news, one explicitly positive; the $4B US loan is concrete.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Good news for $VST.",
+          "source_url": "https://x.com/cevikfinance/status/2106104529229857182"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "US Government Plans a $4 Billion Loan to Vistra Corp.",
+          "source_url": "https://x.com/WallStDiaries/status/2106114353145790930"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "U.S. TO OFFER VISTRA $VST $4B LOAN TO BOOST NUCLEAR POWER OUTPUT",
+          "source_url": "https://x.com/wallstengine/status/2106100772048105541"
+        }
+      ]
+    },
+    {
+      "symbol": "XAU",
+      "name": "Gold",
+      "priority": "high",
+      "why": "Clear view and level given: don't buy, $5,000 view holds unless the 10-year goes to 5.5%.",
+      "mentions": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "negative",
+          "quote": "Should I buy gold? No, don't.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2106050380400623841"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "priority": "high",
+      "why": "Two people gave positive views.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "I think $LITE should be in every portfolio.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2106111493099954633"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$LITE continues to stay strong.",
+          "source_url": "https://x.com/cevikfinance/status/2106101372743455120"
+        }
+      ]
+    },
+    {
+      "symbol": "NDX",
+      "name": "Nasdaq 100",
+      "priority": "high",
+      "why": "Three sources noted the index's new high; one called the breakout confirmed.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$QQQ breakout confirmed",
+          "source_url": "https://x.com/jrouldz/status/2106024771695558901"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$NDX Nasdaq hit a new record high.",
+          "source_url": "https://x.com/cevikfinance/status/2106006572732211319"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "NASDAQ 100 HITS 31,000 FOR THE FIRST TIME EVER",
+          "source_url": "https://x.com/wallstengine/status/2106022782106767400"
+        }
+      ]
+    },
+    {
+      "symbol": "RKT",
+      "name": "Rocket Companies",
+      "priority": "high",
+      "why": "Position and risk/reward levels given: at most $5 of downside, at least $15 of upside.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "I have a heavy position.",
+          "source_url": "https://x.com/ulkser/status/2106000151198183774"
+        }
+      ]
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "priority": "medium",
+      "why": "One person with a concrete view: sell if the setup breaks.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "If this $SOFI setup breaks down I am going to dump it",
+          "source_url": "https://x.com/jrouldz/status/2106134625169166652"
+        }
+      ]
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "priority": "medium",
+      "why": "A bond-top question and a view on yields falling; two views.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Did we call the top? $IEI $SHY $TLT Bonds",
+          "source_url": "https://x.com/ulkser/status/2106002508019814516"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "positive",
+          "quote": "Bond yields will fall but perhaps won't go back to those very low levels for years as before.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2105995728950833249"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "$TLT Relief in Bonds After Nonfarm Payrolls.",
+          "source_url": "https://x.com/WallStDiaries/status/2106042197657198653"
+        }
+      ]
+    },
+    {
+      "symbol": "NVTS",
+      "name": "Navitas Semiconductor",
+      "priority": "medium",
+      "why": "One person with a concrete position: added to the portfolio.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$NVTS added to the portfolio.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2106146002646581440"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius Group",
+      "priority": "medium",
+      "why": "Clear trimming information; plus options data.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$NBIS trimmed a little more.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2106006338635456922"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "According to Cboe data, Nebius Group ($NBIS) options show a mixed picture.",
+          "source_url": "https://x.com/korkmazali08/status/2106130923460624806"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "priority": "medium",
+      "why": "Clear profit-taking: a third sold.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "It is getting hard to sleep at night holding the $CRWD position; I've already trimmed 1/3.",
+          "source_url": "https://x.com/jrouldz/status/2106067679526215875"
+        }
+      ]
+    },
+    {
+      "symbol": "WLD",
+      "name": "Worldcoin",
+      "priority": "medium",
+      "why": "One person's explicit single-crypto pick.",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "positive",
+          "quote": "If I had only one pick I would definitely buy ethereum:0x163f…",
+          "source_url": "https://x.com/sgundoganX/status/2106063689019195520"
+        }
+      ]
+    },
+    {
+      "symbol": "ABCL",
+      "name": "AbCellera",
+      "priority": "medium",
+      "why": "One person with a concrete entry: new position at $2.39.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "Started a new position in $ABCL at $2.39",
+          "source_url": "https://x.com/jrouldz/status/2105976742657630714"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "low",
+      "why": "Only delivery figures were relayed.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Tesla delivered 486,532 vehicles in Q3 against an expectation of 456,896.",
+          "source_url": "https://x.com/korkmazali08/status/2106007475686088804"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "TESLA $TSLA Q3 2026 NUMBERS ARE HERE: Total Deliveries: 486,532 (Est. 463,761)",
+          "source_url": "https://x.com/wallstengine/status/2106007965513961568"
+        }
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "priority": "low",
+      "why": "No position, only a technical note.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "$DELL is wrestling with its 20-day... I have no position.",
+          "source_url": "https://x.com/ulkser/status/2106091436915695648"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "low",
+      "why": "Customer count data relayed, no opinion.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Palantir’s $PLTR customer count rose 24% year on year to exceed 1,000.",
+          "source_url": "https://x.com/korkmazali08/status/2106004024147280068"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "In a stream ahead of the jobs data he says he still finds the **S&P 500** cheap and is positive; indexes are flat but only tech is moving, and **Micron**'s earnings confirmed AI infrastructure demand. He attributes the rise in yields not to inflation but to US growth and the unwinding of the yen carry trade, and sees the 10-year falling back from 5.34% to 5.24% as a sign of relief.\n\nHe reads **Broadcom**'s search for $60B of financing for Anthropic as the reason for the pressure on the stock; once financing is settled it will be back on his radar. He says the US is trying to keep Hormuz open and that the real inflation pressure is in diesel, not crude. His own portfolio holds about 2.5% cash, gained about 8% in September, and he thinks October may not be very different.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Why I'm Positive on US Markets?",
+          "url": "https://www.youtube.com/watch?v=51AR7QRVN0I",
+          "published_at": "2026-10-02T09:47:02+00:00",
+          "summary": "Bora Özkent says he is positive on US markets ahead of the jobs data. Indexes are flat with weak participation; over the past month only tech has risen while banks and consumer discretionary fell sharply. The US 10-year hit 5.34% intraday, its highest since April 2002, then fell back to 5.24%; Bora attributes the rise not to inflation but to nominal growth and rising Japanese yields with the unwinding of the carry trade (10-year breakeven 2.36%, Fed target 2%). The ISM manufacturing index is 54.5, weekly jobless claims 197k, and the Q3 growth model estimate 3.7%. He expects roughly 90k jobs for September; he thinks a downward revision to August would show a seasonality problem and calm the market. He calls Micron's earnings proof of memory demand. Broadcom's search for $60B of financing for Anthropic may be weighing on the stock; if it is resolved the stock returns to his radar, and he finds the company cheap. Nike's earnings were bad again, with the stock down 8.5% in a day. The S&P 500's PEG ratio is at historic lows, so he finds the index cheap. His portfolio holds 2.5% cash, gained 8% in September, and he is positive for October too.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "He calls the earnings extraordinary: revenue up 379% year on year, 87% gross margin, 75% of 2027 capacity under contract; the stock sold off intraday but closed up about 3%."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "He finds the stock cheap; the pressure comes from worries over the $60B financing sought for Anthropic, and if that is resolved it returns to his radar."
+            },
+            {
+              "symbol": "AMZN",
+              "sentiment": "neutral",
+              "note": "The valuation of its Anthropic stake books profit on the balance sheet; the Anthropic IPO will affect the company."
+            },
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "The valuation of its Anthropic stake books profit on the balance sheet; the IPO will affect Alphabet too."
+            },
+            {
+              "symbol": "NKE",
+              "sentiment": "negative",
+              "note": "Earnings were bad again and the stock fell 8.5% in a day; it is down about 75% from its peak and 45% year to date."
+            },
+            {
+              "symbol": "SPX",
+              "sentiment": "positive",
+              "note": "He finds the index cheap because the PEG ratio is at historic lows; he sees no big problem as long as AI investment continues."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "He talks about premium earned by selling options: he collected over $1,000 in premium in the last two weeks, an alternative return without buying the stock itself. He says selling puts is the best way to collect premium on names that are prone to decline and constantly hit by FUD.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Income from option premiums",
+          "url": "https://x.com/heisenbergtrx/status/2105970133369762050",
+          "published_at": "2026-10-02T10:36:21.000Z",
+          "summary": "He says he collected over $1,000 in option premium in the last two weeks, an alternative return without buying the stock itself.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Collecting premium by selling puts",
+          "url": "https://x.com/heisenbergtrx/status/2105988260539650303",
+          "published_at": "2026-10-02T11:48:23.000Z",
+          "summary": "He says selling puts is the best premium method for names that tend to fall and are constantly under FUD.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "He focused mostly on technical levels during the day: the **Russell 2000** (**IWM**) has settled on its 200-day average on the weekly chart and he has been long since yesterday. He holds a heavy position in **Rocket Companies** (**RKT**), carried through 2028 contracts, seeing at most $5 of downside and at least $15 of upside. He writes that he bought **Uber** at a $70 cost, did not sell at $80 and closed it at a loss, and that he still holds **QXO**, **RKT** and **AAL**.\n\nHe says he dislikes the AI theme but analysis must be objective, recalling trading **Micron** from 800 to 940 and **Intel** from 114 to 123. He describes scalp trades on the **DAX** and, on bonds (**TLT**, **IEI**, **SHY**), asks \"did we just see the top?\" **Dell** is wrestling with its 20-day average and he has no position.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Heavy RKT position",
+          "url": "https://x.com/ulkser/status/2106000151198183774",
+          "published_at": "2026-10-02T12:35:38.000Z",
+          "summary": "He says RKT printed a bullish engulfing candle yesterday, is setting up for a UNR today, and that he has a heavy position.",
+          "assets": [
+            {
+              "symbol": "RKT",
+              "sentiment": "positive",
+              "note": "He holds a heavy position after the bullish engulfing candle, also carries 2028 contracts and sees at most $5 of downside and at least $15 of upside."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Uber closed, holding QXO/RKT/AAL",
+          "url": "https://x.com/ulkser/status/2106001927955706301",
+          "published_at": "2026-10-02T12:42:41.000Z",
+          "summary": "He says he did not sell his Uber (cost $70) at $80 and closed it at a loss, a waste of time; he continues to hold QXO, RKT and AAL that he wrote about earlier.",
+          "assets": [
+            {
+              "symbol": "UBER",
+              "sentiment": "negative",
+              "note": "He did not sell his $70-cost position at $80 and closed it at a loss."
+            },
+            {
+              "symbol": "QXO",
+              "sentiment": "positive",
+              "note": "He continues to hold it."
+            },
+            {
+              "symbol": "AAL",
+              "sentiment": "positive",
+              "note": "He continues to hold it."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Russell 2000 at its 200-day average",
+          "url": "https://x.com/ulkser/status/2106003493366685973",
+          "published_at": "2026-10-02T12:48:55.000Z",
+          "summary": "He says the red line on the weekly chart is the 200-day simple average and that the Russell makes clear moves at the 200-day; he is watching closely and had no position that day.",
+          "assets": [
+            {
+              "symbol": "IWM",
+              "sentiment": "neutral",
+              "note": "He says it makes clear moves around the 200-day average; he is watching it closely."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Top in bonds?",
+          "url": "https://x.com/ulkser/status/2106002508019814516",
+          "published_at": "2026-10-02T12:45:00.000Z",
+          "summary": "With a chart he asks whether the top was called for TLT, IEI and SHY, saying he will look again in 6-7 months.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "positive",
+              "note": "He asks whether the top has been seen in long-term bonds and shared a chart for 6-7 months ahead."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AI theme and chip stocks",
+          "url": "https://x.com/ulkser/status/2105972197386752026",
+          "published_at": "2026-10-02T10:44:33.000Z",
+          "summary": "He recalls the analysis he posted to his group on September 19 for DELL, DRAM, MU, SNDK, INTC, AAOI and VIAV: even though he dislikes the AI theme, chip stocks could be bought hedged with QQQ and IWM. IWM dropped to its 200-day, he has been long since yesterday; he has been scalping QQQ for three weeks.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "He recalls trading it from 800 to 940, saying he had argued for positioning on the buy side objectively even though he dislikes the theme."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "positive",
+              "note": "He traded it from 114 to 123."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "He has been scalping the index for three weeks with an almost 100% win rate."
+            },
+            {
+              "symbol": "IWM",
+              "sentiment": "positive",
+              "note": "Long as of yesterday after it dropped to the 200-day."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Pre-market and DAX",
+          "url": "https://x.com/ulkser/status/2105934060774179083",
+          "published_at": "2026-10-02T08:13:01.000Z",
+          "summary": "He says pre-market was great, the DAX bounced off its 200-day sweeping the low, and the RTY move at the 200-day he wrote about two days ago played out. He adds that the NFP data is critical and the market could reverse; oil is sagging.",
+          "assets": [
+            {
+              "symbol": "DAX",
+              "sentiment": "positive",
+              "note": "He says it bounced off the 200-day sweeping the low and that he traded 170 points intraday."
+            },
+            {
+              "symbol": "RTY",
+              "sentiment": "positive",
+              "note": "It swept the low at the 200-day where he had written two days earlier that clear moves would occur."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "DELL wrestling with its 20-day",
+          "url": "https://x.com/ulkser/status/2106091436915695648",
+          "published_at": "2026-10-02T18:38:22.000Z",
+          "summary": "He writes DELL is wrestling with its 20-day average, shows a UNR picture and may test the low with a stop today; he has no position.",
+          "assets": [
+            {
+              "symbol": "DELL",
+              "sentiment": "neutral",
+              "note": "Wrestling with its 20-day average, showing a UNR; he has no position."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "A day of portfolio moves: he added **NVTS** to the portfolio (the real story is in 2028 and even that is not guaranteed), closed **MYRG**, trimmed **NBIS** a bit more, and placed a very small sell order for **CRDO** at 230. He says he is raising cash as the market relaxes. He writes that he got **BE** and **CLS** into the portfolio, that **LITE** should be in every portfolio but he missed it while waiting with cash.\n\nCommenting on the news that Toshiba will double HDD capacity with about $380M in the Philippines, he says demand grows 25-30% a year while Toshiba's contribution adds only 4-5% to supply; **STX** and **WDC** had fallen. He adds that he generally finds Bora Özkent useful but disagrees on many points.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "NVTS added to portfolio",
+          "url": "https://x.com/AhmetSunelcan1/status/2106146002646581440",
+          "published_at": "2026-10-02T22:15:11.000Z",
+          "summary": "He writes he added NVTS to the portfolio, that the real story is in 2028 and not guaranteed either, and that it is unsuitable for those expecting fast revenue growth and the stock to take off.",
+          "assets": [
+            {
+              "symbol": "NVTS",
+              "sentiment": "positive",
+              "note": "He added it to the portfolio; the real story is in 2028 and not guaranteed, unsuitable for those expecting a quick rally."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BE, CLS and LITE",
+          "url": "https://x.com/AhmetSunelcan1/status/2106111493099954633",
+          "published_at": "2026-10-02T19:58:04.000Z",
+          "summary": "He says there are 4-5 more stocks he regrets not owning; he got BE and CLS in, and would be happier with more CLS. He adds LITE should be in every portfolio but he missed it while waiting with cash.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "He managed to put it in the portfolio."
+            },
+            {
+              "symbol": "CLS",
+              "sentiment": "positive",
+              "note": "In the portfolio; he would have liked more."
+            },
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "He thinks it should be in every portfolio, but he missed it while waiting with cash."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Toshiba HDD capacity expansion",
+          "url": "https://x.com/AhmetSunelcan1/status/2106107525351256381",
+          "published_at": "2026-10-02T19:42:18.000Z",
+          "summary": "He relays that Toshiba will double HDD capacity by FY2027 with about $380M in the Philippines, targeting exabyte share from 10% to 30%. STX and WDC fell. Toshiba's contribution adds about 4-5% to annual supply while demand grows 25-30% a year, so only about a fifth of one year's demand growth is covered.",
+          "assets": [
+            {
+              "symbol": "STX",
+              "sentiment": "neutral",
+              "note": "Toshiba's contribution adds only 4-5% to annual supply while demand grows 25-30%."
+            },
+            {
+              "symbol": "WDC",
+              "sentiment": "neutral",
+              "note": "Toshiba's contribution adds only 4-5% to annual supply while demand grows 25-30%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Sell order on CRDO at 230",
+          "url": "https://x.com/AhmetSunelcan1/status/2106024460272934953",
+          "published_at": "2026-10-02T14:12:14.000Z",
+          "summary": "He says he placed an extremely small sell order for CRDO at $230 and may not be able to post if it fills.",
+          "assets": [
+            {
+              "symbol": "CRDO",
+              "sentiment": "neutral",
+              "note": "He placed a very small sell order at $230."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MYRG closed",
+          "url": "https://x.com/AhmetSunelcan1/status/2106015729380429970",
+          "published_at": "2026-10-02T13:37:32.000Z",
+          "summary": "He writes he closed his MYRG position.",
+          "assets": [
+            {
+              "symbol": "MYRG",
+              "sentiment": "negative",
+              "note": "He closed the position."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NBIS trimmed a bit more",
+          "url": "https://x.com/AhmetSunelcan1/status/2106006338635456922",
+          "published_at": "2026-10-02T13:00:13.000Z",
+          "summary": "He says he trimmed his NBIS position a little more.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "negative",
+              "note": "He trimmed the position a little more."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Raising cash",
+          "url": "https://x.com/AhmetSunelcan1/status/2106008666172481827",
+          "published_at": "2026-10-02T13:09:28.000Z",
+          "summary": "He says he is raising cash as the market relaxes.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "He says he generally does not post about crypto but if he had one pick he would buy **Worldcoin**; he thinks that in a world of AI and bots, telling real people from bots will get harder and similar solutions will gain value.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "One crypto pick: Worldcoin",
+          "url": "https://x.com/sgundoganX/status/2106063689019195520",
+          "published_at": "2026-10-02T16:48:06.000Z",
+          "summary": "He says he usually does not post about crypto but would buy Worldcoin if he had one pick. He thinks that as AI and bots spread, telling humans from bots will get harder and similar solutions will appreciate in the coming years.",
+          "assets": [
+            {
+              "symbol": "WLD",
+              "sentiment": "positive",
+              "note": "The one crypto he would buy; he thinks it will appreciate as the need to tell bots from humans grows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "He relays that expectations of a Fed hike fell after the weak jobs data (**29k** vs 90k expected): per CME FedWatch, on October 28 the probability of a hold is 82.8% and of a 25bp hike 17.2%. He says he took partial profit at 212 on his **Credo** (**CRDO**) position bought at 172 as a balancing move, and that fundamentally everything is fine.\n\nHe reads the heavy selling in **WDC** and **STX** after the Toshiba news as exaggerated but a sign of how fragile the memory side is. He shares **Tesla**'s Q3 deliveries (486,532 vs 456,896 expected) and that **TSM** is heading to an ATH.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Fed hike expectations fall",
+          "url": "https://x.com/korkmazali08/status/2106007207951368461",
+          "published_at": "2026-10-02T13:03:40.000Z",
+          "summary": "After the weak jobs data, CME FedWatch shows an 82.8% probability of a hold and a 17.2% probability of a 25bp hike at the October 28 meeting.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "US nonfarm payrolls 29k",
+          "url": "https://x.com/korkmazali08/status/2105999083647406542",
+          "published_at": "2026-10-02T12:31:23.000Z",
+          "summary": "US nonfarm payrolls rose 29k; expectation 90k, previous 162k.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Partial profit on CRDO",
+          "url": "https://x.com/korkmazali08/status/2106003643430498721",
+          "published_at": "2026-10-02T12:49:30.000Z",
+          "summary": "He takes some profit on CRDO, bought at 172, at around 212 as a balancing move for his portfolio; fundamentally everything is fine. In an earlier note he wrote that if the decline continues his next add point is 135 and 171 is an important level; the main risk is customer concentration.",
+          "assets": [
+            {
+              "symbol": "CRDO",
+              "sentiment": "neutral",
+              "note": "Took partial profit at 212 on a position bought at 172; next add point 135, 171 an important level."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Toshiba news and memory fragility",
+          "url": "https://x.com/korkmazali08/status/2106034888784642157",
+          "published_at": "2026-10-02T14:53:40.000Z",
+          "summary": "He says WDC alone lost nearly $20B in value today on news that Toshiba PLANS a $380M investment; the selling was somewhat exaggerated but that is how fragile the memory side is.",
+          "assets": [
+            {
+              "symbol": "WDC",
+              "sentiment": "neutral",
+              "note": "Lost nearly $20B in value on the news; the selling was exaggerated but the sector is fragile."
+            },
+            {
+              "symbol": "STX",
+              "sentiment": "neutral",
+              "note": "Sold off hard on the news; he finds the selling exaggerated."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla Q3 deliveries",
+          "url": "https://x.com/korkmazali08/status/2106007475686088804",
+          "published_at": "2026-10-02T13:04:44.000Z",
+          "summary": "Tesla delivered 486,532 vehicles in Q3 vs expectations of 456,896; Model 3/Y deliveries 478,237, total production 464,391, energy storage deployments 13.7 GWh.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Deliveries beat expectations (486,532 vs 456,896)."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Palantir customer count",
+          "url": "https://x.com/korkmazali08/status/2106004024147280068",
+          "published_at": "2026-10-02T12:51:01.000Z",
+          "summary": "He relays that Palantir's customer count rose 24% year on year to over 1,000, commercial demand is accelerating though government is still slightly more than half of revenue, and valuation multiples are below last year's levels.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Customer count up 24% to over 1,000; multiples below last year's."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Applied Digital capacity increase",
+          "url": "https://x.com/korkmazali08/status/2106006506889965849",
+          "published_at": "2026-10-02T13:00:53.000Z",
+          "summary": "He relays that Applied Digital brought the second phase of building two at Polaris Forge 1 into service, adding 75 MW of critical IT capacity with three data halls.",
+          "assets": [
+            {
+              "symbol": "APLD",
+              "sentiment": "neutral",
+              "note": "75 MW of additional critical IT capacity came online."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TSM heading to an ATH",
+          "url": "https://x.com/korkmazali08/status/2106021448527597684",
+          "published_at": "2026-10-02T14:00:15.000Z",
+          "summary": "He writes that TSM is heading to an ATH and points to DELL, TSM, MRVL, NBIS and MU.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "positive",
+              "note": "Heading to an ATH."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "The day was largely given to the money market fund (PPF) crisis in Turkey; he repeats the fund victims' demand for full payment and greets the news that advance payments will start after the MKK reconciliation as \"good but not enough\". He answers a post saying **BIST100** companies' market value fell 16% in TL terms with \"Normal\". On **Broadcom**, he shares a US take that it is the \"most undervalued semi\" with \"I love you $AVGO\".",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF advance payments",
+          "url": "https://x.com/dtfinans_/status/2106099285016432755",
+          "published_at": "2026-10-02T19:09:33.000Z",
+          "summary": "On the news that advance payments for fund victims will start once MKK data and bank reconciliations finish and that a principal + CPI formula is planned, he says \"good news, if you can't end the grievance, reduce the damage\"; he still finds it insufficient.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "BIST100 market value down 16%",
+          "url": "https://x.com/dtfinans_/status/2105922368841408860",
+          "published_at": "2026-10-02T07:26:33.000Z",
+          "summary": "He answers a post saying the fund crisis caused the sharpest monthly loss since 2008 and BIST100 companies' market value fell 16% in TL terms with \"Normal\".",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "neutral",
+              "note": "Market value fell 16% in TL terms; he only says \"Normal\"."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AVGO love",
+          "url": "https://x.com/dtfinans_/status/2106033526454059336",
+          "published_at": "2026-10-02T14:48:15.000Z",
+          "summary": "He shares Kris Patel's post calling AVGO the most undervalued semi right now (free cash flow rising, 2028 EPS target of $30) with \"I love you $AVGO\".",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Agrees with the view that it is the most undervalued semi, saying \"I love you\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "He relays that US September payrolls came in at 29k, far below expectations (89k), unemployment rose to 4.2%, hourly earnings rose 0.1% m/m and the 10-year yield fell to 5.18%. On company news, a $4B US government nuclear loan to **Vistra**, **Broadcom**'s $60B financing package for AI firms such as Anthropic, **Amazon**'s plan to move about $8B of Nvidia chips off its balance sheet and **Applied Digital**'s capacity increase stand out.\n\nHe also shares BNP Paribas's positive assessment of **Meta**'s Muse agent and Trump's statement that he will not nationalize OpenAI/Anthropic but is open to taking equity stakes.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "US September jobs data",
+          "url": "https://x.com/WallStDiaries/status/2105999421875863789",
+          "published_at": "2026-10-02T12:32:44.000Z",
+          "summary": "Nonfarm payrolls 29k (expected 89k), unemployment 4.2% (expected 4.1%), hourly earnings 0.1% (expected 0.3%); he notes the labor-market cooling is weighing on Fed expectations and the dollar index.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Relief in bonds",
+          "url": "https://x.com/WallStDiaries/status/2106042197657198653",
+          "published_at": "2026-10-02T15:22:42.000Z",
+          "summary": "He relays that after the weak jobs data the 10-year yield fell to 5.18% and the 2-year to 4.72%, Fed hike pressure eased and buyers returned to bonds.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "neutral",
+              "note": "Yields fell after the data and buyers returned."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "$4B loan to Vistra",
+          "url": "https://x.com/WallStDiaries/status/2106114353145790930",
+          "published_at": "2026-10-02T20:09:26.000Z",
+          "summary": "Per Bloomberg, the US government plans to provide about a $4B loan to Vistra to expand capacity and modernize three of its nuclear plants.",
+          "assets": [
+            {
+              "symbol": "VST",
+              "sentiment": "positive",
+              "note": "About a $4B government loan is planned for three nuclear plants."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom's $60B financing",
+          "url": "https://x.com/WallStDiaries/status/2105938800710943170",
+          "published_at": "2026-10-02T08:31:51.000Z",
+          "summary": "He relays that Broadcom is preparing a $60B package to finance chips for AI firms such as Anthropic, which could raise its share of data center equipment and chips.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Preparing $60B of chip financing for firms such as Anthropic."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Amazon's plan to move Nvidia chips",
+          "url": "https://x.com/WallStDiaries/status/2105960991343206731",
+          "published_at": "2026-10-02T10:00:01.000Z",
+          "summary": "He relays that Amazon plans to transfer about $8B of Nvidia Grace Blackwell chips to outside investors to strengthen its balance sheet amid rising AI spending.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "neutral",
+              "note": "Plans to transfer about $8B of Nvidia chips to outside investors."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Grace Blackwell chips are the subject of Amazon's balance sheet move."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BNP Paribas on Meta Muse",
+          "url": "https://x.com/WallStDiaries/status/2106037741029134439",
+          "published_at": "2026-10-02T15:05:00.000Z",
+          "summary": "He relays that BNP Paribas analyst Nick Jones points to the strong user-side growth of Meta's personal AI agent Muse and its clearer revenue model.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "BNP Paribas says Muse's popularity is rising and its revenue model is becoming clearer."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Applied Digital lifts capacity to 250 MW",
+          "url": "https://x.com/WallStDiaries/status/2106113402833703340",
+          "published_at": "2026-10-02T20:05:39.000Z",
+          "summary": "He relays that Applied Digital activated the second phase of building two at Polaris Forge 1, adding 75 MW of critical IT load with three new data halls.",
+          "assets": [
+            {
+              "symbol": "APLD",
+              "sentiment": "neutral",
+              "note": "Campus capacity rose to 250 MW."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump: Intel model for AI firms",
+          "url": "https://x.com/WallStDiaries/status/2105945906554012006",
+          "published_at": "2026-10-02T09:00:05.000Z",
+          "summary": "He relays that Trump told Time he will not nationalize OpenAI and Anthropic but is open to the government taking equity, with a structure similar to the Intel deal.",
+          "assets": [
+            {
+              "symbol": "INTC",
+              "sentiment": "neutral",
+              "note": "The Intel deal, with government equity, was cited as a model for AI firms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "On gold he says \"don't buy\"; he attributes its decline to high long-term yields worldwide and says his $5,000 view stands if US 10-year yields come back, but $5,000 won't come if 10-years go to 5.5%. He sees the rise in long-term bond yields as a temporary irrationality. He writes that the jobs data is very questionable, the market's first reaction will be misleading and the picture will be clear 90-120 minutes after the stock market opens.\n\nOn Hormuz, he says the US Navy is opening the strait to all transit except Iranian oil exports, the reason oil is not falling quickly is worry about a last big Iranian attack, and that prices can be expected to fall over time. He sharply criticizes credit growth and the inflation target in Turkey.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Should you buy gold?",
+          "url": "https://x.com/TuncSatiroglu/status/2106050380400623841",
+          "published_at": "2026-10-02T15:55:13.000Z",
+          "summary": "\"Should I buy gold? No, don't.\" He attributes gold's decline to high long-term yields worldwide. Since he thinks 10-year yields can come back, his $5,000 view stands; but if US 10-years go to 5.5%, $5,000 won't come.",
+          "assets": [
+            {
+              "symbol": "XAU",
+              "sentiment": "negative",
+              "note": "Says \"don't buy\"; decline is due to high yields. His $5,000 view stands but won't happen if the 10-year goes to 5.5%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hormuz and the oil price",
+          "url": "https://x.com/TuncSatiroglu/status/2106268000995479720",
+          "published_at": "2026-10-03T06:19:58.000Z",
+          "summary": "Per the WSJ the US Navy is opening the strait to all transit except Iran's oil exports; per Kpler data oil flowing through the Gulf rose to 14.2 million barrels (7-day average) against 17.1 million before the war. Prices aren't falling quickly because of worry that Iran will launch a last big attack; he says that as time passes, increased supply will start pushing prices lower.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Long-term bond yields",
+          "url": "https://x.com/TuncSatiroglu/status/2105995728950833249",
+          "published_at": "2026-10-02T12:18:03.000Z",
+          "summary": "He says long-term yields are rising not just in the US but in other developed countries, US bonds would again be the safe haven in a global bond crisis, there is a temporary irrationality in the market and yields will fall but will not return to the old very low levels for years.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "positive",
+              "note": "Sees the yield rise as temporary irrationality; yields will fall but not back to the old lows."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "The jobs data is very questionable",
+          "url": "https://x.com/TuncSatiroglu/status/2106002144067531022",
+          "published_at": "2026-10-02T12:43:33.000Z",
+          "summary": "He writes the nonfarm payrolls data is very questionable, with constant backward revisions and partly based on estimates; the model was shown to be wrong, Trump removed the head of the agency but a new model hasn't been developed.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Credit growth and inflation in Turkey",
+          "url": "https://x.com/TuncSatiroglu/status/2105983525111665145",
+          "published_at": "2026-10-02T11:29:34.000Z",
+          "summary": "He writes that when the inflation target is missed again it will be clear today's macro-imprudence decision was wrong, that credit growth increases the money supply most, and that claiming to raise credit growth while hitting the inflation target is waging war on science.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "He reshares a post saying that in the Turkish PPF crisis principal will be paid in October, an inflation adjustment will be added and 355,000 investors have 1 million TL or less, saying \"I said yesterday the inflation amount would be added\".",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF principal and inflation adjustment",
+          "url": "https://x.com/MrTradeer/status/2106128159351456186",
+          "published_at": "2026-10-02T21:04:17.000Z",
+          "summary": "On a post saying principal will be paid in October, an inflation adjustment will be added, about 150 billion TL will be paid and 355,000 investors have 1 million TL or less, he says \"I said yesterday the inflation amount would be added\".",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "A day heavy on **Nvidia**: he shares that Morgan Stanley again named Nvidia its \"Top Semiconductor Pick\", that the stock reached a $5.7 trillion market cap and that a new 64GB DGX Spark starting at $4,999 arrives on October 23.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Morgan Stanley makes NVDA top pick again",
+          "url": "https://x.com/FinancewithIzzy/status/2106004468286570836",
+          "published_at": "2026-10-02T12:52:47.000Z",
+          "summary": "He writes Morgan Stanley again named NVDA its \"Top Semiconductor Pick\", citing strong positioning and attractive valuation; he says AI leadership is still with NVIDIA.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Morgan Stanley made it top pick; AI leadership is still with NVIDIA."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NVDA at $5.7 trillion",
+          "url": "https://x.com/FinancewithIzzy/status/2106059961964933379",
+          "published_at": "2026-10-02T16:33:18.000Z",
+          "summary": "He writes NVDA reached a $5.7 trillion market cap, that every threshold was called impossible and then crossed, and asks \"how many trillions are next?\"",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Reached a $5.7 trillion market cap; asks how many trillions are next."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NVDA's 64GB DGX Spark",
+          "url": "https://x.com/FinancewithIzzy/status/2106069197583483361",
+          "published_at": "2026-10-02T17:10:00.000Z",
+          "summary": "He writes NVDA is bringing its personal AI supercomputer to the desktop, the 64GB DGX Spark arrives on October 23 starting at $4,999, and NVIDIA is no longer just selling GPUs but putting the CUDA ecosystem on the developer's desk.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Brings the CUDA ecosystem to the developer's desk with DGX Spark."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "He relays September payrolls (29k vs 90k expected; unemployment 4.2%), **Tesla**'s Q3 deliveries, eurozone September inflation at 3.8%, the highest since September 2023, and the France-Germany 10-year spread rising above 150bp, the highest since 2011. He writes that the G7 agreed to release up to 100 million barrels of emergency diesel/crude stocks over four months.\n\nHe shares that **Broadcom** is assembling about $60B of financing for Anthropic, Morgan Stanley again made **Nvidia** its top semiconductor pick, the US will give **Vistra** a $4B nuclear loan and Amazon is exploring moving $8B of Nvidia GPUs into an SPV.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "US September jobs report",
+          "url": "https://x.com/wallstengine/status/2105998888536846505",
+          "published_at": "2026-10-02T12:30:37.000Z",
+          "summary": "Nonfarm payrolls +29k (est. +90k), unemployment 4.2% (est. 4.1%), average hourly earnings 3.0% y/y (est. 3.1%), participation 61.8%, private payrolls +46k (est. +81k).",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Eurozone September inflation",
+          "url": "https://x.com/wallstengine/status/2105952009388236986",
+          "published_at": "2026-10-02T09:24:20.000Z",
+          "summary": "Eurozone September CPI rose 3.8% y/y (est. 3.7%, prior 3.2%), the highest since September 2023; core 2.5%, services inflation 3.2%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "France-Germany 10-year spread",
+          "url": "https://x.com/wallstengine/status/2105985388666028105",
+          "published_at": "2026-10-02T11:36:58.000Z",
+          "summary": "The spread of French over German 10-year yields rose above 150bp, the highest since late 2011, as worries about France's finances and political turmoil grow.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "G7 emergency stock release",
+          "url": "https://x.com/wallstengine/status/2106021716699046244",
+          "published_at": "2026-10-02T14:01:19.000Z",
+          "summary": "Macron says G7 leaders agreed to release up to 100 million barrels of emergency diesel and crude stocks over four months to ease pressure on fuel markets.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom $60B financing",
+          "url": "https://x.com/wallstengine/status/2105965357492232306",
+          "published_at": "2026-10-02T10:17:22.000Z",
+          "summary": "Broadcom is assembling roughly $60B of financing to help Anthropic and other AI customers fund chip and infrastructure purchases: $42B senior-secured debt and $18B junior debt led by Blackstone.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Assembling about $60B of financing for Anthropic and other AI customers."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Morgan Stanley reinstates NVDA as top pick",
+          "url": "https://x.com/wallstengine/status/2105961401730977860",
+          "published_at": "2026-10-02T10:01:39.000Z",
+          "summary": "Morgan Stanley reinstated NVDA as its top semiconductor pick after a roadshow with Jensen Huang; power and data-center constraints favor NVIDIA's compute per GW and valuation is still \"very undemanding\".",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Relays Morgan Stanley's top pick call; power constraints favor NVIDIA's compute per GW."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla Q3 numbers",
+          "url": "https://x.com/wallstengine/status/2106007965513961568",
+          "published_at": "2026-10-02T13:06:41.000Z",
+          "summary": "Tesla total deliveries 486,532 (est. 463,761), total production 464,391, Model 3/Y deliveries 478,237.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Deliveries beat estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "$4B loan to Vistra",
+          "url": "https://x.com/wallstengine/status/2106100772048105541",
+          "published_at": "2026-10-02T19:15:28.000Z",
+          "summary": "He relays that the US will offer Vistra a $4B loan to boost nuclear power output.",
+          "assets": [
+            {
+              "symbol": "VST",
+              "sentiment": "neutral",
+              "note": "$4B US loan for nuclear output."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Amazon may move $8B of GPUs into an SPV",
+          "url": "https://x.com/wallstengine/status/2105947160034558362",
+          "published_at": "2026-10-02T09:05:04.000Z",
+          "summary": "Per the FT, Amazon is exploring shifting about $8B of NVIDIA Grace Blackwell GPUs into an outside-investor-owned SPV and leasing the chips back, to reduce the upfront balance-sheet burden.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "neutral",
+              "note": "Exploring moving $8B of GPUs into an SPV and leasing them back."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "B. Riley downgrades ASTS",
+          "url": "https://x.com/wallstengine/status/2105958528741785966",
+          "published_at": "2026-10-02T09:50:14.000Z",
+          "summary": "B. Riley downgraded ASTS to Neutral from Buy and cut the price target to $65 from $85, saying risk/reward has swung back toward balance, citing stronger competitive alternatives, a delayed launch and rising constellation costs.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "negative",
+              "note": "B. Riley downgraded to Neutral; target cut to $65 from $85."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "He says he'll dump **SoFi** if the setup breaks down but for now stays patient; he writes his **CrowdStrike** position is up 25% since his August post and he has trimmed a third, and that he sold about 20% of his **RGTI** and opened a new **ABCL** position at 2.39. He explains that he trims high flyers and adds to beaten-down names, balancing letting winners run against taking profit through partial trims. He sees the **QQQ** breakout as confirmed.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Will dump SoFi if the setup breaks",
+          "url": "https://x.com/jrouldz/status/2106134625169166652",
+          "published_at": "2026-10-02T21:29:59.000Z",
+          "summary": "Replying to his earlier post saying \"If this SoFi setup breaks down I am going to dump it\", he says that perhaps against his better judgment he stays patient for now.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "neutral",
+              "note": "Says he will sell if the setup breaks, stays patient for now."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CrowdStrike position",
+          "url": "https://x.com/jrouldz/status/2106067679526215875",
+          "published_at": "2026-10-02T17:03:58.000Z",
+          "summary": "He writes his CRWD position is up 25% since his joking August post, he has trimmed a third, and holding it makes sleeping hard.",
+          "assets": [
+            {
+              "symbol": "CRWD",
+              "sentiment": "neutral",
+              "note": "Up 25% since August; he has trimmed a third."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Profit on RGTI, new ABCL position",
+          "url": "https://x.com/jrouldz/status/2105976742657630714",
+          "published_at": "2026-10-02T11:02:37.000Z",
+          "summary": "He writes he sold about 20% of his RGTI position and opened a new ABCL position at $2.39; a rare day of profit-taking.",
+          "assets": [
+            {
+              "symbol": "RGTI",
+              "sentiment": "negative",
+              "note": "Sold about 20% of the position."
+            },
+            {
+              "symbol": "ABCL",
+              "sentiment": "positive",
+              "note": "Opened a new position at $2.39."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "QQQ breakout confirmed",
+          "url": "https://x.com/jrouldz/status/2106024771695558901",
+          "published_at": "2026-10-02T14:13:28.000Z",
+          "summary": "Zooming in on QQQ he says it looks bullish and the breakout is confirmed.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Breakout confirmed; the chart looks bullish."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Strategy: trim high flyers, add to beaten-down names",
+          "url": "https://x.com/jrouldz/status/2106084430997516717",
+          "published_at": "2026-10-02T18:10:32.000Z",
+          "summary": "He says that, as per his usual strategy, he is trimming the high flyers and adding to beaten-down names.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "He reads **Meta**'s opening Muse to custom hardware as a shift from a software product to a developer ecosystem and says it \"jumped to another level\". He calls the $4B loan to **Vistra** \"good news\". He writes **LITE** stays strong while the market is weak and **MXL** is up 45% in two weeks since the breakout. He says the **Nasdaq 100** hit a new high but market participation is at lows, and sees a bottom signal for **SMH**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Meta opens Muse to custom hardware",
+          "url": "https://x.com/cevikfinance/status/2106145393587482747",
+          "published_at": "2026-10-02T22:12:46.000Z",
+          "summary": "He says Meta opening Muse to custom hardware signals a shift from a software product to a developer ecosystem; Muse Gadgets, announced by Nat Friedman, connects to displays, speakers, sensors and other devices with open-source ESP32 firmware and a Linux SDK.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "\"Jumped to another level\" with Muse; a signal of moving from software to a developer ecosystem."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Good news for Vistra",
+          "url": "https://x.com/cevikfinance/status/2106104529229857182",
+          "published_at": "2026-10-02T19:30:23.000Z",
+          "summary": "He shares the US government's planned $4B loan to Vistra for nuclear upgrades as \"good news for VST\".",
+          "assets": [
+            {
+              "symbol": "VST",
+              "sentiment": "positive",
+              "note": "Calls the $4B nuclear loan \"good news\"."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "LITE stays strong",
+          "url": "https://x.com/cevikfinance/status/2106101372743455120",
+          "published_at": "2026-10-02T19:17:51.000Z",
+          "summary": "He says LITE keeps staying strong and asks what stocks that stay strong when the market is flat or weak turn into, a positive view.",
+          "assets": [
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "Stays strong while the market is weak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MXL up 45% in two weeks",
+          "url": "https://x.com/cevikfinance/status/2106099957946335316",
+          "published_at": "2026-10-02T19:12:14.000Z",
+          "summary": "He writes MXL is up 45% in just two weeks since the main breakout he shared with members.",
+          "assets": [
+            {
+              "symbol": "MXL",
+              "sentiment": "positive",
+              "note": "Up 45% in two weeks since the breakout."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nasdaq 100 at a new high",
+          "url": "https://x.com/cevikfinance/status/2106006572732211319",
+          "published_at": "2026-10-02T13:01:09.000Z",
+          "summary": "He says the Nasdaq made a new record high; indexes are at highs but market participation is at the level seen at the March 30 Iran war low, meaning either a big rally ahead or he doesn't know.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "positive",
+              "note": "New high; participation is weak, so either a big rally or uncertainty."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SMH bottom signal",
+          "url": "https://x.com/cevikfinance/status/2106007450042478815",
+          "published_at": "2026-10-02T13:04:38.000Z",
+          "summary": "He answers his earlier post calling SMH a \"bottom signal\" with \"I always said so\".",
+          "assets": [
+            {
+              "symbol": "SMH",
+              "sentiment": "positive",
+              "note": "He had called it a bottom signal."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MU price targets after earnings",
+          "url": "https://x.com/cevikfinance/status/2105945163008754090",
+          "published_at": "2026-10-02T08:57:08.000Z",
+          "summary": "He relays price target updates after MU earnings: Rosenblatt $1,500 to $1,900 (Buy), Goldman $1,100 to $1,250 (Neutral), Mizuho $1,300 to $1,400 (Outperform), D.A. Davidson $2,000 to $2,100 (Buy).",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Analyst targets raised: Rosenblatt $1,900, Goldman $1,250, Mizuho $1,400, D.A. Davidson $2,100."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0998,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2126,
+        "mentions": [
+          {
+            "person": "jrouldz",
+            "sentiment": "neutral",
+            "quote": "If this $SOFI setup breaks down I am going to dump it",
+            "source_url": "https://x.com/jrouldz/status/2106134625169166652"
+          }
+        ],
+        "action": "hold",
+        "why": "According to jrouldz he would dump SoFi if the setup breaks, but he stays patient for now; no concrete trigger.",
+        "opinion": "About a fifth of the portfolio sits in one stock; the main risk is this concentration and persistently high long-term yields. Watch credit quality and rate developments.",
+        "ai_action": "hold",
+        "ai_points": [
+          "At about 21% it is the largest position and single-stock risk is high.",
+          "Easing rate-hike pressure after the weak jobs data could support fintech valuations.",
+          "jrouldz says he would sell if the setup breaks; that is a technical warning sign."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1475,
+        "mentions": [
+          {
+            "person": "cevikfinance",
+            "sentiment": "positive",
+            "quote": "$META jumped to another level with Muse.",
+            "source_url": "https://x.com/cevikfinance/status/2106145393587482747"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "BNP Paribas on Meta Muse: Popularity Rising, Revenue Model Becoming Clearer.",
+            "source_url": "https://x.com/WallStDiaries/status/2106037741029134439"
+          },
+          {
+            "person": "wallstengine",
+            "sentiment": "neutral",
+            "quote": "$META is opening Muse up to custom hardware.",
+            "source_url": "https://x.com/wallstengine/status/2106119980278493584"
+          }
+        ],
+        "action": "hold",
+        "why": "According to cevikfinance, opening Muse to custom hardware signals a move from software to a developer ecosystem; no level for buying or selling.",
+        "opinion": "News flow around Muse is positive but its revenue contribution is not yet proven; what matters is whether AI spending converts into returns.",
+        "ai_action": "hold",
+        "ai_points": [
+          "BNP Paribas says Muse's revenue model is becoming clearer.",
+          "High AI infrastructure spending may pressure margins.",
+          "At about 15% it is already a meaningful position."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1383,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "positive",
+            "quote": "I find Broadcom cheap.",
+            "source_url": "https://www.youtube.com/watch?v=51AR7QRVN0I"
+          },
+          {
+            "person": "dtfinans_",
+            "sentiment": "positive",
+            "quote": "I love you $AVGO",
+            "source_url": "https://x.com/dtfinans_/status/2106033526454059336"
+          },
+          {
+            "person": "wallstengine",
+            "sentiment": "neutral",
+            "quote": "Broadcom $AVGO is assembling roughly $60B of financing to help Anthropic and other AI customers fund chip & infrastructure purchases",
+            "source_url": "https://x.com/wallstengine/status/2105965357492232306"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Bora Özkent the stock is cheap but pressure may continue until the $60B financing is settled; no new buy or sell level was given.",
+        "opinion": "Financing customers like Anthropic supports demand but adds credit risk to the balance sheet; watch how the financing is structured.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Bora Özkent and dtfinans_ both find the stock cheap.",
+          "Financing customers creates credit risk.",
+          "At about 14% it is a large position and sensitive to the chip cycle."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1141,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The US loan to Vistra is a supportive signal for the nuclear theme in this position, but there is no company-specific development.",
+        "ai_action": "hold",
+        "ai_points": [
+          "The US government lending to the nuclear sector is a sector-level support signal.",
+          "There is no new company-specific news and no apparent reason for a change."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0961,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The ad revenue and AI data-licensing story is strong but the stock is volatile; position size deserves attention at about 10%.",
+        "ai_action": "hold",
+        "ai_points": [
+          "High volatility makes a near-10% weight a real risk.",
+          "There is no new source view on the stock today."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0779,
+        "mentions": [
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "Did we call the top? $IEI $SHY $TLT Bonds",
+            "source_url": "https://x.com/ulkser/status/2106002508019814516"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "$TLT Relief in Bonds After Nonfarm Payrolls.",
+            "source_url": "https://x.com/WallStDiaries/status/2106042197657198653"
+          }
+        ],
+        "action": "hold",
+        "why": "According to ulkser the top in bonds may be in, and yields fell after the weak jobs data; still no clear buy level.",
+        "opinion": "If long-term yields fall the price gain is large, but yields remain high and uncertain; this position works as the portfolio's rate hedge.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Falling yields after the weak jobs data are in its favor.",
+          "According to Tunç Şatıroğlu yields will fall but not return to the old very low levels.",
+          "The risk of rate hikes has not fully disappeared."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0684,
+        "mentions": [
+          {
+            "person": "dtfinans_",
+            "sentiment": "neutral",
+            "quote": "Normal.",
+            "source_url": "https://x.com/dtfinans_/status/2105922368841408860"
+          }
+        ],
+        "action": "hold",
+        "why": "dtfinans_ answers the post that the fund crisis cut BIST100 by 16% with just \"Normal\"; no concrete view or level.",
+        "opinion": "Turkish equities are under pressure from the PPF crisis and high inflation; clarity on payments may be the short-term driver.",
+        "ai_action": "hold",
+        "ai_points": [
+          "The fund crisis cut BIST100 companies' market value by 16% in TL terms.",
+          "Pressure could ease as payments become clear.",
+          "As a euro-denominated fund it carries currency risk."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0453,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The electrical infrastructure theme benefits from AI data-center demand; risk is limited by the small weight but company-specific information is scarce.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Data-center power demand supports the theme.",
+          "The small weight keeps portfolio risk low."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "LITE",
+        "name": "Lumentum",
+        "why": "Ahmet Sunelcan says it \"should be in every portfolio\" and cevikfinance says it stays strong while the market is weak.",
+        "source_url": "https://x.com/AhmetSunelcan1/status/2106111493099954633"
+      },
+      {
+        "symbol": "RKT",
+        "name": "Rocket Companies",
+        "why": "ulkser says he holds a heavy position through 2028 contracts and sees at most $5 of downside and at least $15 of upside.",
+        "source_url": "https://x.com/ulkser/status/2105938064111481130"
+      },
+      {
+        "symbol": "VST",
+        "name": "Vistra",
+        "why": "cevikfinance calls the $4B US nuclear loan \"good news\".",
+        "source_url": "https://x.com/cevikfinance/status/2106104529229857182"
+      }
+    ]
+  }
+}
