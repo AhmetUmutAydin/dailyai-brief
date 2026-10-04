@@ -1,0 +1,1966 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T07:27:37.789Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Berk Dinçtürk: Judy Shelton's Treasury advisory board appointment is a new milestone for gold and silver",
+      "person": "Berk Dinçtürk",
+      "why": "He says Shelton advocates revaluing US gold reserves at market price, which he sees as the way to control long-term yields; his view on gold and silver is unchanged.",
+      "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+    },
+    {
+      "title": "Berk Dinçtürk: Treasury could step in if the 10-year yield heads toward 5.5%",
+      "person": "Berk Dinçtürk",
+      "why": "He calls 5.5% the critical level; says Bessent may act more actively in mid-October and that a correction at that level would be a buying opportunity for those with no index exposure.",
+      "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+    },
+    {
+      "title": "Defiant Gatekeeper: France's 2027 budget pushed the OAT-Bund spread above 85 bps",
+      "person": "Defiant Gatekeeper",
+      "why": "The market rejected the €25 billion cuts draft and the opposition threatened a no-confidence vote; the spread is at levels not seen since the eurozone debt crisis.",
+      "source_url": "https://www.youtube.com/watch?v=d_QHouy6br0"
+    },
+    {
+      "title": "korkmazali08: Broadcom still cheap, UBS target is $470",
+      "person": "korkmazali08",
+      "why": "He relays that management expects AI revenue to rise from $58 billion in 2026 to $115 billion in 2027 and $230 billion in 2028; the Wall Street average target is about $519.",
+      "source_url": "https://x.com/korkmazali08/status/2106403023903686932"
+    },
+    {
+      "title": "wallstengine: JPMorgan sees memory supply staying tight through 2028",
+      "person": "wallstengine",
+      "why": "Estimates include +63% HBM bit demand, +37% server DRAM and +54% HBM ASP in 2027; JPM says Micron's >35% long-term agreement coverage may prove conservative.",
+      "source_url": "https://x.com/wallstengine/status/2106377353018626530"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US 10-year yield and the Fed",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "The 10-year yield swung between 5.18% and 5.34% this week; the market is watching the Fed's firm stance and reading weak data as 'bad is good'.",
+          "quote": "The Fed keeps repeating its inflation stance, which clearly keeps the 10-year yield elevated.",
+          "source_url": "https://www.youtube.com/watch?v=d_QHouy6br0"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Says yields at 5.20-5.30% will not wreck the economy given strong growth, and that 5.5% is the critical level.",
+          "quote": "10-year bond yields do not price inflation, they price nominal growth.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "topic": "US jobs and inflation data",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "September nonfarm payrolls came in at 29k vs 89k expected, unemployment 4.2%; equities took the data positively.",
+          "quote": "September nonfarm payrolls were released at 29 thousand jobs, far below the market expectation of 89 thousand.",
+          "source_url": "https://www.youtube.com/watch?v=d_QHouy6br0"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Claims the statistics agency changed inflation weights so inflation is shown about 0.4 points lower; compares it to the Arthur Burns era.",
+          "quote": "Inflation would normally have come out 0.4 points higher but they started publishing it lower than it is through careful engineering.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "topic": "Oil and Hormuz",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Says oil has stayed around $100 for months, the $150-200 scenario did not happen, and that Iran misplayed its card as alternative routes to Hormuz are built.",
+          "quote": "Oil hasn't gone anywhere for months. It didn't go to $150 or $200.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "topic": "Europe and the French budget deficit",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "France proposed €25 billion in cuts and higher corporate taxes to bring the deficit from 5.5% below 3%; the market rejected it and political stability is the key issue.",
+          "quote": "The French government submitted its 2027 draft budget proposing massive €25 billion cuts and a corporate tax increase.",
+          "source_url": "https://www.youtube.com/watch?v=d_QHouy6br0"
+        }
+      ]
+    },
+    {
+      "topic": "Gold and silver",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Has no reservations on gold and silver; treats them as boring buy-and-wait holdings and advises against leverage.",
+          "quote": "I don't feel the slightest reservation about gold or silver. There is no change in my view.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "topic": "US midterms and the $5,000 pledge",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Relays Trump's pledge of $5,000 to every adult if Republicans win a majority, noting the potential payout of about $1.6 trillion.",
+          "quote": "The potential payout is expected to reach ~$1.6 trillion.",
+          "source_url": "https://x.com/WallStDiaries/status/2106461779383500963"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Reports Trump repeated his pledge to send $5,000 to every adult US citizen if Republicans keep both chambers.",
+          "quote": "Trump reiterated his pledge to send $5,000 to every adult U.S. citizen if Republicans retain both the House and Senate in November.",
+          "source_url": "https://x.com/wallstengine/status/2106374562241978575"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey: money market fund (PPF) and equity fund liquidation",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Argues PPFs will be paid first, the reverse repo debt will be collected, and equity fund losses will not be covered from PPFs.",
+          "quote": "That won't happen, don't worry. The party to be paid first is the PPFs anyway.",
+          "source_url": "https://x.com/dtfinans_/status/2106323023766696059"
+        },
+        {
+          "person": "ulkser",
+          "view": "Is more curious about how the lawyer couple obtained the money they invested in Katılımevim shares than about their gains.",
+          "quote": "I'm more curious about how they obtained the money they invested than the money they made.",
+          "source_url": "https://x.com/ulkser/status/2106353553816096864"
+        }
+      ]
+    },
+    {
+      "topic": "Nasdaq and global equities",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Expects a new Nasdaq high first, then a decline in October.",
+          "quote": "I said I expect a new high first and then a decline in October.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2106285290856055099"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Says profitable tech companies will lead into year-end and that he has closed his Russell 2000 position.",
+          "quote": "Take profits on Russell. Close your position and don't look back.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "topic": "Turkish equities in USD terms",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "Points out that over 15 years rather than 5, BIST30 USD returns are -40%.",
+          "quote": "If you look at the last 15 years, BIST30 return in dollar terms is -40%",
+          "source_url": "https://x.com/cevikfinance/status/2106470435206353210"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "Two people gave views; korkmazali08 cited the UBS $470 target and the AI revenue outlook.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "I think $AVGO is still cheap",
+          "source_url": "https://x.com/korkmazali08/status/2106403023903686932"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "AVGO is already very cheap",
+          "source_url": "https://x.com/dtfinans_/status/2106354739663483030"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "priority": "high",
+      "why": "korkmazali08 gave Morgan Stanley's $300 target and his own $260-270 fair value range; Berk Dinçtürk is also positive.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "I think it is below fair value. We can call the $260 - $270 price range fair value for current conditions",
+          "source_url": "https://x.com/korkmazali08/status/2106398708371693643"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Micron, Dell, Nvidia are in my view still very good companies.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "priority": "high",
+      "why": "Three sources covered the memory theme: Berk Dinçtürk is positive, JPMorgan's view was relayed, FinancewithIzzy is more cautious on price.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Micron, Dell, Nvidia are in my view still very good companies.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "JPMorgan sees memory supply remaining tight through 2028, with customer order discussions already extending into 2031.",
+          "source_url": "https://x.com/wallstengine/status/2106377353018626530"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "I defend memory companies but I am now more cautious on prices.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2106361478802465030"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "high",
+      "why": "Berk Dinçtürk recommends a long-term crypto theme, jrouldz says the $80K resistance flipped into support.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "I think it is worth focusing a lot on the crypto theme for the rest of the year and even in the coming years.",
+          "source_url": "https://www.youtube.com/watch?v=x7k0Q4ONLbM"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$BTC did a good job of flipping the $80K resistance zone into support",
+          "source_url": "https://x.com/jrouldz/status/2106540584307769502"
+        }
+      ]
+    },
+    {
+      "symbol": "NDX",
+      "name": "Nasdaq 100 (QQQ)",
+      "priority": "high",
+      "why": "Berk Dinçtürk says QQQ can be considered while Tunç Şatıroğlu expects an October decline; views conflict.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "if you like, by year-end, as I see it, you could buy the Nasdaq ETF, as QQQ.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "negative",
+          "quote": "I said I expect a new high first and then a decline in October.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2106285290856055099"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "neutral",
+          "quote": "The Nasdaq index rose about 0.5%.",
+          "source_url": "https://www.youtube.com/watch?v=d_QHouy6br0"
+        }
+      ]
+    },
+    {
+      "symbol": "RUT",
+      "name": "Russell 2000",
+      "priority": "high",
+      "why": "Berk Dinçtürk says he has closed the Russell position he had favoured since the start of the year; the view changed.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "negative",
+          "quote": "Take profits on Russell. Close your position and don't look back.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "XAU",
+      "name": "Gold",
+      "priority": "high",
+      "why": "Berk Dinçtürk expects a strong rise, citing Judy Shelton's appointment.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Gold and silver will surely rise. We said these are boring investments.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "XAG",
+      "name": "Silver",
+      "priority": "medium",
+      "why": "Berk Dinçtürk noted silver at about $60 after the $120 peak and still expects it to rise.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "I think both gold and silver will surely rise.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "medium",
+      "why": "Berk Dinçtürk still finds these levels very good for buying, citing the robot theme.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "I continue to like Tesla.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "priority": "medium",
+      "why": "Berk Dinçtürk says he holds it long term, citing the VAC acquisition due early 2027 and the Mesa project.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Honestly, I currently hold Energy Fuels. It's the only one, and I hold it long term.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "priority": "medium",
+      "why": "Berk Dinçtürk says he likes it on the fiber optics side.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "I like Lumentum.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "priority": "medium",
+      "why": "Berk Dinçtürk says he has not held a position for 5-6 months.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "I haven't held SoFi for a long time.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "medium",
+      "why": "korkmazali08 likes Muse but wants to see it convert to revenue.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "I follow $META's Muse move closely and like it.",
+          "source_url": "https://x.com/korkmazali08/status/2106455144111935717"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "Meta developed Muse technology, you know.",
+          "source_url": "https://www.youtube.com/watch?v=x7k0Q4ONLbM"
+        }
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML",
+      "priority": "medium",
+      "why": "korkmazali08 relayed High NA EUV adoption and a valuation above 32x earnings as a risk.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "ASML's High NA EUV technology is turning from an expensive innovation into a production tool that large chipmakers will use.",
+          "source_url": "https://x.com/korkmazali08/status/2106394182868734152"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "priority": "medium",
+      "why": "ulkser called the chart setup a 'textbook VCP'.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Here, take a textbook VCP $GOOGL",
+          "source_url": "https://x.com/ulkser/status/2106523501960298772"
+        }
+      ]
+    },
+    {
+      "symbol": "BAYN",
+      "name": "Bayer",
+      "priority": "medium",
+      "why": "ulkser says the breakout failed and the liquidity below was taken.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "$BAYN fake breakout - did a liquidity hunt, dumped down and took the liquidity below. bad",
+          "source_url": "https://x.com/ulkser/status/2106524525735408079"
+        }
+      ]
+    },
+    {
+      "symbol": "FICO",
+      "name": "Fair Isaac",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan defended his earlier 'stay away' call as the stock fell more than 60% in a year.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$FICO recovering is like making a camel jump a ditch.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2106395682802208999"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "priority": "medium",
+      "why": "WallStDiaries says the filing for resale of up to 25 million shares could weigh on the stock short term.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "the perception of share supply can pressure pricing.",
+          "source_url": "https://x.com/WallStDiaries/status/2106340540610420969"
+        }
+      ]
+    },
+    {
+      "symbol": "RTX",
+      "name": "RTX",
+      "priority": "medium",
+      "why": "WallStDiaries relayed a missile contract above $20 billion.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "$RTX won a missile contract above $20 billion.",
+          "source_url": "https://x.com/WallStDiaries/status/2106339755596157128"
+        }
+      ]
+    },
+    {
+      "symbol": "LHX",
+      "name": "L3Harris",
+      "priority": "medium",
+      "why": "WallStDiaries relayed a $6 billion missile defense deal.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "as $LHX signed a $6 billion deal for missile defense",
+          "source_url": "https://x.com/WallStDiaries/status/2106339755596157128"
+        }
+      ]
+    },
+    {
+      "symbol": "ZETA",
+      "name": "Zeta Global",
+      "priority": "medium",
+      "why": "jrouldz says he considered entering under $20 and will not chase it now.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I like $ZETA I was considering entry under $20 and passed 🥲 so I am not looking to chase it now",
+          "source_url": "https://x.com/jrouldz/status/2106425569260818707"
+        }
+      ]
+    },
+    {
+      "symbol": "SPX",
+      "name": "S&P 500",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "neutral",
+          "quote": "The S&P index fell about 0.3%.",
+          "source_url": "https://www.youtube.com/watch?v=d_QHouy6br0"
+        }
+      ]
+    },
+    {
+      "symbol": "CBRS",
+      "name": "Cerebras",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "Cerebras is a good company too but as I said, I wouldn't want to position in 70 stocks at year-end, for example.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "CLS",
+      "name": "Celestica",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "I normally like both Cerebras and Celestica but I'll look at 2027.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Micron, Dell, Nvidia are in my view still very good companies.",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Assets like Ethereum, Solana and Bitcoin will stand out.",
+          "source_url": "https://www.youtube.com/watch?v=x7k0Q4ONLbM"
+        }
+      ]
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Assets like Ethereum, Solana and Bitcoin will stand out.",
+          "source_url": "https://www.youtube.com/watch?v=x7k0Q4ONLbM"
+        }
+      ]
+    },
+    {
+      "symbol": "COIN",
+      "name": "Coinbase",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "looking at companies like Bitcoin, Ethereum, Solana, Robinhood, Coinbase, Circle",
+          "source_url": "https://www.youtube.com/watch?v=x7k0Q4ONLbM"
+        }
+      ]
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "looking at companies like Bitcoin, Ethereum, Solana, Robinhood, Coinbase, Circle",
+          "source_url": "https://www.youtube.com/watch?v=x7k0Q4ONLbM"
+        }
+      ]
+    },
+    {
+      "symbol": "CRCL",
+      "name": "Circle",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "looking at companies like Bitcoin, Ethereum, Solana, Robinhood, Coinbase, Circle",
+          "source_url": "https://www.youtube.com/watch?v=x7k0Q4ONLbM"
+        }
+      ]
+    },
+    {
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "looking at companies like MicroStrategy",
+          "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Would you like to lend to Oracle? :)",
+          "source_url": "https://x.com/korkmazali08/status/2106524061157474489"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "As $AMZN expands AI data center investments, it pledged over $1 billion in community investment over 5 years to ease local backlash over energy and water use.",
+          "source_url": "https://x.com/korkmazali08/status/2106433349828960577"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "neutral",
+          "quote": "Heaven and earth are shouting $GEV.",
+          "source_url": "https://x.com/dtfinans_/status/2106608363299606927"
+        }
+      ]
+    },
+    {
+      "symbol": "RKT",
+      "name": "Rocket Companies",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$RKT and $QXO, this is exactly it",
+          "source_url": "https://x.com/ulkser/status/2106467678324240614"
+        }
+      ]
+    },
+    {
+      "symbol": "QXO",
+      "name": "QXO",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$RKT and $QXO, this is exactly it",
+          "source_url": "https://x.com/ulkser/status/2106467678324240614"
+        }
+      ]
+    },
+    {
+      "symbol": "ITUB",
+      "name": "Itaú Unibanco",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Itub is looking good",
+          "source_url": "https://x.com/ulkser/status/2106386500476645528"
+        }
+      ]
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "Many examples can be given, like $NIKE, $FICO, $TTD.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2106395682802208999"
+        }
+      ]
+    },
+    {
+      "symbol": "TTD",
+      "name": "The Trade Desk",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "Many examples can be given, like $NIKE, $FICO, $TTD.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2106395682802208999"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "If the perception of partnership changes in the satellite connectivity race, the $ASTS side could be priced more sharply.",
+          "source_url": "https://x.com/WallStDiaries/status/2106339897812410703"
+        }
+      ]
+    },
+    {
+      "symbol": "TMUS",
+      "name": "T-Mobile US",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "SpaceX and Starlink references were reportedly removed from T-Mobile's T-Satellite site.",
+          "source_url": "https://x.com/WallStDiaries/status/2106339897812410703"
+        }
+      ]
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "as $BA stands out in next-generation fighter jet projects",
+          "source_url": "https://x.com/WallStDiaries/status/2106339755596157128"
+        }
+      ]
+    },
+    {
+      "symbol": "ONDS",
+      "name": "Ondas Holdings",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "$ONDS moved on the anti-drone market.",
+          "source_url": "https://x.com/WallStDiaries/status/2106339755596157128"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Elon Musk confirms TSMC and Terafab are in talks over potential chip manufacturing cooperation in Texas",
+          "source_url": "https://x.com/wallstengine/status/2106339202619322830"
+        }
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$SNDK $MU",
+          "source_url": "https://x.com/FinancewithIzzy/status/2106361478802465030"
+        }
+      ]
+    },
+    {
+      "symbol": "TEM",
+      "name": "Tempus AI",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "my favorite technical setups right now are $TEM and $ZETA",
+          "source_url": "https://x.com/jrouldz/status/2106425569260818707"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$IONQ and $RKLB were the top 2 positions most of the past year and both have been crushed from highs",
+          "source_url": "https://x.com/jrouldz/status/2106380894097342547"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$IONQ and $RKLB were the top 2 positions most of the past year and both have been crushed from highs",
+          "source_url": "https://x.com/jrouldz/status/2106380894097342547"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "Updated top 5 positions: $AAPL $IONQ $RKLB $PLTR $ABCL",
+          "source_url": "https://x.com/jrouldz/status/2106401655629770889"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "Yes I am tempted to finally offload more Apple",
+          "source_url": "https://x.com/jrouldz/status/2106401655629770889"
+        }
+      ]
+    },
+    {
+      "symbol": "ABCL",
+      "name": "AbCellera",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "my biotech picks since that disaster have been so successful",
+          "source_url": "https://x.com/jrouldz/status/2106383618117365941"
+        }
+      ]
+    },
+    {
+      "symbol": "DFTX",
+      "name": "Definium Therapeutics",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "my biotech picks since that disaster have been so successful",
+          "source_url": "https://x.com/jrouldz/status/2106383618117365941"
+        }
+      ]
+    },
+    {
+      "symbol": "DNA",
+      "name": "Ginkgo Bioworks",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "my newest $DNA",
+          "source_url": "https://x.com/jrouldz/status/2106383618117365941"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "In this Sunday video he explains how to build a one-person business in the AI era. He recommends turning a skill into a product that solves a clear problem for a specific customer and systematizing the research, content, product, sales and support steps. Against the 'it won't work in Turkey' pessimism in the comments, he asks viewers to stay optimistic and says honest money-making is possible.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Build a One-Person Business, AI at Your Service!",
+          "url": "https://www.youtube.com/watch?v=zcOANsN5PyY",
+          "published_at": "2026-10-04T06:30:10+00:00",
+          "summary": "Continuing last week's video on four income mechanisms, he explains how to build a one-person business. He says it starts with a skill that is narrowed into a product solving someone's specific problem. Using photography as an example, he recommends covering five areas: research, content creation, product creation, sales and customer support. He notes customers buy results rather than features and says he talks in terms of benefits for his Haddini Aş club and terminal. He says an offer should have four elements, including the result and the way to reach it. He stresses using AI as a tool that speeds up processes rather than as a pure programmer. He says social media is the main tool for reaching customers. He urges viewers not to give in to the pessimism that it can't be done in Turkey or only with connections, and says earning honestly is possible.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": "He calls the week flat: the **S&P 500** fell about 0.3% and the **Nasdaq** rose about 0.5%, but the focus remains the US 10-year yield, which ranged between 5.18% and 5.34%. He says the Treasury's $6 billion buyback was already priced in and that Cayman funds hold a record of more than $460 billion in Treasuries as of July. He describes the Fed repeating its inflation stance via Kashkari and Cook, and France's 2027 budget pushing the OAT-Bund spread above 85 bps. He says September payrolls of 29k, below expectations, lifted equities, reflecting a 'bad is good' mindset.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Volatile yield and France...",
+          "url": "https://www.youtube.com/watch?v=d_QHouy6br0",
+          "published_at": "2026-10-03T15:50:21+00:00",
+          "summary": "He summarizes the week in five topics. The S&P fell about 0.3% while the Nasdaq rose 0.5%; the 10-year yield ranged between 5.18% and 5.34%. First, the Treasury's $6 billion buyback: he says its impact was limited because it was announced in advance. Second, Cayman Islands funds holding a record of more than $460 billion in Treasuries as of July 2026, which he reads as macro hedge funds doing basis trades trying to lock in yields. Third, the Fed: he relays Kashkari's and Cook's messages that victory on inflation cannot be declared and that they are ready for more tightening if needed. Fourth, France's 2027 budget with €25 billion in cuts and higher corporate taxes; the opposition threatened a no-confidence vote, the France-Germany 10-year spread exceeded 85 bps, and he says political stability is what matters most. Fifth, September nonfarm payrolls of 29k against 89k expected and unemployment at 4.2%, with the Nasdaq rising about 1.2% on Friday. He takes this as proof the market fears the Fed's rate path, and that inflation drives rates, rates drive the 10-year yield and the yield drives equity valuations.",
+          "assets": [
+            {
+              "symbol": "SPX",
+              "sentiment": "neutral",
+              "note": "Closed the week down about 0.3%."
+            },
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "Closed the week up about 0.5%; rose about 1.2% on Friday."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": "He argues that with the **S&P 500** and **Nasdaq** at all-time highs, bond yield and oil headlines are not wrecking the economy; he says tech will lead into year-end and that **Micron**, **Dell**, **Nvidia** and **QQQ** can be considered. He has closed his **Russell 2000** position and recommends taking profits. Citing Judy Shelton's appointment to the Treasury advisory board, he says he has no reservations on **gold** and **silver**; he says the Treasury could step in if the 10-year yield heads to 5.5%, which would be a buying opportunity.\n\nIn a separate video he recommends focusing on the crypto theme for the rest of the year and coming years: **Bitcoin**, **Ethereum**, **Solana**, **Coinbase**, **Robinhood**, **Circle** and **Strategy**, but with a time horizon. In Q&A he says he still likes **Tesla**, has not held **SoFi** for 5-6 months, likes **Lumentum** and holds **Energy Fuels** long term.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Investment Strategies in Times of Uncertainty | Berk Dinçtürk",
+          "url": "https://www.youtube.com/watch?v=-4DPUucEPdw",
+          "published_at": "2026-10-03T07:14:41.261Z",
+          "summary": "He says bond yields and oil have not wrecked the economy despite the headlines, and that the 10-year yield staying at 5.20-5.30% while the US economy grows strongly is not a disaster. He notes oil has hovered around $100 for months, Iran misplayed its Hormuz card, and the US began selling reserves at $114. On inflation data, he claims the statistics agency changed weights and compares it to the Arthur Burns era. He says profitable tech will lead into year-end and that Micron, Dell, Nvidia, QQQ and Lumentum can be considered; he has closed his Russell 2000 position and recommends taking profits. He says that if the 10-year yield heads to 5.5% the Treasury could intervene, and that the resulting correction would be a buying opportunity for those without index exposure. Citing Judy Shelton's appointment, he says his view on gold and silver is unchanged, noting silver fell from $120 to $60 but that one should wait. He still likes Tesla and has not held SoFi for 5-6 months. On energy, he holds Energy Fuels long term because of the VAC acquisition and the Mesa project and sees it as a $50 company. On crypto, he says Bitcoin and Solana held up while the market wobbled and may run first on the rebound.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "positive",
+              "note": "Tech should lead into year-end; the Nasdaq ETF QQQ can be considered."
+            },
+            {
+              "symbol": "RUT",
+              "sentiment": "negative",
+              "note": "Closed his Russell 2000 position and recommends taking profits."
+            },
+            {
+              "symbol": "XAU",
+              "sentiment": "positive",
+              "note": "No change in view because of Judy Shelton's appointment; gold will surely rise."
+            },
+            {
+              "symbol": "XAG",
+              "sentiment": "positive",
+              "note": "Expects it to rise long term even after falling from $120 to $60."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Micron is still a very good company."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Nvidia is still a very good company; he says it expects to grow revenue 70% next year."
+            },
+            {
+              "symbol": "DELL",
+              "sentiment": "positive",
+              "note": "Can be considered among profitable tech companies."
+            },
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "Likes it on the fiber optics side."
+            },
+            {
+              "symbol": "TSLA",
+              "sentiment": "positive",
+              "note": "These levels are still very good for buying because of the robot theme."
+            },
+            {
+              "symbol": "SOFI",
+              "sentiment": "neutral",
+              "note": "Has not held it for 5-6 months; it did not make the move he expected."
+            },
+            {
+              "symbol": "UUUU",
+              "sentiment": "positive",
+              "note": "Holds it long term; VAC acquisition early 2027 and the Mesa project, a $50 company."
+            },
+            {
+              "symbol": "CBRS",
+              "sentiment": "neutral",
+              "note": "Good company but he will look at it in 2027."
+            },
+            {
+              "symbol": "CLS",
+              "sentiment": "neutral",
+              "note": "Likes it but will look at it in 2027."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Resilient while markets wobbled, among the first to run on a rebound."
+            },
+            {
+              "symbol": "SOL",
+              "sentiment": "positive",
+              "note": "Among the resilient assets that should stand out alongside Bitcoin."
+            },
+            {
+              "symbol": "ETH",
+              "sentiment": "positive",
+              "note": "Among the assets that should stand out in the blockchain and tokenization theme."
+            }
+          ]
+        },
+        {
+          "platform": "youtube",
+          "title": "\"It's Worth Focusing on the Crypto Theme for the Rest of the Year and Coming Years\" | Berk Dinçtürk",
+          "url": "https://www.youtube.com/watch?v=x7k0Q4ONLbM",
+          "published_at": "2026-10-03T07:14:41.261Z",
+          "summary": "He recommends focusing on the crypto theme for the rest of the year and the coming years. He says blockchain and tokenization are opening up and that Meta's Muse will increase crypto use for agent transactions that cannot be done with paper money. He says crypto's market cap is $4 trillion against $900 trillion for the global financial system and that crypto value must grow fast to tokenize the economy. He says Nvidia and Micron are good companies but will not reach $10 trillion, and that explosive growth will come from Bitcoin, Ethereum, Solana, Robinhood, Coinbase, Circle and Strategy. He recommends looking at them with a time horizon, not right away.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Will stand out in the tokenization theme; should be approached with a time horizon."
+            },
+            {
+              "symbol": "ETH",
+              "sentiment": "positive",
+              "note": "Will stand out in blockchain and tokenization."
+            },
+            {
+              "symbol": "SOL",
+              "sentiment": "positive",
+              "note": "Will stand out in blockchain and tokenization."
+            },
+            {
+              "symbol": "COIN",
+              "sentiment": "positive",
+              "note": "One of the crypto companies that could grow explosively; look with a time horizon."
+            },
+            {
+              "symbol": "HOOD",
+              "sentiment": "positive",
+              "note": "One of the crypto companies that could grow explosively; look with a time horizon."
+            },
+            {
+              "symbol": "CRCL",
+              "sentiment": "positive",
+              "note": "One of the crypto companies that could grow explosively; look with a time horizon."
+            },
+            {
+              "symbol": "MSTR",
+              "sentiment": "positive",
+              "note": "One of the crypto companies that could grow explosively; look with a time horizon."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Says Muse will increase crypto use for agent payments."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "A very good company but it will not reach $10 trillion."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "A very good company but it will not reach $10 trillion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ulkser",
+      "digest": "He shared short chart takes: he sees a textbook VCP setup in **Alphabet** and says the breakout in **Bayer** failed and took the liquidity below. He points to **Rocket Companies** and **QXO** as examples of Peter Lynch's 'the price you pay is everything' lesson and finds **Itaú Unibanco** looking good. He says Bessent clearly lost the round in the interview about his 'I am the house now' remark, and that in the Katılımevim fund probe he wonders where the lawyer couple's invested money came from.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Failed breakout in Bayer",
+          "url": "https://x.com/ulkser/status/2106524525735408079",
+          "published_at": "2026-10-03T23:19:18.000Z",
+          "summary": "Says $BAYN had a fake breakout that went down after a liquidity hunt and took the liquidity below.",
+          "assets": [
+            {
+              "symbol": "BAYN",
+              "sentiment": "negative",
+              "note": "Fake breakout; it dropped after a liquidity hunt, he calls it 'bad'."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Textbook VCP in Alphabet",
+          "url": "https://x.com/ulkser/status/2106523501960298772",
+          "published_at": "2026-10-03T23:15:14.000Z",
+          "summary": "Shares the $GOOGL chart as a 'textbook VCP'.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "positive",
+              "note": "Textbook VCP setup."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "RKT and QXO: the Peter Lynch lesson",
+          "url": "https://x.com/ulkser/status/2106467678324240614",
+          "published_at": "2026-10-03T19:33:25.000Z",
+          "summary": "Comments 'this is exactly it' for $RKT and $QXO on a post of Peter Lynch saying the price you pay alone decides gains or losses.",
+          "assets": [
+            {
+              "symbol": "RKT",
+              "sentiment": "positive",
+              "note": "Pointed to it as an example of price discipline."
+            },
+            {
+              "symbol": "QXO",
+              "sentiment": "positive",
+              "note": "Pointed to it as an example of price discipline."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bessent interview",
+          "url": "https://x.com/ulkser/status/2106463415736885689",
+          "published_at": "2026-10-03T19:16:29.000Z",
+          "summary": "After Treasury Secretary Bessent's answer on whether he regrets saying 'I am the house now', says Bessent clearly lost the round.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Itaú Unibanco",
+          "url": "https://x.com/ulkser/status/2106386500476645528",
+          "published_at": "2026-10-03T14:10:51.000Z",
+          "summary": "In a reply, says Itub looks good.",
+          "assets": [
+            {
+              "symbol": "ITUB",
+              "sentiment": "positive",
+              "note": "Looks good on the chart."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Katılımevim fund probe",
+          "url": "https://x.com/ulkser/status/2106353553816096864",
+          "published_at": "2026-10-03T11:59:56.000Z",
+          "summary": "On the report that the lawyer couple put TL 2.32 billion into Katılımevim shares and took out TL 4.85 billion, he is more curious about the source of the money invested than the gain.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "He lays out a framework for story stocks: enter a growing sector early, keep the thesis sound and bring the cost down, and do not separate rates and liquidity conditions from macro. He also defends his 'stay away from **FICO**' call as the stock fell more than 60% in a year, and cites **Nike** and **The Trade Desk** as examples that established companies cannot hold their position forever.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Timing and macro in story stocks",
+          "url": "https://x.com/AhmetSunelcan1/status/2106458555662684527",
+          "published_at": "2026-10-03T18:57:10.000Z",
+          "summary": "Recommends entering a growing sector early, not fearing a decline if the thesis is sound, accepting the loss if the thesis breaks, and not separating rates and liquidity conditions from macro.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "'Stay away from FICO' call",
+          "url": "https://x.com/AhmetSunelcan1/status/2106395682802208999",
+          "published_at": "2026-10-03T14:47:20.000Z",
+          "summary": "Says his earlier FICO warning was borne out by the stock falling more than 60% in a year, and that a FICO recovery would be like getting a camel over a ditch; also cites Nike and The Trade Desk.",
+          "assets": [
+            {
+              "symbol": "FICO",
+              "sentiment": "negative",
+              "note": "Fell more than 60% in a year; a recovery is very hard."
+            },
+            {
+              "symbol": "NKE",
+              "sentiment": "negative",
+              "note": "Example of an established company losing its position."
+            },
+            {
+              "symbol": "TTD",
+              "sentiment": "negative",
+              "note": "Example of an established company losing its position."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "He still finds **Broadcom** cheap, prefers buying the stock, and cites UBS's $470 target and a Wall Street average of about $519. For **Nvidia** he cites Morgan Stanley's $300 target and treats $260-270 as fair value, says he likes **Meta**'s Muse move but it must convert to revenue. He relays **ASML**'s High NA EUV growth and valuation above 32x earnings, and that **Amazon**'s AI spending will weigh on free cash flow.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Broadcom still cheap",
+          "url": "https://x.com/korkmazali08/status/2106403023903686932",
+          "published_at": "2026-10-03T15:16:30.000Z",
+          "summary": "Says $AVGO is still cheap because attention to it has faded among AI stocks. UBS keeps a Buy with a $470 target while the Wall Street average is about $519. In the third quarter revenue rose 86% and AI chip revenue rose 221%. Management expects AI revenue to rise from $58 billion in 2026 to $115 billion in 2027 and $230 billion in 2028. Risks include up to $42 billion of financing for Anthropic, tariffs and a possible slowdown in AI investment. In a reply he says he prefers buying the stock and that it looks like a better option than Oracle.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Still cheap; UBS target $470, Wall Street average about $519; risks are Anthropic financing and tariffs."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom and Oracle bond yields",
+          "url": "https://x.com/korkmazali08/status/2106524061157474489",
+          "published_at": "2026-10-03T23:17:28.000Z",
+          "summary": "Notes Broadcom bonds show yields of 7.12% on the 2034 maturity and 6.86% on the 2056 maturity, while Oracle's long-dated bonds yield up to 8.44%; adds that rates and credit risk are part of the equation.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Bond yields are 7.12% on the 2034 maturity and 6.86% on the 2056 maturity."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "neutral",
+              "note": "Long-dated bond yield reaches 8.44%, credit rating BBB-."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia: Morgan Stanley $300 target",
+          "url": "https://x.com/korkmazali08/status/2106398708371693643",
+          "published_at": "2026-10-03T14:59:21.000Z",
+          "summary": "Relays that Morgan Stanley analyst Joseph Moore reiterated Buy and a $300 target on $NVDA; says he thinks the stock is below fair value and treats $260-270 as fair value in current conditions.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Below fair value; fair value range $260-270, MS target $300."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta's Muse move",
+          "url": "https://x.com/korkmazali08/status/2106455144111935717",
+          "published_at": "2026-10-03T18:43:37.000Z",
+          "summary": "Says he follows Meta's Muse move closely and likes it, and that integration with Instagram, WhatsApp and Facebook is an advantage; the main question is converting the potential into revenue, which could lift the valuation significantly.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Likes Muse; valuation could rise significantly if it converts to revenue."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ASML and High NA EUV",
+          "url": "https://x.com/korkmazali08/status/2106394182868734152",
+          "published_at": "2026-10-03T14:41:22.000Z",
+          "summary": "Relays that ASML's High NA EUV is becoming a production tool used by large chipmakers, that Intel has processed more than 1 million wafers and TSMC plans volume production from 2030. Risks are Chinese domestic equipment, export curbs and a valuation above 32x earnings.",
+          "assets": [
+            {
+              "symbol": "ASML",
+              "sentiment": "neutral",
+              "note": "High NA EUV supports growth; risks are a valuation above 32x and Chinese domestic equipment."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Amazon AI spending",
+          "url": "https://x.com/korkmazali08/status/2106433349828960577",
+          "published_at": "2026-10-03T17:17:00.000Z",
+          "summary": "Relays that Amazon pledged over $1 billion in community investment over 5 years, is weighing transferring about $8 billion of Nvidia chips to a special purpose vehicle and leasing them back, and that spending nearing $200 billion in 2026 will weigh on free cash flow.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "neutral",
+              "note": "Roughly $200 billion of spending in 2026 will weigh on free cash flow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "On the money market fund (PPF) liquidation, he argues PPFs will be paid first, the reverse repo debt will be collected and equity fund losses will not be covered from PPFs, while accepting that equity fund holders are also victims. He finds **Broadcom** 'already very cheap', and on **GE Vernova** points out that the world is talking nuclear investment while Turkey is busy with other things.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPFs will be paid first",
+          "url": "https://x.com/dtfinans_/status/2106323023766696059",
+          "published_at": "2026-10-03T09:58:37.000Z",
+          "summary": "Says PPFs will be paid first and nobody will touch them, while the loss in equity funds can be reduced by going after those who took the money out.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PPF principal and interest",
+          "url": "https://x.com/dtfinans_/status/2106319363275899339",
+          "published_at": "2026-10-03T09:44:04.000Z",
+          "summary": "Says equity fund losses will not be paid from PPFs, the first TL 1 million will go to PPFs first, and money will keep flowing in with interest as debts are collected.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Equity fund victims",
+          "url": "https://x.com/dtfinans_/status/2106322223740908000",
+          "published_at": "2026-10-03T09:55:26.000Z",
+          "summary": "Says equity fund holders are being unfairly blamed because they bought funds to spread risk; says seizing the assets of those who took the money out to recover losses is reasonable.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PPF principal is the last-day amount",
+          "url": "https://x.com/dtfinans_/status/2106485646088892721",
+          "published_at": "2026-10-03T20:44:49.000Z",
+          "summary": "Says PPF principal is the last-day amount and net value is that figure plus extra interest until the payment date, and that the process is moving this way.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "GE Vernova and the nuclear investment package",
+          "url": "https://x.com/dtfinans_/status/2106608363299606927",
+          "published_at": "2026-10-04T04:52:27.000Z",
+          "summary": "Shares a post on South Korea's expected $200 billion US investment package with 8 nuclear reactors and says the world talks about $GEV while Turkey deals with other things.",
+          "assets": [
+            {
+              "symbol": "GEV",
+              "sentiment": "neutral",
+              "note": "In focus on the nuclear investment package news; no view of his own, only draws attention."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom already very cheap",
+          "url": "https://x.com/dtfinans_/status/2106354739663483030",
+          "published_at": "2026-10-03T12:04:38.000Z",
+          "summary": "In a reply says it should be read as 'don't wait for 300 to buy, and keep buying if 300 comes', and that AVGO is already very cheap.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Already very cheap; buy without waiting for 300 and keep buying if 300 comes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "He relays Trump's pledge of $5,000 per adult if Republicans win the midterms, noting a potential payout of about $1.6 trillion. He writes that **Qualcomm**'s 25 million share resale filing could weigh short term, covers **RTX**'s missile contract above $20 billion and **L3Harris**'s $6 billion deal in defense, and what the removal of Starlink references from **T-Mobile**'s page could mean for **AST SpaceMobile**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trump's $5,000 midterm pledge",
+          "url": "https://x.com/WallStDiaries/status/2106461779383500963",
+          "published_at": "2026-10-03T19:09:59.000Z",
+          "summary": "Relays that every adult US citizen would get $5,000 if Republicans win both chambers, with a potential payout of about $1.6 trillion.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Qualcomm share resale filing",
+          "url": "https://x.com/WallStDiaries/status/2106340540610420969",
+          "published_at": "2026-10-03T11:08:13.000Z",
+          "summary": "Says Qualcomm's SEC prospectus opens the door to resale of up to 25 million common shares, which is not operating news but could weigh on pricing short term through a perception of supply.",
+          "assets": [
+            {
+              "symbol": "QCOM",
+              "sentiment": "negative",
+              "note": "Resale of up to 25 million shares could weigh short term."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Starlink removed from T-Mobile page",
+          "url": "https://x.com/WallStDiaries/status/2106339897812410703",
+          "published_at": "2026-10-03T11:05:40.000Z",
+          "summary": "Says SpaceX and Starlink references were removed from T-Mobile's T-Satellite site and that $ASTS could be priced more sharply if the perception of partnership changes.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "neutral",
+              "note": "Could be priced more sharply if the partnership perception changes."
+            },
+            {
+              "symbol": "TMUS",
+              "sentiment": "neutral",
+              "note": "Starlink reference removed from its T-Satellite page."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Large defense contracts",
+          "url": "https://x.com/WallStDiaries/status/2106339755596157128",
+          "published_at": "2026-10-03T11:05:06.000Z",
+          "summary": "Relays that amid the Pentagon's push to replenish autonomous warfare and missile stocks, $BA is prominent in next-generation fighter projects, $RTX won a missile contract above $20 billion, $LHX signed a $6 billion missile defense deal and $ONDS is moving in the anti-drone market.",
+          "assets": [
+            {
+              "symbol": "BA",
+              "sentiment": "positive",
+              "note": "Prominent in next-generation fighter projects."
+            },
+            {
+              "symbol": "RTX",
+              "sentiment": "positive",
+              "note": "Missile contract above $20 billion."
+            },
+            {
+              "symbol": "LHX",
+              "sentiment": "positive",
+              "note": "$6 billion missile defense deal."
+            },
+            {
+              "symbol": "ONDS",
+              "sentiment": "positive",
+              "note": "Moving in the anti-drone market."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "He says he expects a new high in the **Nasdaq** first and then a decline in October, and shares his video on it. In a later reply he adds that it should be assessed together with the 10-year yield move.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "October peak in the Nasdaq",
+          "url": "https://x.com/TuncSatiroglu/status/2106318196999631132",
+          "published_at": "2026-10-03T09:39:26.000Z",
+          "summary": "Shared his video titled 'Is the October Nasdaq Peak Near? A Decline Follows!'.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "negative",
+              "note": "Expects a decline after an October peak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "First a peak, then a decline in October",
+          "url": "https://x.com/TuncSatiroglu/status/2106285290856055099",
+          "published_at": "2026-10-03T07:28:40.000Z",
+          "summary": "In a reply he repeats that he expects a new high first, then a decline in October.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "negative",
+              "note": "New high first, then a decline in October."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "He shares a new podcast after **Micron**'s earnings: he keeps defending memory companies but is now more cautious on prices.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Micron podcast",
+          "url": "https://x.com/FinancewithIzzy/status/2106361478802465030",
+          "published_at": "2026-10-03T12:31:25.000Z",
+          "summary": "Shares his podcast on whether the rally has run out of steam after Micron's record; he defends memory companies but is more cautious on prices.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Defends memory companies but is more cautious on price now."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Mentioned alongside Micron in the podcast topic."
+            },
+            {
+              "symbol": "SNDK",
+              "sentiment": "neutral",
+              "note": "Tagged in the podcast."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "He relays JPMorgan's view that memory supply stays tight through 2028, HBM bit demand rises 63% and **Micron**'s long-term agreement coverage may prove conservative. He also shares Elon Musk's confirmation of talks between **TSMC** and Terafab on chip manufacturing in Texas, and Trump repeating his $5,000 pledge.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "JPMorgan: memory supply tight through 2028",
+          "url": "https://x.com/wallstengine/status/2106377353018626530",
+          "published_at": "2026-10-03T13:34:30.000Z",
+          "summary": "Relays JPMorgan's view that memory supply stays tight through 2028, with customer order talks already extending into 2031; it expects HBM bit demand +63%, server DRAM +37% and 2027 HBM blended ASP +54%. It says Micron's >35% revenue coverage under long-term agreements through 2030 could prove conservative, with Asian peers above 50%.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Long-term agreement coverage above 35%; JPM thinks it may prove conservative."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TSMC and Terafab talks",
+          "url": "https://x.com/wallstengine/status/2106339202619322830",
+          "published_at": "2026-10-03T11:02:54.000Z",
+          "summary": "Reports Elon Musk confirmed talks between TSMC and Terafab on chip manufacturing in Texas, including TSMC possibly using Terafab as anchor customer for a future fab, but said they are just discussions.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "In talks with Terafab on Texas cooperation; Musk says 'just discussions'."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump's $5,000 pledge",
+          "url": "https://x.com/wallstengine/status/2106374562241978575",
+          "published_at": "2026-10-03T13:23:24.000Z",
+          "summary": "Reports Trump repeated his pledge to send $5,000 to every adult US citizen if Republicans retain both the House and Senate in November.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "He says **Bitcoin** flipped the $80K resistance zone into support. He likes **Zeta Global** but, having considered an entry under $20 and passed, will not chase it now; it and **Tempus AI** are his favorite technical setups. He says his portfolio held up despite the decline in **IonQ** and **Rocket Lab**, and that his recent biotech picks (**Definium**, **AbCellera**, **Ginkgo**) have been successful.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bitcoin $80K resistance",
+          "url": "https://x.com/jrouldz/status/2106540584307769502",
+          "published_at": "2026-10-04T00:23:07.000Z",
+          "summary": "Says $BTC did a good job flipping the $80K resistance zone into support.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "The $80K resistance flipped into support."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ZETA and TEM setups",
+          "url": "https://x.com/jrouldz/status/2106425569260818707",
+          "published_at": "2026-10-03T16:46:05.000Z",
+          "summary": "Says he likes ZETA, considered entry under $20, passed and will not chase it now; his earlier post names TEM and ZETA as favorite technical setups.",
+          "assets": [
+            {
+              "symbol": "ZETA",
+              "sentiment": "positive",
+              "note": "Likes it; had considered entry under $20, will not chase now."
+            },
+            {
+              "symbol": "TEM",
+              "sentiment": "positive",
+              "note": "One of his favorite technical setups."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Top 5 positions",
+          "url": "https://x.com/jrouldz/status/2106401655629770889",
+          "published_at": "2026-10-03T15:11:04.000Z",
+          "summary": "Shares his top 5 positions, making up about half of his long-term portfolio, as AAPL, IONQ, RKLB, PLTR and ABCL; says he is tempted to sell more Apple.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Tempted to sell more."
+            },
+            {
+              "symbol": "IONQ",
+              "sentiment": "neutral",
+              "note": "One of the top 5 portfolio positions."
+            },
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "One of the top 5 portfolio positions."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "One of the top 5 portfolio positions."
+            },
+            {
+              "symbol": "ABCL",
+              "sentiment": "positive",
+              "note": "One of the top 5 portfolio positions."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Biotech picks",
+          "url": "https://x.com/jrouldz/status/2106383618117365941",
+          "published_at": "2026-10-03T13:59:23.000Z",
+          "summary": "Says his biotech picks since the 23andMe disaster have been very successful: DFTX, ABCL and his newest, DNA.",
+          "assets": [
+            {
+              "symbol": "DFTX",
+              "sentiment": "positive",
+              "note": "Biotech pick, successful."
+            },
+            {
+              "symbol": "ABCL",
+              "sentiment": "positive",
+              "note": "Biotech pick, successful."
+            },
+            {
+              "symbol": "DNA",
+              "sentiment": "positive",
+              "note": "His newest biotech pick."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IonQ and Rocket Lab decline",
+          "url": "https://x.com/jrouldz/status/2106380894097342547",
+          "published_at": "2026-10-03T13:48:34.000Z",
+          "summary": "Says IONQ and RKLB, his top 2 positions for most of the past year, have been crushed from highs yet the portfolio held up, which is why he likes diversification.",
+          "assets": [
+            {
+              "symbol": "IONQ",
+              "sentiment": "neutral",
+              "note": "Crushed from highs."
+            },
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Crushed from highs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "He says that over the last 15 years **BIST30**'s USD return is -40% and that he tries to explain the US vs Turkish market comparison at every opportunity. He shares his stock screening filters: he rules out market caps under $300 million, poor liquidity, weak earnings growth, dilution and companies running out of cash.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "BIST30 15-year USD return",
+          "url": "https://x.com/cevikfinance/status/2106470435206353210",
+          "published_at": "2026-10-03T19:44:22.000Z",
+          "summary": "Says looking at the last 5 years does not make the information wrong, and that over the last 15 years BIST30's USD return is -40%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "US vs Turkish market comparison",
+          "url": "https://x.com/cevikfinance/status/2106461011939361201",
+          "published_at": "2026-10-03T19:06:56.000Z",
+          "summary": "On a post showing the difference between investing $1,000 in US vs Turkish equities 15 years ago, says he has tried to explain this at every opportunity but always got 'yes but' replies.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Stock screening filters",
+          "url": "https://x.com/cevikfinance/status/2106335930961260595",
+          "published_at": "2026-10-03T10:49:54.000Z",
+          "summary": "He rules out market caps under $300 million, insufficient liquidity, EPS growth under 10% a year, no catalyst to carry growth, lagging the sector and market, weak institutional interest, companies running out of cash that may not find financing, and dilution. He says a big fall does not make a stock cheap, that he doesn't have to catch every opportunity, and shares his Finviz screen.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0998,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2126,
+        "mentions": [
+          {
+            "person": "Berk Dinçtürk",
+            "sentiment": "neutral",
+            "quote": "I haven't held SoFi for a long time.",
+            "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Berk Dinçtürk SoFi did not make the move he expected and he has not held it for 5-6 months; he gave no buy or sell level.",
+        "opinion": "About a fifth of the portfolio is in one stock; the main risk is this concentration and high rates feeding through to funding costs.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Berk Dinçtürk not holding a position for a long time suggests the stock has been lagging.",
+          "A roughly 21% weight in one stock would hit the portfolio hard on a bad surprise.",
+          "A high-rate environment pressures its bank-like model, but there is no concrete trigger to sell unless the thesis breaks."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1475,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "I follow $META's Muse move closely and like it.",
+            "source_url": "https://x.com/korkmazali08/status/2106455144111935717"
+          },
+          {
+            "person": "Berk Dinçtürk",
+            "sentiment": "neutral",
+            "quote": "Meta developed Muse technology, you know.",
+            "source_url": "https://www.youtube.com/watch?v=x7k0Q4ONLbM"
+          }
+        ],
+        "action": "hold",
+        "why": "korkmazali08 likes Muse but says it has to convert to revenue; no level or date.",
+        "opinion": "The Muse news flow is positive but revenue contribution is unproven; what matters is spending turning into returns.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Muse's integration with Instagram, WhatsApp and Facebook gives a distribution advantage.",
+          "Short-term revenue impact is limited; valuation rests on expectations.",
+          "At about 15% weight the position is already sizeable."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1383,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "I think $AVGO is still cheap",
+            "source_url": "https://x.com/korkmazali08/status/2106403023903686932"
+          },
+          {
+            "person": "dtfinans_",
+            "sentiment": "positive",
+            "quote": "AVGO is already very cheap",
+            "source_url": "https://x.com/dtfinans_/status/2106354739663483030"
+          }
+        ],
+        "action": "buy_more",
+        "why": "korkmazali08 still finds the stock cheap and prefers buying; UBS target $470, Wall Street average about $519. dtfinans_ also says it is 'already very cheap'.",
+        "opinion": "The AI revenue outlook is strong but Anthropic financing adds credit risk to the balance sheet; sources lean toward buying, though the weight is already near 14%.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Management expecting $230 billion in AI revenue in 2028 improves growth visibility.",
+          "Up to $42 billion of financing for Anthropic, tariffs and an AI spending slowdown are risk items.",
+          "At a 14% weight, adding would raise concentration risk; keeping the current position is more balanced."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1141,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "South Korea's announcement of 8 nuclear plant investments in the US is supportive for the sector, but there is no stock-specific development.",
+        "ai_action": "hold",
+        "ai_points": [
+          "The South Korean nuclear investment relayed by Berk Dinçtürk supports the theme.",
+          "No stock-specific new orders or earnings information.",
+          "An 11% weight is reasonable as is."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0961,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The advertising and data licensing story is strong but the stock is volatile; position size deserves attention at about a 10% weight.",
+        "ai_action": "hold",
+        "ai_points": [
+          "AI data licensing revenue is a growth lever.",
+          "The stock is volatile; AI-themed stocks carry the risk of sharp pullbacks.",
+          "There is no stock-related information in today's sources."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0779,
+        "mentions": [
+          {
+            "person": "Defiant Gatekeeper",
+            "sentiment": "neutral",
+            "quote": "Hedge funds in the Cayman Islands hold a record of more than $460 billion in US Treasuries as of July 2026.",
+            "source_url": "https://www.youtube.com/watch?v=d_QHouy6br0"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Defiant Gatekeeper the 10-year yield ranged between 5.18% and 5.34% and Cayman funds hold record Treasuries; there is no clear buy or sell level.",
+        "opinion": "With long-term yields above 5% the fund price is volatile; pressure can persist short term while the Fed keeps a hawkish tone.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Yields above 5% offer an attractive carry over the long term.",
+          "According to Berk Dinçtürk 5.5% is the critical level; a move toward it would weigh on the fund.",
+          "The Fed members' tight stance keeps yields elevated."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0684,
+        "mentions": [
+          {
+            "person": "cevikfinance",
+            "sentiment": "negative",
+            "quote": "If you look at the last 15 years, BIST30 return in dollar terms is -40%",
+            "source_url": "https://x.com/cevikfinance/status/2106470435206353210"
+          }
+        ],
+        "action": "hold",
+        "why": "According to cevikfinance BIST30's 15-year USD return is -40%; he gives no buy or sell level.",
+        "opinion": "Turkish equities are in the shadow of the PPF crisis and long-term USD returns are weak; clarity on payouts may be decisive short term.",
+        "ai_action": "hold",
+        "ai_points": [
+          "The 15-year USD return of -40% that cevikfinance points to shows structural weakness.",
+          "The PPF and equity fund liquidation debate weakens local market confidence.",
+          "With a 7% weight the risk is limited and there is no concrete trigger to exit."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0453,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The electrical infrastructure theme benefits from AI data center demand; the small weight limits risk but stock-specific information is thin.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Electrical infrastructure demand is supported by AI data center investment.",
+          "As a small, recent listing, volatility may be high.",
+          "At a 4.5% weight the portfolio risk is limited."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "UUUU",
+        "name": "Energy Fuels",
+        "why": "Berk Dinçtürk says he holds it long term, citing the VAC acquisition in early 2027 and the Mesa project, and sees a $50 company.",
+        "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA",
+        "why": "korkmazali08 relays Morgan Stanley's $300 target and says the stock is below fair value, which he puts at $260-270.",
+        "source_url": "https://x.com/korkmazali08/status/2106398708371693643"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla",
+        "why": "Berk Dinçtürk, citing the robot theme, still finds the current levels very good for buying versus Musk's $390 purchase price.",
+        "source_url": "https://www.youtube.com/watch?v=-4DPUucEPdw"
+      }
+    ]
+  }
+}
