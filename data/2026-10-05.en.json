@@ -1,0 +1,1032 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T07:23:47.654Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "France 10-year yield at 4.96%, euro at 17-month low",
+      "person": "WallStDiaries",
+      "why": "Public debt reached 119% of GDP and the yield is the highest since 2002; contagion risk pushed the euro to a 17-month low against the dollar.",
+      "source_url": "https://x.com/WallStDiaries/status/2106999279390744843"
+    },
+    {
+      "title": "September payrolls came in at 29k vs 90k expected",
+      "person": "WallStDiaries",
+      "why": "Unemployment rose to 4.2% and wage growth was 3.0%; the urgency for a Fed hike in October eased, but US10Y closed at 5.28%, near its highest since 2002.",
+      "source_url": "https://x.com/WallStDiaries/status/2106996967737798729"
+    },
+    {
+      "title": "Schneider Electric nearing ~$20B deal for PTC",
+      "person": "wallstengine",
+      "why": "Per the FT the deal could be announced Monday; PTC has a market value of about $15.6B and it would be Schneider's largest acquisition.",
+      "source_url": "https://x.com/wallstengine/status/2106897673907540233"
+    },
+    {
+      "title": "Ahmet Sunelcan trimmed his $NBIS position",
+      "person": "Ahmet Sunelcan",
+      "why": "A concrete position change: \"$NBIS reduced.\" No rationale given.",
+      "source_url": "https://x.com/AhmetSunelcan1/status/2106909367408980339"
+    },
+    {
+      "title": "September inflation: TURKSTAT monthly 1.84%",
+      "person": "Tunç Şatıroğlu",
+      "why": "Tunç Şatıroğlu relays Şenol Babuşcu's 1.84% monthly figure and says TURKSTAT again ignored the court ruling; per Babuşcu the ITO figure is above ENAG.",
+      "source_url": "https://x.com/TuncSatiroglu/status/2107006478074913102"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US jobs data, Fed and bond yields",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Weak September payrolls eased the urgency of an October Fed hike, but the 10-year yield closed near its highest since 2002.",
+          "quote": "The data reduces the Fed's urgency to hike rates in October.",
+          "source_url": "https://x.com/WallStDiaries/status/2106996967737798729"
+        },
+        {
+          "person": "ulkser",
+          "view": "Thinks bonds, at current levels, clearly offer a good investment alternative.",
+          "quote": "Bonds, at the point they have reached, clearly offer a good investment alternative. Period.",
+          "source_url": "https://x.com/ulkser/status/2106795987557650462"
+        }
+      ]
+    },
+    {
+      "topic": "France's debt and the euro",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "France's debt and deficit worries deepened the bond selloff; the euro fell to a 17-month low against the dollar.",
+          "quote": "The 10-year yield rising to 4.96%, the highest since 2002, increased contagion risk in markets.",
+          "source_url": "https://x.com/WallStDiaries/status/2106999279390744843"
+        }
+      ]
+    },
+    {
+      "topic": "Oil and geopolitics",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "The Houthi claim of targeting an Aramco facility lifted Brent by about $1 at Monday's open; OPEC+ agreed in principle not to change November output targets.",
+          "quote": "Brent futures rose by about $1/barrel at Monday's open.",
+          "source_url": "https://x.com/WallStDiaries/status/2107000687900913931"
+        }
+      ]
+    },
+    {
+      "topic": "Turkish inflation",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Says TURKSTAT again failed to follow the court ruling on publishing average prices; the quoted Şenol Babuşcu gives monthly inflation as 1.84%.",
+          "quote": "TURKSTAT didn't surprise: this month too it didn't follow the court's ruling to publish average prices.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2107006478074913102"
+        }
+      ]
+    },
+    {
+      "topic": "Gold",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Spot gold rose above $4,160 per ounce; the upward bias holds.",
+          "quote": "Spot gold rose above $4,160 per ounce; the daily gain reached 0.50%.",
+          "source_url": "https://x.com/WallStDiaries/status/2106999070476689450"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "priority": "medium",
+      "why": "One person commented on the Morgan Stanley margin analysis and the CPU (Vera) story with concrete figures.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Nvidia's new story is right here: GPU + CPU + Networking + Software",
+          "source_url": "https://x.com/FinancewithIzzy/status/2106689033078182374"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "medium",
+      "why": "FinancewithIzzy is cautiously positive on the grounds that HBM pricing has room.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "I read this as (cautiously) positive both for $NVDA and especially for $MU on the HBM side.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2106776364536021159"
+        }
+      ]
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN",
+      "priority": "medium",
+      "why": "One person gave a concrete case based on JPMorgan's $65 target and per-MW revenue assumptions.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "This is exactly the main reason I like IREN.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2106722250930216982"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "Several people mentioned it; dtfinans_ gave a concrete valuation level (30 EPS, $900).",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "FOR ME THIS COMPANY IS FREE.",
+          "source_url": "https://x.com/dtfinans_/status/2106822048743842202"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Broadcom $AVGO: 44.2%",
+          "source_url": "https://x.com/korkmazali08/status/2106759477890269331"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "priority": "medium",
+      "why": "jrouldz called it his favorite pick, giving a $300 target and a $179 average cost.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "My favorite stock pick where I see high upside potential relative to low downside risk is $AMZN",
+          "source_url": "https://x.com/jrouldz/status/2106895582124290396"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan disclosed that he reduced the position (a concrete trade).",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$NBIS reduced.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2106909367408980339"
+        }
+      ]
+    },
+    {
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "priority": "medium",
+      "why": "The FT-sourced ~$20B Schneider acquisition was relayed by two people.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Schneider Electric is nearing a ~$20B deal to acquire $PTC, according to the FT.",
+          "source_url": "https://x.com/wallstengine/status/2106897673907540233"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "The deal could be announced this week.",
+          "source_url": "https://x.com/WallStDiaries/status/2106836227118800920"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell",
+      "priority": "medium",
+      "why": "Ahead of the Oct 6 investor day Piper Sandler kept its Buy with a $270 target.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$MRVL — Piper Sandler kept its $270 price target and Buy rating ahead of the Oct 6 Investor Day.",
+          "source_url": "https://x.com/korkmazali08/status/2106712269014868089"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Since my tweet of April 14, 2025 announcing my $TSM purchase it is up 200%.",
+          "source_url": "https://x.com/korkmazali08/status/2106751191929544958"
+        }
+      ]
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "priority": "medium",
+      "why": "ulkser called bonds a clearly good alternative and commented on retail buying.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Bonds, at the point they have reached, clearly offer a good investment alternative. Period.",
+          "source_url": "https://x.com/ulkser/status/2106795987557650462"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "high",
+      "why": "Two positive views: WallStDiaries reported the highest weekly close since January, jrouldz sees room overhead.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Bitcoin posted its highest weekly close since January 2026.",
+          "source_url": "https://x.com/WallStDiaries/status/2107000122147995692"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$BTC looks very strong when I zoom in and then still looks like it has plenty of ceiling overhead when I zoom out",
+          "source_url": "https://x.com/jrouldz/status/2106753326138425734"
+        }
+      ]
+    },
+    {
+      "symbol": "XAU",
+      "name": "Gold",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Spot gold rose above $4,160 per ounce; the daily gain reached 0.50%.",
+          "source_url": "https://x.com/WallStDiaries/status/2106999070476689450"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent crude",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Brent futures rose by about $1/barrel at Monday's open.",
+          "source_url": "https://x.com/WallStDiaries/status/2107000687900913931"
+        }
+      ]
+    },
+    {
+      "symbol": "EUR/USD",
+      "name": "EUR/USD",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "pulled the euro to its lowest level against the dollar in 17 months.",
+          "source_url": "https://x.com/WallStDiaries/status/2106999279390744843"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "",
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg focused on one financial theme today: AI adoption is not the same as profitability. According to the charts he shared, 69% of S&P 500 companies use a working AI application, but only 29% report a measured outcome and just 2% report a metric tracked over time.\n\nHe concludes that spread is ahead of reporting on revenue, cost and productivity impact. He is positive on AI's long-term growth, but reminds that competition can cut prices, infrastructure costs can eat revenue, and chipmakers' margins can be squeezed by large customers building their own chips.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "The gap between AI adoption and measured impact",
+          "url": "https://x.com/heisenbergtrx/status/2106985720715911410",
+          "published_at": "2026-10-05T05:51:56.000Z",
+          "summary": "69% of S&P 500 companies use AI but only 29% disclose a measured outcome; Heisenberg is long-term positive on AI but flags margin-pressure risk.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": "",
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": "",
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": "",
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser focused mostly on bonds today. He quoted a post about retail buying **TLT** several days in a row and wondered \"when has retail ever stood by what was falling\", then said bonds at this level clearly offer a good alternative.\n\nOn equities, he wrote that he tried **ASTS** three times but dropped it from his watchlist after reversals at 6-7% gains, while **RKLB** looks fine. For now he is focused on the short term.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Retail is buying the TLT dip",
+          "url": "https://x.com/ulkser/status/2106816594894881242",
+          "published_at": "2026-10-04T18:39:53.000Z",
+          "summary": "He commented on Kobeissi's post that retail bought $170M of TLT in three days, noting retail normally buys the tops.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "neutral",
+              "note": "He quoted retail's TLT buying and called it unusual (\"normally they would buy the stuff at the very top\")."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bonds are a clearly good alternative",
+          "url": "https://x.com/ulkser/status/2106795987557650462",
+          "published_at": "2026-10-04T17:18:00.000Z",
+          "summary": "He said bonds at their current level clearly offer a good investment alternative.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "positive",
+              "note": "Sees bonds as a clearly good alternative at this level."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "On ASTS and RKLB",
+          "url": "https://x.com/ulkser/status/2106692629698134076",
+          "published_at": "2026-10-04T10:27:18.000Z",
+          "summary": "He wrote he tried ASTS three times and dropped it after reversals at 6-7% gains, while RKLB looks fine.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "negative",
+              "note": "All three tries reversed at 6-7% gains; removed it from his watchlist."
+            },
+            {
+              "symbol": "RKLB",
+              "sentiment": "positive",
+              "note": "\"RKLB doesn't look bad.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": "",
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan shared a concrete trade today: he trimmed his **NBIS** position without giving a reason. In a reply he argued that only traders can post 25-30% returns every year, while an investor buying the best players in growing sectors would comfortably exceed that on average, which cannot be done with the **Magnificent 7**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "$NBIS reduced",
+          "url": "https://x.com/AhmetSunelcan1/status/2106909367408980339",
+          "published_at": "2026-10-05T00:48:32.000Z",
+          "summary": "He wrote that he reduced his NBIS position.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "negative",
+              "note": "\"$NBIS reduced.\" Gave no reason."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "On 25-30% annual returns",
+          "url": "https://x.com/AhmetSunelcan1/status/2106801129543917714",
+          "published_at": "2026-10-04T17:38:26.000Z",
+          "summary": "He said someone buying the best players in growing sectors would exceed a 25-30% average, which Mag 7 cannot deliver.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "Ahead of Q3 earnings season he built a Grok Bot that compares Q2 and Q3 results and flags contradictions.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "A Grok bot for Q3 earnings season",
+          "url": "https://x.com/sgundoganX/status/2106777262460645744",
+          "published_at": "2026-10-04T16:03:36.000Z",
+          "summary": "He set up a Grok bot that compares Q2 and Q3 results and reports contradictions.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "He says indices are near the peak zone and a pullback may follow after liquidity loosens and growth stocks rise; he thinks Republicans are in trouble at the midterms but markets will be positive whoever wins. He shared net margins of semiconductor names such as **Broadcom**, **Nvidia** and **TSMC**, the revenue gap in AI infrastructure spending, and Piper Sandler's $270 target for **Marvell**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Indices are in the peak zone",
+          "url": "https://x.com/korkmazali08/status/2106889587427557462",
+          "published_at": "2026-10-04T23:29:56.000Z",
+          "summary": "He said indices are in the peak zone and a pullback may follow.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Midterms and the market",
+          "url": "https://x.com/korkmazali08/status/2106878219399930062",
+          "published_at": "2026-10-04T22:44:46.000Z",
+          "summary": "He wrote that Republicans are at risk in the midterms and that either outcome would be positive for the market.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Semiconductor net profit margins",
+          "url": "https://x.com/korkmazali08/status/2106759477890269331",
+          "published_at": "2026-10-04T14:52:55.000Z",
+          "summary": "He shared latest-quarter net margins of semiconductor names including Nvidia 62%, TSMC 55.6%, Broadcom 44.2% and Marvell 11.2%.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Net profit margin 62.0%."
+            },
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "Net profit margin 55.6%."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Net profit margin 44.2%."
+            },
+            {
+              "symbol": "MRVL",
+              "sentiment": "neutral",
+              "note": "Net profit margin 11.2%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TSM video and the 200% return",
+          "url": "https://x.com/korkmazali08/status/2106751191929544958",
+          "published_at": "2026-10-04T14:20:00.000Z",
+          "summary": "He wrote that TSM is up 80% since his YouTube video and 200% since his April 14, 2025 buy tweet.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "positive",
+              "note": "Up 200% since the date he announced his buy."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "The revenue gap in AI investments",
+          "url": "https://x.com/korkmazali08/status/2106740063786705042",
+          "published_at": "2026-10-04T13:35:47.000Z",
+          "summary": "He shared PwC, Bain, Anthropic prospectus and JPMorgan figures showing AI infrastructure spending is not yet matched by revenue.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Per JPMorgan, justifying Nvidia's valuation requires US productivity to grow 3-5% a year for 10 years."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Piper Sandler target for Marvell",
+          "url": "https://x.com/korkmazali08/status/2106712269014868089",
+          "published_at": "2026-10-04T11:45:20.000Z",
+          "summary": "He shared that Piper Sandler kept its $270 target and Buy ahead of the Oct 6 investor day, while Morgan Stanley has $268 and Hold.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "neutral",
+              "note": "Piper Sandler $270 target and Buy; Morgan Stanley $268 target and Hold."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "He says that with 30 EPS expected, **Broadcom** would be worth $900 at a 30 P/E and the company is free for him; he finds the bond-yield risk-premium argument meaningless when government bonds hit new highs every day. He also keeps calling on the SPK to pay money market fund (PPF) liquidations with default interest.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AVGO: 30 EPS, $900",
+          "url": "https://x.com/dtfinans_/status/2106822048743842202",
+          "published_at": "2026-10-04T19:01:33.000Z",
+          "summary": "He wrote that AVGO would be worth $900 at 30x on 30 EPS and is free for him.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "30 EPS at a 30 P/E gives $900; \"for me this company is free\"."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "The AVGO risk-premium debate",
+          "url": "https://x.com/dtfinans_/status/2106822788380254287",
+          "published_at": "2026-10-04T19:04:30.000Z",
+          "summary": "He commented on a view that AVGO's bond yields signal risk-premium concern, saying it hardly matters where government bonds make new highs daily.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Dismisses the risk-premium concern he quoted."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Default interest on PPF payments",
+          "url": "https://x.com/dtfinans_/status/2106955970635284543",
+          "published_at": "2026-10-05T03:53:43.000Z",
+          "summary": "He called on the SPK to pay the PPFs in full with default interest.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": "",
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "Wall Street closed the week higher; September payrolls came in at 29k and the 10-year yield closed at 5.28%, near its highest since 2002. France's yield rising to 4.96% pushed the euro to a 17-month low, **gold** rose above $4,160 and **Bitcoin** posted its highest weekly close since January. **Brent** rose on the Houthi Aramco claim while Schneider is expected to buy **PTC** for ~$20B.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Market wrap: US close and payrolls",
+          "url": "https://x.com/WallStDiaries/status/2106996967737798729",
+          "published_at": "2026-10-05T06:36:37.000Z",
+          "summary": "S&P 500 7,722.72, Nasdaq 100 30,807.93; September payrolls 29k (90k expected), US10Y 5.28%, Brent 101.36.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Brent at 101.36, down 0.88%."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "Bitcoin at 85,860, up 0.51%."
+            },
+            {
+              "symbol": "XAU",
+              "sentiment": "neutral",
+              "note": "Gold at 4,177.89, up 0.37%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "France's fiscal bind rattled the euro",
+          "url": "https://x.com/WallStDiaries/status/2106999279390744843",
+          "published_at": "2026-10-05T06:45:49.000Z",
+          "summary": "France's debt hit 119% of GDP and its 10-year yield 4.96%; the euro is at a 17-month low against the dollar.",
+          "assets": [
+            {
+              "symbol": "EUR/USD",
+              "sentiment": "negative",
+              "note": "The euro is at its lowest level against the dollar in 17 months."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Gold crossed $4,160",
+          "url": "https://x.com/WallStDiaries/status/2106999070476689450",
+          "published_at": "2026-10-05T06:44:59.000Z",
+          "summary": "Spot gold rose above $4,160 per ounce, up 0.50% on the day.",
+          "assets": [
+            {
+              "symbol": "XAU",
+              "sentiment": "positive",
+              "note": "The upward bias is intact."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Brent rose on Aramco news",
+          "url": "https://x.com/WallStDiaries/status/2107000687900913931",
+          "published_at": "2026-10-05T06:51:24.000Z",
+          "summary": "Brent rose about $1 after the Houthis said they targeted an Aramco facility.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "About $1/barrel higher at Monday's open."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin tops its January peak",
+          "url": "https://x.com/WallStDiaries/status/2107000122147995692",
+          "published_at": "2026-10-05T06:49:09.000Z",
+          "summary": "Bitcoin posted its highest weekly close since January 2026.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Noted that momentum has strengthened again."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Schneider to buy PTC for ~$20B",
+          "url": "https://x.com/WallStDiaries/status/2106836227118800920",
+          "published_at": "2026-10-04T19:57:54.000Z",
+          "summary": "He wrote that Schneider Electric is in advanced talks to buy PTC for about $20B and the deal could be announced this week.",
+          "assets": [
+            {
+              "symbol": "PTC",
+              "sentiment": "neutral",
+              "note": "The deal could be announced this week."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hassett urges Powell to leave the Fed board",
+          "url": "https://x.com/WallStDiaries/status/2106809269320589567",
+          "published_at": "2026-10-04T18:10:47.000Z",
+          "summary": "Kevin Hassett cited cost overruns on the $2.4B renovation to call on Jerome Powell to leave the board.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "OPEC+ leaves November output unchanged",
+          "url": "https://x.com/WallStDiaries/status/2106668320267067774",
+          "published_at": "2026-10-04T08:50:42.000Z",
+          "summary": "OPEC+ agreed in principle not to change production targets in November.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Supply policy stays on its current course."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "He relayed the 1.84% TURKSTAT figure for September inflation shared by Şenol Babuşcu and said TURKSTAT again ignored the court ruling to publish average prices.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "TURKSTAT September inflation",
+          "url": "https://x.com/TuncSatiroglu/status/2107006478074913102",
+          "published_at": "2026-10-05T07:14:25.000Z",
+          "summary": "He said TURKSTAT again ignored the court ruling on publishing average prices; the quoted Şenol Babuşcu gave the monthly figure as 1.84%.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "He shared a16z's chart that 98% of US households aren't paying for AI yet and wrote that it was surprising since everyone around him uses it, wondering whether they are in an echo chamber.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Paid AI use in the US at 2%",
+          "url": "https://x.com/MrTradeer/status/2106802936097411237",
+          "published_at": "2026-10-04T17:45:37.000Z",
+          "summary": "He found the figure that only 2% of Americans pay for AI surprising and asked whether they are in an echo chamber.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "He reads **Nvidia** keeping a 72% gross margin floor even if HBM cost rises 91.7% on Rubin R200 as cautiously positive for **Nvidia** and **Micron**. He likes **IREN** beyond JPMorgan's $65 target, because of revenue per MW and energy access; on the Akamai–Anthropic deal he says **Nvidia** is trying to capture the whole AI stack with its Vera CPU.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nvidia's HBM margin cushion",
+          "url": "https://x.com/FinancewithIzzy/status/2106776364536021159",
+          "published_at": "2026-10-04T16:00:01.000Z",
+          "summary": "Per Morgan Stanley Nvidia can absorb a 91.7% HBM cost increase at a 72% gross margin; he reads this as cautiously positive for NVDA and MU.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "The 72% gross margin floor holds even with higher HBM cost."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "HBM pricing may have more room than thought; cautiously positive."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IREN and the energy story",
+          "url": "https://x.com/FinancewithIzzy/status/2106722250930216982",
+          "published_at": "2026-10-04T12:25:00.000Z",
+          "summary": "He sees IREN as an energy play in AI infrastructure because of revenue per MW and 5 GW+ grid connections, more than JPMorgan's $65 target.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "With 5 GW+ secured grid connections and $20-25M revenue per MW, the scarce asset is electricity."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Akamai–Anthropic and Nvidia Vera",
+          "url": "https://x.com/FinancewithIzzy/status/2106689033078182374",
+          "published_at": "2026-10-04T10:13:00.000Z",
+          "summary": "He read Nvidia's Vera CPU in the $11.6B deal as a sign Nvidia is trying to capture the whole AI compute stack.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "The story widens to GPU + CPU + networking + software; CPU revenue passed $5B in the last 12 months."
+            },
+            {
+              "symbol": "AKAM",
+              "sentiment": "neutral",
+              "note": "Expected to use Vera CPUs in its $11.6B deal with Anthropic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "Citing the FT, he shared that Schneider Electric is nearing a ~$20B deal for **PTC** that could be announced Monday, and also posted the day's US data calendar.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Schneider to buy PTC for ~$20B",
+          "url": "https://x.com/wallstengine/status/2106897673907540233",
+          "published_at": "2026-10-05T00:02:04.000Z",
+          "summary": "Per the FT the deal could be announced Monday; PTC has a market value of about $15.6B.",
+          "assets": [
+            {
+              "symbol": "PTC",
+              "sentiment": "neutral",
+              "note": "A ~$20B deal is near; it would be Schneider's largest acquisition."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "He calls **Amazon** his favorite pick: high upside potential relative to low downside risk, average cost $179 and a $300 target. He says the **Bitcoin** chart looks very strong up close and still has room overhead zoomed out.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AMZN is his favorite pick",
+          "url": "https://x.com/jrouldz/status/2106895582124290396",
+          "published_at": "2026-10-04T23:53:45.000Z",
+          "summary": "He called AMZN his favorite pick for high upside versus low downside and wrote that he has built the position for years toward the 2030s.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "Average cost $179; in his old post he said \"SEND IT TO $300\"."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BTC chart looks strong",
+          "url": "https://x.com/jrouldz/status/2106753326138425734",
+          "published_at": "2026-10-04T14:28:29.000Z",
+          "summary": "He wrote Bitcoin looks very strong up close and still has room overhead from afar.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Plenty of ceiling overhead."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "He replied to criticism of the BIST 100 by saying he looks at dollar-based performance and that some academic's objections don't fill his pocket.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "BIST 100 dollar-based performance",
+          "url": "https://x.com/cevikfinance/status/2106686542290780614",
+          "published_at": "2026-10-04T10:03:06.000Z",
+          "summary": "He told those objecting to BIST 100 in a cross-country comparison post that he looks at dollar-based performance.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0998,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2126,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "At 21% it is the portfolio's largest holding; with single-stock risk this concentrated it is worth watching sensitivity to rates and credit-quality news.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: its high weight means it contributes most to the portfolio as growth continues.",
+          "Against: 21% concentration in one name and a rising-rate backdrop (US10Y 5.28% per WallStDiaries) add risk."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1475,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "As the conversion of AI spending into revenue is questioned, Meta's biggest risk is capex; watch how far ad-revenue momentum offsets it.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: strong cash flow and the ad business can fund AI investments.",
+          "Against: per data shared by korkmazali08, AI infrastructure spending is running ahead of revenue."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1383,
+        "mentions": [
+          {
+            "person": "dtfinans_",
+            "sentiment": "positive",
+            "quote": "FOR ME THIS COMPANY IS FREE.",
+            "source_url": "https://x.com/dtfinans_/status/2106822048743842202"
+          },
+          {
+            "person": "korkmazali08",
+            "sentiment": "neutral",
+            "quote": "Broadcom $AVGO: 44.2%",
+            "source_url": "https://x.com/korkmazali08/status/2106759477890269331"
+          }
+        ],
+        "action": "hold",
+        "why": "Per dtfinans_, at 30 EPS and a 30 P/E the stock is worth $900 and the company is \"free\"; a concrete level, but not new information that changes the position.",
+        "opinion": "Its custom-chip (ASIC) share is strong and weight is 14%; the main risks are debt packages taken on for customers like Anthropic and high expectations.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per dtfinans_ there is a 30 EPS expectation and leadership in custom chips.",
+          "Against: per the analysis he quoted, bond yields point to a rising risk premium."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1141,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "As a nuclear component supplier it depends on defense and energy spending; the data that US electricity demand growth slowed (WallStDiaries) deserves a careful read for the theme.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: long-term government contracts give revenue visibility.",
+          "Against: per WallStDiaries US electricity demand growth slowed to 1.4%, which could make energy-theme expectations more selective."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0961,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "An ad-driven, high-expectation stock; sensitive to algorithm and traffic-source changes, weight 9.6%.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: AI data licensing and ad growth can support the story.",
+          "Against: with weak jobs data and high rates, ad budgets and growth stocks may stay volatile."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0779,
+        "mentions": [
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "Bonds, at the point they have reached, clearly offer a good investment alternative. Period.",
+            "source_url": "https://x.com/ulkser/status/2106795987557650462"
+          }
+        ],
+        "action": "hold",
+        "why": "Per ulkser bonds are \"clearly a good investment alternative\" at this level; but the source gives no concrete level or date.",
+        "opinion": "A long-dated US Treasury ETF is highly rate sensitive; US10Y near its high at 5.28% means both opportunity and further-loss risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: ulkser sees bonds as a clearly good alternative at this level.",
+          "Against: per Kobeissi TLT is down 55% from its peak and yields are still rising."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0684,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Dollar-based index access to Turkey; local risks such as inflation data and trust in TURKSTAT should be watched alongside BIST's dollar performance.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: cevikfinance argues BIST 100 should be judged on dollar performance and rejects the critics.",
+          "Against: per Tunç Şatıroğlu, trust in TURKSTAT data remains an issue."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0453,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The electrical-equipment theme depends on AI data-center demand; its small weight (4.5%) limits the risk but the stock could react sharply if theme demand slows.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: as FinancewithIzzy stresses, what is scarce in AI infrastructure is electricity and grid connection.",
+          "Against: per WallStDiaries US electricity demand growth slowed to 1.4%."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "IREN",
+        "name": "IREN",
+        "why": "FinancewithIzzy highlighted IREN as the energy side of AI infrastructure, citing JPMorgan's $65 target and $20-25M revenue per MW.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2106722250930216982"
+      },
+      {
+        "symbol": "AMZN",
+        "name": "Amazon",
+        "why": "jrouldz picked AMZN as his favorite for high upside versus low downside, giving a $300 target and a $179 average cost.",
+        "source_url": "https://x.com/jrouldz/status/2106895582124290396"
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron",
+        "why": "FinancewithIzzy read Morgan Stanley's Nvidia HBM margin analysis as cautiously positive for MU given HBM pricing room.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2106776364536021159"
+      }
+    ]
+  }
+}
