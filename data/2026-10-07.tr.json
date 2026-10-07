@@ -1,0 +1,2284 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T07:31:45Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Hedge fonlar 10 yıllık vadelide rekor açığa satış yapıyor; Bora Özkent TLT'yi kapattı",
+      "person": "Bora Özkent",
+      "why": "Bora Özkent'e göre hedge fonların 10 yıllık vadeli işlemlerdeki açığa satışı 2,04 milyon kontrata çıktı (tarihi ortalama yaklaşık 1 milyon); kendisi zarardaki TLT pozisyonunu vergi gerekçesiyle dün kapattı ama yeniden almayı planlıyor.",
+      "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+    },
+    {
+      "title": "SpaceX, Nvidia çipleri için 40 milyar dolar finansman arıyor",
+      "person": "wallstengine",
+      "why": "FT'ye göre Apollo öncülüğünde yaklaşık 10 milyar dolar banka kredisi ve 30 milyar dolar yatırım yapılabilir borçtan oluşan paket 2027'de kapanacak; Musk Ağustos'ta yalnızca Nvidia'yla inşa kararını açıklamıştı.",
+      "source_url": "https://x.com/wallstengine/status/2107633225648779719"
+    },
+    {
+      "title": "Google ve Constellation 20 yıllık nükleer anlaşma imzaladı",
+      "person": "wallstengine",
+      "why": "PJM şebekesine 11 reaktörde iyileştirmeyle 890 MW eklenecek, 4,3 milyar dolarlık yatırım var; ayrıca 2,7 GW için 15 yıllık tedarik anlaşması yapıldı, ilk artış 2028'de.",
+      "source_url": "https://x.com/wallstengine/status/2107418881900097695"
+    },
+    {
+      "title": "Marvell FY28 gelir beklentisini yaklaşık 20 milyar dolara çıkardı",
+      "person": "wallstengine",
+      "why": "Beklenti 18 milyar dolardan yükseldi, FY31 için 70-90 milyar dolar öngörülüyor; CEO Matt Murphy 2030 yapay zekâ pazarını yaklaşık 400 milyar dolar görüyor (önceki tahmin 2028 için 94 milyar dolar).",
+      "source_url": "https://x.com/wallstengine/status/2107466297374392829"
+    },
+    {
+      "title": "Bugün 21:00'de (TSİ) FOMC tutanakları açıklanıyor",
+      "person": "WallStDiaries",
+      "why": "Fed eylülde üç yıl sonra ilk kez faiz artırmıştı; tutanaklardaki enflasyon riski ve ek sıkılaşma dili 27-28 Ekim toplantısı fiyatlamasını etkileyebilir.",
+      "source_url": "https://x.com/WallStDiaries/status/2107727385063764386"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "ABD tahvil faizleri ve Fed",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Hedge fonların 10 yıllık vadelilerde rekor açığa satış yaptığını, bu yüzden faizlerin zayıf istihdama rağmen düşmediğini söylüyor.",
+          "quote": "10 yıllık vadeli işlemlerdeki pozisyon akışında açığa satışlarda inanılmaz bir hızlanma var.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Bugünkü FOMC tutanaklarının 27-28 Ekim toplantısı fiyatlamasını etkileyebileceğini belirtiyor.",
+          "quote": "Tutanaklar, Fed'in eylül toplantısındaki tartışmaların ayrıntısını gösteriyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2107727385063764386"
+        },
+        {
+          "person": "wallstengine",
+          "view": "ABD 3 yıllık tahvil ihalesi 0,2 baz puan stop-through ile kapandı, teklif/kapama oranı düştü.",
+          "quote": "US 3-YEAR TREASURY AUCTION High yield: 4.932% vs 4.934% WI, a 0.2 bp stop-through",
+          "source_url": "https://x.com/wallstengine/status/2107517683961061629"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Yüksek faizin borsayı baskıladığını ama kâr büyümesinin bunu dengeleyebileceğini söylüyor.",
+          "quote": "Yüksek faiz borsayı baskılar ama tek belirleyici değildir.",
+          "source_url": "https://x.com/korkmazali08/status/2107494520623632529"
+        }
+      ]
+    },
+    {
+      "topic": "Avrupa, Fransa tahvili ve euro",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Euro 17 ayın dibinde; Avrupa'dan uzak durmayı ve Avrupa-Çin gerginliğinin enflasyonu körükleyebileceğini söylüyor.",
+          "quote": "Avrupa'da euro dolar karşısında 17 ayın dibine ulaşmış durumda.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Fransa'nın 10 yıllık faizi %5'e yaklaştı; stres küresel faizleri yukarı çekerse faize duyarlı ABD teknoloji hisseleri risk altında.",
+          "quote": "Fransa’nın 10 yıllık devlet tahvili faizi, 2002’den bu yana en yüksek seviyesine çıkarak %5’e yaklaştı.",
+          "source_url": "https://x.com/korkmazali08/status/2107492573036052900"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "Avrupa'yı büyümeyen, yaşlanan ve kurtulma şansı olmayan bir bölge olarak görüyor.",
+          "quote": "Avrupa artık hasta adam, kurtulma şansı yok.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2107495281621119118"
+        }
+      ]
+    },
+    {
+      "topic": "ABD hisse piyasası: rekorlar, değerleme ve çöküş uyarıları",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Nasdaq'ın rekorunu şirket kârlarıyla açıklıyor; piyasanın yanıldığını, partinin ancak Anthropic halka arzı, geri çekilme veya kredi sıkışmasıyla biteceğini söylüyor.",
+          "quote": "Şirket karları rekor seviyede.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Michael Burry'nin borsanın 2000 ve 2008 öncesi gibi inkâr aşamasında olduğunu söylediğini aktarıyor.",
+          "quote": "Michael Burry’den Piyasa Uyarısı: \"Borsa 2000 ve 2008 Gibi İnkâr Halinde\"",
+          "source_url": "https://x.com/WallStDiaries/status/2107415785010266582"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Ara seçimlerden bir yıl sonra piyasanın ortalama %16 yukarıda olduğunu hatırlatıp düşüşleri alım fırsatı sayıyor.",
+          "quote": "Bildiğim bir şey varsa o da ara seçimlerden 1 yıl sonra piyasanın ortalama %16 daha yukarıda olması.",
+          "source_url": "https://x.com/cevikfinance/status/2107565866560713129"
+        },
+        {
+          "person": "jrouldz",
+          "view": "Geniş endeksleri köpüklü buluyor; büyük sermayeli yüksek uçanları azaltıp küçük şirketlerin düşüşlerini alıyor.",
+          "quote": "So I favor the stock picking strategy over broad indexes (which look frothy)",
+          "source_url": "https://x.com/jrouldz/status/2107554849038668148"
+        },
+        {
+          "person": "ulkser",
+          "view": "Endekslerde net long; haftalık %3 yükselişten sonra kısa iz süren stoplarla sürdürüyor.",
+          "quote": "Bir bacak daha yapiyoruz. 1 haftada %3 endeksler, kisa iz suren stoplarla devam, her an cikmaya hazir sekilde",
+          "source_url": "https://x.com/ulkser/status/2107499250695430236"
+        }
+      ]
+    },
+    {
+      "topic": "Petrol, Husiler ve Suudi Arabistan",
+      "views": [
+        {
+          "person": "ulkser",
+          "view": "WTI'da 89 dolar kritik seviye; aşılamazsa petrol için kötü.",
+          "quote": "$WTI Crude 89 ustune atamazsa gecmis olsun",
+          "source_url": "https://x.com/ulkser/status/2107437973616861345"
+        },
+        {
+          "person": "MrTradeer",
+          "view": "Petrolün dünden beri %6 düştüğünü, itiraz edenlerin analizinin doğru çıktığını söylüyor.",
+          "quote": "%6 düştü dünden beri de petrol? Napalım?",
+          "source_url": "https://x.com/MrTradeer/status/2107479622313209922"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Petrol düşerse Nasdaq'ın uçup uçmayacağını ve Husiler detayını işleyen bir video paylaştı.",
+          "quote": "Petrol Düşerse Nasdaq Uçar mı? ABD 10 Yıllıkları ve Husiler Detayı",
+          "source_url": "https://x.com/TuncSatiroglu/status/2107467540276621586"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "Petrolün biraz gerilemekle birlikte hâlâ yüksek olduğunu söylüyor.",
+          "quote": "Petrol fiyatları da hani biraz gerilemekle beraber hala bayağı yükseklerdir.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        }
+      ]
+    },
+    {
+      "topic": "Yapay zekâ yatırımı: kârlılık, finansman ve halka arz",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Anthropic halka arzının başarısız olmasını partiyi bitirebilecek ilk risk olarak görüyor.",
+          "quote": "Birincisi mesela Antropi'in halka açılışı başarısız giderse bütün parti çöker.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "Yapay zekâdaki kârsızlık ve ağır capex'leri büyük risk olarak görüyor.",
+          "quote": "Leopold, Trump ve kisa vade icin degil de yapay zekadaki karsizlik ve agir capexler büyük risk.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2107477746163253705"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Anthropic'in bu sonbaharda 2 trilyon doların üzerinde değerlemeyle halka arza hazırlandığını aktarıyor.",
+          "quote": "Anthropic is preparing for a potential IPO as early as this fall at a valuation above $2 Trillion.",
+          "source_url": "https://x.com/wallstengine/status/2107411216390119567"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye: PPF tasfiyesi ve SPK ödemeleri",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "SPK'nın avansın herkese verileceğini söylediğini, haber başlıklarının ise 1 milyon üstüne ödeme yapılmayacakmış gibi algılandığını, bunu büyük bir iletişim sorunu olarak görüyor.",
+          "quote": "Spk kendisi zaten avans herkese verilecek ilk başta da ppf lere verilecek dedi.",
+          "source_url": "https://x.com/dtfinans_/status/2107530497811194228"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye: enflasyon ve faiz",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Dünyanın en yüksek beşinci enflasyonuna sahip Türkiye'nin birinci hedefinin fiyat istikrarı olması gerektiğini, faiz indirimi ve kredi büyümesi isteyenleri enflasyon lobisi olarak gördüğünü söylüyor.",
+          "quote": "Dünyanın en yüksek 5. enflasyonun olduğu ülkenin bir numaralı amacı fiyat istikrarı olmalıdır.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2107465778354393487"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "priority": "high",
+      "why": "Üç kişi aynı gün zirve seviyesine dikkat çekti; Bora Özkent değerleme ve büyüme rasyolarını gerekçe gösterdi.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Nvidia dün tüm zamanlar zirvesine ulaştı.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "$NVDA şu anda piyasayı tek başına sırtlıyor gibi… Yeni ATH: $243+",
+          "source_url": "https://x.com/FinancewithIzzy/status/2107484203998970094"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "NVIDIA is now worth $1 Trillion more than Apple.",
+          "source_url": "https://x.com/wallstengine/status/2107481714436222998"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "İki kişi de olumlu; Ali Korkmaz hâlâ ucuz buluyor, ulkser hisseye dikkat çekti.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$AVGO hala ucuz olduğunu düşünüyorum",
+          "source_url": "https://x.com/korkmazali08/status/2107530277056586031"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Bu sese kulak vermeli.",
+          "source_url": "https://x.com/ulkser/status/2107497524424552641"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "priority": "high",
+      "why": "Şirket FY28 gelir hedefini ve 2030 pazar tahminini sert yükseltti; iki kişi olumlu yorum yaptı.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$MRVL herkes shortlarken biz dipleri alıyorduk.",
+          "source_url": "https://x.com/cevikfinance/status/2107473841283014691"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Marvell $MRVL CEO’su, Yatırımcı Günü’nde: “2030’a kadar Marvell için yaklaşık 400 milyar dolarlık toplam potansiyel pazar öngörüyoruz.”",
+          "source_url": "https://x.com/korkmazali08/status/2107462771881476315"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Marvell $MRVL now expects “approximately $20B” in total FY28 revenue, up from $18B previously, and sees $70B-$90B by FY31.",
+          "source_url": "https://x.com/wallstengine/status/2107466297374392829"
+        }
+      ]
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "priority": "high",
+      "why": "Dört kişi Google ile 20 yıllık nükleer anlaşmayı aktardı; cevikfinance net olumlu.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$CEG için bir güzel haber daha.",
+          "source_url": "https://x.com/cevikfinance/status/2107424857835098359"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Google $GOOGL and Constellation $CEG signed a 20-year nuclear power deal to add 890 MW to the PJM grid through upgrades at 11 reactors, backed by $4.3B in investment.",
+          "source_url": "https://x.com/wallstengine/status/2107418881900097695"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$CEG, Google $GOOGL ile 20 yıllık, 890 MW’lık nükleer enerji anlaşması sonrası piyasa öncesinde %7’den fazla yükseldi.",
+          "source_url": "https://x.com/korkmazali08/status/2107459273236090956"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Anlaşma kapsamında şebekeye 890 megavatlık yeni nükleer kapasite kazandırılacak ve tesis iyileştirmeleri için 4,3 milyar dolardan fazla yatırım yapılacak.",
+          "source_url": "https://x.com/WallStDiaries/status/2107482974966984864"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "Üç kaynak aynı gün konuştu: Bora Özkent ve Ali Korkmaz olumlu, FT 40 milyar dolarlık finansman arayışını duyurdu.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Ama eğer uzaya inanıyorsanız, yapay zekaya inanıyorsanız, süper yapay zekaya inanıyorsanız SpaceX'te olmanız lazım.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "7 ağustosdan bu yana geçen sürede $SPCX Market cap 1,7 trilyon dolardan 2.3 Trilyon dolara ulaştı :) Ve hissede %51 gibi bir yükseliş yakalanmış oldu.",
+          "source_url": "https://x.com/korkmazali08/status/2107511357465915689"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "SpaceX is looking to raise about $40B in financing led by Apollo to fund purchases of Nvidia chips.",
+          "source_url": "https://x.com/wallstengine/status/2107633225648779719"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "priority": "high",
+      "why": "Bora Özkent bellek kıtlığı tezini savundu; Ahmet Sunelcan ve Heisenberg temkinli, Netlist uzlaşması yeni gelişme.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "O yüzden rahat olduğum bir yatırım.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "Bellek tarafında da biraz daha gitmesi lazım.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2107476238709272665"
+        },
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "Peki marjlar neden artmıyor MU'da?",
+          "source_url": "https://x.com/heisenbergtrx/status/2107442146311569855"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Micron $MU will pay Netlist a total of $600M, $30M a quarter from Q4 2026 to Q3 2031, under patent license and settlement deals that end all pending litigation between them.",
+          "source_url": "https://x.com/wallstengine/status/2107442889014026518"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "priority": "high",
+      "why": "Bora Özkent temel sorunlar sürüyor derken Mizuho hedef fiyatı $92'den $114'e çıkardı; görüşler ters düştü.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Fakat şirketin özündeki problemler bence hala bitmiyor.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Intel için ise $114'a ($92'den) çıkardı.",
+          "source_url": "https://x.com/WallStDiaries/status/2107484554415993093"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$AMAT and $INTC are expanding their R&D partnership to develop next-generation transistors, interconnects and advanced packaging for AI chips.",
+          "source_url": "https://x.com/wallstengine/status/2107456783468093914"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "priority": "high",
+      "why": "Mizuho hedef fiyatı $705'a çıkardı, FinancewithIzzy ise Lisa Su'nun arz artışı vaadini temkinle karşıladı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "AMD için hedef fiyatını $705'a ($580'den)",
+          "source_url": "https://x.com/WallStDiaries/status/2107484554415993093"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "Bir CEO böyle konuşmaya başladığında ben biraz huylanıyorum.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2107493585717477615"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "priority": "medium",
+      "why": "Ali Korkmaz 15 Ekim bilançosu için beklentileri ve analist hedeflerini somut rakamlarla aktardı.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Barclays, “Endeks Üzeri Getiri” tavsiyesini koruyarak hedef fiyatını 650 dolardan 665 dolara yükseltti.",
+          "source_url": "https://x.com/korkmazali08/status/2107460288198889848"
+        }
+      ]
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "priority": "medium",
+      "why": "cevikfinance SoFi'yi en mantıklı üç hisseden biri olarak saydı.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "SOFI, APP ve ORCL en mantıklı olanlar.",
+          "source_url": "https://x.com/cevikfinance/status/2107571217834049744"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Kimler var burada? Meta mesela örneklerinden bir tanesi.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "priority": "high",
+      "why": "Ahmet Sunelcan pozisyonu artırdı, WallStDiaries operasyonel ilerleme ile fiyat arasındaki uyumsuzluğa dikkat çekti.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$ASTS arttırıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2107488423330398700"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Bir yıl önce 74 dolar seviyelerinde işlem gören hissenin bugün 58 dolara çekilerek yüzde 21 değer kaybetmesi, şirketin kaydettiği operasyonel sıçramayla derin bir uyumsuzluk gösteriyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2107524034569158683"
+        }
+      ]
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan portföye ekledi ve gerekçesini (nakit, uzun vade) yazdı.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$OKLO portföye eklendi.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2107467824729923767"
+        }
+      ]
+    },
+    {
+      "symbol": "PENG",
+      "name": "Penguin Solutions",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan bilanço sonrası olumlu; gelir beklentinin üzerinde, FY27 yönlendirmesi yükseldi.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$PENG ´den gene sağlam performans.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2107564186939031697"
+        }
+      ]
+    },
+    {
+      "symbol": "CRDO",
+      "name": "Credo Technology",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan pozisyonu çok az azalttı.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$CRDO çok çok az azaltıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2107469369546588395"
+        }
+      ]
+    },
+    {
+      "symbol": "SMTC",
+      "name": "Semtech",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan pozisyonu azalttı.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$SMTC azaltıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2107464787932152253"
+        }
+      ]
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan hisseyi hep pahalı bulduğunu söyledi.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "5 yildir pahali hele ki Palo Alto´yu aklim almiyor.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2107468745799327818"
+        }
+      ]
+    },
+    {
+      "symbol": "WOLF",
+      "name": "Wolfspeed",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan SiC gelirindeki artışı ve bilanço risklerini sayıp küçük pozisyon belirtti.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "Yüksek riskli, izleme seviyesinde küçük bir pozisyon.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2107448835416949212"
+        }
+      ]
+    },
+    {
+      "symbol": "WDC",
+      "name": "Western Digital",
+      "priority": "high",
+      "why": "Toshiba'nın kapasite artışı ve TDK birimi haberi hisseyi düşürdü; analistler aşırı tepki dedi.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$WDC ve $STX, Bloomberg’in Seagate ve Toshiba’nın TDK’nın HDD’lerde kullanılan manyetik okuma/yazma kafası birimini satın almak için yarıştığı haberi sonrası sırasıyla yaklaşık %7 ve %8 geriledi.",
+          "source_url": "https://x.com/korkmazali08/status/2107493835894890873"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Piyasadaki arz fazlası ve fiyatlama gücü kaybı endişelerine karşın Wall Street analistleri bu düşüşü aşırı tepki olarak değerlendiriyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2107490576727736776"
+        }
+      ]
+    },
+    {
+      "symbol": "STX",
+      "name": "Seagate",
+      "priority": "high",
+      "why": "Seagate haberi ve analistlerin aşırı tepki yorumu WDC ile aynı gün geldi.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$WDC ve $STX, Bloomberg’in Seagate ve Toshiba’nın TDK’nın HDD’lerde kullanılan manyetik okuma/yazma kafası birimini satın almak için yarıştığı haberi sonrası sırasıyla yaklaşık %7 ve %8 geriledi.",
+          "source_url": "https://x.com/korkmazali08/status/2107493835894890873"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Citi, Morgan Stanley ve Bernstein analizlerine göre, sektördeki mevcut arz açığının büyüklüğü sebebiyle Toshiba'nın kapasite artışı pazardaki arz sıkıntısını sonlandırmaya yetmeyecek.",
+          "source_url": "https://x.com/WallStDiaries/status/2107490576727736776"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "medium",
+      "why": "Ali Korkmaz Blue Origin ile gelir çarpanı karşılaştırması yaptı ve Neutron'u kritik buldu.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Bu farkı kapatmak için RKLB’de kritik olan: Neutron’un başarılı uçuşu ve sözleşmelerin gelire dönüşmesi",
+          "source_url": "https://x.com/korkmazali08/status/2107616349094559991"
+        }
+      ]
+    },
+    {
+      "symbol": "APLD",
+      "name": "Applied Digital",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Applied Digital, Finlandiya’da 1 gigavata (GW) kadar güç kapasitesi sağlayan anlaşmaya imza atarak ABD dışındaki ilk uluslararası veri merkezi yatırımını duyurdu.",
+          "source_url": "https://x.com/WallStDiaries/status/2107418085795725703"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$APLD is expanding internationally, securing access to up to 1 GW of potential power capacity in Finland for a planned AI data center campus.",
+          "source_url": "https://x.com/wallstengine/status/2107413053985960042"
+        }
+      ]
+    },
+    {
+      "symbol": "UBER",
+      "name": "Uber",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$UBER TO ACQUIRE EZCATER FOR $2.3B IN CASH, EXPANDING UBER EATS INTO CATERING",
+          "source_url": "https://x.com/wallstengine/status/2107447771905327175"
+        }
+      ]
+    },
+    {
+      "symbol": "ET",
+      "name": "Energy Transfer",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Energy Transfer $ET will acquire Vaquero Midstream in a $2.625B deal, expanding its Delaware Basin footprint.",
+          "source_url": "https://x.com/wallstengine/status/2107436162206109819"
+        }
+      ]
+    },
+    {
+      "symbol": "T",
+      "name": "AT&T",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "AT&T $T IS forming a 50/50 fiber JV with BlackRock’s GIP and CPP Investments, combining the Lumen fiber assets it recently acquired with its existing Gigapower venture.",
+          "source_url": "https://x.com/wallstengine/status/2107476491319775382"
+        }
+      ]
+    },
+    {
+      "symbol": "LNG",
+      "name": "Venture Global",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "$LNG Venture Global Çinli Alıcılarla LNG Satış Görüşmelerini Genişletiyor",
+          "source_url": "https://x.com/WallStDiaries/status/2107506264280289782"
+        }
+      ]
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra",
+      "priority": "medium",
+      "why": "dtfinans_ hisseyi daha önce önerdiğini hatırlatıp olumlu bakışını sürdürdü.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "Daha önce bedava para diye anlatmıştım bu $VST’yi",
+          "source_url": "https://x.com/dtfinans_/status/2107703330441244876"
+        }
+      ]
+    },
+    {
+      "symbol": "DNA",
+      "name": "Ginkgo Bioworks",
+      "priority": "medium",
+      "why": "jrouldz kâr hedefinin aşıldığını ve 5 haftada %78 getiriyi aktardı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "maybe I’m a bag holder now but then again I’m still up 78% in 5 weeks",
+          "source_url": "https://x.com/jrouldz/status/2107552083922784424"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ (Nasdaq 100)",
+      "priority": "high",
+      "why": "Üç kişi endeks için olumlu: Bora Özkent teknik görünümü, ulkser net long pozisyonu, jrouldz boğa piyasası beklentisini verdi.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Spy ETF'i bütün ortalamaların üzerinde. QQQ aynı şekilde.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Bir bacak daha yapiyoruz. 1 haftada %3 endeksler, kisa iz suren stoplarla devam, her an cikmaya hazir sekilde",
+          "source_url": "https://x.com/ulkser/status/2107499250695430236"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$QQQ will outperform QQQI in bull market",
+          "source_url": "https://x.com/jrouldz/status/2107729620577718754"
+        }
+      ]
+    },
+    {
+      "symbol": "SMH",
+      "name": "VanEck Semiconductor ETF",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Bizim ağırlıklı yatırımda olduğumuz SMH'te de durum farklı değil.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQI",
+      "name": "NEOS Nasdaq-100 High Income ETF",
+      "priority": "medium",
+      "why": "jrouldz getiri odaklı favorilerinden biri ve yatay/düşen piyasada QQQ'yu geride bırakacağını söyledi.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$QQQI and $OMAH are my favorites in terms of yield.",
+          "source_url": "https://x.com/jrouldz/status/2107728328291697150"
+        }
+      ]
+    },
+    {
+      "symbol": "OMAH",
+      "name": "Berkshire Hathaway Covered Call Income ETF (OMAH)",
+      "priority": "medium",
+      "why": "jrouldz getiri odaklı favorileri arasında saydı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$QQQI and $OMAH are my favorites in terms of yield.",
+          "source_url": "https://x.com/jrouldz/status/2107728328291697150"
+        }
+      ]
+    },
+    {
+      "symbol": "WTI",
+      "name": "WTI ham petrol",
+      "priority": "medium",
+      "why": "ulkser net seviye verdi: 89 aşılamazsa petrol için kötü.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "$WTI Crude 89 ustune atamazsa gecmis olsun",
+          "source_url": "https://x.com/ulkser/status/2107437973616861345"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent petrol",
+      "priority": "high",
+      "why": "MrTradeer petrolün %6 düştüğünü, Tunç Şatıroğlu aynı gün Husi ve petrol videosunu paylaştı; Brent 101 doların üzerinde.",
+      "mentions": [
+        {
+          "person": "MrTradeer",
+          "sentiment": "negative",
+          "quote": "%6 düştü dünden beri de petrol? Napalım?",
+          "source_url": "https://x.com/MrTradeer/status/2107479622313209922"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "neutral",
+          "quote": "Petrol Düşerse Nasdaq Uçar mı? ABD 10 Yıllıkları ve Husiler Detayı",
+          "source_url": "https://x.com/TuncSatiroglu/status/2107467540276621586"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Brent Petrol: 101,44 (%0,85)",
+          "source_url": "https://x.com/WallStDiaries/status/2107721013777543468"
+        }
+      ]
+    },
+    {
+      "symbol": "US10Y",
+      "name": "ABD 10 yıllık tahvil faizi",
+      "priority": "high",
+      "why": "Bora Özkent rekor açığa satış verisini aktardı, WallStDiaries faizi %5,3 civarında gösterdi, korkmazali08 Fransa tahvilinin baskısını anlattı.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "10 yıllık vadeli işlemlerdeki pozisyon akışında açığa satışlarda inanılmaz bir hızlanma var.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "10 yıllık Treasury faizi %5,3 civarında seyretti.",
+          "source_url": "https://x.com/WallStDiaries/status/2107721013777543468"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "Fransız tahvil piyasasındaki stresin küresel tahvil faizlerini yukarı çekmesi hâlinde, en büyük riski ABD hisseleri, özellikle de faizlere duyarlı teknoloji şirketleri taşıyor.",
+          "source_url": "https://x.com/korkmazali08/status/2107492573036052900"
+        }
+      ]
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "priority": "high",
+      "why": "Bora Özkent pozisyonu dün kapattı ama yeniden almayı planlıyor; tarih, neden ve niyet net.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Ondan vazgeçtim. O pozisyonumu kapattım.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        }
+      ]
+    },
+    {
+      "symbol": "EURUSD",
+      "name": "Euro/dolar",
+      "priority": "medium",
+      "why": "Bora Özkent euronun 17 ayın dibinde olduğunu söyleyip Avrupa'dan uzak durmayı öneriyor.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Avrupa'da euro dolar karşısında 17 ayın dibine ulaşmış durumda.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        }
+      ]
+    },
+    {
+      "symbol": "FR10Y",
+      "name": "Fransa 10 yıllık tahvil faizi",
+      "priority": "medium",
+      "why": "Ali Korkmaz faizin 2002'den bu yana en yüksek seviyeye, %5'e yaklaştığını aktardı.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "Fransa’nın 10 yıllık devlet tahvili faizi, 2002’den bu yana en yüksek seviyesine çıkarak %5’e yaklaştı.",
+          "source_url": "https://x.com/korkmazali08/status/2107492573036052900"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Bitcoin'de zirveleri zorluyor.",
+          "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+        }
+      ]
+    },
+    {
+      "symbol": "DAX",
+      "name": "DAX endeksi",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "$DAX scalp tarafta gelecegi gordugum dogrudur.",
+          "source_url": "https://x.com/ulkser/status/2107467653153476676"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent'in dünkü bülteni Nasdaq'ın neden faizlere aldırmadığını anlatıyor: ona göre borsa değil, doğru şirketler yükseliyor ve S&P 500 şirketlerinin kârları rekor seviyede. Nvidia zirveye çıktı, SpaceX tek günde %7,6 yükseldi ve o \"boğazına kadar\" hisse senedinde; ama partiyi bitirebilecek riskleri Anthropic halka arzının başarısız olması, borsada geri çekilme ve kredi sıkışması olarak sayıyor. Faiz tarafında hedge fonların 10 yıllık vadeli işlemlerde rekor açığa satış yaptığını, bu yüzden zarardaki TLT pozisyonunu vergi gerekçesiyle kapattığını ama yeniden almayı planladığını söylüyor. Avrupa'dan uzak durmayı öneriyor: euro dolar karşısında 17 ayın dibinde.\n\nHisse tarafında Micron'da bellek kıtlığı tezini koruyor, Intel'in temel sorunlarının bitmediğini düşünüyor. Seçimlere doğru geri çekilme olabileceğini ama kendi pozisyonunu büyük ölçüde hisse senedinde tuttuğunu ekliyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Nasdaq Neden Faizlere Aldırmıyor?",
+          "url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U",
+          "published_at": "2026-10-06T09:30:37+00:00",
+          "summary": "Bora Özkent, Nasdaq'ın yüksek faiz, pahalı petrol ve jeopolitik risklere rağmen zirve yapmasını şirket kârlarıyla açıklıyor: S&P 500 şirketlerinin vergi öncesi kârı 4,7 trilyon dolar, yıllık serbest nakit akışı 4,6 trilyon dolar ve bunu taşıyan yapay zekâ şirketleri. Dün S&P 500 %0,67, Nasdaq %1,05 yükseldi; ona göre yükselen borsa değil doğru hisseler ve değer hisseleri geride kaldı. Partiyi bitirebilecek riskler Anthropic halka arzının başarısız olması, borsalarda geri çekilme ve OpenAI ile Anthropic'in yeni krediye ve yatırımcıya bağımlılığı. Hedge fonların 10 yıllık vadeli işlemlerde rekor 2,04 milyon kontratlık açığa satış yaptığını (tarihi ortalama yaklaşık 1 milyon) söylüyor; zarardaki TLT pozisyonunu vergi nedeniyle dün kapattı ama yeniden almayı planlıyor. Euro dolar karşısında 17 ayın dibinde; Avrupa'dan uzak durulmasını ve Avrupa-Çin gerginliğinin enflasyonu körükleyebileceğini söylüyor. Nvidia tüm zamanların zirvesinde ve 6 trilyon dolara yaklaşık 350 milyar dolar kaldı; Foxconn'un %47 ciro artışı ve forward F/K'nın 25-26'dan 19,8'e inmesiyle hisseyi pahalı bulmuyor. Micron için Barron's'ın Ağustos'ta bellek fiyatlarında %36 artış ve 2030'a kadar kıtlık öngördüğünü aktarıyor; Intel'de ise GPU üretemediğini ve temel sorunların sürdüğünü söylüyor. SpaceX dün %7,6 yükseldi, bir rapor 300 dolar civarı fiyat öngörüyor; yine de hisseyi çok pahalı buluyor ve piyasa bozulursa sert satış riski görüyor. Seçimlere doğru geri çekilme olabileceğini ama kendisinin \"boğazına kadar\" hisse senedinde olduğunu söylüyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Zirvede, forward F/K 19,8 ve PEG 0,23 ile pahalı bulmuyor; 6 trilyon dolara yaklaşık 350 milyar dolar kaldı."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Barron's'a göre Ağustos'ta bellek fiyatları %36 arttı ve kıtlık 2030'a sürebilir; rahat olduğu bir yatırım."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "negative",
+              "note": "GPU üretemiyor, temel sorunlar sürüyor; CPU güçlenmesi hisseyi yukarı çekti."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Dün %7,6 yükseldi; yine de çok pahalı, piyasa bozulursa sert satılabilir."
+            },
+            {
+              "symbol": "TLT",
+              "sentiment": "neutral",
+              "note": "Zarardaki pozisyonu vergi için dün kapattı, yeniden almayı planlıyor."
+            },
+            {
+              "symbol": "US10Y",
+              "sentiment": "negative",
+              "note": "Hedge fonların rekor açığa satışı faizi yukarı itiyor; sert geri dönüş de olabilir."
+            },
+            {
+              "symbol": "EURUSD",
+              "sentiment": "negative",
+              "note": "Euro 17 ayın dibinde; Avrupa'dan uzak durulmasını savunuyor."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "SPY, QQQ ve SMH bütün ortalamaların üzerinde."
+            },
+            {
+              "symbol": "SMH",
+              "sentiment": "positive",
+              "note": "Ağırlıklı yatırımda olduğu SMH'te teknik görünüm iyi."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Son bir ayda büyük büyüme hisselerinin yükselişine örnek olarak verdi."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "Bitcoin zirveleri zorluyor, günü 86.000'e yakın kapattı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg bugün iki noktada değerleme eleştirisi yapıyor. Piyasa değeri 2 trilyon dolar olan bir şirketin 200 kat büyüyerek 400 trilyon dolara çıkacağını söyleyenlere, dünyadaki tüm borsaların toplam değerinin 160 trilyon dolar olduğunu hatırlatıyor. Bir diğer cevapta bir hissenin 1.200 dolardan 760 dolara düşmesini marjların değerlemedeki rolüyle açıklıyor, **MU**'da marjların neden artmadığını da soruyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "200 kat büyüme tezine değerleme tepkisi",
+          "url": "https://x.com/heisenbergtrx/status/2107458277738983489",
+          "published_at": "2026-10-06T13:09:42.000Z",
+          "summary": "Heisenberg, 2 trilyon dolarlık bir şirketin 200 kat büyümesinin 400 trilyon dolar edeceğini, tüm dünya borsalarının toplam değerinin ise 160 trilyon dolar olduğunu hatırlatıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Marjların değerlemedeki rolü",
+          "url": "https://x.com/heisenbergtrx/status/2107446147711201662",
+          "published_at": "2026-10-06T12:21:30.000Z",
+          "summary": "Heisenberg, hissenin 1.200 dolarda \"süper ucuz\" denirken uyardığını, hissenin gap bölgesi olan 760 dolara kadar düştüğünü ve şişmiş IV ile call alanların primlerinin eridiğini yazıyor. Marjların yönünün değerlemeyi belirlediğini, bugünün ucuzunun marjlar daralınca yarının pahalısı olabileceğini söylüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "MU'da marjlar neden artmıyor?",
+          "url": "https://x.com/heisenbergtrx/status/2107442146311569855",
+          "published_at": "2026-10-06T12:05:36.000Z",
+          "summary": "Heisenberg, A++ bilançoya rağmen Micron'da marjların neden artmadığını ve hissenin neden rokete bağlamadığını soruyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "A++ bilançoya rağmen marjlar neden artmıyor diye soruyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser ABD endekslerinde net long olduğunu söylüyor: **SPY** ve **QQQ**'da bir haftada %3'lük yükseliş sonrası kısa iz süren stoplarla devam ediyor ve tahvillerde gevşemenin bir bacak daha yukarı getirebileceğini yazıyor. **AVGO**'ya dikkat çekiyor, **WTI** için 89 doların aşılamaması halinde petrolde sorun olacağını söylüyor ve **DAX**'taki kısa vadeli işlemini doğru buluyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ABD endekslerinde bir bacak daha",
+          "url": "https://x.com/ulkser/status/2107499250695430236",
+          "published_at": "2026-10-06T15:52:31.000Z",
+          "summary": "ulkser, endekslerin bir haftada %3 yükseldiğini, kısa iz süren stoplarla ve çıkışa hazır şekilde devam ettiğini yazıyor; kendi eski tweet'inde tahvillerde gevşemenin bir bacak daha yukarı getirebileceğini ve portföyünün net long olduğunu belirtmişti.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Haftada %3 yükseliş sonrası kısa stoplarla long devam ediyor."
+            },
+            {
+              "symbol": "SPY",
+              "sentiment": "positive",
+              "note": "Net long, çıkışa hazır."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AVGO için dikkat çağrısı",
+          "url": "https://x.com/ulkser/status/2107497524424552641",
+          "published_at": "2026-10-06T15:45:39.000Z",
+          "summary": "ulkser, Mert Balbaba'nın AVGO'nun %5 yükseldiği ve bence daha yeni başlıyoruz yorumunu paylaşıp \"Bu sese kulak vermeli\" diyor.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Hissenin daha yeni başladığı görüşüne katılıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "DAX'ta kısa vadeli işlem",
+          "url": "https://x.com/ulkser/status/2107467653153476676",
+          "published_at": "2026-10-06T13:46:58.000Z",
+          "summary": "ulkser, DAX'ta kısa vadeli (scalp) tarafta gelecek hareketi doğru gördüğünü söylüyor.",
+          "assets": [
+            {
+              "symbol": "DAX",
+              "sentiment": "neutral",
+              "note": "Scalp tarafta gördüğü hareketin doğru çıktığını söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "WTI için 89 seviyesi",
+          "url": "https://x.com/ulkser/status/2107437973616861345",
+          "published_at": "2026-10-06T11:49:01.000Z",
+          "summary": "ulkser, WTI ham petrolün 89 doları aşamazsa petrol için kötü olacağını yazıyor.",
+          "assets": [
+            {
+              "symbol": "WTI",
+              "sentiment": "negative",
+              "note": "89 doların üzerine atamazsa sorun olur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan yapay zekâ donanımcılarındaki pozisyonlarını verebileceği fiyatlardan yavaş yavaş azaltıp, 1 yılda %60-90 düşmüş hikâye hisselerine ve patlama ihtimali olan teknolojilere daha küçük ağırlıklarla yöneliyor. Bu doğrultuda **CRDO** ve **SMTC**'yi azalttı, **OKLO**'yu portföye ekledi, **ASTS**'yi artırdı ve **PENG**'in güçlü bilançosunu paylaştı. Optik hissesinde maliyetinin 151 dolar olduğunu ve yükseldikçe azalttığını, Palo Alto'yu hiç ucuz bulmadığını söylüyor.\n\nMakroda ise yapay zekâdaki kârsızlık ve ağır capex'i büyük risk sayıyor, Avrupa'yı büyüme olmayan, borçlu ve yaşlanan bir kıta olarak görüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PENG bilançosu",
+          "url": "https://x.com/AhmetSunelcan1/status/2107564186939031697",
+          "published_at": "2026-10-06T20:10:33.000Z",
+          "summary": "Ahmet Sunelcan, Penguin Solutions'ın güçlü çeyreğini paylaşıyor: gelir 566,7 milyon dolar (beklenti yaklaşık 520 milyon), FY27 gelir yönlendirmesi 2,43 milyar dolara çıkarıldı.",
+          "assets": [
+            {
+              "symbol": "PENG",
+              "sentiment": "positive",
+              "note": "Bilançoda gelir ve EPS beklentiyi aştı; \"görevini yaptı\" diyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Avrupa için karamsar görüş",
+          "url": "https://x.com/AhmetSunelcan1/status/2107495281621119118",
+          "published_at": "2026-10-06T15:36:45.000Z",
+          "summary": "Ahmet Sunelcan, Avrupa'yı yaşlanan, büyümeyen ve lüks tüketim ile eski tip sanayiyle idare etmeye çalışan bir \"hasta adam\" olarak tanımlıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Avrupa borç ve büyüme",
+          "url": "https://x.com/AhmetSunelcan1/status/2107492887357186318",
+          "published_at": "2026-10-06T15:27:14.000Z",
+          "summary": "Ahmet Sunelcan, Avrupa'nın borçlu bir kıta olduğunu, büyüme olsa borcun önemli olmayacağını ama büyümenin de olmadığını söylüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "OKLO ve SMR riski",
+          "url": "https://x.com/AhmetSunelcan1/status/2107492143467995152",
+          "published_at": "2026-10-06T15:24:16.000Z",
+          "summary": "Ahmet Sunelcan, SMR teknolojisi çalışırsa Oklo'nun Meta siparişlerinin çok büyük olduğunu ve ekonomi ne olursa olsun şirketi roketleyeceğini ama bu ihtimal nedeniyle az giriş yaptığını söylüyor.",
+          "assets": [
+            {
+              "symbol": "OKLO",
+              "sentiment": "positive",
+              "note": "SMR çalışırsa Meta siparişleri şirketi roketletebilir; teknoloji riski nedeniyle az giriyor."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Oklo'nun büyük müşterisi olarak anıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ASTS artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2107488423330398700",
+          "published_at": "2026-10-06T15:09:30.000Z",
+          "summary": "Ahmet Sunelcan, ASTS pozisyonunu artırdığını bildiriyor.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "positive",
+              "note": "Pozisyon artırıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yapay zekâda kârsızlık ve capex riski",
+          "url": "https://x.com/AhmetSunelcan1/status/2107477746163253705",
+          "published_at": "2026-10-06T14:27:04.000Z",
+          "summary": "Ahmet Sunelcan, Leopold'a yanıt olarak Trump ve kısa vadeden çok yapay zekâdaki kârsızlık ve ağır capex'leri büyük risk olarak görüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Yapay zekâ donanımında azaltma stratejisi",
+          "url": "https://x.com/AhmetSunelcan1/status/2107476238709272665",
+          "published_at": "2026-10-06T14:21:04.000Z",
+          "summary": "Ahmet Sunelcan, verebileceği fiyatlardan yapay zekâ donanımcılarındaki pozisyonları azaltıp 1 yılda %60-90 düşmüş hikâye hisselerini veya patlama ihtimali olan teknolojileri daha az ağırlıkta almaya çalıştığını söylüyor. Bellek tarafında biraz daha yükseliş gerektiğini, buralardan verirse bedavaya mal kaptırmış gibi hissedeceğini belirtiyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Bellek tarafında biraz daha yükseliş gerekiyor; buradan vermek istemiyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Optik hissesinde kademeli azaltma",
+          "url": "https://x.com/AhmetSunelcan1/status/2107470714014204035",
+          "published_at": "2026-10-06T13:59:07.000Z",
+          "summary": "Ahmet Sunelcan, optik tarafının portföyde büyük yer kapladığı için risk olduğunu, efektif maliyetinin 151 dolar olduğunu ve yükseldikçe yavaş yavaş azalttığını söylüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "CRDO azaltıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2107469369546588395",
+          "published_at": "2026-10-06T13:53:47.000Z",
+          "summary": "Ahmet Sunelcan, CRDO pozisyonunu çok az azalttığını bildiriyor.",
+          "assets": [
+            {
+              "symbol": "CRDO",
+              "sentiment": "negative",
+              "note": "Pozisyon çok az azaltıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Palo Alto değerlemesi",
+          "url": "https://x.com/AhmetSunelcan1/status/2107468745799327818",
+          "published_at": "2026-10-06T13:51:18.000Z",
+          "summary": "Ahmet Sunelcan, 5 yıldır pahalı bulduğunu, özellikle Palo Alto'yu hiç ucuz ya da makul bulamadığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "PANW",
+              "sentiment": "negative",
+              "note": "Düştüğü dönemde bile pahalı geliyordu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "OKLO portföye eklendi",
+          "url": "https://x.com/AhmetSunelcan1/status/2107467824729923767",
+          "published_at": "2026-10-06T13:47:38.000Z",
+          "summary": "Ahmet Sunelcan, Oklo'yu portföye eklediğini yazıyor: teknik görünümü kötü ve gelir 2029'dan sonraya kalacak, ama piyasa değerinin yarısı kadar nakdi var ve ileride patlama yapabilir.",
+          "assets": [
+            {
+              "symbol": "OKLO",
+              "sentiment": "positive",
+              "note": "Teknik görünüm kötü, gelir 2029 sonrası; piyasa değerinin yarısı nakit olduğu için ekledi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SMTC azaltıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2107464787932152253",
+          "published_at": "2026-10-06T13:35:34.000Z",
+          "summary": "Ahmet Sunelcan, SMTC pozisyonunu azalttığını bildiriyor.",
+          "assets": [
+            {
+              "symbol": "SMTC",
+              "sentiment": "negative",
+              "note": "Pozisyon azaltıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Wolfspeed için küçük pozisyon",
+          "url": "https://x.com/AhmetSunelcan1/status/2107448835416949212",
+          "published_at": "2026-10-06T12:32:11.000Z",
+          "summary": "Ahmet Sunelcan, 800 V veri merkezi güç mimarisinde SiC'nin kritik olduğunu ve Wolfspeed'in bu segmentteki gelirinin yıllık 2 katına çıktığını yazıyor; bilanço sağlığı kötü (negatif brüt marj, yüksek faizli borç) ve Çin kaynaklı fiyat baskısı ciddi, ama doluluk artarsa operasyonel kaldıraç güçlü olabilir. Yüksek riskli, izleme seviyesinde küçük bir pozisyon.",
+          "assets": [
+            {
+              "symbol": "WOLF",
+              "sentiment": "neutral",
+              "note": "Bilanço zayıf ama doluluk artarsa operasyonel kaldıraç güçlü; küçük pozisyon."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz bugün **Broadcom**'un hâlâ ucuz olduğunu, **SpaceX**'in 2,5 trilyon dolara gidebileceğini ve **Marvell**'in dipten alındığını savunuyor. Haber akışında **TSMC** bilançosu, **Constellation**-Google nükleer anlaşması ve Fransa tahvil faizinin %5'e yaklaşması öne çıkıyor. Yüksek faizin borsayı baskıladığını ama kâr büyümesinin dengeleyebileceğini söylüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SpaceX Nvidia çipi için 40 milyar dolar arıyor",
+          "url": "https://x.com/korkmazali08/status/2107643325486624786",
+          "published_at": "2026-10-07T01:25:01.000Z",
+          "summary": "Ali Korkmaz, FT'nin SpaceX'in Nvidia çipi almak için 40 milyar dolarlık finansman aradığını bildirmesinin ardından hissenin seans sonrası yaklaşık %2 gerilediğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Seans sonrası yaklaşık %2 geriledi."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "SpaceX'in çip alımı finansmanının konusu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Blue Origin ve Rocket Lab değerleme farkı",
+          "url": "https://x.com/korkmazali08/status/2107616349094559991",
+          "published_at": "2026-10-06T23:37:49.000Z",
+          "summary": "Ali Korkmaz, WSJ'ye göre Blue Origin'in yatırım turunda 140 milyar dolar değerlendiğini, bunun 2026 beklenen gelire 100 kat, Rocket Lab'in ise 47 kat olduğunu aktarıyor; farkı kapatmak için Neutron'un başarılı uçuşunu ve sözleşmelerin gelire dönüşmesini kritik görüyor.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Neutron'un başarılı uçuşu ve sözleşmelerin gelire dönüşmesi kritik."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AVGO hâlâ ucuz",
+          "url": "https://x.com/korkmazali08/status/2107530277056586031",
+          "published_at": "2026-10-06T17:55:48.000Z",
+          "summary": "Ali Korkmaz, kendi eski tweet'iyle Broadcom'un hâlâ ucuz olduğunu savunuyor: UBS 470 dolar hedefle Al diyor, Wall Street ortalaması yaklaşık 519 dolar; üçüncü çeyrekte gelir %86, yapay zekâ çip geliri %221 arttı ve yönetim yapay zekâ gelirinin 2026'da 58 milyar dolardan 2027'de 115 milyar dolara çıkmasını bekliyor.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "UBS 470 dolar hedefle Al, Wall Street ortalaması yaklaşık 519 dolar; yapay zekâ geliri 2027'de 115 milyar dolar bekleniyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX piyasa değeri 2,3 trilyon dolara çıktı",
+          "url": "https://x.com/korkmazali08/status/2107511357465915689",
+          "published_at": "2026-10-06T16:40:37.000Z",
+          "summary": "Ali Korkmaz, 7 Ağustos'tan bu yana SpaceX'in piyasa değerinin 1,7 trilyon dolardan 2,3 trilyon dolara çıktığını ve hissenin %51 yükseldiğini yazıyor; eski tweet'inde yakın vadede 2,5 trilyon dolar beklediğini söylemişti.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Market cap 1,7 trilyon dolardan 2,3 trilyon dolara çıktı, 2,5 trilyon dolar bekliyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yüksek faiz borsayı baskılar ama tek belirleyici değil",
+          "url": "https://x.com/korkmazali08/status/2107494520623632529",
+          "published_at": "2026-10-06T15:33:43.000Z",
+          "summary": "Ali Korkmaz, bir takipçisinin ABD'de yüksek faizin borsayı düşürmesi gerekmez mi sorusuna, yüksek faizin borsayı baskıladığını ama tek belirleyici olmadığını, kâr büyümesi ve beklentilerin baskıyı dengeleyebileceğini söylüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "WDC ve STX sert düştü",
+          "url": "https://x.com/korkmazali08/status/2107493835894890873",
+          "published_at": "2026-10-06T15:31:00.000Z",
+          "summary": "Ali Korkmaz, Seagate ve Toshiba'nın TDK'nın HDD okuma/yazma kafası birimini almak için yarıştığı haberi sonrası WDC'nin %7, STX'in %8 düştüğünü aktarıyor; Toshiba'nın HDD kapasitesini ikiye katlama planı fiyatlama gücü endişesini artırmıştı.",
+          "assets": [
+            {
+              "symbol": "WDC",
+              "sentiment": "neutral",
+              "note": "Yaklaşık %7 geriledi; TDK biriminin rakibe geçmesi tedarik belirsizliği yaratıyor."
+            },
+            {
+              "symbol": "STX",
+              "sentiment": "neutral",
+              "note": "Yaklaşık %8 geriledi; TDK birimini alması kritik bileşende kontrol sağlayabilir."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fransa tahvil faizi %5'e yaklaştı",
+          "url": "https://x.com/korkmazali08/status/2107492573036052900",
+          "published_at": "2026-10-06T15:25:59.000Z",
+          "summary": "Ali Korkmaz, Fransa'nın 10 yıllık tahvil faizinin 2002'den bu yana en yüksek seviyeye çıkarak %5'e yaklaştığını, 2030'a kadar vadesi dolacak borcun 1 trilyon doları aştığını aktarıyor; stresin küresel faizleri yukarı çekmesi halinde en büyük riski faize duyarlı ABD teknoloji hisseleri taşıyor.",
+          "assets": [
+            {
+              "symbol": "FR10Y",
+              "sentiment": "negative",
+              "note": "2002'den bu yana en yüksek seviyede, %5'e yaklaştı."
+            },
+            {
+              "symbol": "US10Y",
+              "sentiment": "negative",
+              "note": "Fransa stresi küresel faizleri yukarı çekerse ABD teknoloji hisseleri risk altında."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Marvell 400 milyar dolarlık pazar öngörüsü",
+          "url": "https://x.com/korkmazali08/status/2107462771881476315",
+          "published_at": "2026-10-06T13:27:34.000Z",
+          "summary": "Ali Korkmaz, Marvell CEO'sunun Yatırımcı Günü'nde 2030'a kadar yaklaşık 400 milyar dolarlık toplam potansiyel pazar öngördüğünü aktarıyor.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "positive",
+              "note": "CEO 2030'a kadar yaklaşık 400 milyar dolarlık pazar öngörüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TSMC bilanço beklentileri",
+          "url": "https://x.com/korkmazali08/status/2107460288198889848",
+          "published_at": "2026-10-06T13:17:42.000Z",
+          "summary": "Ali Korkmaz, TSMC'nin 15 Ekim bilançosunda gelirin yıllık %37 artışla 45,36 milyar dolara, ADR başına kârın %55 artışla 4,41 dolara çıkmasının beklendiğini ve opsiyon piyasasının yaklaşık %5,05 hareket fiyatladığını aktarıyor; Barclays hedefi 665 dolara, Stifel 515 dolar hedefle Al tavsiyesini koruyor.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "positive",
+              "note": "Bilançoda gelir %37, ADR başına kâr %55 artışı bekleniyor; Barclays hedefi 665 dolar."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Constellation-Google nükleer anlaşması",
+          "url": "https://x.com/korkmazali08/status/2107459273236090956",
+          "published_at": "2026-10-06T13:13:40.000Z",
+          "summary": "Ali Korkmaz, Constellation'ın Google ile 20 yıllık, 890 MW'lık nükleer anlaşması sonrası piyasa öncesinde %7'den fazla yükseldiğini, anlaşmanın 4,3 milyar dolardan fazla yeni yatırımı desteklediğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "CEG",
+              "sentiment": "positive",
+              "note": "Piyasa öncesinde %7'den fazla yükseldi."
+            },
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Anlaşmanın alıcı tarafı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_ bugün neredeyse tamamen Türkiye'deki para piyasası fonlarının (PPF) tasfiyesi ve SPK'nın ödeme açıklamalarına odaklanıyor. SPK'nın 1 milyon liraya kadar herkese ödeme yapılacağını söylediğini ama haber başlıklarından 1 milyon üstüne hiçbir şey verilmeyecekmiş gibi anlaşıldığını, bunun büyük bir iletişim sorunu olduğunu yazıyor. Yatırım tarafında tek not olarak **Vistra**'yı daha önce \"bedava para\" diye anlattığını ama fonlardaki sorunlar yüzünden kazançtan yararlanamadığını söylüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF ödemelerinde iletişim sorunu",
+          "url": "https://x.com/dtfinans_/status/2107722441971863771",
+          "published_at": "2026-10-07T06:39:24.000Z",
+          "summary": "dtfinans_, Ödemelerin fon başına 1 milyon TL olarak yapılacağı ve Para Piyasası Fonları'ndan başlanacağı haberi üzerine iletişim sorununun artık gına getirdiğini yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "VST ve fonlardaki sorun",
+          "url": "https://x.com/dtfinans_/status/2107703330441244876",
+          "published_at": "2026-10-07T05:23:27.000Z",
+          "summary": "dtfinans_, daha önce \"bedava para\" diye anlattığı Vistra'dan içsel sorunlar yüzünden kazanç elde edemediğini, ABD'yi zaten çok sevdiğini ama artık sadece ABD'yi sevdiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "VST",
+              "sentiment": "positive",
+              "note": "Daha önce \"bedava para\" diye anlattığı hisse; yükselişten yararlanamadığını söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SPK avans açıklaması ve anlaşılma sorunu",
+          "url": "https://x.com/dtfinans_/status/2107530497811194228",
+          "published_at": "2026-10-06T17:56:41.000Z",
+          "summary": "dtfinans_, SPK'nın avansın herkese verileceğini ve önce PPF'lere başlanacağını söylediğini, haber başlıklarının ise 1 milyon üstüne hiçbir şey verilmeyecekmiş gibi anlaşıldığını yazıyor ve bunu felaket bir iletişimsizlik örneği olarak nitelendiriyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries günü Fed'in eylül toplantısı tutanaklarıyla (21:00 TSİ) açıyor: Fed o toplantıda üç yıl sonra ilk kez faiz artırmıştı. S&P 500 ilk kez 7.800'ün üzerinde kapandı, **Constellation** %12'den fazla yükseldi, 10 yıllık faiz %5,3 civarında. Şirket haberlerinde **Mizuho**'nun **AMD** ve **Intel** hedeflerini yükseltmesi, **Micron**-**Netlist** uzlaşması ve **Seagate/Western Digital** düşüşünün analistlerce aşırı tepki sayılması öne çıkıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ABD veri takvimi: FOMC tutanakları",
+          "url": "https://x.com/WallStDiaries/status/2107727385063764386",
+          "published_at": "2026-10-07T06:59:02.000Z",
+          "summary": "WallStDiaries, bugün 21:00'de (TSİ) FOMC toplantı tutanaklarının açıklanacağını, Fed'in eylülde üç yıl sonra ilk kez faiz artırdığını ve kararın oybirliğiyle alındığını yazıyor. Tutanaklardaki enflasyon riski ve ek sıkılaşma dili 27-28 Ekim toplantısı fiyatlamasını etkileyebilir; ayrıca EIA petrol stokları (17:30) ve tüketici enflasyon beklentisi (18:00, önceki %3,6) takip edilecek.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Piyasa özeti: S&P 500 7.800 üzerinde",
+          "url": "https://x.com/WallStDiaries/status/2107721013777543468",
+          "published_at": "2026-10-07T06:33:43.000Z",
+          "summary": "WallStDiaries, S&P 500'ün 7.818,93 ve Nasdaq 100'ün 31.224,68 ile rekor kapattığını, S&P 500'ün tarihinde ilk kez 7.800'ün üzerinde kapandığını yazıyor. Petrol ve faizlerdeki gevşeme yapay zekâ hisselerindeki güçle birleşti; Constellation %12'den fazla yükseldi, Russell 2000 %0,60 geriledi, 10 yıllık faiz %5,32 ve Brent 101,44 dolar.",
+          "assets": [
+            {
+              "symbol": "CEG",
+              "sentiment": "positive",
+              "note": "Google anlaşması sonrası %12'den fazla yükseldi."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Brent 101,44 dolar, %0,85 yükseldi."
+            },
+            {
+              "symbol": "US10Y",
+              "sentiment": "neutral",
+              "note": "10 yıllık faiz %5,32."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ASTS operasyon ve fiyat uyumsuzluğu",
+          "url": "https://x.com/WallStDiaries/status/2107524034569158683",
+          "published_at": "2026-10-06T17:31:00.000Z",
+          "summary": "WallStDiaries, AST SpaceMobile'ın bir yıl önceki 74 dolardan 58 dolara %21 gerilediğini, buna karşın yörüngedeki aktif uydu sayısının 6'dan 13'e çıktığını, 50 uydunun sırada beklediğini ve Blok 1 ile 98,9 Mbps hıza ulaşıldığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "positive",
+              "note": "Fiyat %21 düşmüşken operasyonel ilerleme güçlü; arada derin uyumsuzluk görüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Venture Global Çinli alıcılarla görüşüyor",
+          "url": "https://x.com/WallStDiaries/status/2107506264280289782",
+          "published_at": "2026-10-06T16:20:23.000Z",
+          "summary": "WallStDiaries, Bloomberg'e göre Venture Global'in alım portföyünü çeşitlendirmek isteyen Çinli enerji şirketleriyle yeni uzun vadeli LNG satış anlaşmaları için görüştüğünü aktarıyor.",
+          "assets": [
+            {
+              "symbol": "LNG",
+              "sentiment": "neutral",
+              "note": "Çinli alıcılarla yeni uzun vadeli satış görüşmeleri sürüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Toshiba HDD kapasitesi aşırı fiyatlandı",
+          "url": "https://x.com/WallStDiaries/status/2107490576727736776",
+          "published_at": "2026-10-06T15:18:03.000Z",
+          "summary": "WallStDiaries, Toshiba'nın HDD kapasitesini 2027 mali yılına kadar iki katına çıkarma duyurusunun Seagate ve WDC'de sert satış yarattığını, Citi, Morgan Stanley ve Bernstein'ın düşüşü aşırı tepki saydığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "STX",
+              "sentiment": "positive",
+              "note": "Analistler arz açığı nedeniyle düşüşü aşırı tepki sayıyor."
+            },
+            {
+              "symbol": "WDC",
+              "sentiment": "positive",
+              "note": "Analistler arz açığı nedeniyle düşüşü aşırı tepki sayıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Mizuho AMD ve Intel hedeflerini yükseltti",
+          "url": "https://x.com/WallStDiaries/status/2107484554415993093",
+          "published_at": "2026-10-06T14:54:07.000Z",
+          "summary": "WallStDiaries, Mizuho'nun ajanik yapay zekânın sunucu CPU talebini artırması nedeniyle AMD hedefini 580 dolardan 705 dolara, Intel hedefini 92 dolardan 114 dolara çıkardığını aktarıyor; Mizuho yapay zekâ ajanı yüklerinin 2030'a kadar sunucu CPU hacminin yaklaşık %30'unu oluşturacağını öngörüyor.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Mizuho hedefi 705 dolara çıkardı."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "positive",
+              "note": "Mizuho hedefi 114 dolara çıkardı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Google-Constellation 20 yıllık nükleer anlaşma",
+          "url": "https://x.com/WallStDiaries/status/2107482974966984864",
+          "published_at": "2026-10-06T14:47:51.000Z",
+          "summary": "WallStDiaries, Google'ın Constellation ile 20 yıllık anlaşmayla şebekeye 890 MW yeni nükleer kapasite kazandıracağını, tesis iyileştirmeleri için 4,3 milyar dolardan fazla yatırım yapılacağını aktarıyor.",
+          "assets": [
+            {
+              "symbol": "CEG",
+              "sentiment": "positive",
+              "note": "20 yıllık anlaşma ve 4,3 milyar dolarlık yatırım."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Netlist ve Micron uzlaştı",
+          "url": "https://x.com/WallStDiaries/status/2107480653692297288",
+          "published_at": "2026-10-06T14:38:37.000Z",
+          "summary": "WallStDiaries, Micron'un 2026'nın dördüncü çeyreğinden 2031'in üçüncü çeyreğine kadar çeyreklik 30 milyon dolardan toplam 600 milyon dolar lisans ücreti ödeyeceğini, ayrıca Netlist'ten 10 milyon hisse alacağını aktarıyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Toplam 600 milyon dolar lisans ödemesiyle davalar sona erdi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Applied Digital Finlandiya'da 1 GW",
+          "url": "https://x.com/WallStDiaries/status/2107418085795725703",
+          "published_at": "2026-10-06T10:30:00.000Z",
+          "summary": "WallStDiaries, Applied Digital'ın Finlandiya'da 1 GW'a kadar güç kapasiteli bir yapay zekâ kampüsü için anlaşma imzaladığını, ilk güç erişiminin 2028'de beklendiğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "APLD",
+              "sentiment": "neutral",
+              "note": "ABD dışındaki ilk uluslararası veri merkezi yatırımı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Burry: Borsa inkâr aşamasında",
+          "url": "https://x.com/WallStDiaries/status/2107415785010266582",
+          "published_at": "2026-10-06T10:20:51.000Z",
+          "summary": "WallStDiaries, Michael Burry'nin mevcut borsa koşullarının 2000 ve 2008 öncesindeki \"inkâr\" aşamasına benzediğini söylediğini aktarıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Lisa Su: Yapay zekâ çip talebi yüksek kalacak",
+          "url": "https://x.com/WallStDiaries/status/2107400925778166259",
+          "published_at": "2026-10-06T09:21:48.000Z",
+          "summary": "WallStDiaries, AMD CEO'su Lisa Su'nun yapay zekâ çip talebinin önümüzdeki yıllarda çok yüksek kalacağını ve AMD'nin 2027'de çip arzını önemli ölçüde artırmayı planladığını söylediğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Talep yüksek kalacak, 2027'de arz önemli ölçüde artacak."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu YouTube'da petrol düşerse Nasdaq'ın uçup uçmayacağını, ABD 10 yıllıklarını ve Husilerin durumunu işleyen bir video paylaştı. Türkiye tarafında dünyanın en yüksek beşinci enflasyonuna sahip bir ülkenin birinci önceliğinin fiyat istikrarı olması gerektiğini, faiz düşsün ve kredi büyüsün diyenleri \"enflasyon lobisi\" olarak gördüğünü yazıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Petrol düşerse Nasdaq uçar mı?",
+          "url": "https://x.com/TuncSatiroglu/status/2107467540276621586",
+          "published_at": "2026-10-06T13:46:31.000Z",
+          "summary": "Tunç Şatıroğlu, petrol düşerse Nasdaq'ın uçup uçmayacağını, ABD 10 yıllıklarını ve Husiler detayını anlatan bir video paylaşıyor.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Petrol düşüşünün Nasdaq'a etkisini inceleyen video."
+            },
+            {
+              "symbol": "US10Y",
+              "sentiment": "neutral",
+              "note": "ABD 10 yıllıkları videoda ele alınıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Türkiye'de fiyat istikrarı ve enflasyon lobisi",
+          "url": "https://x.com/TuncSatiroglu/status/2107465778354393487",
+          "published_at": "2026-10-06T13:39:31.000Z",
+          "summary": "Tunç Şatıroğlu, dünyanın en yüksek beşinci enflasyonuna sahip ülkenin birinci amacının fiyat istikrarı olması gerektiğini, faizler düşsün ve kredi büyümesi artsın diyenlerin yüksek enflasyonu savunan enflasyon lobisi olduğunu yazıyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "MrTradeer bugün finans tarafında yalnızca petrole değiniyor: Türkiye'nin Suudi Arabistan'ın doğalgaz ve elektrik tesislerinin korunmasına katkı sunduğu haberinin ardından, kendisine itiraz edenlere petrolün dünden beri %6 düştüğünü hatırlatıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Petrol %6 düştü",
+          "url": "https://x.com/MrTradeer/status/2107479622313209922",
+          "published_at": "2026-10-06T14:34:31.000Z",
+          "summary": "MrTradeer, Türkiye'nin Suudi Arabistan'ın kritik tesislerinin korunmasına katkı sunduğu haberi üzerine analizine itiraz edenlere petrolün dünden beri %6 düştüğünü hatırlatıyor.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "negative",
+              "note": "Petrol dünden beri %6 düştü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy **Nvidia**'nın yeni zirve (243 dolar üzeri) yaptığını ve piyasayı tek başına sırtladığını söylüyor. **AMD**'nin 2027'de arzı artıracağı iddiasına ise temkinli: TSMC kapasitesi ve HBM kısıtlıyken kapasiteyi gerçekten ne kadar garantilediklerini görmeden inanmıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Lisa Su'nun arz artışı vaadine temkin",
+          "url": "https://x.com/FinancewithIzzy/status/2107493585717477615",
+          "published_at": "2026-10-06T15:30:00.000Z",
+          "summary": "FinancewithIzzy, Lisa Su'nun AMD'nin 2027'de arzı önemli ölçüde artıracağı sözüne temkinli yaklaşıyor: TSMC kapasitesi sıkı, CoWoS dolu, HBM arz kısıtlı ve Nvidia bile talebe yetişmekte zorlanıyor; kritik olan \"artıracağız\" demek değil, ne kadar kapasiteyi garanti altına aldıklarını görmek.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "negative",
+              "note": "Garanti altına alınan kapasite görülmeden arz artışı sözüne temkinli."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Jensen garanti altına aldıkları arzın üzerine konuşuyor ve TSMC ile doğrudan görüşüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NVDA yeni zirvede",
+          "url": "https://x.com/FinancewithIzzy/status/2107484203998970094",
+          "published_at": "2026-10-06T14:52:44.000Z",
+          "summary": "FinancewithIzzy, Nvidia'nın piyasayı tek başına sırtlıyor gibi göründüğünü ve 243 doların üzerinde yeni zirve yaptığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "243 doların üzerinde yeni zirve."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine'in öne çıkan haberleri: SpaceX, Nvidia çipi alımı için Apollo öncülüğünde yaklaşık 40 milyar dolar finansman arıyor; Google ile Constellation 20 yıllık nükleer anlaşma imzaladı; Marvell FY28 gelir beklentisini yaklaşık 20 milyar dolara çıkardı. ABD 3 yıllık tahvil ihalesi 4,932% ile 0,2 baz puan stop-through ile sonuçlandı, Nvidia Apple'dan 1 trilyon dolar daha değerli ve Uber, ezCater'i 2,3 milyar dolara alıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SpaceX Nvidia çipleri için 40 milyar dolar arıyor",
+          "url": "https://x.com/wallstengine/status/2107633225648779719",
+          "published_at": "2026-10-07T00:44:53.000Z",
+          "summary": "wallstengine, FT'ye göre SpaceX'in Apollo öncülüğünde yaklaşık 10 milyar dolar banka kredisi ve 30 milyar dolar yatırım yapılabilir borçtan oluşan 40 milyar dolarlık finansman aradığını, işlemin 2027'de kapanmasının beklendiğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Nvidia çipi alımı için 40 milyar dolar finansman arıyor."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "SpaceX Vera Rubin mimarisi üzerinde yalnızca Nvidia ile inşa kararı aldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ABD 3 yıllık tahvil ihalesi",
+          "url": "https://x.com/wallstengine/status/2107517683961061629",
+          "published_at": "2026-10-06T17:05:46.000Z",
+          "summary": "wallstengine, ABD 3 yıllık tahvil ihalesinin yüksek faizinin %4,932 (WI %4,934) ile 0,2 baz puan stop-through olduğunu, teklif/kapama oranının 2,62 (önceki 2,72) olduğunu aktarıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia Apple'dan 1 trilyon dolar daha değerli",
+          "url": "https://x.com/wallstengine/status/2107481714436222998",
+          "published_at": "2026-10-06T14:42:50.000Z",
+          "summary": "wallstengine, Nvidia'nın piyasa değerinin artık Apple'dan 1 trilyon dolar daha yüksek olduğunu yazıyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Piyasa değeri Apple'dan 1 trilyon dolar yüksek."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AT&T fiber ortaklığı",
+          "url": "https://x.com/wallstengine/status/2107476491319775382",
+          "published_at": "2026-10-06T14:22:05.000Z",
+          "summary": "wallstengine, AT&T'nin BlackRock'ın GIP'si ve CPP Investments ile %50/%50 fiber ortak girişimi kurduğunu, gelirin net borç/FAVÖK oranını yaklaşık 2,5 katına indirmeye yardım edeceğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "T",
+              "sentiment": "neutral",
+              "note": "Fiber ortaklığı gelirleri net borç oranını düşürecek."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Marvell FY28 gelir beklentisini yükseltti",
+          "url": "https://x.com/wallstengine/status/2107466297374392829",
+          "published_at": "2026-10-06T13:41:34.000Z",
+          "summary": "wallstengine, Marvell'in FY28 toplam gelir beklentisini 18 milyar dolardan yaklaşık 20 milyar dolara çıkardığını, FY31 için 70-90 milyar dolar öngördüğünü ve 2030 yapay zekâ pazarını yaklaşık 400 milyar dolar gördüğünü aktarıyor.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "positive",
+              "note": "FY28 gelir beklentisi 18'den yaklaşık 20 milyar dolara, FY31 için 70-90 milyar dolar."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Applied Materials ve Intel ortak Ar-Ge",
+          "url": "https://x.com/wallstengine/status/2107456783468093914",
+          "published_at": "2026-10-06T13:03:46.000Z",
+          "summary": "wallstengine, Applied Materials ve Intel'in yapay zekâ çipleri için yeni nesil transistör, ara bağlantı ve gelişmiş paketleme alanında Ar-Ge ortaklığını genişlettiğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "AMAT",
+              "sentiment": "neutral",
+              "note": "Intel ile Ar-Ge ortaklığını genişletiyor."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "neutral",
+              "note": "Foveros 3D istifleme etrafında Ar-Ge ortaklığı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Uber ezCater'i 2,3 milyar dolara alıyor",
+          "url": "https://x.com/wallstengine/status/2107447771905327175",
+          "published_at": "2026-10-06T12:27:57.000Z",
+          "summary": "wallstengine, Uber'in iş yeri yemek ve catering platformu ezCater'i 2,3 milyar dolar nakitle satın alacağını, ezCater'in son 12 ayda 2,5 milyar doların üzerinde brüt hacme ulaştığını ve işlemin marjı artırıcı beklendiğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "UBER",
+              "sentiment": "neutral",
+              "note": "ezCater alımının marjı artırması bekleniyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ADP haftalık istihdam",
+          "url": "https://x.com/wallstengine/status/2107445015589044714",
+          "published_at": "2026-10-06T12:17:00.000Z",
+          "summary": "wallstengine, ABD ADP haftalık istihdam değişiminin +23,75 bin (önceki +20 bin) geldiğini aktarıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Micron Netlist'e 600 milyon dolar ödeyecek",
+          "url": "https://x.com/wallstengine/status/2107442889014026518",
+          "published_at": "2026-10-06T12:08:33.000Z",
+          "summary": "wallstengine, Micron'un Netlist'e 2026'nın 4. çeyreğinden 2031'in 3. çeyreğine kadar çeyreklik 30 milyon dolardan toplam 600 milyon dolar ödeyeceğini, anlaşmanın tüm davaları bitirdiğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Toplam 600 milyon dolar patent lisansı ve uzlaşma ödemesi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Energy Transfer Vaquero Midstream'i alıyor",
+          "url": "https://x.com/wallstengine/status/2107436162206109819",
+          "published_at": "2026-10-06T11:41:49.000Z",
+          "summary": "wallstengine, Energy Transfer'in Vaquero Midstream'i 2,625 milyar dolara aldığını (1,95 milyar dolar nakit ve 33,3 milyon ET payı) ve kapanışın 2026'nın 4. çeyreğinde beklendiğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "ET",
+              "sentiment": "neutral",
+              "note": "Delaware Havzası varlığını genişletiyor; kapanış 2026'nın 4. çeyreğinde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Google-Constellation nükleer anlaşması",
+          "url": "https://x.com/wallstengine/status/2107418881900097695",
+          "published_at": "2026-10-06T10:33:10.000Z",
+          "summary": "wallstengine, Google ve Constellation'ın PJM şebekesine 11 reaktörde iyileştirmeyle 890 MW ekleyen 20 yıllık anlaşmayı 4,3 milyar dolarlık yatırımla imzaladığını, ayrıca 2,7 GW için 15 yıllık tedarik anlaşması yaptıklarını aktarıyor.",
+          "assets": [
+            {
+              "symbol": "CEG",
+              "sentiment": "positive",
+              "note": "20 yıllık 890 MW anlaşma ve 2,7 GW için 15 yıllık tedarik anlaşması."
+            },
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Veri merkezleri için nükleer enerji alıcısı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Applied Digital Finlandiya'da 1 GW",
+          "url": "https://x.com/wallstengine/status/2107413053985960042",
+          "published_at": "2026-10-06T10:10:00.000Z",
+          "summary": "wallstengine, Applied Digital'ın Finlandiya'da 1 GW'a kadar güç kapasitesine erişim sağladığını, ilk gücün 2028'de beklendiğini ve büyük hiperscaler müşterilerle görüşmelerin sürdüğünü aktarıyor.",
+          "assets": [
+            {
+              "symbol": "APLD",
+              "sentiment": "neutral",
+              "note": "Finlandiya'da 1 GW'a kadar güç erişimi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Amodei'nin geliri ve Anthropic halka arzı",
+          "url": "https://x.com/wallstengine/status/2107411216390119567",
+          "published_at": "2026-10-06T10:02:42.000Z",
+          "summary": "wallstengine, Reuters'a göre Anthropic CEO'su Dario Amodei'nin 2025'te 18 milyon dolar kazandığını, Anthropic'in bu sonbaharda 2 trilyon doların üzerinde değerlemeyle halka arza hazırlandığını aktarıyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz büyük sermayeli yüksek uçan hisseleri azaltıp, gerçekten ucuz gördüğü küçük şirketlerin düşüşlerini almayı tercih ediyor ve geniş endeksleri köpüklü buluyor. **DNA**'da kâr hedefi aşıldıktan sonra sert geri dönüş yaşadı ama 5 haftada hâlâ %78 yukarıda. Getiri tarafında **QQQI** ve **OMAH**'ı favorileri olarak sayıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "QQQ ve QQQI karşılaştırması",
+          "url": "https://x.com/jrouldz/status/2107729620577718754",
+          "published_at": "2026-10-07T07:07:55.000Z",
+          "summary": "jrouldz, getiri aramak için boğa piyasasında QQQ'nun QQQI'ı geride bırakacağını, yatay veya düşen piyasada ise QQQI'ın önde olacağını, dolayısıyla bunun bir hedge olduğunu söylüyor.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Boğa piyasasında QQQI'ı geride bırakır."
+            },
+            {
+              "symbol": "QQQI",
+              "sentiment": "neutral",
+              "note": "Yatay ya da düşen piyasada QQQ'dan iyi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Getiri favorileri: QQQI ve OMAH",
+          "url": "https://x.com/jrouldz/status/2107728328291697150",
+          "published_at": "2026-10-07T07:02:47.000Z",
+          "summary": "jrouldz, getiri açısından QQQI ve OMAH'ın favorileri olduğunu ve geçilmesinin zor olduğunu söylüyor.",
+          "assets": [
+            {
+              "symbol": "QQQI",
+              "sentiment": "positive",
+              "note": "Getiri açısından favori."
+            },
+            {
+              "symbol": "OMAH",
+              "sentiment": "positive",
+              "note": "Getiri açısından favori."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Büyük şirketleri azalt, küçükleri al",
+          "url": "https://x.com/jrouldz/status/2107554849038668148",
+          "published_at": "2026-10-06T19:33:27.000Z",
+          "summary": "jrouldz, büyük sermayeli yüksek uçan hisseleri azaltmak ve gerçekten ucuz gördüğü küçük şirketlerin düşüşlerini almak için bu temayı fırsat olarak kullandığını, geniş endeksleri köpüklü bulduğunu ve hisse seçmeyi tercih ettiğini yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "DNA kâr hedefini aştı sonra sert döndü",
+          "url": "https://x.com/jrouldz/status/2107552083922784424",
+          "published_at": "2026-10-06T19:22:27.000Z",
+          "summary": "jrouldz, tatildeyken DNA'nın bir sonraki kâr hedefini aştığını ama limit emri olmadığı için sert dönüşte fırsatı kaçırdığını, yine de 5 haftada %78 yukarıda olduğunu yazıyor.",
+          "assets": [
+            {
+              "symbol": "DNA",
+              "sentiment": "positive",
+              "note": "5 haftada %78 yukarıda; kâr hedefi aşıldıktan sonra sert geri dönüş."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance düşüşleri alım fırsatı olarak göreceğini söylüyor: ara seçimlerden bir yıl sonra piyasanın ortalama %16 yukarıda olduğunu hatırlatıyor ve kenarda nakitte bekleyenlerin FOMO'ya kapılıp ilk sert düşüşte zararına satacağını düşünüyor. **Marvell** için \"herkes shortlarken dipleri alıyorduk\" diyor, **Constellation** haberini ve enerji tarafındaki canlanmayı olumlu buluyor, **SoFi**, **APP** ve **ORCL**'yi en mantıklı hisseler olarak sayıyor. Michael Burry'nin çöküş uyarısını ise Burry'nin kendi performansını sorgulayarak reddediyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SOFI, APP ve ORCL en mantıklılar",
+          "url": "https://x.com/cevikfinance/status/2107571217834049744",
+          "published_at": "2026-10-06T20:38:29.000Z",
+          "summary": "cevikfinance, bir yanıtında SOFI, APP ve ORCL'nin en mantıklı olanlar olduğunu yazıyor.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "En mantıklı hisselerden biri."
+            },
+            {
+              "symbol": "APP",
+              "sentiment": "positive",
+              "note": "En mantıklı hisselerden biri."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "positive",
+              "note": "En mantıklı hisselerden biri."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Ara seçimlerden sonra piyasa ortalama %16 yukarıda",
+          "url": "https://x.com/cevikfinance/status/2107565866560713129",
+          "published_at": "2026-10-06T20:17:13.000Z",
+          "summary": "cevikfinance, ara seçimlerden önce düzeltme olsun olmasın ara seçimlerden bir yıl sonra piyasanın ortalama %16 yukarıda olduğunu bildiğini, bu yüzden düşüşleri alım fırsatı olarak göreceğini yazıyor; korku ve açgözlülük endeksinin yeni korkudan nötr bölgeye geldiğini, FOMO ile alım yapanların sonrasında düzeltme bekliyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Burry'nin çöküş uyarısına yanıt",
+          "url": "https://x.com/cevikfinance/status/2107489644673892608",
+          "published_at": "2026-10-06T15:14:21.000Z",
+          "summary": "cevikfinance, Michael Burry'nin çöküş uyarısına yanıt olarak piyasanın son 4 yılda rekor üstüne rekor kırarken Burry'nin sürekli para kaybettiğini yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Marvell CEO'sunun yükseltilmiş beklentileri",
+          "url": "https://x.com/cevikfinance/status/2107474130799096046",
+          "published_at": "2026-10-06T14:12:42.000Z",
+          "summary": "cevikfinance, Marvell'in FY28 gelir beklentisini yaklaşık 20 milyar dolara çıkarmasını paylaşıp \"Böyle CEO'ya can kurban\" diyor.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "positive",
+              "note": "Yükseltilen FY28 ve FY31 gelir beklentisini övüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MRVL dipten alındı",
+          "url": "https://x.com/cevikfinance/status/2107473841283014691",
+          "published_at": "2026-10-06T14:11:33.000Z",
+          "summary": "cevikfinance, herkes MRVL'yi short'larken kendilerinin dipleri aldığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "positive",
+              "note": "Dipten aldıklarını söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Enerji tarafı canlandı",
+          "url": "https://x.com/cevikfinance/status/2107473454786089422",
+          "published_at": "2026-10-06T14:10:01.000Z",
+          "summary": "cevikfinance, enerji tarafının nihayet canlandığını yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nakitte bekleyenler FOMO'ya kapılıyor",
+          "url": "https://x.com/cevikfinance/status/2107443893365051483",
+          "published_at": "2026-10-06T12:12:33.000Z",
+          "summary": "cevikfinance, endeksler yeni zirve yaparken kenarda nakitte bekleyen birçok kişinin FOMO'ya kapıldığını, bunların ilk sert düşüşte paniğe kapılıp zararına satacağını yazıyor; üyelerine olası düzeltmede alacağı 20 hisseyi ve alım seviyelerini paylaştığını söylüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Google-Constellation nükleer anlaşması",
+          "url": "https://x.com/cevikfinance/status/2107424857835098359",
+          "published_at": "2026-10-06T10:56:54.000Z",
+          "summary": "cevikfinance, Google ile Constellation'ın 4,3 milyar dolarlık yatırımla 11 reaktörün kapasitesini artıran 20 yıllık, 890 MW'lık anlaşmasını paylaşıp CEG için bir güzel haber daha diyor.",
+          "assets": [
+            {
+              "symbol": "CEG",
+              "sentiment": "positive",
+              "note": "CEG için bir güzel haber daha."
+            },
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Anlaşmanın alıcısı."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0998,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2126,
+        "mentions": [
+          {
+            "person": "cevikfinance",
+            "sentiment": "positive",
+            "quote": "SOFI, APP ve ORCL en mantıklı olanlar.",
+            "source_url": "https://x.com/cevikfinance/status/2107571217834049744"
+          }
+        ],
+        "action": "hold",
+        "why": "cevikfinance'e göre SOFI, APP ve ORCL ile birlikte en mantıklı hisselerden, ama seviye ya da tarih verilmedi.",
+        "opinion": "Portföyün beşte birinden fazlası tek hissede; kaynaktan gelen olumlu bir cümle bu ağırlığı gerekçelendirmiyor. Asıl takip konusu faiz duyarlılığı ve kredi kalitesi.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: bir kaynak hisseyi en mantıklı seçimler arasında sayıyor.",
+          "Aleyhte: portföyün yaklaşık %21'i tek hissede, bu yoğunlaşma riski büyütüyor.",
+          "Aleyhte: Bora Özkent'e göre faizlerdeki baskı sürüyor ve hedge fonlar tahvilleri açığa satıyor."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1475,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "positive",
+            "quote": "Kimler var burada? Meta mesela örneklerinden bir tanesi.",
+            "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+          }
+        ],
+        "action": "hold",
+        "why": "Bora Özkent Meta'yı son bir ayda yükselen büyük büyüme hisselerine örnek gösterdi ama hisse için seviye vermedi.",
+        "opinion": "Piyasa büyüme hisselerini ödüllendirirken Meta bu akıntıdan yararlanıyor; riski yapay zekâ harcamalarının kârlılığa dönüşmemesi ve faizlerin yükselmesi.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Bora Özkent'e göre büyük büyüme hisseleri son ayda yükseldi ve piyasa teknolojiye döndü.",
+          "Aleyhte: Ahmet Sunelcan yapay zekâdaki kârsızlık ve ağır capex'i büyük risk sayıyor."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1383,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "$AVGO hala ucuz olduğunu düşünüyorum",
+            "source_url": "https://x.com/korkmazali08/status/2107530277056586031"
+          },
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "Bu sese kulak vermeli.",
+            "source_url": "https://x.com/ulkser/status/2107497524424552641"
+          }
+        ],
+        "action": "hold",
+        "why": "Ali Korkmaz hisseyi hâlâ ucuz buluyor, ulkser de dikkat çekiyor; ama bugün yeni bir seviye ya da bilanço bilgisi yok.",
+        "opinion": "İki olumlu görüş eldeki pozisyonu destekliyor; portföyün yaklaşık %14'ü yapay zekâ çip döngüsüne bağlı olduğundan Marvell ve Nvidia'daki güçlü haber akışı sektör için de olumlu.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Ali Korkmaz'a göre hisse hâlâ ucuz ve UBS 470 dolar hedefle Al diyor.",
+          "Lehte: Marvell'in yükseltilmiş yapay zekâ pazar öngörüsü sektörün talebini doğruluyor.",
+          "Aleyhte: Ahmet Sunelcan yapay zekâ donanımında pozisyon azaltıyor."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1141,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Google-Constellation nükleer anlaşması, teknoloji devlerinin nükleer enerjiye uzun vadeli bağlandığını gösteriyor; bu BWXT'nin ana temasına rüzgâr ama doğrudan şirkete dair bir veri değil.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Google'ın 20 yıllık nükleer anlaşması nükleer talep temasını güçlendiriyor.",
+          "Aleyhte: Constellation'ın sert yükselişi sektörde beklentilerin zaten fiyatlandığını gösterebilir."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0961,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Portföyün yaklaşık %10'u reklam gelirine bağlı, oynak bir hissede; piyasa büyüme hisselerini ödüllendirirken avantajlı ama faizler yükselirse en çok zorlanacak taraf.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Bora Özkent'e göre piyasa büyüme hisselerini ödüllendiriyor.",
+          "Aleyhte: Ali Korkmaz'ın aktardığı Fransa tahvil stresi faize duyarlı hisseleri baskılayabilir."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0779,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "Ondan vazgeçtim. O pozisyonumu kapattım.",
+            "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+          }
+        ],
+        "action": "hold",
+        "why": "Bora Özkent TLT'yi vergi gerekçesiyle kapattı ama yeniden almayı planlıyor; bu bir görüş değişimi değil.",
+        "opinion": "Uzun vadeli tahvil fonu faizlerin yükseldiği bir ortamda baskı altında ve ağırlığı yaklaşık %8; faiz yönü netleşmeden artırmak için erken.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Aleyhte: Bora Özkent'e göre hedge fonlar 10 yıllık vadelilerde rekor açığa satış yapıyor.",
+          "Lehte: aynı açığa satışın sert bir geri dönüşü tahvilleri hızla yükseltebilir.",
+          "Aleyhte: Fransa 10 yıllık faizinin %5'e yaklaşması küresel faiz baskısını artırıyor."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0684,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Türkiye'de PPF tasfiyesi ve SPK ödemeleri belirsizliği yerel piyasa duyarlılığını zayıflatıyor; Tunç Şatıroğlu'nun işaret ettiği yüksek enflasyon da kurda ve şirket kârlarında risk yaratıyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Aleyhte: PPF tasfiyesi yerel yatırımcı güvenini zedeliyor.",
+          "Aleyhte: Tunç Şatıroğlu'na göre Türkiye dünyanın en yüksek beşinci enflasyonuna sahip."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0453,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Yapay zekâ veri merkezlerinin elektrik ihtiyacı arttıkça güç altyapısına talep de artıyor; Google-Constellation anlaşması bu temayı güçlendiriyor, ama küçük ağırlığa rağmen şirkete özgü veri yok.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Google'ın nükleer anlaşması veri merkezi güç talebinin kalıcı olduğunu gösteriyor.",
+          "Aleyhte: Ahmet Sunelcan'a göre yapay zekâdaki ağır capex büyük risk; harcamalar yavaşlarsa talep de yavaşlar."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "CEG",
+        "name": "Constellation Energy",
+        "why": "cevikfinance Google ile 20 yıllık 890 MW'lık anlaşmayı \"CEG için bir güzel haber daha\" diyerek paylaştı; anlaşma 4,3 milyar dolarlık yatırıma dayanıyor.",
+        "source_url": "https://x.com/cevikfinance/status/2107424857835098359"
+      },
+      {
+        "symbol": "MRVL",
+        "name": "Marvell Technology",
+        "why": "wallstengine'e göre Marvell FY28 gelir beklentisini 20 milyar dolara çıkardı ve FY31 için 70-90 milyar dolar öngörüyor; cevikfinance dipten aldıklarını söylüyor.",
+        "source_url": "https://x.com/wallstengine/status/2107466297374392829"
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron Technology",
+        "why": "Bora Özkent Barron's'a göre Ağustos'ta bellek fiyatlarının %36 arttığını ve kıtlığın 2030'a sürebileceğini aktararak rahat olduğu bir yatırım olarak tanımlıyor.",
+        "source_url": "https://www.youtube.com/watch?v=x3tBzxRpZ7U"
+      }
+    ]
+  }
+}
