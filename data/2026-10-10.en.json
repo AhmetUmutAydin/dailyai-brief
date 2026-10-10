@@ -1,0 +1,1699 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T07:31:54Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "OpenAI revenue report hit AI stocks; Özkent calls it an accounting difference",
+      "person": "Bora Özkent",
+      "why": "Financial Times reporting OpenAI's annualized revenue as $50B instead of $70B pushed Nasdaq to -1.75% intraday and dropped Oracle 5.5%, Broadcom 4.4% and SMH 3.4%; Özkent says the gap comes from gross vs. net revenue reporting, with $20B of commissions deducted.",
+      "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+    },
+    {
+      "title": "Lumentum optical capacity sold out through early 2029",
+      "person": "wallstengine",
+      "why": "CEO Michael Hurlston said optical components are \"completely sold out\" through early 2029 on AI data center demand.",
+      "source_url": "https://x.com/wallstengine/status/2108496652646617354"
+    },
+    {
+      "title": "SpaceX buys about $8B of spectrum",
+      "person": "korkmazali08",
+      "why": "The spectrum for Starlink Mobile strengthens indoor coverage; next-generation satellites are targeted to launch in 2027 and 5G-quality service to start in the first half of 2028.",
+      "source_url": "https://x.com/korkmazali08/status/2108691931689615542"
+    },
+    {
+      "title": "Berk Dinçtürk: dollar index to keep weakening through Trump's term",
+      "person": "Berk Dinçtürk",
+      "why": "The dollar index is at 102 versus 110 when Trump took office; Dinçtürk does not believe a US with $40 trillion in debt will make the dollar appreciate permanently.",
+      "source_url": "https://www.youtube.com/watch?v=_BOep_ezBSQ"
+    },
+    {
+      "title": "Apple cut iPhone 18 Pro component orders by 15%",
+      "person": "WallStDiaries",
+      "why": "According to Nikkei Asia, Apple cut its October component orders by at least 15% as memory chip costs and high prices weakened demand.",
+      "source_url": "https://x.com/WallStDiaries/status/2108626046652469472"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US Treasury yields",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Demand at the 30-year and 10-year Treasury auctions came in above expectations; he says yields have peaked and expects them to fall from here.",
+          "quote": "I think Treasury yields have peaked around here. I expect a decline from here.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "The 10-year yield is up about 120 bp this year to 5.29%; a move to 5.5% could add pressure on stocks and corporate bonds.",
+          "quote": "If the 5.5% scenario strengthens, pressure on stocks and corporate bonds could grow.",
+          "source_url": "https://x.com/WallStDiaries/status/2108517018785681847"
+        }
+      ]
+    },
+    {
+      "topic": "Dollar index, the Fed and the Trump administration",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Trump replaced the head of the statistics agency and wants lower rates; he says the gap between official and real inflation is widening, the dollar index fell from 110 to 102 and the decline will continue.",
+          "quote": "The dollar index will keep losing value until the end of Trump's term.",
+          "source_url": "https://www.youtube.com/watch?v=_BOep_ezBSQ"
+        }
+      ]
+    },
+    {
+      "topic": "Iran, Hormuz and oil",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "He sees Trump saying he won't attack Iran before the midterms as good news for markets, with oil retreating; he thinks the war is practically over if Trump loses the House/Senate.",
+          "quote": "Trump said, we will not attack Iran until the midterms.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Oil prices did not believe Trump's statement that the Iran conflict will end soon and that 28 million barrels moved through Hormuz.",
+          "quote": "Oil prices did not believe Trump!",
+          "source_url": "https://x.com/WallStDiaries/status/2108588076830195835"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Trump said a big oil deal with Russia was made and that an enormous amount of oil will come to the US.",
+          "quote": "You've heard about the oil deal with Russia. It's a very big deal.",
+          "source_url": "https://x.com/korkmazali08/status/2108679174651019729"
+        }
+      ]
+    },
+    {
+      "topic": "Market breadth and narrow index leadership",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "Ten stocks drove 70% of the S&P 500's 23% rally since March 30; NVDA alone accounted for 13%.",
+          "quote": "Only 10 stocks provided 70% of the S&P 500's 23% rally since March 30.",
+          "source_url": "https://x.com/korkmazali08/status/2108679470999802090"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "With indices near highs, 71% of S&P 500 stocks are more than 10% below their peaks; weak-balance-sheet story stocks get hit hardest, and gradual buying in solid-balance-sheet companies makes sense.",
+          "quote": "71% of S&P 500 stocks are down more than 10% from their latest peak.",
+          "source_url": "https://x.com/cevikfinance/status/2108480583965778085"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "He says the macro backdrop is unfavorable for story stocks and sees no reason for them to run for a long while.",
+          "quote": "the macro economy is not favorable for story stocks",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2108592636252565613"
+        }
+      ]
+    },
+    {
+      "topic": "OpenAI revenue and AI stocks",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "He says the FT's $50B instead of $70B report stems from an accounting-standard difference; he sees the drop as a buying opportunity.",
+          "quote": "The decline was pulled forward. It's a buying opportunity.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "According to Bloomberg, OpenAI expects annualized revenue to reach or exceed $70B by the end of 2026.",
+          "quote": "OpenAI expects its annualized revenue to reach or exceed $70 billion at the end of 2026.",
+          "source_url": "https://x.com/korkmazali08/status/2108535645668794434"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Passes on the report of a $20B accounting gap in OpenAI's revenue.",
+          "quote": "A $20 billion revenue gap from OpenAI",
+          "source_url": "https://x.com/WallStDiaries/status/2108458259212321035"
+        }
+      ]
+    },
+    {
+      "topic": "US midterm elections",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Polls suggest Democrats could take the Senate, though he still sees a high chance for Republicans there; if Trump loses he becomes a \"lame duck\".",
+          "quote": "Most likely Trump will lose either the Senate, the House, or both in the elections.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "Several sources discussed the spectrum purchase; Özkent expects a rise at the open while WallStDiaries says the news was already expected.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "I expect SpaceX to rise at today's open.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "SpaceX is buying about $8 billion of spectrum for Starlink Mobile.",
+          "source_url": "https://x.com/korkmazali08/status/2108691931689615542"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "SpaceX getting a direct-to-phone license hit the stocks hard but it was already expected",
+          "source_url": "https://x.com/WallStDiaries/status/2108593645225939270"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "priority": "high",
+      "why": "Three sources shared the same news: optical capacity sold out through early 2029; cevikfinance read it clearly positive.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Positive for optical companies.",
+          "source_url": "https://x.com/cevikfinance/status/2108537063058579718"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Lumentum $LITE CEO says its optical components are \"completely sold out\" through early 2029 on demand for faster AI data centers.",
+          "source_url": "https://x.com/wallstengine/status/2108496652646617354"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "The company said it could meet only about thirty percent of demand for some products next year.",
+          "source_url": "https://x.com/WallStDiaries/status/2108622270424117526"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "high",
+      "why": "Özkent criticized Goldman's $230-target buy rating; jrouldz said he kept his position at new highs after 2.5 years of averaging.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "The price has now reached $200. They gave a buy with a $230 target.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I spent 2.5 years averaging, and have sold zero shares. Average is +1000%",
+          "source_url": "https://x.com/jrouldz/status/2108642543789637848"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "priority": "high",
+      "why": "Both are cautious: Sunelcan closed the position, jrouldz says the stock will keep chopping in this range.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$ASTS kapatıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2108551662759801162"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "my working thesis on ASTS for a couple months now has been that it is banished to keep chopping in this range",
+          "source_url": "https://x.com/jrouldz/status/2108648115855061328"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "medium",
+      "why": "Özkent said he bought into the dip.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "For instance, I bought some Oracle among these.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "low",
+      "why": "Only mentioned as part of the day's drop.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "OpenAI-linked companies fell too. Oracle 5.5%, Broadcom 4.4%, Nvidia 3%, chip index SMH 3.4%.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "low",
+      "why": "Three sources mentioned it in index-contribution and daily-drop context, with no view.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Nvidia is in the S&P 500; when AI falls, Nvidia falls.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$NVDA alone accounted for 13% of this rally.",
+          "source_url": "https://x.com/korkmazali08/status/2108679470999802090"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "About 22% of the S&P 500 is just $NVDA, $AAPL and $MSFT.",
+          "source_url": "https://x.com/cevikfinance/status/2108480583965778085"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "medium",
+      "why": "WallStDiaries relayed a concrete order cut (15%).",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Apple cut its October component orders for iPhone 18 Pro and Pro Max by at least 15%.",
+          "source_url": "https://x.com/WallStDiaries/status/2108626046652469472"
+        }
+      ]
+    },
+    {
+      "symbol": "AAOI",
+      "name": "Applied Optoelectronics",
+      "priority": "medium",
+      "why": "Sunelcan increased his position and finds the stock extremely cheap.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$AAOI arttırıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2108558069760401676"
+        }
+      ]
+    },
+    {
+      "symbol": "SITM",
+      "name": "SiTime",
+      "priority": "medium",
+      "why": "Sunelcan increased his position.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$SITM artirildi.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2108555341344493612"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius",
+      "priority": "medium",
+      "why": "Sunelcan reduced his position.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$NBIS azaltıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2108552066293711123"
+        }
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "priority": "medium",
+      "why": "Sunelcan reduced his position.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$DELL azaltıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2108546887569772888"
+        }
+      ]
+    },
+    {
+      "symbol": "RKT",
+      "name": "Rocket Companies",
+      "priority": "medium",
+      "why": "ulkser said the long-term housing theme is the largest part of his portfolio.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Tek calismayan kisim uzun vade housing $QXO $RKT kismi portfoyumde ve en buyuk kisim",
+          "source_url": "https://x.com/ulkser/status/2108638632261349411"
+        }
+      ]
+    },
+    {
+      "symbol": "QXO",
+      "name": "QXO",
+      "priority": "medium",
+      "why": "ulkser said the long-term housing theme is the largest part of his portfolio.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$RKT ve $QXO donene kadar endekslerde bam bam bam gitmeye devam",
+          "source_url": "https://x.com/ulkser/status/2108637815147999265"
+        }
+      ]
+    },
+    {
+      "symbol": "SNAP",
+      "name": "Snap",
+      "priority": "low",
+      "why": "ulkser closed the position at a profit, no forward view.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "$SNAP asagidaki risk reversal da harika bir karla kapandi.",
+          "source_url": "https://x.com/ulkser/status/2108638632261349411"
+        }
+      ]
+    },
+    {
+      "symbol": "DIA",
+      "name": "SPDR Dow Jones Industrial Average ETF",
+      "priority": "low",
+      "why": "ulkser closed half of the 500-point Dow move and keeps riding the rest.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$DIA $IWM dow jones 500 puan yarisi kapandi yarisi surmeye devam. Russell ayni sekilde.",
+          "source_url": "https://x.com/ulkser/status/2108637815147999265"
+        }
+      ]
+    },
+    {
+      "symbol": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "priority": "low",
+      "why": "ulkser continues to carry half of the Russell position.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$DIA $IWM dow jones 500 puan yarisi kapandi yarisi surmeye devam. Russell ayni sekilde.",
+          "source_url": "https://x.com/ulkser/status/2108637815147999265"
+        }
+      ]
+    },
+    {
+      "symbol": "TEM",
+      "name": "Tempus AI",
+      "priority": "medium",
+      "why": "sgundoganX wished he could buy more and shared the Fortune Future 120 #2 ranking.",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "positive",
+          "quote": "I wish I could buy more. $TEM ranked 2nd on Fortune's Future 120 2026 list.",
+          "source_url": "https://x.com/sgundoganX/status/2108629482693329187"
+        }
+      ]
+    },
+    {
+      "symbol": "ABCL",
+      "name": "AbCellera",
+      "priority": "medium",
+      "why": "jrouldz says it will be a 10-bagger for him at $23.90.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$ABCL will be a 10bagger for me at $23.90",
+          "source_url": "https://x.com/jrouldz/status/2108652328240721970"
+        }
+      ]
+    },
+    {
+      "symbol": "ONDS",
+      "name": "Ondas Holdings",
+      "priority": "medium",
+      "why": "jrouldz prefers ONDS over AVAV in the drone theme.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I do like $AVAV here and the broader drone theme in general (which I believe has been overly punished along with whole defense sector). I still prefer $ONDS though",
+          "source_url": "https://x.com/jrouldz/status/2108638794266321325"
+        }
+      ]
+    },
+    {
+      "symbol": "AVAV",
+      "name": "AeroVironment",
+      "priority": "medium",
+      "why": "jrouldz likes the drone theme and AVAV.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I do like $AVAV here and the broader drone theme in general",
+          "source_url": "https://x.com/jrouldz/status/2108638794266321325"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "priority": "low",
+      "why": "jrouldz finds valuations extreme but execution strong.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "All three of these have unparalleled execution and fundamental strength but the valuations are ridiculous",
+          "source_url": "https://x.com/jrouldz/status/2108653193118769231"
+        }
+      ]
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare",
+      "priority": "low",
+      "why": "jrouldz finds valuations extreme but execution strong.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I’m having same struggle with $CRWD and $NET.",
+          "source_url": "https://x.com/jrouldz/status/2108653193118769231"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "Özkent sees the Treasury auction demand as positive for Bitcoin; WallStDiaries gave the current level.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "This is actually very helpful news for Bitcoin.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Bitcoin : 82.536 (%1,02)",
+          "source_url": "https://x.com/WallStDiaries/status/2108485641264570659"
+        }
+      ]
+    },
+    {
+      "symbol": "XAU",
+      "name": "Gold",
+      "priority": "low",
+      "why": "Özkent said falling yields would help gold too; WallStDiaries gave the ounce price.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Same for gold, but other pressures hit the market at that time.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "gold rose to $4,216 per ounce.",
+          "source_url": "https://x.com/WallStDiaries/status/2108485641264570659"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent crude",
+      "priority": "medium",
+      "why": "Özkent found the oil decline positive for markets; WallStDiaries gave the Brent level.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Oil is pulling back right now. Good news for the market.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Brent Petrol: 102,53 (%1,68)",
+          "source_url": "https://x.com/WallStDiaries/status/2108485641264570659"
+        }
+      ]
+    },
+    {
+      "symbol": "DXY",
+      "name": "US Dollar Index",
+      "priority": "medium",
+      "why": "Dinçtürk says the index, down from 110 to 102, will keep falling.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "negative",
+          "quote": "The dollar index will keep losing value until the end of Trump's term.",
+          "source_url": "https://www.youtube.com/watch?v=_BOep_ezBSQ"
+        }
+      ]
+    },
+    {
+      "symbol": "SMH",
+      "name": "VanEck Semiconductor ETF",
+      "priority": "low",
+      "why": "Only mentioned as part of the day's drop.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "chip index SMH 3.4%.",
+          "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+        }
+      ]
+    },
+    {
+      "symbol": "SFTBY",
+      "name": "SoftBank",
+      "priority": "low",
+      "why": "Two sources relayed the FT report, no view.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "SOFTBANK TO RAISE UP TO $100B FROM GULF INVESTORS: FT",
+          "source_url": "https://x.com/wallstengine/status/2108497840402207177"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "SoftBank chairman Masayoshi Son is in talks to raise up to $100 billion from Gulf investors to fund AI investments.",
+          "source_url": "https://x.com/WallStDiaries/status/2108618498750476706"
+        }
+      ]
+    },
+    {
+      "symbol": "AMBA",
+      "name": "Ambarella",
+      "priority": "low",
+      "why": "Rumor of Qualcomm acquisition talks, no view.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Ambarella gained after market reports that Qualcomm began talks with advisers on a potential acquisition.",
+          "source_url": "https://x.com/WallStDiaries/status/2108610948777021951"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "priority": "low",
+      "why": "Rumored to be acquiring Ambarella, no view.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Market reports that Qualcomm started talks with advisers on a potential acquisition",
+          "source_url": "https://x.com/WallStDiaries/status/2108610948777021951"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "priority": "low",
+      "why": "Product news, no view.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "IonQ demonstrated the world's first quantum-memory-enabled interconnect for distributed quantum applications.",
+          "source_url": "https://x.com/WallStDiaries/status/2108607171000991840"
+        }
+      ]
+    },
+    {
+      "symbol": "GRRR",
+      "name": "Gorilla Technology",
+      "priority": "low",
+      "why": "Letter of intent for a data center purchase, no view.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Gorilla Technology Group signed a letter of intent to buy its first US-based data center.",
+          "source_url": "https://x.com/WallStDiaries/status/2108603403278361029"
+        }
+      ]
+    },
+    {
+      "symbol": "MCHP",
+      "name": "Microchip Technology",
+      "priority": "low",
+      "why": "Acquisition news, no view.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Microchip announced it acquired VORAGO Technologies.",
+          "source_url": "https://x.com/WallStDiaries/status/2108599621866172772"
+        }
+      ]
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing",
+      "priority": "low",
+      "why": "Avolon order news, no view.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Avolon agreed to buy 140 Boeing 737 MAX and 110 Airbus aircraft.",
+          "source_url": "https://x.com/WallStDiaries/status/2108594680388530536"
+        }
+      ]
+    },
+    {
+      "symbol": "OPEN",
+      "name": "Opendoor",
+      "priority": "low",
+      "why": "jrouldz only referred to the chart pattern.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "Amazingly, the pattern on $OPEN still holds",
+          "source_url": "https://x.com/jrouldz/status/2108521202318741873"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Özkent devotes most of today's video to the Financial Times' OpenAI report: when the FT wrote that annualized revenue was $50 billion rather than $70 billion, **Nasdaq** fell 1.25%, **Oracle** 5.5%, **Broadcom** 4.4%, **Nvidia** 3% and **SMH** 3.4%. In his view it is an accounting-standard difference: gross revenue is $70 billion, net is $50 billion after commissions, and nothing has changed. He sees the drop as a buying opportunity, says he bought some **Oracle**, and criticizes Goldman's buy rating on **Palantir** at $200 with a $230 target.\n\nOn macro, he says Treasury auction demand came in above expectations, that yields have peaked and he expects them to fall from here, which is positive for **Bitcoin** and **gold**. He reads Trump saying he won't attack Iran until the midterms as good news for markets, and **oil** is retreating. He expects **SpaceX** to rise at the open despite the spectrum news; he also describes an AI-assisted panel he built to track the midterms.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Ekonomi Basını Yatırımcıları Nasıl Kandırıyor?",
+          "url": "https://www.youtube.com/watch?v=5dd5v3I0XAw",
+          "published_at": "2026-10-09T09:30:10+00:00",
+          "summary": "Özkent calls the Financial Times report that OpenAI's annualized revenue is $50 billion rather than $70 billion a misreading of accounting standards. The $70 billion reported in August was gross (commissions included) to compare with Anthropic, while $50 billion is the net figure; the $20 billion difference is commissions paid to distributors like AWS and Azure. Nasdaq fell as much as 1.75% intraday, Oracle 5.5%, Broadcom 4.4%, Nvidia 3% and SMH 3.4%; Özkent says he sees the drop as a buying opportunity and bought some Oracle. He explains Goldman's buy rating on Palantir at $200 with a $230 target by analysts' fear of being wrong. He says oil fell after Trump said he won't attack Iran until the midterms and thinks the war is practically over if Trump loses the House/Senate; he has built an election panel starting from a 53-47 Senate. Demand at the 30-year Treasury auction was about 2.5 times the expected level and also high at the 10-year; he sees yields peaking and expects a decline, which is positive for Bitcoin and gold. He notes carrier stocks fell sharply after SpaceX bought US spectrum and expects SpaceX to rise at the open. Michigan confidence, jobless claims and Fed meeting news are the items to watch; he thinks the market has bottomed.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "positive",
+              "note": "Says he bought some Oracle on the dip; it fell 5.5%."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Fell 4.4% on the OpenAI report."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Fell 3% on the OpenAI report and dragged the S&P 500 lower."
+            },
+            {
+              "symbol": "SMH",
+              "sentiment": "neutral",
+              "note": "The chip index fell 3.4%."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Criticizes Goldman's buy rating at $200 with a $230 target."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Expects it to rise at the open."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Treasury auction demand and falling yields should help Bitcoin."
+            },
+            {
+              "symbol": "XAU",
+              "sentiment": "positive",
+              "note": "Gold also benefits from falling yields."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "positive",
+              "note": "Sees oil's pullback as good news for the market."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": "Dinçtürk says the soft inflation print was manipulated through its composition and that the gap between official and real inflation is widening, similar to the Arthur Burns era. After unemployment rose to 4.2%, the chance of an October rate hike was taken off the table; in his view Trump replacing the head of the statistics agency played a role.\n\nThe **US Dollar Index** fell from 110 to 102, and he does not believe a US with $40 trillion in debt will make the dollar appreciate permanently; he says the decline will continue until the end of Trump's term.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "''Trump Dönemi Sonuna Kadar Dolar Endeksi Değer Kaybetmeye Devam Edecektir'' | Berk Dinçtürk",
+          "url": "https://www.youtube.com/watch?v=_BOep_ezBSQ",
+          "published_at": "2026-10-09T07:15:16.030Z",
+          "summary": "Dinçtürk says the inflation print came in soft because its composition was manipulated and that the gap between official and real inflation is widening like in the Arthur Burns era. He relays that after unemployment rose to 4.2% the chance of an October rate hike was removed, that Trump fired the statistics agency head last year, installed his own man and insists rates must fall. He notes headlines saying the president wants to weaken the dollar on one side and that the Fed will hike three or four times on the other; he does not believe a US with $40 trillion in debt will make the dollar appreciate permanently. The dollar index was at 110 when Trump took office and is at 102 today, a drop of about 10%. He says the dollar index will keep losing value until the end of Trump's term.",
+          "assets": [
+            {
+              "symbol": "DXY",
+              "sentiment": "negative",
+              "note": "Says the dollar index, down from 110 to 102, will keep losing value until the end of Trump's term."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser describes closing several positions at a profit today: the risk reversal on **SNAP** closed at a great gain, and he saved the month with **PDD**, **UBER** and **CLF** options. In **DIA** and **IWM** he closed half of the 500-point Dow move and keeps riding the other half. The largest part of his portfolio is the long-term housing theme: **RKT** and **QXO**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PDD, UBER, CLF opsiyonları",
+          "url": "https://x.com/ulkser/status/2108611165865775606",
+          "published_at": "2026-10-09T17:30:52.000Z",
+          "summary": "ulkser says he saved the month with $PDD, $UBER and $CLF options.",
+          "assets": [
+            {
+              "symbol": "PDD",
+              "sentiment": "neutral",
+              "note": "Saved the month with options."
+            },
+            {
+              "symbol": "UBER",
+              "sentiment": "neutral",
+              "note": "Saved the month with options."
+            },
+            {
+              "symbol": "CLF",
+              "sentiment": "neutral",
+              "note": "Saved the month with options."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "DIA ve IWM pozisyonları",
+          "url": "https://x.com/ulkser/status/2108637815147999265",
+          "published_at": "2026-10-09T19:16:46.000Z",
+          "summary": "ulkser closed half of the 500-point Dow move in $DIA and $IWM and keeps riding the rest, staying in the indices until $RKT and $QXO turn.",
+          "assets": [
+            {
+              "symbol": "DIA",
+              "sentiment": "positive",
+              "note": "Half of the 500-point Dow move closed, half carried."
+            },
+            {
+              "symbol": "IWM",
+              "sentiment": "positive",
+              "note": "Same in the Russell: half carried."
+            },
+            {
+              "symbol": "RKT",
+              "sentiment": "neutral",
+              "note": "Staying in indices until it turns."
+            },
+            {
+              "symbol": "QXO",
+              "sentiment": "neutral",
+              "note": "Staying in indices until it turns."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SNAP kâr, konut teması",
+          "url": "https://x.com/ulkser/status/2108638632261349411",
+          "published_at": "2026-10-09T19:20:01.000Z",
+          "summary": "ulkser closed the $SNAP risk reversal at a great profit; the only part not working is the long-term housing theme ($QXO, $RKT), the largest part of his portfolio.",
+          "assets": [
+            {
+              "symbol": "SNAP",
+              "sentiment": "positive",
+              "note": "The risk reversal closed at a great profit."
+            },
+            {
+              "symbol": "RKT",
+              "sentiment": "neutral",
+              "note": "The long-term housing theme isn't working but is the largest part of the portfolio."
+            },
+            {
+              "symbol": "QXO",
+              "sentiment": "neutral",
+              "note": "The long-term housing theme isn't working but is the largest part of the portfolio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Sunelcan shared a series of portfolio changes today: he increased **AAOI** and **SITM**, reduced **NBIS** and **DELL**, and closed his **ASTS** position. He finds **AAOI** extremely cheap and says he'll add with cash if it falls. He sees the macro backdrop as unfavorable for story stocks and sees no reason for them to run for a long while.\n\nHe says he cares about today's market reaction, noting **Nasdaq 100** closed above support the day before.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nasdaq 100 desteği",
+          "url": "https://x.com/AhmetSunelcan1/status/2108465421045158063",
+          "published_at": "2026-10-09T07:51:44.000Z",
+          "summary": "Sunelcan says Nasdaq 100 closed above support the day before and that today's market reaction is important.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "Closed above support yesterday, today's reaction matters."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "DELL azaltıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2108546887569772888",
+          "published_at": "2026-10-09T13:15:27.000Z",
+          "summary": "Sunelcan reduced his $DELL position.",
+          "assets": [
+            {
+              "symbol": "DELL",
+              "sentiment": "negative",
+              "note": "Position reduced."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ASTS kapatıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2108551662759801162",
+          "published_at": "2026-10-09T13:34:26.000Z",
+          "summary": "Sunelcan closed his $ASTS position.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "negative",
+              "note": "Position closed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NBIS azaltıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2108552066293711123",
+          "published_at": "2026-10-09T13:36:02.000Z",
+          "summary": "Sunelcan reduced his $NBIS position.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "negative",
+              "note": "Position reduced."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hikaye hisseleri yorumu",
+          "url": "https://x.com/AhmetSunelcan1/status/2108552725072060744",
+          "published_at": "2026-10-09T13:38:39.000Z",
+          "summary": "Sunelcan sees no reason for story stocks to run for a long time.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SITM artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2108555341344493612",
+          "published_at": "2026-10-09T13:49:03.000Z",
+          "summary": "Sunelcan increased his $SITM position.",
+          "assets": [
+            {
+              "symbol": "SITM",
+              "sentiment": "positive",
+              "note": "Position increased."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AAOI artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2108558069760401676",
+          "published_at": "2026-10-09T13:59:53.000Z",
+          "summary": "Sunelcan increased his $AAOI position.",
+          "assets": [
+            {
+              "symbol": "AAOI",
+              "sentiment": "positive",
+              "note": "Position increased."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ASTS sonucu",
+          "url": "https://x.com/AhmetSunelcan1/status/2108592252134240581",
+          "published_at": "2026-10-09T16:15:43.000Z",
+          "summary": "Sunelcan wrote that for ASTS the money spent was 19,728 and money received 19,982, and that he has no ASTS left.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "neutral",
+              "note": "Spent 19,728, received 19,982; no position left."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Makro hikaye hisseleri",
+          "url": "https://x.com/AhmetSunelcan1/status/2108593024619966914",
+          "published_at": "2026-10-09T16:18:47.000Z",
+          "summary": "Sunelcan says the macro economy is not favorable for story stocks.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "AAOI ucuz",
+          "url": "https://x.com/AhmetSunelcan1/status/2108599709392593095",
+          "published_at": "2026-10-09T16:45:21.000Z",
+          "summary": "Sunelcan finds AAOI extremely cheap and says he'll add with his cash if it falls.",
+          "assets": [
+            {
+              "symbol": "AAOI",
+              "sentiment": "positive",
+              "note": "Extremely cheap stock; will add with cash if it falls."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "**TEM** (Tempus AI) ranked 2nd on Fortune's Future 120 2026 list and sgundoganX says he wishes he could buy more.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "TEM Fortune Future 120",
+          "url": "https://x.com/sgundoganX/status/2108629482693329187",
+          "published_at": "2026-10-09T18:43:39.000Z",
+          "summary": "sgundoganX shared Tempus AI ranking 2nd on Fortune's Future 120 list and says he wishes he could buy more.",
+          "assets": [
+            {
+              "symbol": "TEM",
+              "sentiment": "positive",
+              "note": "Wishes he could buy more; ranked 2nd on Fortune's Future 120."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 shares **SpaceX**'s roughly $8 billion spectrum purchase for Starlink Mobile and that 10 stocks drove 70% of the S&P 500's 23% rally since March 30, with **NVDA** alone at 13%. He also relays Bloomberg's report that **OpenAI** expects annualized revenue of $70 billion by end-2026, and recounts the 2008 Volkswagen short squeeze as an educational example.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "OpenAI gelir beklentisi",
+          "url": "https://x.com/korkmazali08/status/2108535645668794434",
+          "published_at": "2026-10-09T12:30:47.000Z",
+          "summary": "According to Bloomberg, OpenAI expects annualized revenue to reach or exceed $70 billion at the end of 2026.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump Rusya petrol anlaşması",
+          "url": "https://x.com/korkmazali08/status/2108679174651019729",
+          "published_at": "2026-10-09T22:01:07.000Z",
+          "summary": "korkmazali08 shared Trump's remarks about a big oil deal with Russia.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Endeks liderliği",
+          "url": "https://x.com/korkmazali08/status/2108679470999802090",
+          "published_at": "2026-10-09T22:02:17.000Z",
+          "summary": "korkmazali08 shared that 10 stocks drove 70% of the S&P 500's 23% rally and $NVDA alone 13%.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Accounted for 13% of the rally alone."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX frekans alımı",
+          "url": "https://x.com/korkmazali08/status/2108691931689615542",
+          "published_at": "2026-10-09T22:51:48.000Z",
+          "summary": "korkmazali08 relayed SpaceX's roughly $8 billion spectrum purchase for Starlink Mobile, with a 2027 satellite launch and 5G-quality service targeted for the first half of 2028.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Spectrum buy moves it toward being an independent mobile operator but requires heavy investment."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Volkswagen açığa satış sıkışması",
+          "url": "https://x.com/korkmazali08/status/2108759179976401215",
+          "published_at": "2026-10-10T03:19:02.000Z",
+          "summary": "korkmazali08 recounted how Porsche's disclosure in 2008 sent Volkswagen up about 376% in two days, squeezing short sellers.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "In its market summary WallStDiaries reports Nasdaq 100 down 1.40% and S&P 500 down 0.47%, the **US 10-year** yield up to 5.24%, **Brent** down to $102.53 and **gold** up to $4,216. Among company news, **Apple** cutting iPhone 18 Pro orders by 15%, **Lumentum**'s capacity being full through 2029 and **SoftBank** seeking $100 billion from the Gulf stand out.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Piyasa özeti ve öncü göstergeler",
+          "url": "https://x.com/WallStDiaries/status/2108485641264570659",
+          "published_at": "2026-10-09T09:12:05.000Z",
+          "summary": "WallStDiaries reported Nasdaq 100 down 1.40%, the 10-year yield up to 5.24%, Brent down to $102.53 and gold up to $4,216.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "$102.53 (down 1.68%)."
+            },
+            {
+              "symbol": "XAU",
+              "sentiment": "neutral",
+              "note": "$4,216 (up 1.42%)."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "82,536 (up 1.02%)."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Günün veri takvimi",
+          "url": "https://x.com/WallStDiaries/status/2108486330854392262",
+          "published_at": "2026-10-09T09:14:49.000Z",
+          "summary": "WallStDiaries wrote that Michigan consumer confidence was expected to fall from 48.1 to 47.6 and that inflation expectations could affect the Fed's rate path.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "10 yıllık getiri",
+          "url": "https://x.com/WallStDiaries/status/2108517018785681847",
+          "published_at": "2026-10-09T11:16:46.000Z",
+          "summary": "WallStDiaries wrote that the 10-year yield is up about 120 bp this year to 5.29% and that a 5.5% scenario could pressure stocks and corporate bonds.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Petrol Trump'a inanmadı",
+          "url": "https://x.com/WallStDiaries/status/2108588076830195835",
+          "published_at": "2026-10-09T15:59:07.000Z",
+          "summary": "WallStDiaries wrote that oil prices did not believe Trump's statement that the Iran conflict will end soon.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Oil didn't believe Trump's statement."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX lisansı beklenen haberdi",
+          "url": "https://x.com/WallStDiaries/status/2108593645225939270",
+          "published_at": "2026-10-09T16:21:15.000Z",
+          "summary": "WallStDiaries said SpaceX getting its direct-to-phone license was already expected news and the reaction was funny.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "The news was already expected, and it was the first source of pressure on the stock."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Avolon uçak siparişi",
+          "url": "https://x.com/WallStDiaries/status/2108594680388530536",
+          "published_at": "2026-10-09T16:25:22.000Z",
+          "summary": "WallStDiaries relayed that Avolon agreed to buy 140 Boeing 737 MAX and 110 Airbus aircraft.",
+          "assets": [
+            {
+              "symbol": "BA",
+              "sentiment": "neutral",
+              "note": "140 737 MAX order."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microchip VORAGO'yu aldı",
+          "url": "https://x.com/WallStDiaries/status/2108599621866172772",
+          "published_at": "2026-10-09T16:45:00.000Z",
+          "summary": "WallStDiaries relayed that Microchip acquired rad-hard technology firm VORAGO with no large financial impact expected.",
+          "assets": [
+            {
+              "symbol": "MCHP",
+              "sentiment": "neutral",
+              "note": "VORAGO acquired."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Gorilla veri merkezi",
+          "url": "https://x.com/WallStDiaries/status/2108603403278361029",
+          "published_at": "2026-10-09T17:00:01.000Z",
+          "summary": "WallStDiaries relayed that Gorilla Technology signed a letter of intent for its first US data center, 36 MW.",
+          "assets": [
+            {
+              "symbol": "GRRR",
+              "sentiment": "neutral",
+              "note": "Letter of intent for a 36 MW data center."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IonQ kuantum bağlantısı",
+          "url": "https://x.com/WallStDiaries/status/2108607171000991840",
+          "published_at": "2026-10-09T17:15:00.000Z",
+          "summary": "WallStDiaries relayed that IonQ introduced a quantum-memory-enabled interconnect.",
+          "assets": [
+            {
+              "symbol": "IONQ",
+              "sentiment": "neutral",
+              "note": "Quantum-memory-enabled interconnect technology unveiled."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Ambarella'yı Qualcomm alabilir",
+          "url": "https://x.com/WallStDiaries/status/2108610948777021951",
+          "published_at": "2026-10-09T17:30:00.000Z",
+          "summary": "WallStDiaries relayed that reports of Qualcomm talking to advisers about buying Ambarella lifted the stock.",
+          "assets": [
+            {
+              "symbol": "AMBA",
+              "sentiment": "neutral",
+              "note": "Rose on acquisition reports."
+            },
+            {
+              "symbol": "QCOM",
+              "sentiment": "neutral",
+              "note": "Reportedly talking to advisers about buying Ambarella."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SoftBank Körfez fonu",
+          "url": "https://x.com/WallStDiaries/status/2108618498750476706",
+          "published_at": "2026-10-09T18:00:00.000Z",
+          "summary": "WallStDiaries relayed, per the FT, that SoftBank is seeking up to $100 billion from Gulf investors.",
+          "assets": [
+            {
+              "symbol": "SFTBY",
+              "sentiment": "neutral",
+              "note": "Seeking up to $100 billion for an AI fund."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Lumentum kapasitesi dolu",
+          "url": "https://x.com/WallStDiaries/status/2108622270424117526",
+          "published_at": "2026-10-09T18:15:00.000Z",
+          "summary": "WallStDiaries relayed that Lumentum's optical capacity is sold out through early 2029.",
+          "assets": [
+            {
+              "symbol": "LITE",
+              "sentiment": "neutral",
+              "note": "Capacity sold out through early 2029; only 30% of demand for some products can be met next year."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Apple sipariş kesintisi",
+          "url": "https://x.com/WallStDiaries/status/2108626046652469472",
+          "published_at": "2026-10-09T18:30:00.000Z",
+          "summary": "WallStDiaries relayed, per Nikkei Asia, that Apple cut iPhone 18 Pro component orders by at least 15%.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "negative",
+              "note": "Component orders cut by at least 15%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "OpenAI gelir farkı",
+          "url": "https://x.com/WallStDiaries/status/2108458259212321035",
+          "published_at": "2026-10-09T07:23:16.000Z",
+          "summary": "WallStDiaries shared the report of a $20 billion accounting gap in OpenAI's revenue.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine shared that **SoftBank** will seek up to $100 billion from Gulf investors (FT) and that **Lumentum**'s CEO said optical components are \"completely sold out\" through early 2029.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Lumentum satıldı",
+          "url": "https://x.com/wallstengine/status/2108496652646617354",
+          "published_at": "2026-10-09T09:55:50.000Z",
+          "summary": "wallstengine shared that Lumentum's CEO said optical components are completely sold out through early 2029.",
+          "assets": [
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "Optical components completely sold out through early 2029."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SoftBank 100 milyar dolar",
+          "url": "https://x.com/wallstengine/status/2108497840402207177",
+          "published_at": "2026-10-09T10:00:33.000Z",
+          "summary": "wallstengine shared, per the FT, that SoftBank will raise up to $100 billion from Gulf investors.",
+          "assets": [
+            {
+              "symbol": "SFTBY",
+              "sentiment": "neutral",
+              "note": "Seeking up to $100 billion for an AI fund."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz says he averaged into **Palantir** for 2.5 years, sold nothing and is up 1000% on average. He finds **CRWD** and **NET** superior in execution but extremely valued, backs **ABCL** for a 10-bagger at $23.90, likes **AVAV** in the drone theme but prefers **ONDS**, and keeps his range-bound thesis on **ASTS**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "OPEN grafik deseni",
+          "url": "https://x.com/jrouldz/status/2108521202318741873",
+          "published_at": "2026-10-09T11:33:23.000Z",
+          "summary": "jrouldz wrote that the pattern on $OPEN still holds.",
+          "assets": [
+            {
+              "symbol": "OPEN",
+              "sentiment": "neutral",
+              "note": "Chart pattern still holds."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Drone teması",
+          "url": "https://x.com/jrouldz/status/2108638794266321325",
+          "published_at": "2026-10-09T19:20:39.000Z",
+          "summary": "jrouldz said he likes the drone theme and $AVAV but still prefers $ONDS.",
+          "assets": [
+            {
+              "symbol": "AVAV",
+              "sentiment": "positive",
+              "note": "Drone theme overly punished; likes AVAV."
+            },
+            {
+              "symbol": "ONDS",
+              "sentiment": "positive",
+              "note": "Prefers it over AVAV."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "PLTR yeni zirve",
+          "url": "https://x.com/jrouldz/status/2108642543789637848",
+          "published_at": "2026-10-09T19:35:33.000Z",
+          "summary": "jrouldz wrote that he held $PLTR when it dropped to $115, averaged for 2.5 years, sold nothing and is up 1000% on average.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "At new highs, average +1000%, no sales."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ASTS aralık tezi",
+          "url": "https://x.com/jrouldz/status/2108648115855061328",
+          "published_at": "2026-10-09T19:57:42.000Z",
+          "summary": "jrouldz keeps his thesis of the past few months that ASTS keeps chopping in this range.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "negative",
+              "note": "Will keep chopping in this range."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ABCL hedefi",
+          "url": "https://x.com/jrouldz/status/2108652328240721970",
+          "published_at": "2026-10-09T20:14:26.000Z",
+          "summary": "jrouldz said $ABCL will be a 10-bagger for him at $23.90.",
+          "assets": [
+            {
+              "symbol": "ABCL",
+              "sentiment": "positive",
+              "note": "Will be a 10-bagger at $23.90."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CRWD ve NET değerlemesi",
+          "url": "https://x.com/jrouldz/status/2108653193118769231",
+          "published_at": "2026-10-09T20:17:52.000Z",
+          "summary": "jrouldz said CRWD and NET have unparalleled execution and fundamentals but ridiculous valuations.",
+          "assets": [
+            {
+              "symbol": "CRWD",
+              "sentiment": "neutral",
+              "note": "Strong execution, ridiculous valuation."
+            },
+            {
+              "symbol": "NET",
+              "sentiment": "neutral",
+              "note": "Strong execution, ridiculous valuation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance shares that with indices near highs 71% of S&P 500 stocks are more than 10% below their peaks and that **NVDA**, **AAPL** and **MSFT** make up about 22% of the index. He finds **Lumentum**'s capacity being full through 2029 positive for optical companies and recommends gradual buying in solid-balance-sheet companies in a tough market.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Endeks zirvede, hisseler zayıf",
+          "url": "https://x.com/cevikfinance/status/2108480583965778085",
+          "published_at": "2026-10-09T08:51:59.000Z",
+          "summary": "cevikfinance wrote that 71% of S&P 500 stocks are over 10% below their peaks and that weak-balance-sheet story stocks will be hit hardest.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "About 22% of the S&P 500 is NVDA, AAPL and MSFT."
+            },
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "About 22% of the S&P 500 is NVDA, AAPL and MSFT."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Lumentum pozitif",
+          "url": "https://x.com/cevikfinance/status/2108537063058579718",
+          "published_at": "2026-10-09T12:36:25.000Z",
+          "summary": "cevikfinance found Lumentum's optoelectronic capacity being nearly sold out through 2029 positive for optical companies.",
+          "assets": [
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "Optical supply bottleneck continues; positive."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Zorlu piyasa rejimi",
+          "url": "https://x.com/cevikfinance/status/2108608400552550658",
+          "published_at": "2026-10-09T17:19:53.000Z",
+          "summary": "cevikfinance wrote that the market has been tough since June and even experienced traders haven't made progress.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0998,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2126,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A fifth of the portfolio sits in one stock; rate pressure and weakness in small/financial stocks are the main risk. Today's sources show the 10-year yield staying at 5.29%, which keeps the backdrop weak for growth/financial stocks.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: at about 21% the weight is a single-stock concentration.",
+          "Against: per WallStDiaries the 10-year yield is at 5.29% with a 5.5% risk.",
+          "For: there is no SoFi-specific negative news in today's sources."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1475,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The biggest risks are tied to AI spending; the OpenAI revenue debate raises sensitivity of the AI investment theme, but there is no information today tied to Meta's own ad revenue.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: the roughly 15% weight and AI sensitivity were felt in today's Nasdaq selling.",
+          "For: no Meta-specific negative news."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1383,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "OpenAI-linked companies fell too. Oracle 5.5%, Broadcom 4.4%, Nvidia 3%, chip index SMH 3.4%.",
+            "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Bora Özkent, Broadcom's 4.4% drop stemmed from a misreading of the accounting in the OpenAI revenue report; he gave no new buy/sell level.",
+        "opinion": "OpenAI-linked demand is the core thesis for Broadcom; if the news is clarified the sharp drop makes little sense, otherwise AI chip orders get questioned. What matters is how the OpenAI revenue debate resolves.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per Özkent the $70B vs. $50B gap that triggered the drop is an accounting-standard difference.",
+          "Against: the roughly 14% weight and dependence on OpenAI let one headline move the stock about 4%.",
+          "Against: with narrow leadership, AI chip stocks are exposed to pullbacks."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1141,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A nuclear/defense-themed position also tied to AI data center energy demand; there is no direct information in today's sources. Iran tensions and defense spending are the key news flow.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: no company-specific negative news today.",
+          "For: jrouldz thinks the defense sector has been overly punished.",
+          "Against: roughly 11% weight and no direct view in the sources."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0961,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "As a social media/ad stock it has high beta in the macro and market-breadth debate; the weak small/mid-cap environment is a risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: per cevikfinance 71% of S&P 500 stocks are over 10% below their peaks; broad participation is weak.",
+          "For: no Reddit-specific negative news today."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0779,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "positive",
+            "quote": "I think we have reached the peak in yields. I expect a decline from here.",
+            "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "negative",
+            "quote": "If the 5.5% scenario strengthens, pressure on stocks and corporate bonds could grow.",
+            "source_url": "https://x.com/WallStDiaries/status/2108517018785681847"
+          }
+        ],
+        "action": "hold",
+        "why": "Bora Özkent says he sees a peak in yields while WallStDiaries flags a 5.5% risk on the 10-year; there is no firm level/date.",
+        "opinion": "The long-duration bond fund carries the bet on peak yields; it benefits if Özkent is right, but price losses grow in a 5.5% scenario. Watch whether Treasury auction demand continues.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per Özkent demand at the 30- and 10-year auctions came in above expectations.",
+          "Against: per WallStDiaries the 10-year yield is at 5.29% with a 5.5% risk.",
+          "Against: long duration is very sensitive to rising rates."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0684,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "There is no Turkey-specific data in today's sources; Berk Dinçtürk's weak-dollar thesis could be indirectly supportive for emerging markets.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per Dinçtürk the dollar index fell from 110 to 102 and he expects the decline to continue.",
+          "Against: no ETF-specific new information in any source today."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0453,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A small-weight energy-infrastructure theme; it could benefit from AI data center power demand but there is no company information in today's sources. Narrow market leadership is a risk for small caps.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Lumentum's capacity sold out through 2029 shows AI infrastructure demand continues.",
+          "Against: no company-specific data today and the weight is about 4.5%."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "LITE",
+        "name": "Lumentum",
+        "why": "wallstengine, WallStDiaries and cevikfinance relayed the Lumentum CEO's statement that optical capacity is sold out through early 2029; cevikfinance called it positive for optical companies.",
+        "source_url": "https://x.com/wallstengine/status/2108496652646617354"
+      },
+      {
+        "symbol": "ORCL",
+        "name": "Oracle",
+        "why": "Bora Özkent said he bought some Oracle after it fell 5.5% on the OpenAI report.",
+        "source_url": "https://www.youtube.com/watch?v=5dd5v3I0XAw"
+      },
+      {
+        "symbol": "ABCL",
+        "name": "AbCellera",
+        "why": "jrouldz said $ABCL will be a 10-bagger for him at $23.90.",
+        "source_url": "https://x.com/jrouldz/status/2108652328240721970"
+      }
+    ]
+  }
+}
