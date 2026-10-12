@@ -1,0 +1,1038 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T07:23:03.777Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "IREN signed a multiyear cloud computing deal with Anthropic",
+      "person": "FinancewithIzzy",
+      "why": "Per The Information the financial terms are undisclosed; IREN joins Anthropic's infrastructure supplier network alongside names like $AMZN and $GOOGL, and Ahmet Sunelcan temporarily added $IREN to his portfolio.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2109541364341813589"
+    },
+    {
+      "title": "Lumentum optical components 'fully sold out' through early 2029",
+      "person": "cevikfinance",
+      "why": "CEO Michael Hurlston says about 70% of demand for some products can't be met next year; revenue rose 109.3% YoY to $1.01B, but 41.6% comes from two customers, and Cuma Cevik expects $1,400 levels.",
+      "source_url": "https://x.com/cevikfinance/status/2109280312823869804"
+    },
+    {
+      "title": "JPM, GS, C report Tuesday; BAC, MS Wednesday",
+      "person": "FinancewithIzzy",
+      "why": "The five big banks lost about $270B in market value from summer highs; institutional investors expecting banks to outperform fell from 68% in July to 35% in October.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+    },
+    {
+      "title": "TSMC earnings Oct 15: Q4 guidance and 2027 outlook decisive",
+      "person": "korkmazali08",
+      "why": "Q3 revenue of $46.7B (+50% YoY) is already known; what matters are Q4 guidance, the 2027 outlook and margins.",
+      "source_url": "https://x.com/korkmazali08/status/2109265437829566496"
+    },
+    {
+      "title": "September inflation Wednesday, Fed meets Oct 27-28",
+      "person": "cevikfinance",
+      "why": "Per Cuma Cevik the Fed hiked to 3.75-4.00% on Sept 16 and most members see another hike by year-end as likely appropriate; midterm years with hikes have been weak for the index.",
+      "source_url": "https://x.com/cevikfinance/status/2109371049083379900"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Hormuz and oil prices",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Berk Dinçtürk says Iran played the Hormuz card wrongly; unless oil stays durably above $110 there is nothing to fear, and if Russian oil returns prices fall fast.",
+          "quote": "As long as oil doesn't stay durably above $110, I think there's nothing to fear.",
+          "source_url": "https://www.youtube.com/watch?v=_sg98dfH5f4"
+        }
+      ]
+    },
+    {
+      "topic": "Fed rates, bond yields and year-end",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "Per Cuma Cevik, if the Fed hikes again this year, 2026 joins the small group of midterm years with weak returns; seasonality alone is not a reliable basis.",
+          "quote": "So unfortunately midterm seasonality alone is not a reliable basis this year (through end of 2026).",
+          "source_url": "https://x.com/cevikfinance/status/2109371049083379900"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "Per FinancewithIzzy bond yields are near a 24-year high; strategists stay optimistic for year-end but with rising yields even strong earnings don't always bring gains.",
+          "quote": "With bond yields rising, even strong earnings don't always bring gains.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109359636587454503"
+        }
+      ]
+    },
+    {
+      "topic": "Russia-Ukraine energy ceasefire",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Per Tunç Şatıroğlu the ceasefire Trump announced is limited to energy facilities; the war continues.",
+          "quote": "His emphasis on 'energy' shows the ceasefire is limited to energy facilities. So the war continues.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2109298718398959955"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "IREN",
+      "name": "IREN",
+      "priority": "high",
+      "why": "Three people mentioned it; there is the Anthropic deal news and Ahmet Sunelcan's decision to add it to his portfolio.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "IREN is no longer just building capacity, it is supplying AI giants with infrastructure. The 2027 story is getting more interesting!",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109541364341813589"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$IREN was temporarily added to the portfolio.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109420625643397457"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$IREN rose 8% in Sunday night trading. But the development is not new: the certification was first announced in late August.",
+          "source_url": "https://x.com/korkmazali08/status/2109480100186017872"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "priority": "high",
+      "why": "A clear level ($1,400) and concrete data (capacity sold through 2029, +109.3% revenue) were given.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "But I think it will also see $1,400 levels.",
+          "source_url": "https://x.com/cevikfinance/status/2109280312823869804"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "priority": "medium",
+      "why": "One person laid out a concrete framework for the Oct 15 earnings.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "The key in $TSM's Oct 15 earnings will be Q4 guidance, the 2027 outlook and margins, more than record revenue.",
+          "source_url": "https://x.com/korkmazali08/status/2109265437829566496"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "Mentioned in three sources: Reflection AI talks, the Oct 21 GTC keynote and Wall Street optimism.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Nvidia is in early talks to acquire Reflection AI or increase its existing $800 million investment.",
+          "source_url": "https://x.com/WallStDiaries/status/2109200652895158437"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Nvidia CEO Jensen Huang will deliver a keynote on October 21.",
+          "source_url": "https://x.com/wallstengine/status/2109401729028804783"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "The tech sector P/E fell from about 35 last year to roughly 21 today.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109359636587454503"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "low",
+      "why": "Only listed among tickers.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Wall Street strategists are still optimistic for year-end. $NVDA $MSFT $AVGO $MU $AMAT",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109359636587454503"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "medium",
+      "why": "Cuma Cevik reacted positively to Elon Musk's RAM supply comment.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$MU $SKHY $DRAM 💪🏼 — Elon Musk: Problem is RAM supply",
+          "source_url": "https://x.com/cevikfinance/status/2109350322145841535"
+        }
+      ]
+    },
+    {
+      "symbol": "AXON",
+      "name": "Axon Enterprise",
+      "priority": "medium",
+      "why": "Dr J Rould gave a positive view with fundamental reasons.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I happen to love $AXON fundamentally strong niche, deep market penetration, combining hardware / software / AI / data",
+          "source_url": "https://x.com/jrouldz/status/2109359830716608726"
+        }
+      ]
+    },
+    {
+      "symbol": "RXRX",
+      "name": "Recursion Pharmaceuticals",
+      "priority": "medium",
+      "why": "There is a key date for Dr J Rould: phase 2 data readout next month.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "That will depend on the phase 2 data readout slated for next month Technical is secondary to the fundamental story",
+          "source_url": "https://x.com/jrouldz/status/2109358031741788490"
+        }
+      ]
+    },
+    {
+      "symbol": "PCRX",
+      "name": "Pacira BioSciences",
+      "priority": "medium",
+      "why": "A concrete acquisition price was given.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Viatris is acquiring Pacira BioSciences for $36.50 per share in cash, $1.65 billion in total.",
+          "source_url": "https://x.com/WallStDiaries/status/2109207377480429787"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Google Cloud Storage users are facing high latency and serious error rates in data upload and write processes.",
+          "source_url": "https://x.com/WallStDiaries/status/2109222475313906122"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ",
+      "priority": "medium",
+      "why": "One person defended a long-term gradual-buying strategy with concrete historical data.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Even after a collapse like the 2008 mortgage crisis, $QQQ has risen roughly 2900%.",
+          "source_url": "https://x.com/korkmazali08/status/2109403605056852183"
+        }
+      ]
+    },
+    {
+      "symbol": "TQQQ",
+      "name": "ProShares UltraPro QQQ",
+      "priority": "high",
+      "why": "Two people gave views; a date and return figure were given.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$TQQQ has risen about 740% since January 12, 2023.",
+          "source_url": "https://x.com/korkmazali08/status/2109308146812350784"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "$TQQQ can only be accumulated gradually during the harshest phase of a bear market.",
+          "source_url": "https://x.com/cevikfinance/status/2109290498049630452"
+        }
+      ]
+    },
+    {
+      "symbol": "SOXL",
+      "name": "Direxion Semiconductor Bull 3X",
+      "priority": "medium",
+      "why": "Cuma Cevik gave a concrete historical observation.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "But my favorite high-risk high-reward instrument is $SOXL. Purchases made after roughly 90% drops from its peak have created fortunes.",
+          "source_url": "https://x.com/cevikfinance/status/2109291086652833820"
+        }
+      ]
+    },
+    {
+      "symbol": "OIL",
+      "name": "Oil",
+      "priority": "medium",
+      "why": "Berk Dinçtürk gave a clear threshold ($110 weekly close).",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "Even at the peak of this tension we saw $116 and $120, but the weekly close was always below $110.",
+          "source_url": "https://www.youtube.com/watch?v=_sg98dfH5f4"
+        }
+      ]
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "On Tuesday JPMorgan, Goldman Sachs and Citigroup will report earnings.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+        }
+      ]
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "On Tuesday JPMorgan, Goldman Sachs and Citigroup will report earnings.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+        }
+      ]
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "On Tuesday JPMorgan, Goldman Sachs and Citigroup will report earnings.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+        }
+      ]
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "On Wednesday Bank of America and Morgan Stanley will report earnings.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+        }
+      ]
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "On Wednesday Bank of America and Morgan Stanley will report earnings.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+        }
+      ]
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "MrTradeer",
+          "sentiment": "neutral",
+          "quote": "Your ZEC trade got liquidated. In finance you don't trade blindly.",
+          "source_url": "https://x.com/MrTradeer/status/2109384253792223526"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": "In this video Berk Dinçtürk reads Iran in the same frame as Venezuela and says the real target is China; he argues both threatened the petrodollar and that the US will collapse Iran economically from within rather than militarily. He says Iran's leverage has weakened because alternative pipelines and sea routes were built against a Hormuz closure, which is why negotiation offers are coming from Tehran.\n\nOn **oil** the key threshold is $110: at the peak of tension $116 and $120 were seen but weekly closes always stayed below $110. In his view there is nothing to fear unless oil stays durably above $110, and if Russian oil returns to the market prices fall quickly.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Iran Played the Hormuz Card Very Wrong",
+          "url": "https://www.youtube.com/watch?v=_sg98dfH5f4",
+          "published_at": "2026-10-11T07:14:58.430Z",
+          "summary": "Berk Dinçtürk says he never separated the Iran issue from Venezuela and that the real target is China; both threatened the petrodollar, so the US first toppled Maduro. In Iran he says the strategy is to collapse the economy from within rather than invade: the dollar hit 240,000 on the street rate and inflation is above 70%. Against Iran closing Hormuz, Saudi Arabia's East-West pipeline, the UAE's Fujairah pipeline and a US-Oman deal created alternative routes; using the Petra example he says leverage is lost when trade routes change. He says oil above $110 threatens the US tech push, so statements or interventions come whenever it nears $110. At the peak of tension $116 and $120 were seen, but the weekly close always stayed below $110. Talks with Russia about asset sales have started; if Russian oil returns to the market, prices fall quickly. He doesn't think oil will get out of control.",
+          "assets": [
+            {
+              "symbol": "OIL",
+              "sentiment": "neutral",
+              "note": "No reason to fear unless it stays durably above $110; weekly closes have stayed below $110, and a return of Russian oil would send prices down quickly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ulkser",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "On the finance side Ahmet Sunelcan only shared that he temporarily added **IREN** to his portfolio, giving no reasoning or level. His other posts were political and economy-versus-democracy debates.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "IREN added to portfolio",
+          "url": "https://x.com/AhmetSunelcan1/status/2109420625643397457",
+          "published_at": "2026-10-11T23:07:22.000Z",
+          "summary": "Ahmet Sunelcan temporarily added $IREN to his portfolio.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "Temporarily added to the portfolio; no reasoning or level was shared."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 returned to the **IREN** news, noting the stock rose 8% in Sunday night trading but that the Nvidia certification had already been announced in late August. Futures opened slightly higher and he added that volumes may be low tomorrow because of Columbus Day.\n\nOn **QQQ** and **TQQQ** he defends being a long-term partner in tech and buying dips gradually, saying QQQ rose roughly 2900% after 2008 and TQQQ is up 740% since 2023. On **TSMC**'s Oct 15 earnings he wrote that Q4 guidance, the 2027 outlook and margins matter more than record revenue.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "IREN up 8% on Sunday night",
+          "url": "https://x.com/korkmazali08/status/2109480100186017872",
+          "published_at": "2026-10-12T03:03:42.000Z",
+          "summary": "IREN rose 8% after reminding of subsidiary Mirantis's Nvidia GB200 virtualization certification; however it was announced in late August, so nothing new.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "neutral",
+              "note": "The rise stems from an old certification resurfacing, not new news."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Futures opened higher",
+          "url": "https://x.com/korkmazali08/status/2109410731825172499",
+          "published_at": "2026-10-11T22:28:04.000Z",
+          "summary": "Nasdaq 100 opened +0.24%, S&P 500 +0.11%, Dow Jones +0.08% and Russell 2000 +0.06%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Defending QQQ and gradual buying",
+          "url": "https://x.com/korkmazali08/status/2109403605056852183",
+          "published_at": "2026-10-11T21:59:44.000Z",
+          "summary": "He defends being a long-term partner in tech and buying dips gradually, noting QQQ rose roughly 2900% even after the 2008 crisis.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Rose roughly 2900% after 2008; falls more than the S&P but rises more when rising."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TQQQ correction: 740% return",
+          "url": "https://x.com/korkmazali08/status/2109308146812350784",
+          "published_at": "2026-10-11T15:40:25.000Z",
+          "summary": "TQQQ rose about 740% since Jan 12, 2023 (split-adjusted $9.85 to the Oct 9 close of $81.28).",
+          "assets": [
+            {
+              "symbol": "TQQQ",
+              "sentiment": "positive",
+              "note": "Jan 12, 2023 close $19.71 ($9.85 post-split); Oct 9 close $81.28."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TSMC Oct 15 earnings",
+          "url": "https://x.com/korkmazali08/status/2109265437829566496",
+          "published_at": "2026-10-11T12:50:43.000Z",
+          "summary": "TSMC's Q3 revenue was $46.7B, +50% YoY; the market seeks new reasons in Q4 guidance, 2027 outlook and margins, and strong margins despite 2nm costs and AI demand could surprise positively.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "Earnings Oct 15; Q4 guidance, 2027 outlook and margins are decisive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries listed the day's news: **Nvidia** is in talks to buy Reflection AI or raise its investment, Viatris is buying **Pacira** at $36.50 per share, and **Google** Cloud Storage is seeing a wave of latency and errors.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Google Cloud Storage disruption",
+          "url": "https://x.com/WallStDiaries/status/2109222475313906122",
+          "published_at": "2026-10-11T10:00:00.000Z",
+          "summary": "Google Cloud Storage users face high latency and error rates; engineers started an investigation.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "negative",
+              "note": "Technical disruption in cloud infrastructure."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Viatris acquiring Pacira",
+          "url": "https://x.com/WallStDiaries/status/2109207377480429787",
+          "published_at": "2026-10-11T09:00:00.000Z",
+          "summary": "Viatris is acquiring Pacira BioSciences for $36.50 per share in cash, $1.65B total.",
+          "assets": [
+            {
+              "symbol": "PCRX",
+              "sentiment": "positive",
+              "note": "$36.50 per share cash offer; shares jumped."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia in talks with Reflection AI",
+          "url": "https://x.com/WallStDiaries/status/2109200652895158437",
+          "published_at": "2026-10-11T08:33:17.000Z",
+          "summary": "Nvidia is in early talks to acquire Reflection AI or raise its $800M investment; the startup reached a $25B valuation in March and a deal is planned as a talent and technology transfer to avoid regulatory hurdles.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Talks on acquiring or increasing investment in an open-source AI startup."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu's only finance-related post says the Russia-Ukraine energy ceasefire Trump announced is limited to energy facilities and that the war continues.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Russia-Ukraine 'energy ceasefire'",
+          "url": "https://x.com/TuncSatiroglu/status/2109298718398959955",
+          "published_at": "2026-10-11T15:02:57.000Z",
+          "summary": "He notes Trump said there is an energy ceasefire between Russia and Ukraine, that the emphasis points to energy facilities only, and that the war continues.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "MrTradeer's day was mostly politics and personal arguments; on the finance side he wrote that a user's **ZEC** short got liquidated and that one shouldn't trade blindly.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ZEC short liquidation warning",
+          "url": "https://x.com/MrTradeer/status/2109384253792223526",
+          "published_at": "2026-10-11T20:42:51.000Z",
+          "summary": "He says a user's ZEC short got liquidated, that he had flagged that level as support in Barbarians, and that one shouldn't trade blindly.",
+          "assets": [
+            {
+              "symbol": "ZEC",
+              "sentiment": "neutral",
+              "note": "The short was liquidated; he had flagged that level as important support."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy saw the day's biggest news in **IREN**: per The Information a multiyear cloud deal with Anthropic was signed, with financial terms unknown. On Wall Street he relayed that with bond yields near a 24-year high strategists remain optimistic for year-end, tech P/E fell from 35 to 21, and **Nvidia** and **Broadcom** are among the highlighted names.\n\nOn banks he wrote that JPMorgan, Goldman Sachs, Citigroup, Bank of America and Morgan Stanley lost $270B from summer highs, with JPM, GS and C reporting Tuesday and BAC and MS Wednesday.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "IREN & Anthropic deal",
+          "url": "https://x.com/FinancewithIzzy/status/2109541364341813589",
+          "published_at": "2026-10-12T07:07:09.000Z",
+          "summary": "Per The Information Anthropic signed a multiyear cloud deal with IREN; Anthropic's AI infrastructure commitments approach $530B and financial terms are undisclosed.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "Now supplying infrastructure to AI giants; the 2027 story gets interesting."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Tagged only."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Wall Street: not time to be afraid?",
+          "url": "https://x.com/FinancewithIzzy/status/2109359636587454503",
+          "published_at": "2026-10-11T19:05:02.000Z",
+          "summary": "With bond yields near a 24-year high, strategists stay optimistic for year-end: 30% S&P 500 earnings growth, tech P/E down from 35 to 21, S&P up in 84% of midterm-year fourth quarters; Dan Ives calls them buying opportunities. He thinks the real divergence will be between companies with strong stories and those actually making money.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Listed; tech multiples have fallen."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Listed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "$270B erased from big banks",
+          "url": "https://x.com/FinancewithIzzy/status/2109300848220164350",
+          "published_at": "2026-10-11T15:11:25.000Z",
+          "summary": "JPM, GS, C, BAC and MS lost about $270B in market value from summer highs; expectations of bank outperformance fell from 68% in July to 35% in October. Rising long-term yields raise deposit costs and pressure bond portfolios. JPM, GS, C report Tuesday; BAC, MS Wednesday.",
+          "assets": [
+            {
+              "symbol": "JPM",
+              "sentiment": "neutral",
+              "note": "Reports Tuesday."
+            },
+            {
+              "symbol": "GS",
+              "sentiment": "neutral",
+              "note": "Reports Tuesday."
+            },
+            {
+              "symbol": "C",
+              "sentiment": "neutral",
+              "note": "Reports Tuesday."
+            },
+            {
+              "symbol": "BAC",
+              "sentiment": "neutral",
+              "note": "Reports Wednesday."
+            },
+            {
+              "symbol": "MS",
+              "sentiment": "neutral",
+              "note": "Reports Wednesday."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine shared the day's calendar: Fed's Hammack speaks before the open and LVMH reports earnings; it also noted **Nvidia** CEO Jensen Huang will give a keynote at GTC on October 21.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Today's calendar: Fed's Hammack, LVMH",
+          "url": "https://x.com/wallstengine/status/2109531410986094972",
+          "published_at": "2026-10-12T06:27:36.000Z",
+          "summary": "Today's calendar has Fed's Hammack speaking before the open and LVMH earnings.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Jensen Huang to keynote GTC on Oct 21",
+          "url": "https://x.com/wallstengine/status/2109401729028804783",
+          "published_at": "2026-10-11T21:52:17.000Z",
+          "summary": "Nvidia CEO Jensen Huang will deliver a keynote at GTC on October 21.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "GTC keynote on Oct 21."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "Dr J Rould is bullish on **AXON** for fundamental reasons: strong niche, deep market penetration and a mix of hardware, software, AI and data, with a 'glorious' revenue trend. On **RXRX** he says direction depends on the phase 2 data readout slated for next month, with technicals secondary.\n\nIn his investing philosophy he likes small companies that will show high growth and margins but don't yet, and is taking progressive profits on runners in his larger holdings.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AXON revenue trend",
+          "url": "https://x.com/jrouldz/status/2109537027473416350",
+          "published_at": "2026-10-12T06:49:55.000Z",
+          "summary": "He calls the $AXON revenue trend glorious.",
+          "assets": [
+            {
+              "symbol": "AXON",
+              "sentiment": "positive",
+              "note": "Revenue trend is very positive."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Loves AXON fundamentally",
+          "url": "https://x.com/jrouldz/status/2109359830716608726",
+          "published_at": "2026-10-11T19:05:48.000Z",
+          "summary": "He loves $AXON fundamentally for its strong niche, deep market penetration and mix of hardware, software, AI and data.",
+          "assets": [
+            {
+              "symbol": "AXON",
+              "sentiment": "positive",
+              "note": "Strong niche, deep penetration, hardware / software / AI / data."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "RXRX phase 2 data",
+          "url": "https://x.com/jrouldz/status/2109358031741788490",
+          "published_at": "2026-10-11T18:58:39.000Z",
+          "summary": "He says RXRX depends on the phase 2 data readout slated for next month, with technicals secondary.",
+          "assets": [
+            {
+              "symbol": "RXRX",
+              "sentiment": "positive",
+              "note": "Phase 2 data readout next month."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Investing approach: growth and progressive profit-taking",
+          "url": "https://x.com/jrouldz/status/2109249988685357294",
+          "published_at": "2026-10-11T11:49:19.000Z",
+          "summary": "He says the highest returns come from companies that will have high revenue growth and margins but don't yet; for new buys he likes small market caps relative to large TAM, is taking progressive profits on runners in his larger holdings, and thinks P/E or P/S is dumb for early-stage growth companies.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Quantum: ion traps and neutral atoms",
+          "url": "https://x.com/jrouldz/status/2109363801250291847",
+          "published_at": "2026-10-11T19:21:34.000Z",
+          "summary": "He is skeptical about the scalability of helium-based superconducting quantum, notes it competes directly with the big players, and prefers ion trap and neutral atom modalities.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "Cuma Cevik's day began with an analysis of 1970-2022 midterm years: the index always rose in years the Fed cut and was weak in years it hiked; the Fed hiked to 3.75-4.00% on Sept 16 and another hike is likely per the minutes. With September inflation on Wednesday and the Fed on Oct 27-28, he doesn't rely on seasonality alone.\n\nOn companies he wrote that **Lumentum**'s optical components are sold out through early 2029, revenue grew 109.3% YoY and he could see $1,400 levels, noting risks of two-customer dependence and a 199.3% YTD rise. He mentioned **Micron** positively on Musk's RAM supply comment, and on **SOXL** and **TQQQ** said gradual buying after ~90% drops from the peak has worked well historically.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Midterm-year seasonality and the Fed",
+          "url": "https://x.com/cevikfinance/status/2109371049083379900",
+          "published_at": "2026-10-11T19:50:22.000Z",
+          "summary": "Across 14 midterm years from 1970-2022, in all 10 years where the Fed cut or was expected to cut, the index rose from Oct 9 to year-end (median 7.6%); in the 4 hiking years it rose only twice (median -3.6%). The Fed hiked to 3.75-4.00% on Sept 16 and per the minutes most members see another hike by year-end as likely appropriate; September inflation is Wednesday and the Fed meets Oct 27-28. He therefore says seasonality alone isn't reliable this year.",
+          "assets": [
+            {
+              "symbol": "SPX",
+              "sentiment": "neutral",
+              "note": "If the Fed hikes, midterm seasonality may be weak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MU, SKHY, DRAM and RAM supply",
+          "url": "https://x.com/cevikfinance/status/2109350322145841535",
+          "published_at": "2026-10-11T18:28:01.000Z",
+          "summary": "He welcomed Elon Musk's 'problem is RAM supply' comment, tagging $MU $SKHY $DRAM.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "RAM supply constraint read as favorable."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SOXL: buying after a 90% drop",
+          "url": "https://x.com/cevikfinance/status/2109291086652833820",
+          "published_at": "2026-10-11T14:32:38.000Z",
+          "summary": "He likes $SOXL as a high-risk high-reward instrument; purchases after roughly 90% drops from the peak created fortunes.",
+          "assets": [
+            {
+              "symbol": "SOXL",
+              "sentiment": "positive",
+              "note": "Buys after a ~90% drop from the peak created fortunes in the past."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Accumulate TQQQ gradually in bear markets",
+          "url": "https://x.com/cevikfinance/status/2109290498049630452",
+          "published_at": "2026-10-11T14:30:18.000Z",
+          "summary": "He says TQQQ can only be accumulated gradually during the harshest phase of a bear market, otherwise it can hurt a lot.",
+          "assets": [
+            {
+              "symbol": "TQQQ",
+              "sentiment": "neutral",
+              "note": "Only gradual buying during the harshest bear-market phase."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Lumentum sold out through 2029",
+          "url": "https://x.com/cevikfinance/status/2109280312823869804",
+          "published_at": "2026-10-11T13:49:49.000Z",
+          "summary": "Lumentum's CEO said optical components are fully sold out through early 2029, with ~70% of demand for some products unmet next year; Nokia's and Marvell's CEOs also confirmed demand. Revenue rose 109.3% YoY to $1.01B, gross margin 50.4%, but 41.6% of revenue comes from two customers, the stock is up 199.3% YTD at 50.7x forward earnings. Cuma Cevik thinks it will also see $1,400 levels.",
+          "assets": [
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "Expects $1,400 levels; risks: two customers, high multiple."
+            },
+            {
+              "symbol": "NOK",
+              "sentiment": "neutral",
+              "note": "CEO said there is no overinvestment."
+            },
+            {
+              "symbol": "MRVL",
+              "sentiment": "positive",
+              "note": "CEO forecast the data center interconnect market growing ~65% a year through 2030."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0992,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2025,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The portfolio's largest position (20%) and a rate-sensitive fintech; bond yields near a 24-year high and deteriorating bank expectations are the main risk, and this week's bank earnings may hint at sector appetite.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: a 20% weight in one position is a concentration risk.",
+          "Against: per FinancewithIzzy banks are under pressure from rising yields.",
+          "For: expectations for banks have already fallen to 35%, so bad news may be partly priced."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1445,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "neutral",
+            "quote": "Wall Street strategists are still optimistic for year-end. $NVDA $MSFT $AVGO $MU $AMAT",
+            "source_url": "https://x.com/FinancewithIzzy/status/2109359636587454503"
+          }
+        ],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Core of the AI infrastructure theme; though listed in FinancewithIzzy's tickers there is no Broadcom-specific news, and TSMC earnings (Oct 15) and demand comments from firms like Lumentum will be read across the sector.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Lumentum's and Marvell's CEOs say data center interconnect demand is strong.",
+          "Against: at a 14% weight it is sensitive to the semiconductor cycle and high multiples.",
+          "For: per FinancewithIzzy tech P/E fell from 35 to 21."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1431,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A large, ad-driven position; the debate over AI spending returns may affect the stock, and the sources contain nothing specific on Meta.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: falling tech multiples lower the entry cost.",
+          "Against: Cuma Cevik pointed to the debate over returns on AI investments.",
+          "Against: a 14% weight and tech risk correlated with Broadcom."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1196,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Nuclear and defense linked, offering a different risk profile from the main portfolio themes; the sources didn't mention it today, and it diversifies the portfolio.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: has a different driver in a tech-heavy portfolio.",
+          "Against: no new data supports or weakens it today."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1024,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A high-beta stock dependent on ad revenue and social traffic; at a 10% weight it can be among the hardest-moving holdings in tech selloffs.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: high beta, potential for sharp drops while yields rise.",
+          "For: tech sector multiples have compressed."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0762,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "negative",
+            "quote": "Bond yields are near a 24-year high.",
+            "source_url": "https://x.com/FinancewithIzzy/status/2109359636587454503"
+          }
+        ],
+        "action": "hold",
+        "why": "Per FinancewithIzzy bond yields are near a 24-year high.",
+        "opinion": "Long-dated US Treasuries are the most rate-sensitive holding; the chance of another Fed hike by year-end may pressure the price near term, but if yields are near a peak it offers a yield opportunity.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: per Cuma Cevik the minutes see another hike as likely, which lowers long-bond prices.",
+          "For: yields near a 24-year high make the income side attractive.",
+          "For: acts as a risk balancer in an equity-heavy portfolio."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0651,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A position carrying Turkey-specific currency and inflation risk with no finance content in the sources today; Berk Dinçtürk's geopolitical reading implies Middle East risk is manageable.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: oil staying below $110 is positive for Turkey.",
+          "Against: there is no concrete source data on Turkey today."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0474,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Small-weight (5%) and tied to the AI data center power infrastructure theme; Lumentum's and Nokia's comments show data center investment continuing.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Nokia's CEO said customers would build data centers twice as fast if they could.",
+          "Against: no stock-specific news and the small weight limits its impact."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "IREN",
+        "name": "IREN",
+        "why": "FinancewithIzzy wrote that per The Information a multiyear cloud deal with Anthropic was signed and IREN now supplies infrastructure to AI giants; Ahmet Sunelcan also temporarily added the stock to his portfolio.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2109541364341813589"
+      },
+      {
+        "symbol": "LITE",
+        "name": "Lumentum",
+        "why": "Cuma Cevik cites optical components sold out through early 2029 and 109.3% revenue growth, and expects $1,400 levels.",
+        "source_url": "https://x.com/cevikfinance/status/2109280312823869804"
+      }
+    ]
+  }
+}

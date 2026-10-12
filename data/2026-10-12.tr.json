@@ -1,0 +1,1038 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T07:23:03.777Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "IREN, Anthropic ile çok yıllı bulut bilişim anlaşması imzaladı",
+      "person": "FinancewithIzzy",
+      "why": "The Information'a göre anlaşmanın mali detayları açıklanmadı; IREN Anthropic'in altyapı tedarikçi ağına $AMZN ve $GOOGL gibi isimlerin yanında giriyor, Ahmet Sunelcan da $IREN'i geçici olarak portföye ekledi.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2109541364341813589"
+    },
+    {
+      "title": "Lumentum optik bileşenleri 2029 başına kadar 'tamamen satıldı'",
+      "person": "cevikfinance",
+      "why": "CEO Michael Hurlston'a göre bazı ürünlerde talebin yaklaşık %70'i gelecek yıl karşılanamayacak; gelir yıllık %109,3 artışla 1,01 milyar dolar, ama gelirin %41,6'sı iki müşteriden ve Cuma Cevik 1400 dolar seviyelerini bekliyor.",
+      "source_url": "https://x.com/cevikfinance/status/2109280312823869804"
+    },
+    {
+      "title": "JPM, GS, C bilançoları Salı; BAC, MS Çarşamba",
+      "person": "FinancewithIzzy",
+      "why": "Beş büyük bankanın piyasa değerinden yaz zirvesine göre yaklaşık 270 milyar dolar silindi; bankaların piyasadan iyi performans göstermesini bekleyen kurumsal yatırımcı oranı Temmuz'da %68 iken Ekim'de %35'e düştü.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+    },
+    {
+      "title": "TSMC bilançosu 15 Ekim: Q4 beklentisi ve 2027 görünümü belirleyici",
+      "person": "korkmazali08",
+      "why": "Q3 geliri yıllık %50 artışla 46,7 milyar dolar olarak zaten biliniyor; asıl bakılacaklar Q4 beklentileri, 2027 görünümü ve kâr marjları.",
+      "source_url": "https://x.com/korkmazali08/status/2109265437829566496"
+    },
+    {
+      "title": "Eylül enflasyonu Çarşamba, Fed 27-28 Ekim'de toplanıyor",
+      "person": "cevikfinance",
+      "why": "Cuma Cevik'e göre Fed 16 Eylül'de faizi %3,75-4,00'e çıkardı ve tutanağa göre üyelerin çoğu yıl sonuna kadar bir artış daha uygun görüyor; faiz artırılan ara seçim yıllarında endeks zayıf kalmış.",
+      "source_url": "https://x.com/cevikfinance/status/2109371049083379900"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Hürmüz ve petrol fiyatı",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Berk Dinçtürk'e göre İran Hürmüz kozunu yanlış oynadı; petrol 110 doların üstünde kalıcı olmadıkça korkulacak bir şey yok, Rus petrolü geri dönerse fiyat hızla düşer.",
+          "quote": "Petrol 110 doların üstünde kalıcı olmadığı sürece eee bence korkacak bir şey yok.",
+          "source_url": "https://www.youtube.com/watch?v=_sg98dfH5f4"
+        }
+      ]
+    },
+    {
+      "topic": "Fed faizi, tahvil getirileri ve yıl sonu",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "Cuma Cevik'e göre Fed bu yıl bir kez daha faiz artırırsa 2026, ara seçim sonrası getirinin zayıf kaldığı küçük gruba girer; mevsimsellik tek başına güvenilir dayanak değil.",
+          "quote": "Bu yüzden ara seçim mevsimselliği bu yıl (2026 sonuna kadar) tek başına güvenilir bir dayanak değil maalesef.",
+          "source_url": "https://x.com/cevikfinance/status/2109371049083379900"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "FinancewithIzzy'ye göre tahvil faizleri 24 yılın zirvesine yakın; strateji uzmanları yıl sonu için iyimser ama yükselen faizle güçlü bilanço bile her zaman yükseliş getirmiyor.",
+          "quote": "Tahvil faizleri yükselirken güçlü bilanço bile her zaman yükseliş getirmiyor.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109359636587454503"
+        }
+      ]
+    },
+    {
+      "topic": "Rusya-Ukrayna enerji ateşkesi",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Tunç Şatıroğlu'na göre Trump'ın duyurduğu ateşkes yalnızca enerji tesisleriyle sınırlı, savaş sürüyor.",
+          "quote": "Enerji diye vurgulamış olması ateşkesin enerji tesisleriyle sınırlı olduğunu anlatıyor. Yani savaş devam ediyor.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2109298718398959955"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "IREN",
+      "name": "IREN",
+      "priority": "high",
+      "why": "Üç kişi bahsetti; Anthropic anlaşması haberi ve Ahmet Sunelcan'ın portföye ekleme kararı var.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "IREN artık sadece kapasite inşa etmiyor, AI devlerine altyapı sağlıyor. 2027 hikâyesi giderek ilginçleşiyor!",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109541364341813589"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$IREN geçici olarak portföye eklendi.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109420625643397457"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$IREN, pazar gecesi işlemlerinde %8 yükseldi. Ancak gelişme yeni değil: Sertifikasyon ilk kez ağustos sonunda duyurulmuştu.",
+          "source_url": "https://x.com/korkmazali08/status/2109480100186017872"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "priority": "high",
+      "why": "Net seviye (1400 dolar) ve somut veriler (2029'a kadar satılmış kapasite, %109,3 gelir artışı) verildi.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Ancak ben 1400 dolar seviyelerini de göreceğini düşünüyorum.",
+          "source_url": "https://x.com/cevikfinance/status/2109280312823869804"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "priority": "medium",
+      "why": "Tek kişi, 15 Ekim bilançosuna dair somut beklenti çerçevesi verdi.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$TSM’nin 15 Ekim bilançosunda asıl belirleyici, rekor gelirden çok Q4 beklentileri, 2027 görünümü ve kâr marjları olacak.",
+          "source_url": "https://x.com/korkmazali08/status/2109265437829566496"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "Üç kaynakta geçti: Reflection AI görüşmesi, 21 Ekim GTC konuşması ve Wall Street iyimserliği.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Nvidia, Reflection AI girişimini satın almak veya mevcut $800 milyonluk yatırımını artırmak için erken aşamada masaya oturdu.",
+          "source_url": "https://x.com/WallStDiaries/status/2109200652895158437"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Nvidia CEO'su Jensen Huang 21 Ekim'de bir keynote konuşması yapacak.",
+          "source_url": "https://x.com/wallstengine/status/2109401729028804783"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Teknoloji sektörünün F/K oranı geçen yıl 35 civarındayken bugün yaklaşık 21'e geriledi.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109359636587454503"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "low",
+      "why": "Sadece hisse listesinde geçti.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Wall Street strateji uzmanları yıl sonu için hâlâ iyimser. $NVDA $MSFT $AVGO $MU $AMAT",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109359636587454503"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "medium",
+      "why": "Cuma Cevik Elon Musk'ın RAM arzı yorumuna olumlu tepki verdi.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$MU $SKHY $DRAM 💪🏼 — Elon Musk: Problem is RAM supply",
+          "source_url": "https://x.com/cevikfinance/status/2109350322145841535"
+        }
+      ]
+    },
+    {
+      "symbol": "AXON",
+      "name": "Axon Enterprise",
+      "priority": "medium",
+      "why": "Dr J Rould temel analiz gerekçeleriyle olumlu görüş bildirdi.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I happen to love $AXON fundamentally strong niche, deep market penetration, combining hardware / software / AI / data",
+          "source_url": "https://x.com/jrouldz/status/2109359830716608726"
+        }
+      ]
+    },
+    {
+      "symbol": "RXRX",
+      "name": "Recursion Pharmaceuticals",
+      "priority": "medium",
+      "why": "Dr J Rould için kritik tarih var: gelecek ay faz 2 veri açıklaması.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "That will depend on the phase 2 data readout slated for next month Technical is secondary to the fundamental story",
+          "source_url": "https://x.com/jrouldz/status/2109358031741788490"
+        }
+      ]
+    },
+    {
+      "symbol": "PCRX",
+      "name": "Pacira BioSciences",
+      "priority": "medium",
+      "why": "Somut satın alma fiyatı verildi.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Viatris, Pacira BioSciences'ı hisse başına $36,50 nakit bedelle, toplam $1,65 milyara satın alıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2109207377480429787"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Google Cloud Storage kullanıcıları, veri yükleme ve yazma süreçlerinde yüksek gecikme süreleri ile ciddi hata oranlarıyla karşılaşıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2109222475313906122"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ",
+      "priority": "medium",
+      "why": "Tek kişi uzun vadeli kademeli alım stratejisini somut tarihsel veriyle savundu.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "2008 mortgage krizi gibi bir yıkımın ardından dahi $QQQ yaklaşık %2900 yükselmiştir.",
+          "source_url": "https://x.com/korkmazali08/status/2109403605056852183"
+        }
+      ]
+    },
+    {
+      "symbol": "TQQQ",
+      "name": "ProShares UltraPro QQQ",
+      "priority": "high",
+      "why": "İki kişi görüş bildirdi; tarih ve getiri rakamı verildi.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$TQQQ, 12 Ocak 2023’ten bu yana yaklaşık %740 yükseldi.",
+          "source_url": "https://x.com/korkmazali08/status/2109308146812350784"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "$TQQQ ayı piyasasının en şiddetli hissedildiği evresinde kademeli olarak toplanır ancak.",
+          "source_url": "https://x.com/cevikfinance/status/2109290498049630452"
+        }
+      ]
+    },
+    {
+      "symbol": "SOXL",
+      "name": "Direxion Semiconductor Bull 3X",
+      "priority": "medium",
+      "why": "Cuma Cevik'in somut tarihsel gözlemi var.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Ama benim daha çok beğendiğim yüksek risk yüksek ödül aracı $SOXL. Zirvesinden %90 civarı düşüşlerden sonra yapılan alımlarda servet yaratmış resmen.",
+          "source_url": "https://x.com/cevikfinance/status/2109291086652833820"
+        }
+      ]
+    },
+    {
+      "symbol": "OIL",
+      "name": "Petrol",
+      "priority": "medium",
+      "why": "Berk Dinçtürk net bir eşik (110 dolar haftalık kapanış) verdi.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "Zaten bu gerginliğin en şiddetli anlarında bile biz 116 dolar gördük, 120 dolar gördük ama haftalık kapanış hep 110 doların altında oldu.",
+          "source_url": "https://www.youtube.com/watch?v=_sg98dfH5f4"
+        }
+      ]
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Salı günü JPMorgan, Goldman Sachs ve Citigroup bilançolarını açıklayacak.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+        }
+      ]
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Salı günü JPMorgan, Goldman Sachs ve Citigroup bilançolarını açıklayacak.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+        }
+      ]
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Salı günü JPMorgan, Goldman Sachs ve Citigroup bilançolarını açıklayacak.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+        }
+      ]
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Çarşamba günü ise Bank of America ve Morgan Stanley bilançolarını açıklayacak.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+        }
+      ]
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Çarşamba günü ise Bank of America ve Morgan Stanley bilançolarını açıklayacak.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109300848220164350"
+        }
+      ]
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "MrTradeer",
+          "sentiment": "neutral",
+          "quote": "Zec işlemin liq oldu. Finansta körlemesine işlem alınmaz.",
+          "source_url": "https://x.com/MrTradeer/status/2109384253792223526"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": "Berk Dinçtürk bu videoda İran'ı Venezuela ile aynı çerçevede okuyor ve gerçek hedefin Çin olduğunu söylüyor; ikisinin de petrol dolarını tehdit ettiğini, ABD'nin İran'ı askerî değil ekonomik olarak içeriden çökerteceğini savunuyor. Hürmüz'ün kapanmasına karşı alternatif boru hatları ve deniz yolları geliştirildiği için İran'ın kaldıracının zayıfladığını, bu yüzden Tahran'dan görüşme tekliflerinin geldiğini anlatıyor.\n\n**Petrol** tarafında asıl eşik 110 dolar: gerginliğin zirvesinde 116 ve 120 dolar görüldü ama haftalık kapanışlar hep 110'un altında kaldı. Ona göre petrol 110'un üstünde kalıcı olmadıkça korkulacak bir şey yok ve Rus petrolü piyasaya dönerse fiyat hızla aşağı iner.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "İran, Hürmüz Kozunu Çok Yanlış Oynadı",
+          "url": "https://www.youtube.com/watch?v=_sg98dfH5f4",
+          "published_at": "2026-10-11T07:14:58.430Z",
+          "summary": "Berk Dinçtürk, İran meselesini Venezuela'dan ayırmadığını ve gerçek hedefin Çin olduğunu savunuyor; ikisi de petrol dolarını tehdit ettiği için ABD önce Maduro'yu devirdi. İran'da ise askeri işgal yerine ekonomiyi içeriden çökertme stratejisi izlendiğini söylüyor: dolar 240.000 tümene dayandı, enflasyon %70'in üstünde. Hürmüz'ü kapatan İran'a karşı Suudi Arabistan'ın İsves ve BAE'nin Fujeyra boru hatları ile ABD-Umman anlaşmasıyla alternatif rotalar geliştirildi; Petra örneğiyle ticaret yolları değişince kaldıracın kaybolduğunu anlatıyor. Petrolde 110 dolar üstünün ABD'nin teknoloji hamlesini tehdit ettiğini, 110'a yaklaşıldıkça açıklama ya da müdahale geldiğini söylüyor. Gerginliğin zirvesinde 116 ve 120 dolar görüldü ama haftalık kapanış hep 110'un altında kaldı. Rusya ile varlık satışı görüşmeleri başladı; Rus petrolü piyasaya dönerse fiyat hızla iner. Petrolün kontrolden çıkacağını düşünmüyor.",
+          "assets": [
+            {
+              "symbol": "OIL",
+              "sentiment": "neutral",
+              "note": "110 doların üstünde kalıcı olmadıkça korkulacak bir şey yok; haftalık kapanışlar hep 110'un altında kaldı, Rus petrolü dönerse fiyat hızla düşer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ulkser",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan günün finans tarafında yalnızca **IREN**'i geçici olarak portföyüne eklediğini paylaştı; gerekçe ya da seviye vermedi. Geri kalan paylaşımları siyaset ve ekonomi-demokrasi tartışmalarından oluşuyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "IREN portföye eklendi",
+          "url": "https://x.com/AhmetSunelcan1/status/2109420625643397457",
+          "published_at": "2026-10-11T23:07:22.000Z",
+          "summary": "Ahmet Sunelcan $IREN'i geçici olarak portföyüne ekledi.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "Portföye geçici olarak eklendi; gerekçe veya seviye paylaşılmadı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 dünün **IREN** haberine geri dönüp hissenin pazar gecesi %8 yükseldiğini, ama Nvidia sertifikasyonunun ağustos sonunda zaten duyurulduğunu hatırlattı. Vadeli işlemler hafif artıda açıldı ve yarın Columbus Day nedeniyle hacimlerin düşük olabileceğini ekledi.\n\n**QQQ** ve **TQQQ** tarafında teknolojiye uzun vadeli ortak olmayı, düşüşlerde kademeli alımı savunuyor; 2008'den sonra QQQ'nun yaklaşık %2900 yükseldiğini, TQQQ'nun 2023'ten beri %740 arttığını söylüyor. **TSMC**'nin 15 Ekim bilançosunda ise rekor gelirden çok Q4 beklentisi, 2027 görünümü ve marjların belirleyici olacağını yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "IREN pazar gecesi %8 yükseldi",
+          "url": "https://x.com/korkmazali08/status/2109480100186017872",
+          "published_at": "2026-10-12T03:03:42.000Z",
+          "summary": "IREN, iştiraki Mirantis'in Nvidia GB200 sanallaştırma sertifikasyonunu hatırlatmasıyla %8 yükseldi; ancak sertifikasyon ağustos sonunda duyurulmuştu, yeni bir gelişme yok.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "neutral",
+              "note": "Yükseliş yeni bir haberden değil, eski sertifikasyonun yeniden gündeme gelmesinden."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Vadeli işlemler artıda açıldı",
+          "url": "https://x.com/korkmazali08/status/2109410731825172499",
+          "published_at": "2026-10-11T22:28:04.000Z",
+          "summary": "Nasdaq 100 +%0,24, S&P 500 +%0,11, Dow Jones +%0,08 ve Russell 2000 +%0,06 ile açıldı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "QQQ ve kademeli alım savunması",
+          "url": "https://x.com/korkmazali08/status/2109403605056852183",
+          "published_at": "2026-10-11T21:59:44.000Z",
+          "summary": "Teknolojiye uzun vadeli ortak olmayı ve düşüşlerde kademeli alımı savunuyor; 2008 krizinden sonra bile QQQ'nun yaklaşık %2900 yükseldiğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "2008'den sonra yaklaşık %2900 yükseldi; S&P'ye göre daha çok düşer ama yükselirken daha çok yükselir."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TQQQ düzeltmesi: %740 getiri",
+          "url": "https://x.com/korkmazali08/status/2109308146812350784",
+          "published_at": "2026-10-11T15:40:25.000Z",
+          "summary": "TQQQ 12 Ocak 2023'ten bu yana (bölünme düzeltilmiş 9,85 dolardan 9 Ekim kapanışı 81,28 dolara) yaklaşık %740 yükseldi.",
+          "assets": [
+            {
+              "symbol": "TQQQ",
+              "sentiment": "positive",
+              "note": "12 Ocak 2023 kapanışı 19,71 dolar (bölünme sonrası 9,85); 9 Ekim kapanışı 81,28 dolar."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TSMC 15 Ekim bilançosu",
+          "url": "https://x.com/korkmazali08/status/2109265437829566496",
+          "published_at": "2026-10-11T12:50:43.000Z",
+          "summary": "TSMC'nin Q3 geliri yıllık %50 artışla 46,7 milyar dolar; piyasa Q4 beklentileri, 2027 görünümü ve marjlarda yeni gerekçe arıyor, 2nm maliyetlerine rağmen güçlü marj ve AI talebi olumlu sürpriz olabilir.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "Bilanço 15 Ekim; Q4 beklentisi, 2027 görünümü ve marjlar belirleyici."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries günün haberlerini sıraladı: **Nvidia** Reflection AI'yı satın almak ya da yatırımını artırmak için görüşüyor, Viatris **Pacira**'yı hisse başına 36,50 dolara alıyor ve **Google** Cloud Storage'da gecikme ve hata dalgası yaşanıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Google Cloud Storage aksaklığı",
+          "url": "https://x.com/WallStDiaries/status/2109222475313906122",
+          "published_at": "2026-10-11T10:00:00.000Z",
+          "summary": "Google Cloud Storage kullanıcıları yüksek gecikme ve hata oranları yaşıyor; mühendisler inceleme başlattı.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "negative",
+              "note": "Bulut altyapısında teknik aksaklık."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Viatris, Pacira'yı satın alıyor",
+          "url": "https://x.com/WallStDiaries/status/2109207377480429787",
+          "published_at": "2026-10-11T09:00:00.000Z",
+          "summary": "Viatris, Pacira BioSciences'ı hisse başına 36,50 dolar nakitle, toplam 1,65 milyar dolara satın alıyor.",
+          "assets": [
+            {
+              "symbol": "PCRX",
+              "sentiment": "positive",
+              "note": "Hisse başına 36,50 dolar nakit teklif; hisse sert yükseldi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia, Reflection AI ile görüşüyor",
+          "url": "https://x.com/WallStDiaries/status/2109200652895158437",
+          "published_at": "2026-10-11T08:33:17.000Z",
+          "summary": "Nvidia, Reflection AI'yı satın almak ya da 800 milyon dolarlık yatırımını artırmak için erken aşamada görüşüyor; mart ayında 25 milyar dolar değerlemeye ulaşan girişimle anlaşmanın yetenek ve teknoloji transferi modeliyle yapılması planlanıyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Açık kaynak yapay zekâ girişimi için satın alma ya da yatırım artırımı görüşmesi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu'nun finans tarafındaki tek paylaşımı, Trump'ın duyurduğu Rusya-Ukrayna enerji ateşkesinin yalnızca enerji tesisleriyle sınırlı olduğu ve savaşın sürdüğü yönünde.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Rusya-Ukrayna 'enerji ateşkesi'",
+          "url": "https://x.com/TuncSatiroglu/status/2109298718398959955",
+          "published_at": "2026-10-11T15:02:57.000Z",
+          "summary": "Trump'ın Rusya ve Ukrayna arasında enerji ateşkesi olduğunu söylediğini, vurgunun enerji tesislerini işaret ettiğini ve savaşın sürdüğünü belirtiyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "MrTradeer'in günü ağırlıklı olarak siyaset ve kişisel tartışmalarla geçti; finans tarafında bir kullanıcının **ZEC** short işleminin likide olduğunu ve finansta körlemesine işlem yapılmaması gerektiğini yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ZEC short likidasyonu uyarısı",
+          "url": "https://x.com/MrTradeer/status/2109384253792223526",
+          "published_at": "2026-10-11T20:42:51.000Z",
+          "summary": "Bir kullanıcının ZEC short işleminin likide olduğunu, aynı seviyeyi Barbarians'ta destek olarak paylaştığını ve finansta körlemesine işlem alınmaması gerektiğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "ZEC",
+              "sentiment": "neutral",
+              "note": "Short işlem likide oldu; kendisi o seviyenin önemli destek olduğunu söylemişti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy günün en büyük haberini **IREN**'de gördü: The Information'a göre Anthropic ile çok yıllı bulut anlaşması imzalandı ve mali detaylar belli değil. Wall Street tarafında tahvil faizleri 24 yılın zirvesine yakınken strateji uzmanlarının yıl sonu için iyimser olduğunu, teknoloji F/K'sının 35'ten 21'e gerilediğini ve **Nvidia** ile **Broadcom**'un öne çıkan isimler arasında olduğunu aktardı.\n\nBankalar tarafında JPMorgan, Goldman Sachs, Citigroup, Bank of America ve Morgan Stanley'den yaz zirvesine göre 270 milyar dolar silindiğini; JPM, GS ve C'nin Salı, BAC ve MS'nin Çarşamba bilanço açıkladığını yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "IREN & Anthropic anlaşması",
+          "url": "https://x.com/FinancewithIzzy/status/2109541364341813589",
+          "published_at": "2026-10-12T07:07:09.000Z",
+          "summary": "The Information'a göre Anthropic, IREN ile çok yıllı bulut anlaşması imzaladı; Anthropic'in AI altyapı taahhütleri 530 milyar dolara yaklaşıyor ve mali detaylar açıklanmadı.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "Artık AI devlerine altyapı sağlıyor; 2027 hikâyesi ilginçleşiyor."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Etiket olarak anıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Wall Street: korkmanın zamanı değil mi?",
+          "url": "https://x.com/FinancewithIzzy/status/2109359636587454503",
+          "published_at": "2026-10-11T19:05:02.000Z",
+          "summary": "Tahvil faizleri 24 yılın zirvesine yakınken strateji uzmanları yıl sonu için iyimser: S&P 500 kârlarında %30 büyüme, teknoloji F/K'sı 35'ten 21'e geriledi, ara seçim yıllarında S&P dördüncü çeyreklerin %84'ünü yükselişle kapatmış; Dan Ives 'alım fırsatları' diyor. Kendisi asıl ayrışmanın hikâyesi güçlü olanlarla para kazananlar arasında olacağını düşünüyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Hisse listesinde anıldı; teknoloji çarpanları geriledi."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Hisse listesinde anıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Büyük bankalardan 270 milyar dolar silindi",
+          "url": "https://x.com/FinancewithIzzy/status/2109300848220164350",
+          "published_at": "2026-10-11T15:11:25.000Z",
+          "summary": "JPM, GS, C, BAC ve MS piyasa değerinden yaz zirvesine göre yaklaşık 270 milyar dolar silindi; bankaların iyi performans beklentisi Temmuz'da %68'den Ekim'de %35'e düştü. Yükselen uzun vadeli faizler mevduat maliyetini artırıyor, tahvil portföylerini baskılıyor. JPM, GS, C Salı; BAC, MS Çarşamba bilanço açıklıyor.",
+          "assets": [
+            {
+              "symbol": "JPM",
+              "sentiment": "neutral",
+              "note": "Salı bilanço."
+            },
+            {
+              "symbol": "GS",
+              "sentiment": "neutral",
+              "note": "Salı bilanço."
+            },
+            {
+              "symbol": "C",
+              "sentiment": "neutral",
+              "note": "Salı bilanço."
+            },
+            {
+              "symbol": "BAC",
+              "sentiment": "neutral",
+              "note": "Çarşamba bilanço."
+            },
+            {
+              "symbol": "MS",
+              "sentiment": "neutral",
+              "note": "Çarşamba bilanço."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine günün takvimini paylaştı: Fed'den Hammack açılıştan önce konuşacak, LVMH bilanço açıklıyor; ayrıca **Nvidia** CEO'su Jensen Huang'ın 21 Ekim'de GTC'de keynote vereceğini duyurdu.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Günün takvimi: Fed'den Hammack, LVMH",
+          "url": "https://x.com/wallstengine/status/2109531410986094972",
+          "published_at": "2026-10-12T06:27:36.000Z",
+          "summary": "12 Ekim için takvimde açılıştan önce Fed'den Hammack konuşması ve LVMH bilançosu var.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Jensen Huang 21 Ekim'de GTC konuşması yapacak",
+          "url": "https://x.com/wallstengine/status/2109401729028804783",
+          "published_at": "2026-10-11T21:52:17.000Z",
+          "summary": "Nvidia CEO'su Jensen Huang 21 Ekim'de GTC'de keynote konuşması yapacak.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "21 Ekim'de GTC keynote'u."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "Dr J Rould **AXON**'a temel nedenlerle bullish: güçlü niş, derin pazar penetrasyonu ve donanım, yazılım, AI ile veriyi birleştirmesi, gelir trendi ise 'muhteşem'. **RXRX** için yönün gelecek ay beklenen faz 2 veri açıklamasına bağlı olduğunu, tekniğin ikincil kaldığını söylüyor.\n\nYatırım felsefesinde henüz yüksek büyüme ve marj göstermeyen ama gösterecek küçük şirketleri seviyor, büyük portföy parçalarında koşanlarda kademeli kâr alıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AXON gelir trendi",
+          "url": "https://x.com/jrouldz/status/2109537027473416350",
+          "published_at": "2026-10-12T06:49:55.000Z",
+          "summary": "AXON'un gelir trendini 'muhteşem' olarak niteliyor.",
+          "assets": [
+            {
+              "symbol": "AXON",
+              "sentiment": "positive",
+              "note": "Gelir trendi çok olumlu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AXON'u temel olarak seviyor",
+          "url": "https://x.com/jrouldz/status/2109359830716608726",
+          "published_at": "2026-10-11T19:05:48.000Z",
+          "summary": "AXON'u güçlü niş, derin pazar penetrasyonu ve donanım/yazılım/AI/veri birleşimi nedeniyle temel olarak seviyor.",
+          "assets": [
+            {
+              "symbol": "AXON",
+              "sentiment": "positive",
+              "note": "Güçlü niş, derin penetrasyon, donanım/yazılım/AI/veri."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "RXRX faz 2 verisi",
+          "url": "https://x.com/jrouldz/status/2109358031741788490",
+          "published_at": "2026-10-11T18:58:39.000Z",
+          "summary": "RXRX'in yönünün gelecek ay beklenen faz 2 veri açıklamasına bağlı olduğunu, teknik görünümün ikincil olduğunu söylüyor.",
+          "assets": [
+            {
+              "symbol": "RXRX",
+              "sentiment": "positive",
+              "note": "Faz 2 veri açıklaması gelecek ay."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yatırım yaklaşımı: büyüme ve kademeli kâr alma",
+          "url": "https://x.com/jrouldz/status/2109249988685357294",
+          "published_at": "2026-10-11T11:49:19.000Z",
+          "summary": "En yüksek getirinin henüz yüksek gelir büyümesi ve marj göstermeyen ama gösterecek şirketlerden geldiğini söylüyor; yeni alımlarda büyük TAM'a göre küçük piyasa değerli şirketleri seviyor, mevcut portföyde büyük şirketlerde koşanlarda kademeli kâr alıyor ve erken aşama büyüme şirketlerinde F/K veya F/S bakmayı saçma buluyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Kuantum: iyon tuzakları ve nötr atomlar",
+          "url": "https://x.com/jrouldz/status/2109363801250291847",
+          "published_at": "2026-10-11T19:21:34.000Z",
+          "summary": "Helyum bazlı süperiletken kuantum yaklaşımının ölçeklenebilirliği konusunda şüpheci, büyük oyuncularla doğrudan rekabet ettiğini belirtiyor ve iyon tuzağı ile nötr atom modalitelerini tercih ediyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "Cuma Cevik'in günü, 1970-2022 ara seçim yıllarına bakan bir analizle başladı: Fed'in faiz indirdiği yıllarda endeks hep yükselmiş, artırdığı yıllarda zayıf kalmış; Fed 16 Eylül'de faizi %3,75-4,00'e çıkardı, tutanağa göre bir artış daha olası. Eylül enflasyonu Çarşamba, Fed 27-28 Ekim'de olduğu için mevsimselliğe tek başına güvenmiyor.\n\nŞirket tarafında **Lumentum**'un optik bileşenlerinin 2029 başına kadar satıldığını, gelirin yıllık %109,3 arttığını ve 1400 dolar seviyelerini görebileceğini yazdı; risk olarak iki müşteriye bağımlılığı ve %199,3'lük yılbaşından beri yükselişi hatırlattı. **Micron**'u Musk'ın RAM arzı yorumuyla olumlu andı, **SOXL** ve **TQQQ**'da ise zirveden %90 düşüşlerde kademeli alımın geçmişte iyi sonuç verdiğini söyledi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Ara seçim yılı mevsimselliği ve Fed",
+          "url": "https://x.com/cevikfinance/status/2109371049083379900",
+          "published_at": "2026-10-11T19:50:22.000Z",
+          "summary": "1970-2022 arasındaki 14 ara seçim yılında Fed'in faiz indirdiği ya da beklendiği 10 yılın hepsinde endeks 9 Ekim'den yıl sonuna yükseldi (medyan %7,6); faiz artırdığı 4 yılda yalnızca 2 kez yükseldi (medyan -%3,6). Fed 16 Eylül'de faizi %3,75-4,00'e çıkardı, tutanağa göre çoğunluk yıl sonuna kadar bir artış daha uygun görüyor; Eylül enflasyonu Çarşamba, Fed 27-28 Ekim'de. Bu yüzden mevsimselliğin bu yıl tek başına güvenilir olmadığını söylüyor.",
+          "assets": [
+            {
+              "symbol": "SPX",
+              "sentiment": "neutral",
+              "note": "Fed artırımı yaşanırsa ara seçim mevsimselliği zayıf kalabilir."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MU, SKHY, DRAM ve RAM arzı",
+          "url": "https://x.com/cevikfinance/status/2109350322145841535",
+          "published_at": "2026-10-11T18:28:01.000Z",
+          "summary": "Elon Musk'ın 'sorun RAM arzı' yorumunu $MU $SKHY $DRAM etiketleriyle olumlu karşıladı.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "RAM arz kısıtı lehine okundu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SOXL: zirveden %90 düşüşte alım",
+          "url": "https://x.com/cevikfinance/status/2109291086652833820",
+          "published_at": "2026-10-11T14:32:38.000Z",
+          "summary": "Yüksek risk yüksek ödül aracı olarak $SOXL'u beğeniyor; zirveden yaklaşık %90 düşüşlerden sonra yapılan alımlar servet yaratmış.",
+          "assets": [
+            {
+              "symbol": "SOXL",
+              "sentiment": "positive",
+              "note": "Zirveden %90 düşüş sonrası alımlar geçmişte servet yarattı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TQQQ ayı piyasasında kademeli toplanır",
+          "url": "https://x.com/cevikfinance/status/2109290498049630452",
+          "published_at": "2026-10-11T14:30:18.000Z",
+          "summary": "TQQQ'nun ancak ayı piyasasının en şiddetli evresinde kademeli olarak toplanabileceğini, aksi halde çok can yakabileceğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "TQQQ",
+              "sentiment": "neutral",
+              "note": "Yalnızca ayı piyasasının en sert evresinde kademeli alım."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Lumentum 2029'a kadar satılmış",
+          "url": "https://x.com/cevikfinance/status/2109280312823869804",
+          "published_at": "2026-10-11T13:49:49.000Z",
+          "summary": "Lumentum CEO'su optik bileşenlerin 2029 başına kadar tamamen satıldığını, bazı ürünlerde talebin ~%70'inin gelecek yıl karşılanamayacağını söyledi; Nokia ve Marvell CEO'ları da talebi doğruladı. Gelir yıllık %109,3 artışla 1,01 milyar dolar, brüt marj %50,4, ama gelirin %41,6'sı iki müşteriden, hisse yılbaşından %199,3 yukarıda ve F/K 50,7. Cuma Cevik 1400 dolar seviyelerini de göreceğini düşünüyor.",
+          "assets": [
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "1400 dolar seviyelerini bekliyor; risk: iki müşteri, yüksek çarpan."
+            },
+            {
+              "symbol": "NOK",
+              "sentiment": "neutral",
+              "note": "CEO aşırı yatırım yapılmadığını söyledi."
+            },
+            {
+              "symbol": "MRVL",
+              "sentiment": "positive",
+              "note": "CEO veri merkezi bağlantı pazarının 2030'a kadar yılda ~%65 büyüyeceğini öngördü."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0992,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2025,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Portföyün en büyük kalemi (%20) ve faize duyarlı bir fintech; tahvil faizlerinin 24 yılın zirvesine yakın olması ve bankalara yönelik beklentilerin bozulması en büyük risk, bu hafta bankaların bilançoları sektör iştahı için ipucu verebilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Aleyhte: tek kalemde %20 ağırlık yoğunlaşma riski taşıyor.",
+          "Aleyhte: FinancewithIzzy'ye göre bankalar yükselen faizlerden baskı altında.",
+          "Lehte: bankalara yönelik beklentiler zaten %35'e düşmüş, kötü haber kısmen fiyatlanmış olabilir."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1445,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "neutral",
+            "quote": "Wall Street strateji uzmanları yıl sonu için hâlâ iyimser. $NVDA $MSFT $AVGO $MU $AMAT",
+            "source_url": "https://x.com/FinancewithIzzy/status/2109359636587454503"
+          }
+        ],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Yapay zekâ altyapısı temasının çekirdeği; FinancewithIzzy'nin hisse listesinde geçse de Broadcom'a özgü bir haber yok, TSMC bilançosu (15 Ekim) ve Lumentum gibi şirketlerin talep yorumları sektör için okunacak.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Lumentum ve Marvell CEO'ları veri merkezi bağlantı talebinin güçlü olduğunu söylüyor.",
+          "Aleyhte: %14 ağırlıkla yarı iletken döngüsüne ve yüksek çarpana duyarlı.",
+          "Lehte: FinancewithIzzy'ye göre teknoloji F/K'sı 35'ten 21'e geriledi."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1431,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Büyük ağırlıklı ve reklam gelirine bağlı; yapay zekâ harcamalarının geri dönüşü tartışması hisseyi etkileyebilir, kaynaklarda Meta'ya dair özel bir bilgi yok.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: teknoloji çarpanlarının gerilemesi giriş maliyetini düşürüyor.",
+          "Aleyhte: Cuma Cevik yapay zekâ yatırımlarının geri dönüşü tartışmasına dikkat çekti.",
+          "Aleyhte: %14 ağırlık ve Broadcom ile korele teknoloji riski."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1196,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer ve savunma bağlantılı, ana portföy temalarından farklı bir risk profili sunuyor; kaynaklar bugün bahsetmedi, hisse portföyü çeşitlendiriyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: teknoloji ağırlıklı portföyde farklı bir sürücüye sahip.",
+          "Aleyhte: bugün destekleyen ya da zayıflatan yeni veri yok."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1024,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Reklam gelirine ve sosyal medya trafiğine bağımlı yüksek beta bir hisse; %10 ağırlıkta, teknoloji satışlarında en sert hareket edebilecek kalemlerden biri.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Aleyhte: yüksek beta, tahvil faizleri yükselirken sert düşüş potansiyeli.",
+          "Lehte: teknoloji sektörü çarpanları gerilemiş durumda."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0762,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "negative",
+            "quote": "Tahvil faizleri 24 yılın zirvesine yakın.",
+            "source_url": "https://x.com/FinancewithIzzy/status/2109359636587454503"
+          }
+        ],
+        "action": "hold",
+        "why": "FinancewithIzzy'ye göre tahvil faizleri 24 yılın zirvesine yakın.",
+        "opinion": "Uzun vadeli ABD tahvili faiz artışına en duyarlı kalem; Fed'in yıl sonuna kadar bir artış daha yapma ihtimali kısa vadede fiyatı baskılayabilir, ama faizler zirveye yakınsa getiri fırsatı doğurur.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Aleyhte: Cuma Cevik'e göre tutanak bir artış daha olası görüyor, bu uzun tahvil fiyatını düşürür.",
+          "Lehte: faizlerin 24 yılın zirvesine yakın olması getiri tarafını cazip kılıyor.",
+          "Lehte: hisse ağırlıklı portföyde risk dengeleyici."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0651,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Türkiye'ye özgü kur ve enflasyon riski taşıyan, kaynaklarda bugün finansal içerik bulunmayan bir pozisyon; Berk Dinçtürk'ün jeopolitik okuması Orta Doğu riskinin yönetilebilir olduğunu ima ediyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: petrolün 110 doların altında kalması Türkiye için olumlu.",
+          "Aleyhte: bugün Türkiye'ye dair somut bir kaynak verisi yok."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0474,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Küçük ağırlıklı (%5) ve yapay zekâ veri merkezi güç altyapısı temasına bağlı; Lumentum ve Nokia yorumları veri merkezi yatırımının sürdüğünü gösteriyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Nokia CEO'su müşterilerin veri merkezlerini daha hızlı kurabilseler yapacağını söyledi.",
+          "Aleyhte: bugün hisseye özgü haber yok ve küçük ağırlıkla etkisi sınırlı."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "IREN",
+        "name": "IREN",
+        "why": "FinancewithIzzy, The Information'a göre Anthropic ile çok yıllı bulut anlaşması imzalandığını ve IREN'in AI devlerine altyapı sağladığını yazdı; Ahmet Sunelcan da hisseyi geçici olarak portföye ekledi.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2109541364341813589"
+      },
+      {
+        "symbol": "LITE",
+        "name": "Lumentum",
+        "why": "Cuma Cevik, optik bileşenlerin 2029 başına kadar satıldığını ve gelirin %109,3 arttığını belirterek 1400 dolar seviyelerini bekliyor.",
+        "source_url": "https://x.com/cevikfinance/status/2109280312823869804"
+      }
+    ]
+  }
+}
