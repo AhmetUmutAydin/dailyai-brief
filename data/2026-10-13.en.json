@@ -1,0 +1,1743 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T07:31:01.910Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "KOSPI fell 7.4% intraday as memory stocks were sold hard",
+      "person": "wallstengine",
+      "why": "Samsung fell 7.7% and SK Hynix 8.8%; the cause was China's CXMT progress and Hock Tan's cautious AI investment comments, though CXMT has not yet shown production at scale.",
+      "source_url": "https://x.com/wallstengine/status/2109901269943124228"
+    },
+    {
+      "title": "Wednesday September CPI: headline expected to rise to 3.7%",
+      "person": "WallStDiaries",
+      "why": "With the 10-year yield at its highest since 2002, a print above expectations could strengthen tightening expectations before the Oct. 28 Fed meeting; core is expected at 2.5%.",
+      "source_url": "https://x.com/WallStDiaries/status/2109563243698045330"
+    },
+    {
+      "title": "Cerebras at a new low, lockup expires Oct. 14",
+      "person": "wallstengine",
+      "why": "The stock is down about 58% since its IPO and about 19.4 million shares become eligible for sale on Oct. 14.",
+      "source_url": "https://x.com/wallstengine/status/2109904488639398014"
+    },
+    {
+      "title": "SMH: buy above 610, sell below; 600 is critical support",
+      "person": "Tunç Şatıroğlu",
+      "why": "The semiconductor ETF turned up from 609 in oversold territory; Tunç Şatıroğlu gives 610 as the clear buy/sell line.",
+      "source_url": "https://x.com/TuncSatiroglu/status/2109669448932306961"
+    },
+    {
+      "title": "Broadcom CEO: the biggest AI constraint is capital",
+      "person": "WallStDiaries",
+      "why": "Hock Tan said access to capital, not chips or power, will be the bottleneck and that Broadcom has discussed debt financing for its customers.",
+      "source_url": "https://x.com/WallStDiaries/status/2109713209087099019"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US CPI and inflation",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "If headline CPI rises to 3.7% on Wednesday and beats expectations, tightening expectations could strengthen before the Oct. 28 Fed meeting with the 10-year yield at its highest since 2002.",
+          "quote": "With the 10-year yield at its highest since 2002, a print above expectations could strengthen tightening expectations before the Oct. 28 Fed meeting.",
+          "source_url": "https://x.com/WallStDiaries/status/2109563243698045330"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "According to Bora Özkent, since wages lag inflation a lasting surge in inflation is not expected; energy-driven cost increases cannot be stopped with rate hikes.",
+          "quote": "Maaşlar yükselmediği sürece enflasyon coşamaz.",
+          "source_url": "https://www.youtube.com/watch?v=xOLTGSptoKc"
+        }
+      ]
+    },
+    {
+      "topic": "Bond yields and the equity market",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "According to Ed Yardeni, a climb of the 10-year yield to 6% could create cracks in the financial system; it is currently 5.24%.",
+          "quote": "Ed Yardeni, ABD 10 yıllık tahvil faizlerinin hızla %6 seviyesine tırmanmasının finansal sistemde ciddi çatlaklar yaratabileceğini belirtti.",
+          "source_url": "https://x.com/WallStDiaries/status/2109607512655737320"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "According to Bora Özkent, rising rates do not mean the stock market will be wrecked; the S&P 500 returned similar amounts in rising- and falling-rate years, though sectors like real estate and banking suffer.",
+          "quote": "Bakın faizler yükselirken de S&P ortalama bir yılda %11.9 değer kazanmış.",
+          "source_url": "https://www.youtube.com/watch?v=xOLTGSptoKc"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "According to FinancewithIzzy, rising bond yields make AI project financing more expensive and cut the present value of future earnings, making high-expectation stocks more sensitive.",
+          "quote": "Son dönemde yükselen tahvil faizleri de hem projelerin finansmanını pahalılaştırıyor hem gelecekte beklenen kazançların bugünkü değerini azaltıyor.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109745782601781511"
+        }
+      ]
+    },
+    {
+      "topic": "Oil, Iran and Russia",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Houthi attacks on Saudi Arabia pushed Brent above 105 dollars; high energy costs are reviving rate pressure and stagflation risk.",
+          "quote": "Brent petrol birara 105 doların üzerine çıktı.",
+          "source_url": "https://x.com/WallStDiaries/status/2109592412893159612"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "According to Bora Özkent, Trump's diesel purchase from Russia and 'energy ceasefire' claim pushed oil lower; even though neither side confirmed the deal, it is positive for markets.",
+          "quote": "Ama petrol fiyatlarındaki rahatlama piyasa için her şekilde olumlu haber.",
+          "source_url": "https://www.youtube.com/watch?v=xOLTGSptoKc"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "According to Ali Korkmaz, the Iran war increases pressure on growth stocks via energy prices and inflation expectations; easing tension could set the stage for a recovery.",
+          "quote": "İran savaşı özellikle enerji fiyatları ve enflasyon beklentileri üzerinden bu baskıyı artırıyor.",
+          "source_url": "https://x.com/korkmazali08/status/2109745445052289148"
+        }
+      ]
+    },
+    {
+      "topic": "Korea and memory stocks",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "KOSPI fell 7.4% intraday; China's CXMT progress raised memory competition and pricing-power concerns, though CXMT has not yet shown it can produce at scale.",
+          "quote": "Reports of advances at China’s CXMT fueled concerns about memory-chip competition and pricing power",
+          "source_url": "https://x.com/wallstengine/status/2109901269943124228"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "According to Ahmet Sunelcan, the short-term outlook for memory is not good.",
+          "quote": "Bellekler için durum kısa vade iyi görünmüyor.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109899707858485685"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Ali Korkmaz reported selling pressure deepening in South Korea's market, with losses reaching 6.5%.",
+          "quote": "Güney Kore borsasında satış baskısı derinleşiyor. Kayıplar %6,50’ye ulaştı.",
+          "source_url": "https://x.com/korkmazali08/status/2109822779461656905"
+        }
+      ]
+    },
+    {
+      "topic": "Breadth and risk appetite in US equities",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "According to Ali Korkmaz, the real problem is not low volume but that the index rally has not broadened.",
+          "quote": "Asıl mesele, endekslerdeki yükselişin piyasanın geneline yayılmaması.",
+          "source_url": "https://x.com/korkmazali08/status/2109745445052289148"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "FinancewithIzzy reads today's selloff as selective risk reduction within tech; optical and memory stocks fell sharply while Microsoft and Meta rose.",
+          "quote": "Bugünkü hareket, teknoloji içinde seçici bir risk azaltmaya işaret ediyor.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109745782601781511"
+        }
+      ]
+    },
+    {
+      "topic": "Chinese equities",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "According to Bora Özkent, Chinese companies are cheap but profits are not growing, debt is high and investor protection is weak; he prefers US tech stocks.",
+          "quote": "Çin hisse senetlerine yatırım yapmıyorum. Yapmamaya da devam edeceğim.",
+          "source_url": "https://www.youtube.com/watch?v=p6twzXvavu4"
+        }
+      ]
+    },
+    {
+      "topic": "US midterm elections",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Bora Özkent says Trump will most likely lose the House and that markets would like it if he holds the Senate.",
+          "quote": "Meclisi çok büyük ihtimalle kaybedecek gibi gözüküyor Trump. Ama senatoyu elinde tutarsa piyasalar bunu sevecektir.",
+          "source_url": "https://www.youtube.com/watch?v=xOLTGSptoKc"
+        }
+      ]
+    },
+    {
+      "topic": "European political risk",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "According to Tunç Şatıroğlu, political scenarios in France and Germany increase risk in Europe; the US should be preferred for investment.",
+          "quote": "Avrupa'da siyasi risk arttı. Yatırım için ABD tercih edilmeli.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2109553540347928579"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "high",
+      "why": "Four people mentioned it: ulkser was stopped out, FinancewithIzzy explained the CXMT pressure, jrouldz won't buy at the new price.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "$MU $INTC ikisi de su anda stopladigim seviyenin %10 altinda...",
+          "source_url": "https://x.com/ulkser/status/2109899152465543646"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "$MU üzerindeki baskının somut nedenlerinden biri bu.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109745782601781511"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I think they are great fundamentally but it’s against my principle to buy at the new price level when it spent so many years so much lower",
+          "source_url": "https://x.com/jrouldz/status/2109666907234168906"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Çin tarafındaki bu teknik ilerleme duyurularının ardından Micron, SK Hynix ve Samsung hisselerinde düşüş kaydedildi.",
+          "source_url": "https://x.com/WallStDiaries/status/2109664157792395621"
+        }
+      ]
+    },
+    {
+      "symbol": "KOSPI",
+      "name": "KOSPI",
+      "priority": "high",
+      "why": "Four people mentioned it; it fell as much as 7.4% intraday and Ahmet Sunelcan said he could look at a leveraged short ETF.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "South Korea’s 🇰🇷 KOSPI fell 7.4% intraday, with Samsung Electronics down 7.7% and SK Hynix down 8.8%.",
+          "source_url": "https://x.com/wallstengine/status/2109901269943124228"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "Güney Kore borsasında satış baskısı derinleşiyor. Kayıplar %6,50’ye ulaştı.",
+          "source_url": "https://x.com/korkmazali08/status/2109822779461656905"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "Bellekler için durum kısa vade iyi görünmüyor.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109899707858485685"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "Three people mentioned it; FinancewithIzzy is positive with a valuation scenario, Bora Özkent called its open-source strategy smart.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Ben NVIDIA'nın büyüme hikâyesinin henüz bitmediğini düşünüyorum.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109637711711617300"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Nvidia akıllıca bir oyun oynuyor burada.",
+          "source_url": "https://www.youtube.com/watch?v=xOLTGSptoKc"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$NVDA OPENS VERA RUBIN RACK DESIGNS, EXPANDS AI NETWORKING WITH META, GOOGLE AND CISCO",
+          "source_url": "https://x.com/wallstengine/status/2109666989543219475"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "Two people highlighted Hock Tan's comment on access to capital.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Hock Tan, önümüzdeki iki yılda hesaplama talebinin arzı aşmasını bekliyor.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109745782601781511"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Broadcom CEO'su Hock Tan, yapay zeka altyapısının büyümesinde en büyük engelin çip veya elektrik tedariki değil, sermayeye erişim ve finansman maliyetleri olacağını ifade etti.",
+          "source_url": "https://x.com/WallStDiaries/status/2109713209087099019"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "Three people relayed the Muse Wonder launch; Ali Korkmaz recalled that the position he added at 600 is now at 745.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$META o gün $600 seviyesindeydi, bugün ise $745.",
+          "source_url": "https://x.com/korkmazali08/status/2109667268300849416"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$META LAUNCHES MUSE WONDER FOR PERSONAL AI AGENTS AND CODING",
+          "source_url": "https://x.com/wallstengine/status/2109700346205655360"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Meta Platforms, otonom ajanik yeteneklere sahip öncü seviyedeki yeni yapay zekâ modelleri Muse Wonder ve Muse Wonder Full'u resmi olarak tanıttı.",
+          "source_url": "https://x.com/WallStDiaries/status/2109738374814744932"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "high",
+      "why": "jrouldz began gradual selling and gave clear valuation figures (500 billion dollars, 80x sales).",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "Today I begin my signature reverse-DCA strategy on $PLTR",
+          "source_url": "https://x.com/jrouldz/status/2109654288095916346"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Ondas $ONDS ve Palantir $PLTR, yapılan basın açıklamasına göre, Regna AI adlı bağımsız, halka açık olmayan bir şirketin kurulduğunu duyurdu.",
+          "source_url": "https://x.com/korkmazali08/status/2109623862484693076"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "priority": "high",
+      "why": "jrouldz keeps his position despite dilution; three sources relayed the Elisity acquisition.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "but the acquisition undoubtedly fits into the ecosystem they are building",
+          "source_url": "https://x.com/jrouldz/status/2109746479761940577"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$IONQ agreed to acquire cybersecurity firm Elisity in an all-stock deal worth up to $1.3B, including up to $150M in performance-based payments.",
+          "source_url": "https://x.com/wallstengine/status/2109608653687038015"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Kuantum bilgisayar geliştiricisi IonQ, Zero Trust (Sıfır Güvenlik Güveni) odaklı siber güvenlik şirketi Elisity'yi 150 milyon dolarlık performansa dayalı ödemeleri de kapsayan toplam 1,3 milyar dolar değerindeki tamamı hisse senedi takası anlaşmasıyla satın alacağını açıkladı.",
+          "source_url": "https://x.com/WallStDiaries/status/2109694334710804563"
+        }
+      ]
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN",
+      "priority": "high",
+      "why": "Four people mentioned it; the Anthropic deal report is unconfirmed and Ahmet Sunelcan closed the position the same day.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Anthropic has reportedly signed a multiyear cloud deal with $IREN, according to The Information.",
+          "source_url": "https://x.com/wallstengine/status/2109550760635871349"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$IREN le ilgili haber yine doğrulanmadı ve dedikodu seviyesinde kaldı ve bu ilk defa olmuyor.",
+          "source_url": "https://x.com/korkmazali08/status/2109662340765683854"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "$IREN 36.6´dan alinan hisseler 38.39 dan saatler sonra kapatildi.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109550731003146369"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Yapay zekâ araştırmaları yürüten Anthropic, genişleyen veri merkezi ve işlem gücü ihtiyacını karşılamak amacıyla veri merkezi altyapı sağlayıcısı IREN ile çok yıllık bir bulut hizmetleri sözleşmesi imzaladı.",
+          "source_url": "https://x.com/WallStDiaries/status/2109674202114531709"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "priority": "high",
+      "why": "Ahmet Sunelcan plans a purchase at 850 dollars; WallStDiaries relayed capacity sold out through 2029; FinancewithIzzy pointed to the sharp decline.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$LITE için 850 ´de ilk alimi yapacağım. Oraya kadar düşerse iyi olur.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109686584429998356"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Lumentum, yoğun talep karşısında önümüzdeki yıl bazı optik ürün gruplarında talebin %70'ini, 2028'e kadar ise %30'unu karşılayamayacağını öngörüyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2109701884797657148"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "Lumentum bugün yeni bir optik bağlantı gösterisi açıkladı. Hisse yine de sert düştü.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109745782601781511"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell",
+      "priority": "high",
+      "why": "ulkser closed half the short and holds the rest; two sources relayed the new product announcement.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "$MRVL short pozun yarisini kapadim. Daha sert bir inis olmasini bekliyordum. Henuz olmadi.",
+          "source_url": "https://x.com/ulkser/status/2109737718586454026"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Marvell $MRVL, yapay zekâ modellerinin çalıştırılmasında kullanılmak üzere ikinci nesil Structera X 3406 ve 3506 bellek genişletme kontrolcülerini duyurdu.",
+          "source_url": "https://x.com/korkmazali08/status/2109634630240313421"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "priority": "medium",
+      "why": "ulkser was stopped out of his long at about a 4% loss.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "$MU $INTC ikisi de su anda stopladigim seviyenin %10 altinda...",
+          "source_url": "https://x.com/ulkser/status/2109899152465543646"
+        }
+      ]
+    },
+    {
+      "symbol": "CBRS",
+      "name": "Cerebras",
+      "priority": "high",
+      "why": "Two people negative: down 58% since IPO, lockup expires Oct. 14; Ahmet Sunelcan finds it expensive even at 50 dollars.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Cerebras $CBRS is now down ~58% since its stock market debut, hitting a new 52-week low amid concerns over its OpenAI relationship and an upcoming lockup expiration.",
+          "source_url": "https://x.com/wallstengine/status/2109904488639398014"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "CBRS 50 dolar desen de pahali o teknolojisini kanitlamasi gereken yüksek risk yüksek getiri isi",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109718396925587459"
+        }
+      ]
+    },
+    {
+      "symbol": "SMH",
+      "name": "VanEck Semiconductor ETF",
+      "priority": "high",
+      "why": "Tunç Şatıroğlu gave clear levels: buy above 610, sell below; 600 is critical support.",
+      "mentions": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "neutral",
+          "quote": "Bugün yükseliş sürerse bu benim için aldır. Ama yeniden 610'un altına sarkarsa sattır.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2109669448932306961"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent petrol",
+      "priority": "high",
+      "why": "Three people mentioned it; it rose above 105 on Houthi attacks and eased on Trump's Russian diesel claim.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Brent petrol birara 105 doların üzerine çıktı.",
+          "source_url": "https://x.com/WallStDiaries/status/2109592412893159612"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Ama petrol fiyatlarındaki rahatlama piyasa için her şekilde olumlu haber.",
+          "source_url": "https://www.youtube.com/watch?v=xOLTGSptoKc"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Yükselen petrol enflasyon kaygısını artırıyor.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109745782601781511"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "WallStDiaries relayed that the 13/34 week EMA crossed up after 3.5 years.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Bitcoin'in 13 haftalık üssel hareketli ortalaması (EMA), 34 haftalık EMA'yı yukarı yönlü keserek yaklaşık üç buçuk yıl sonra ilk kez boğa sinyali üretti.",
+          "source_url": "https://x.com/WallStDiaries/status/2109667913988993238"
+        }
+      ]
+    },
+    {
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Strategy, 5-11 Ekim tarihleri arasında ortalama 86.194 dolar fiyattan 21,5 milyon dolar değerinde 250 adet Bitcoin satın aldığını açıkladı.",
+          "source_url": "https://x.com/WallStDiaries/status/2109698109391634924"
+        }
+      ]
+    },
+    {
+      "symbol": "FPS",
+      "name": "Forgent Power Solutions",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan added to the position with a small purchase despite expecting declines.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$FPS biraz arttırıldı. Düsüslerin devam edecegini düsünmekle birlikte yarin borsa belki geri toparlar az da olsa bir sey almis olayim mantiginda icimi rahatlatmak amacli alim yaptim.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109702664875602186"
+        }
+      ]
+    },
+    {
+      "symbol": "NVTS",
+      "name": "Navitas Semiconductor",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan read the news as a design target, not an order, and closed the position.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "o güne kadar bu haber bir teknik yetkinlik gösterisi olarak okunmalı",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109741240698679702"
+        }
+      ]
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan added it to the portfolio in the falling market.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "Bana $KO aldiran piyasa herkese her seyi yaptirir.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109750929314455744"
+        }
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan reduced the position.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$DELL azaltildi.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109651800668398075"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "medium",
+      "why": "Ali Korkmaz gave clear levels: without a close above 70 it could go to 60.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "$RKLB $70 üzerine kapanış yapmadığı sürece $60 seviyesine doğru gidebiliriz.",
+          "source_url": "https://x.com/korkmazali08/status/2109643444260159693"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ",
+      "priority": "medium",
+      "why": "Ali Korkmaz flagged 740 dollars as the trend level.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$QQQ de takip edilmesi gereken trend seviyesi $740. Bu seviyelerin üstü piyasalar için olumlu",
+          "source_url": "https://x.com/korkmazali08/status/2109652919154868528"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "medium",
+      "why": "Ali Korkmaz holds it as a risky investment, positive if risk appetite returns.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Oracle riskli bir yatırım olarak portföyümde olmaya devam ediyor. Risk iştahı artmaya başlarsa hisse için olumlu düşünüyorum.",
+          "source_url": "https://x.com/korkmazali08/status/2109762281722777933"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "priority": "medium",
+      "why": "Deutsche Bank upgraded to Buy with a 93 dollar target.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$ASTS shares are up ~4.6% at the open after Deutsche Bank upgraded the stock to Buy with a $93 price target.",
+          "source_url": "https://x.com/wallstengine/status/2109656912770080802"
+        }
+      ]
+    },
+    {
+      "symbol": "TMC",
+      "name": "TMC the metals company",
+      "priority": "medium",
+      "why": "jrouldz flagged tomorrow's public hearing and the dependence on regulatory approval.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "They are essentially a binary bet on clearing regulatory approvals",
+          "source_url": "https://x.com/jrouldz/status/2109656410460143667"
+        }
+      ]
+    },
+    {
+      "symbol": "ONDS",
+      "name": "Ondas Holdings",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Ondas $ONDS ve Palantir $PLTR, yapılan basın açıklamasına göre, Regna AI adlı bağımsız, halka açık olmayan bir şirketin kurulduğunu duyurdu.",
+          "source_url": "https://x.com/korkmazali08/status/2109623862484693076"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$ONDS and $PLTR announced Regna AI, a new company developing specialized AI models for governments and businesses that want to retain control over their models and data.",
+          "source_url": "https://x.com/wallstengine/status/2109626207268405311"
+        }
+      ]
+    },
+    {
+      "symbol": "IPWR",
+      "name": "Ideal Power",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "$IPWR kapatıldı. Madem ucuzluk geliyor daha garanti sirketlere gidelim.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109753061325324448"
+        }
+      ]
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "JP Morgan'ın CEO'sunu çok merak ediyorum.",
+          "source_url": "https://www.youtube.com/watch?v=xOLTGSptoKc"
+        }
+      ]
+    },
+    {
+      "symbol": "BABA",
+      "name": "Alibaba",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Amazon'la Alibaba'yı hep Çin şirketleri çok daha ucuz.",
+          "source_url": "https://www.youtube.com/watch?v=p6twzXvavu4"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "He made a video on why he stays away from **China** stocks: according to Bora Özkent, Chinese companies' sales are growing but profits are not (industrial profit +0.6%), companies are heavily indebted and investor protection is weak; the stocks are cheap, but for a reason. That is why he prefers the tech-heavy **US** market. In the morning bulletin he said earnings season opens with the banks and that Wednesday's CPI is the key data point this week; he read the drop in oil after Trump's diesel deal with Russia as positive for markets.\n\nOn AI, he said **Nvidia** is spreading its risk by investing in open-source models, explained rising GPU demand despite falling token prices through the Jevons paradox, and called the bubble debates pointless. He added that the Senate will be the deciding factor for markets in the US midterms.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Neden Çin Hisselerinden Uzak Duruyorum?",
+          "url": "https://www.youtube.com/watch?v=p6twzXvavu4",
+          "published_at": "2026-10-12T17:30:21+00:00",
+          "summary": "Bora Özkent says he does not invest in Chinese stocks and will not start, stressing that choosing the country matters for company performance. According to MSCI data, $10,000 over 10 years became $41,523 in the US and $14,133 in China; annual return was 15.30% vs 3.52%, volatility 15.59% vs 23.95%, Sharpe ratio 0.84 vs 0.16. In 2025 China's industrial value added grew 5.9% while industrial profit barely grew; companies sell at discounts and fail to earn despite state support (cash support of about 2% of GDP). Because loss-making firms do not go under, capital allocation is distorted; private-sector debt is 142% of GDP in China vs 72% in the US, and extended public debt is around 305%. Deflation prevents debts from eroding, the VIE structure makes shareholder rights unclear, and the authoritarian state carries sudden-crackdown risk. On valuation China is at about half the price (P/E 13.03 vs 25.37; dividend yield 2.43% vs 1.11%), but Bora Özkent says it could stay cheap for a long time. He says he could change his mind if capital allocation is liberalized and unprofitable firms are weeded out; until then he would only look at short-term trades.",
+          "assets": [
+            {
+              "symbol": "BABA",
+              "sentiment": "neutral",
+              "note": "Comparing China and US companies, he cites Amazon vs Alibaba as an example of Chinese firms being much cheaper; he still does not buy Chinese stocks."
+            }
+          ]
+        },
+        {
+          "platform": "youtube",
+          "title": "Borsalarda Bilanço ve Enflasyon Heyecanı",
+          "url": "https://www.youtube.com/watch?v=xOLTGSptoKc",
+          "published_at": "2026-10-12T09:30:24+00:00",
+          "summary": "According to Bora Özkent, the S&P 500 closed Friday up 0.59% and ended the week up 1.2%, while the Russell 2000 fell because rates have not come down. Markets are slightly positive in early trading as oil eased after Trump's diesel purchase from Russia and 'energy ceasefire' claim; neither side has confirmed the deal. For Wednesday's CPI, monthly headline is expected at 0.53%, core at 0.20%, with annual 3.6% headline and 2.4% core; since wages (3.1%) lag inflation (3.4%), he does not expect inflation to surge lastingly, though wealthy households' spending keeps consumption alive. The S&P 500 gained 11.9% on average in rising-rate years and 11.8% in falling-rate years; AI infrastructure investment continues regardless of rates. JPMorgan, Morgan Stanley, Goldman Sachs and Bank of America report this week; he expects slight deterioration in credit cards and consumer loans but no major problem. He reads Nvidia's talks to acquire Reflection AI as a risk-spreading move; he says GPU rental prices are rising while token prices fall, and that overcapacity and bubble debates are pointless. He expects Trump to lose the House in the midterms and says markets would like it if he keeps the Senate.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "He reads the Reflection AI acquisition talks as a smart move spreading risk across open and closed models; says GPU demand will rise."
+            },
+            {
+              "symbol": "JPM",
+              "sentiment": "neutral",
+              "note": "Reports this week; he is curious what the CEO will say about the economy."
+            },
+            {
+              "symbol": "MS",
+              "sentiment": "neutral",
+              "note": "Among the banks reporting earnings on Wednesday."
+            },
+            {
+              "symbol": "GS",
+              "sentiment": "neutral",
+              "note": "One of the banks reporting earnings this week."
+            },
+            {
+              "symbol": "BAC",
+              "sentiment": "neutral",
+              "note": "Reports on Wednesday together with Morgan Stanley."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "Serkan Uelker described shrinking his positions today: he was stopped out of his **Micron** and **Intel** longs (closing Intel at about a 4% loss) and closed half of his **Marvell** short for profit while holding the rest. He also said he buys 2-5 year government bonds directly to keep part of his portfolio out of trading.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "MU ve INTC stop oldu",
+          "url": "https://x.com/ulkser/status/2109899152465543646",
+          "published_at": "2026-10-13T06:48:52.000Z",
+          "summary": "ulkser says $MU and $INTC are 10% below his stop level, that he closed Intel at a 4% loss, and adds that had he shown this care on $QXO and $RKT the portfolio would have doubled.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Long position stopped out; the stock is 10% below the stop level."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "negative",
+              "note": "Long position closed at about a 4% loss."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MRVL shortunun yarısı kapatıldı",
+          "url": "https://x.com/ulkser/status/2109737718586454026",
+          "published_at": "2026-10-12T20:07:23.000Z",
+          "summary": "ulkser says he closed half of his Marvell short for profit because the sharp drop he expected has not come, and is holding the rest for now.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "negative",
+              "note": "Half of the short was closed, the other half is held; failing to break resistance on the first attempt is normal for him."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "2-5 yıl vadeli devlet tahvili",
+          "url": "https://x.com/ulkser/status/2109900503568048408",
+          "published_at": "2026-10-13T06:54:14.000Z",
+          "summary": "ulkser says 'Ben topluyorum' while sharing his earlier post: he buys 2-5 year government bonds via IBKR, staggered so one matures every 2-3 months; he says others can look at the IEI or SHY ETFs.",
+          "assets": [
+            {
+              "symbol": "IEI",
+              "sentiment": "neutral",
+              "note": "ETF mentioned as an alternative for 2-5 year bond exposure."
+            },
+            {
+              "symbol": "SHY",
+              "sentiment": "neutral",
+              "note": "ETF mentioned as a short-term bond alternative."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan had a busy trading day: he bought **IREN** at 36.6 and closed it at 38.39 the same day, closed **IPWR**, **SVCO** and **NVTS**, cut **Dell**, and added **Coca-Cola** to the portfolio as a safer name on the logic that 'cheapness is coming'. Despite expecting declines to continue, he made a small add to **Forgent Power Solutions**. He plans a first **Lumentum** purchase at 850 dollars and finds **Cerebras** expensive even at 50 dollars.\n\nHe says the short-term outlook for Korea and memory is not good; if he has cash and the technicals fit, he could buy leveraged short ETFs on KOSPI and SOXX, and says he usually does not care about 50-70% drawdowns.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bellekler için kısa vade iyi görünmüyor",
+          "url": "https://x.com/AhmetSunelcan1/status/2109899707858485685",
+          "published_at": "2026-10-13T06:51:05.000Z",
+          "summary": "Ahmet Sunelcan shares a post about the sharp KOSPI drop and says the short-term outlook for memory stocks does not look good; the 5400-4800 downside expectation belongs to the person he quotes, not to him.",
+          "assets": [
+            {
+              "symbol": "KOSPI",
+              "sentiment": "negative",
+              "note": "The post he quotes says the 200 SMA was broken downward; he himself sees the short term as negative for memory names."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Navitas-NVIDIA 800V kartı: sipariş değil",
+          "url": "https://x.com/AhmetSunelcan1/status/2109741240698679702",
+          "published_at": "2026-10-12T20:21:23.000Z",
+          "summary": "Ahmet Sunelcan notes that Navitas' 24 kW 800 V power board developed with NVIDIA is not an order or revenue announcement: it has no price, purchase commitment or production date, and the figures are design targets, not measured results. He says it is not even new, since a similar board was shown at March's GTC, and Navitas is one of several partners in NVIDIA's 800 V architecture. He adds the stock may jump on the headline in the short term, but lasting value will only come if the designs turn into volume orders in 2027-2028 800 V racks.",
+          "assets": [
+            {
+              "symbol": "NVTS",
+              "sentiment": "neutral",
+              "note": "May react to the headline short term; lasting value only if it turns into volume orders in 2027-2028. He closed the position the same day."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "LITE için 850'de ilk alım",
+          "url": "https://x.com/AhmetSunelcan1/status/2109686584429998356",
+          "published_at": "2026-10-12T16:44:12.000Z",
+          "summary": "Ahmet Sunelcan says he will make a first Lumentum purchase at the 850 dollar level and would welcome a decline to there.",
+          "assets": [
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "Plans a first purchase at 850 dollars."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "FPS biraz arttırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2109702664875602186",
+          "published_at": "2026-10-12T17:48:06.000Z",
+          "summary": "Ahmet Sunelcan says he slightly increased his Forgent Power Solutions position; although he expects declines to continue, he made a small purchase in case the market rebounds tomorrow.",
+          "assets": [
+            {
+              "symbol": "FPS",
+              "sentiment": "positive",
+              "note": "Increased the position with a small purchase despite expecting further declines."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Cerebras 50 dolar desen de pahalı",
+          "url": "https://x.com/AhmetSunelcan1/status/2109718396925587459",
+          "published_at": "2026-10-12T18:50:37.000Z",
+          "summary": "Ahmet Sunelcan says Cerebras is expensive even at 50 dollars and is a high-risk, high-reward business that still has to prove its technology.",
+          "assets": [
+            {
+              "symbol": "CBRS",
+              "sentiment": "negative",
+              "note": "Expensive even at 50 dollars; outcome depends on future execution."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IREN aynı gün kapatıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2109550731003146369",
+          "published_at": "2026-10-12T07:44:22.000Z",
+          "summary": "Ahmet Sunelcan reports buying IREN at 36.6 and closing it hours later at 38.39.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "neutral",
+              "note": "Temporary position bought at 36.6 and closed at 38.39."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "KO portföye eklendi",
+          "url": "https://x.com/AhmetSunelcan1/status/2109750929314455744",
+          "published_at": "2026-10-12T20:59:53.000Z",
+          "summary": "Ahmet Sunelcan says the falling market made him buy Coca-Cola; he also closed IPWR on the logic of moving to safer companies if cheapness is coming.",
+          "assets": [
+            {
+              "symbol": "KO",
+              "sentiment": "positive",
+              "note": "Added to the portfolio because of the market decline."
+            },
+            {
+              "symbol": "IPWR",
+              "sentiment": "neutral",
+              "note": "Closed the same day."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "DELL azaltıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2109651800668398075",
+          "published_at": "2026-10-12T14:25:59.000Z",
+          "summary": "Ahmet Sunelcan reports reducing his Dell position.",
+          "assets": [
+            {
+              "symbol": "DELL",
+              "sentiment": "negative",
+              "note": "Position reduced."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Düşüşleri umursamıyorum, kaldıraçlı kısa ETF",
+          "url": "https://x.com/AhmetSunelcan1/status/2109700493559615496",
+          "published_at": "2026-10-12T17:39:28.000Z",
+          "summary": "Ahmet Sunelcan says he usually ignores 50-70% drops and, if he has cash and the technicals fit, could buy leveraged short ETFs on KOSPI and SOXX.",
+          "assets": [
+            {
+              "symbol": "KOSPI",
+              "sentiment": "negative",
+              "note": "Says he could buy a leveraged short ETF if he has cash and the technicals fit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz stressed the market's fragile structure through the day: today's volume was about 20% below the recent average, the real problem is that the index rally has not spread across the market, and high bond yields, oil, inflation and the Iran war keep investors cautious. He reported the decline in **QQQ** and tech continuing in the night session and South Korea's market down 6.5%, and said the trend level to watch for **QQQ** is 740 dollars.\n\nOn single names, he recalled adding to **Meta** at 600 and noted it is now at 745, said he keeps **Oracle** as a risky holding, wants a close above 70 for **Rocket Lab** or it could head to 60, and called the **IREN**-Anthropic report still unconfirmed rumor. He also warned that leveraged ETFs are risky because they reset daily.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Hacim düşük, yükseliş genele yayılmıyor",
+          "url": "https://x.com/korkmazali08/status/2109745445052289148",
+          "published_at": "2026-10-12T20:38:05.000Z",
+          "summary": "Ali Korkmaz says today's volume was about 20% below the recent average, that low volume alone does not mean outflows, but that the real problem is that the index rally has not broadened. Besides high bond yields, oil, inflation and election uncertainty, he says the Iran war adds pressure via energy prices, and that easing tension and clarity on rates could set the stage for a recovery in growth stocks.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "META: kâr satışlarıyla alınan pozisyon",
+          "url": "https://x.com/korkmazali08/status/2109667268300849416",
+          "published_at": "2026-10-12T15:27:27.000Z",
+          "summary": "Ali Korkmaz recalls an earlier post saying he used profits from other stocks at the peak to add to laggard Meta; the stock was at 600 dollars then and is at 745 now.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "The position he added at 600 dollars is now at 745; he says opportunities can be in lagging stocks."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "RKLB: 70 dolar kapanış şartı",
+          "url": "https://x.com/korkmazali08/status/2109643444260159693",
+          "published_at": "2026-10-12T13:52:47.000Z",
+          "summary": "Ali Korkmaz says Rocket Lab could head toward 60 dollars unless it closes above 70.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "negative",
+              "note": "Without a close above 70 dollars it could go to the 60 level."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "QQQ: 740 dolar trend seviyesi",
+          "url": "https://x.com/korkmazali08/status/2109652919154868528",
+          "published_at": "2026-10-12T14:30:26.000Z",
+          "summary": "Ali Korkmaz says the trend level to watch on QQQ is 740 dollars and that above it is positive for markets; later he reports the tech decline continuing in the night session.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "740 dollars is the trend level; above it is positive. Tech decline continues in the night session."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oracle riskli yatırım olarak portföyde",
+          "url": "https://x.com/korkmazali08/status/2109762281722777933",
+          "published_at": "2026-10-12T21:45:00.000Z",
+          "summary": "Ali Korkmaz says he keeps Oracle in his portfolio as a risky investment and is positive on it if risk appetite returns.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "positive",
+              "note": "Held as a risky investment; positive if risk appetite rises."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IREN haberi doğrulanmadı",
+          "url": "https://x.com/korkmazali08/status/2109662340765683854",
+          "published_at": "2026-10-12T15:07:52.000Z",
+          "summary": "Ali Korkmaz says the IREN-Anthropic report is again unconfirmed, remains at rumor level, and that this is not the first time; he adds that he hopes it materializes.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "neutral",
+              "note": "The Anthropic deal report has not been confirmed by either side."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kaldıraçlı ETF uyarısı",
+          "url": "https://x.com/korkmazali08/status/2109679505174397117",
+          "published_at": "2026-10-12T16:16:04.000Z",
+          "summary": "Ali Korkmaz says he sees people losing money on leveraged ETFs in the comments, that because these products reset daily an ETF can lose money even if the stock returns to its starting price, and that people should keep away from those who push them without explaining the risks.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Güney Kore borsasında satış baskısı",
+          "url": "https://x.com/korkmazali08/status/2109822779461656905",
+          "published_at": "2026-10-13T01:45:23.000Z",
+          "summary": "Ali Korkmaz reports that selling pressure deepened in South Korea's market, with losses reaching 6.50%.",
+          "assets": [
+            {
+              "symbol": "KOSPI",
+              "sentiment": "negative",
+              "note": "Losses reached 6.50%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Marvell Structera X duyurusu",
+          "url": "https://x.com/korkmazali08/status/2109634630240313421",
+          "published_at": "2026-10-12T13:17:45.000Z",
+          "summary": "Ali Korkmaz relays that Marvell announced second-generation Structera X 3406 and 3506 memory expansion controllers, with first test products expected to reach customers in Q1 2027.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "neutral",
+              "note": "Announced new memory expansion controllers; first products expected in Q1 2027."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Ondas ve Palantir Regna AI'ı kurdu",
+          "url": "https://x.com/korkmazali08/status/2109623862484693076",
+          "published_at": "2026-10-12T12:34:58.000Z",
+          "summary": "Ali Korkmaz relays that Ondas and Palantir founded an independent company called Regna AI, initially wholly owned by Ondas, with Ondas as its first customer.",
+          "assets": [
+            {
+              "symbol": "ONDS",
+              "sentiment": "neutral",
+              "note": "Will own Regna AI and be its first customer."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Will supply model-training infrastructure and engineering support to Regna AI."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries opened the week noting that US stocks closed a record week higher (S&P 500 +1.2%), the 10-year yield at 5.24% is at its highest since 2002, and Brent crude rose above 105 dollars on Houthi attacks. September CPI on Wednesday is expected to accelerate to 3.7% headline from 3.4%; a hotter print could strengthen tightening expectations before the October 28 Fed meeting. During the day China's CXMT progress in memory architecture hit **Micron**, **SK Hynix** and **Samsung** shares; **Broadcom** CEO Hock Tan said the biggest constraint is access to capital, not chips; and **Lumentum** was reported sold out through early 2029. The feed also carried the **IREN**-Anthropic cloud deal, **IonQ**'s Elisity acquisition and **Strategy**'s purchase of 250 Bitcoin.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Günaydın: piyasa özeti ve öncü göstergeler",
+          "url": "https://x.com/WallStDiaries/status/2109561631961194693",
+          "published_at": "2026-10-12T08:27:41.000Z",
+          "summary": "US stocks closed a record week higher; the S&P 500 ended the week up 1.2% and the 10-year yield rose to 5.24% (a 2002 high of 5.31% earlier in the week). Oil, strong growth, sticky inflation, a hawkish Fed and high public debt are cited as keeping yields up. At the close the S&P 500 was 7,811.54, Nasdaq 100 30,883.14, Dow 51,654.95; Bitcoin 83,506, gold 4,201.39, Brent 104.74. Korea was down 3.65% in leading indicators.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "Listed at 83,506, down 0.09%, in the market summary."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Listed at 104.74 in the market summary."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "12-16 Ekim ABD veri takvimi: TÜFE kritik",
+          "url": "https://x.com/WallStDiaries/status/2109563243698045330",
+          "published_at": "2026-10-12T08:34:05.000Z",
+          "summary": "The key data point of the week is September CPI on Wednesday; annual headline is expected to rise from 3.4% to 3.7% on energy, with core at 2.5% (previous 2.4%). With the 10-year yield at its highest since 2002, a print above expectations could strengthen tightening expectations before the October 28 Fed meeting. The calendar also has Waller, the Fed Beige Book, retail sales, PPI and Fed Chair Warsh's Friday speech.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Brent petrol 105 doları aştı",
+          "url": "https://x.com/WallStDiaries/status/2109592412893159612",
+          "published_at": "2026-10-12T10:30:00.000Z",
+          "summary": "As Houthi attacks on Saudi Arabia intensified supply concerns, Brent briefly rose above 105 dollars; high energy costs are reviving rate pressure and stagflation risk.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "positive",
+              "note": "Rose above 105 dollars on Houthi attacks."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump: seçim öncesi İran'a yeni saldırı yok",
+          "url": "https://x.com/WallStDiaries/status/2109622613534237149",
+          "published_at": "2026-10-12T12:30:00.000Z",
+          "summary": "Trump announced no new military strike on Iran before the November 3 midterms, said talks with Tehran are productive, and that the blockade of the Strait of Hormuz will continue; this is said to have eased short-term tension in oil markets.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Yardeni: 10 yıllık faiz %6 olursa çatlaklar",
+          "url": "https://x.com/WallStDiaries/status/2109607512655737320",
+          "published_at": "2026-10-12T11:30:00.000Z",
+          "summary": "Ed Yardeni says a rapid climb of the US 10-year yield to 6% could create serious cracks in the financial system, lock up credit markets and hit growth hard; the large budget deficit and AI borrowing are pushing yields higher.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Hock Tan: en büyük kısıt sermaye",
+          "url": "https://x.com/WallStDiaries/status/2109713209087099019",
+          "published_at": "2026-10-12T18:30:00.000Z",
+          "summary": "Broadcom CEO Hock Tan says the biggest obstacle in AI infrastructure will be access to capital and financing cost, not chips or power; he says compute demand will stay strong through 2030 and that Broadcom has talked with Wall Street consortia about providing billions in debt financing to its customers.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "According to the CEO the biggest constraint is capital; Broadcom is talking to banks about debt financing for customers."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CXMT bellek devlerini salladı",
+          "url": "https://x.com/WallStDiaries/status/2109664157792395621",
+          "published_at": "2026-10-12T15:15:05.000Z",
+          "summary": "China's CXMT announcing a major step in its 4F² memory architecture and a new server-memory product range raised competition concerns; Micron, SK Hynix and Samsung shares fell.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Micron shares fell after the CXMT announcement."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Lumentum 2029 başına kadar dolu",
+          "url": "https://x.com/WallStDiaries/status/2109701884797657148",
+          "published_at": "2026-10-12T17:45:00.000Z",
+          "summary": "Lumentum CEO Michael Hurlston said optoelectronic capacity is sold out through early 2029; the company expects to be unable to meet 70% of demand in some optical products next year and 30% through 2028. Wedbush says this is positive for raw-material and fab partners.",
+          "assets": [
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "Capacity sold through early 2029; much of demand cannot be met."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic-IREN çok yıllı bulut anlaşması",
+          "url": "https://x.com/WallStDiaries/status/2109674202114531709",
+          "published_at": "2026-10-12T15:55:00.000Z",
+          "summary": "Anthropic is reported to have signed a multiyear cloud services contract with IREN to expand GPU capacity (another source says the report is not yet confirmed).",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "A multiyear cloud deal with Anthropic was reported."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Strategy 250 Bitcoin daha aldı",
+          "url": "https://x.com/WallStDiaries/status/2109698109391634924",
+          "published_at": "2026-10-12T17:30:00.000Z",
+          "summary": "Strategy bought 250 Bitcoin between Oct 5-11 at an average of 86,194 dollars; total holdings are 848,250 BTC at an average cost of 75,444 dollars. 21 million dollars of the purchase was financed by MSTR share sales.",
+          "assets": [
+            {
+              "symbol": "MSTR",
+              "sentiment": "neutral",
+              "note": "Bought 250 BTC; total 848,250 BTC."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Strategy keeps buying; a separate post noted the 13/34 week EMA crossed up for the first time in 3.5 years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu gave clear levels for semiconductors: on Friday he had said sell below 610 on **SMH**, today he flagged 600 as critical support; if the rally continues buy, if it slips back below 610 sell. On Europe, he said political risk has risen because of scenarios in France and the possibility of AfD in Germany, and that the US should be preferred for investment.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SMH: 610 altında sat, 600 kritik destek",
+          "url": "https://x.com/TuncSatiroglu/status/2109669448932306961",
+          "published_at": "2026-10-12T15:36:07.000Z",
+          "summary": "Tunç Şatıroğlu recalls saying on Friday to sell below 610 and today that 600 is critical support; SMH fell to oversold territory and turned up from 609, and he says if the rise continues it is a buy, if it slips below 610 again it is a sell.",
+          "assets": [
+            {
+              "symbol": "SMH",
+              "sentiment": "neutral",
+              "note": "Buy above 610, sell below 610; 600 is critical support."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fransa ve Almanya siyasi riski",
+          "url": "https://x.com/TuncSatiroglu/status/2109553540347928579",
+          "published_at": "2026-10-12T07:55:32.000Z",
+          "summary": "Tunç Şatıroğlu says that if the radical left wins in France there could be a moratorium, if the far right wins there could be rapid rate cuts, and either way France would need rescuing by the ECB; if AfD takes power in Germany it might want to leave. He says political risk in Europe has risen and the US should be preferred for investment.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy read today's AI selloff through four themes: China's CXMT new DRAM design pressured **Micron** (though he stressed HBM competition is unproven and **Sandisk**'s core business is NAND), **Broadcom** CEO Hock Tan flagged access to capital, optical stocks (**Lumentum**, **Coherent**, **Applied Opto**) fell sharply on high expectations, and oil plus bond yields made AI stocks more sensitive. His overall read is selective risk reduction within tech.\n\nHe also wrote that **Nvidia**'s revenue grew 106% and EPS 128% last quarter yet the stock is up only about 30% in 2026, with the multiple around 15 on 2027 earnings; if the market re-rates it at 30x it could theoretically double by end-2027, though that is no guarantee.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AI satışının dört nedeni",
+          "url": "https://x.com/FinancewithIzzy/status/2109745782601781511",
+          "published_at": "2026-10-12T20:39:26.000Z",
+          "summary": "FinancewithIzzy reads the sharp decline as: (1) CXMT's plan to ship server memory with a new DRAM design by year-end is pressuring Micron, but this does not mean the same competitiveness in HBM; (2) Broadcom CEO Hock Tan expects compute demand to exceed supply over the next two years while questioning the economic return of financing it longer term; (3) the sharp selling in Lumentum, Coherent and Applied Opto reflects high expectations being priced in, with Lumentum falling despite a new optical interconnect demo; (4) rising oil and bond yields raise inflation worry and financing costs. He interprets optical and memory stocks being sold while Microsoft and Meta rose as selective risk reduction and says he will watch orders, deliveries, margins and cash flow in earnings.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "CXMT's new DRAM design is one concrete reason for the pressure on Micron."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Hock Tan flagged access to capital and the economic return on financing."
+            },
+            {
+              "symbol": "LITE",
+              "sentiment": "negative",
+              "note": "The stock fell sharply despite a new optical interconnect demo; expectations were priced in."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Says it cannot be assessed on the same grounds as an optical company or memory makers."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Among tech stocks that rose today together with Microsoft."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Rising oil is increasing inflation concerns."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NVIDIA 2027'de ikiye katlanabilir mi?",
+          "url": "https://x.com/FinancewithIzzy/status/2109637711711617300",
+          "published_at": "2026-10-12T13:30:00.000Z",
+          "summary": "FinancewithIzzy writes that Nvidia's revenue grew 106% and EPS 128% last quarter, yet the stock is up only about 30% in 2026 and trades at about 15x 2027 earnings. If the market re-rates it at 30x, a doubling by end-2027 is theoretically possible, but he adds it is no guarantee and valuation will be the key question.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Thinks the growth story is not over; multiple is low on 2027 estimates, but valuation now matters more."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "Wall St Engine tied today's semiconductor selloff to China's CXMT progress and Hock Tan's cautious comments on AI investment: **KOSPI** fell as much as 7.4% intraday, **Samsung** dropped 7.7% and **SK Hynix** 8.8%; CXMT has not yet shown it can produce the technology at scale. **Cerebras** is down about 58% since its IPO, hit a new low, and about 19.4 million shares come off lockup on Oct. 14.\n\nOn the news side, **Nvidia** opened Vera Rubin rack designs at OCP, **Meta** launched its Muse Wonder models, **IonQ** is buying Elisity for 1.3 billion dollars, and **IREN** was reported to have signed a cloud deal with Anthropic (IREN has not confirmed). Deutsche Bank upgraded **AST SpaceMobile** to Buy with a 93 dollar target.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "KOSPI gün içinde %7,4 düştü",
+          "url": "https://x.com/wallstengine/status/2109901269943124228",
+          "published_at": "2026-10-13T06:57:17.000Z",
+          "summary": "KOSPI fell 7.4% intraday; Samsung dropped 7.7% and SK Hynix 8.8%. China's CXMT progress fueled memory competition and pricing-power concerns, and Hock Tan's cautious AI investment comments added pressure. Foreigners net sold 8.46 trillion won in October through Oct. 12; CXMT has not yet shown it can manufacture the technology at scale.",
+          "assets": [
+            {
+              "symbol": "KOSPI",
+              "sentiment": "negative",
+              "note": "Fell 7.4% intraday on CXMT and Hock Tan comments."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Cerebras halka arzından beri %58 düştü",
+          "url": "https://x.com/wallstengine/status/2109904488639398014",
+          "published_at": "2026-10-13T07:10:04.000Z",
+          "summary": "Cerebras is down about 58% since its IPO, hitting a new 52-week low amid OpenAI relationship concerns and an upcoming lockup expiration. About 19.4 million shares become eligible for sale on Oct. 14.",
+          "assets": [
+            {
+              "symbol": "CBRS",
+              "sentiment": "negative",
+              "note": "Record low; about 19.4 million shares unlock on Oct. 14."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NVIDIA Vera Rubin raf tasarımlarını açtı",
+          "url": "https://x.com/wallstengine/status/2109666989543219475",
+          "published_at": "2026-10-12T15:26:20.000Z",
+          "summary": "Nvidia opened Vera Rubin rack designs via the MGX architecture at OCP; Meta is adopting Spectrum-6 switches, a 400Gb/s-per-lane USFP optical module is planned with Cisco, and Google's Falcon Transport will be supported on ConnectX-10.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Announced open infrastructure contributions and new partnerships."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta Muse Wonder modellerini tanıttı",
+          "url": "https://x.com/wallstengine/status/2109700346205655360",
+          "published_at": "2026-10-12T17:38:53.000Z",
+          "summary": "Meta introduced the agent- and coding-focused Muse Wonder and Muse Wonder Full models, trained at its Prometheus data center and available via the Meta Model API and Muse Code.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Launched Muse Wonder, which it calls its most capable models yet."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ASTS: Deutsche Bank Al, hedef 93 dolar",
+          "url": "https://x.com/wallstengine/status/2109656912770080802",
+          "published_at": "2026-10-12T14:46:18.000Z",
+          "summary": "AST SpaceMobile rose about 4.6% at the open after Deutsche Bank upgraded it to Buy with a 93 dollar target; BlueBird 14-16 are at Cape Canaveral and the FCC authorized 900 MHz testing through Nov. 8.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "positive",
+              "note": "Deutsche Bank upgraded to Buy with a 93 dollar target."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IonQ Elisity'yi 1,3 milyar dolara alıyor",
+          "url": "https://x.com/wallstengine/status/2109608653687038015",
+          "published_at": "2026-10-12T11:34:32.000Z",
+          "summary": "IonQ is acquiring cybersecurity firm Elisity in an all-stock deal worth up to 1.3 billion dollars including up to 150 million in performance-based payments.",
+          "assets": [
+            {
+              "symbol": "IONQ",
+              "sentiment": "neutral",
+              "note": "Acquiring Elisity for up to 1.3 billion dollars, all stock."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic-IREN anlaşması iddiası",
+          "url": "https://x.com/wallstengine/status/2109550760635871349",
+          "published_at": "2026-10-12T07:44:29.000Z",
+          "summary": "According to The Information Anthropic signed a multiyear cloud deal with IREN; it suggests the unnamed 'leading frontier AI lab' IREN disclosed in August could be Anthropic, but IREN has not confirmed the link.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "neutral",
+              "note": "Report of an Anthropic deal; the company has not confirmed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz said he began a 'reverse-DCA' (gradual selling) strategy on **Palantir** today: at a 500 billion dollar market cap and 80x sales, locking in some gains can't hurt; he says shares bought at 7 are up about 2800%, that it will be higher in the 2030s but the best gains have probably already happened. On **IonQ**'s Elisity deal he said the dilution stings but it fits the ecosystem strategically and the price move roughly equals the implied dilution.\n\nHe complained that small speculative stocks are bleeding because of the rate environment, called **TMC** a binary bet on regulatory approvals with a public hearing tomorrow, and wrote that he likes **Micron** fundamentally but won't buy at the new price level.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PLTR'de reverse-DCA başlıyor",
+          "url": "https://x.com/jrouldz/status/2109654288095916346",
+          "published_at": "2026-10-12T14:35:52.000Z",
+          "summary": "jrouldz says he began his 'reverse-DCA' strategy in Palantir, that at a 500 billion dollar market cap and 80x sales locking in some gains can't hurt, especially in this environment where his small speculative positions are being crushed. He adds that shares bought at 7 are up 2800% and that the best gains have most likely already happened.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "negative",
+              "note": "Began gradual selling at a 500 billion dollar market cap and 80x sales; thinks it can be higher in the 2030s but the best gains are behind."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IonQ-Elisity: seyrelme acı ama strateji uyumlu",
+          "url": "https://x.com/jrouldz/status/2109746479761940577",
+          "published_at": "2026-10-12T20:42:12.000Z",
+          "summary": "jrouldz says the dilution in IonQ's Elisity deal stings existing shareholders, the acquisition fits the ecosystem being built, today's price move roughly equals the implied dilution, and the price looks high relative to the prior Oxford Ionics deal but not relative to other cybersecurity companies. He adds that anyone viewing it as merely buying revenue is clueless.",
+          "assets": [
+            {
+              "symbol": "IONQ",
+              "sentiment": "positive",
+              "note": "Despite painful dilution it fits the long-term ecosystem strategy; the position is among his largest."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TMC: düzenleyici onaya bağlı ikili bahis",
+          "url": "https://x.com/jrouldz/status/2109656410460143667",
+          "published_at": "2026-10-12T14:44:18.000Z",
+          "summary": "jrouldz notes the relentless selling in small speculative companies, says TMC has a public hearing tomorrow, expects angry reactions from environmentalists, and that the company is essentially a binary bet on regulatory approvals.",
+          "assets": [
+            {
+              "symbol": "TMC",
+              "sentiment": "neutral",
+              "note": "Public hearing tomorrow; a binary bet on regulatory approvals."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Micron: temelde iyi ama yeni fiyattan almam",
+          "url": "https://x.com/jrouldz/status/2109666907234168906",
+          "published_at": "2026-10-12T15:26:01.000Z",
+          "summary": "jrouldz says he briefly owned Micron, finds it great fundamentally, but that buying at the new price level goes against his principle since it traded much lower for so many years.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Seen as fundamentally strong but not bought at the new price level."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0992,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2025,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The portfolio's largest holding (20%) and a rate-sensitive fintech; the 10-year yield at 5.24%, a high since 2002, and the surprise risk in Wednesday's CPI are the biggest external factors. Concentration risk matters more than earnings expectations here.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: a 20% weight in one holding carries concentration risk.",
+          "Against: according to WallStDiaries the 10-year yield is at its highest since 2002.",
+          "For: according to Bora Özkent rate rises do not automatically hurt stocks; the S&P 500 also gained in rising-rate years."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1445,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "neutral",
+            "quote": "Hock Tan, önümüzdeki iki yılda hesaplama talebinin arzı aşmasını bekliyor.",
+            "source_url": "https://x.com/FinancewithIzzy/status/2109745782601781511"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "Broadcom CEO'su Hock Tan, yapay zeka altyapısının büyümesinde en büyük engelin çip veya elektrik tedariki değil, sermayeye erişim ve finansman maliyetleri olacağını ifade etti.",
+            "source_url": "https://x.com/WallStDiaries/status/2109713209087099019"
+          }
+        ],
+        "action": "hold",
+        "why": "WallStDiaries and FinancewithIzzy relayed Hock Tan's capital-constraint comment but there is no concrete level or date.",
+        "opinion": "Hock Tan's emphasis on capital says both that demand stays strong and that financing can be a bottleneck; Broadcom takes on the risk of acting as a financing provider as much as a chip vendor. The balance-sheet impact of customer financing should be watched.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: according to Hock Tan compute demand will stay strong.",
+          "Against: financing and capital cost were described as the main constraint on growth.",
+          "Against: according to FinancewithIzzy there was selective risk reduction in AI stocks today."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1431,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "$META o gün $600 seviyesindeydi, bugün ise $745.",
+            "source_url": "https://x.com/korkmazali08/status/2109667268300849416"
+          },
+          {
+            "person": "wallstengine",
+            "sentiment": "positive",
+            "quote": "$META LAUNCHES MUSE WONDER FOR PERSONAL AI AGENTS AND CODING",
+            "source_url": "https://x.com/wallstengine/status/2109700346205655360"
+          }
+        ],
+        "action": "hold",
+        "why": "Ali Korkmaz said he added to his position and that the stock is now at 745; the Muse Wonder launch is extra news but there is no level/date-based buy or sell reason.",
+        "opinion": "The Muse Wonder launch means Meta will keep spending to stay in the model race; the stock has risen strongly and holding up while tech sold off today is positive. The main risk is how fast AI spending turns into revenue.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: according to wallstengine Meta announced its most capable models yet.",
+          "For: according to FinancewithIzzy Meta was among the risers in today's selloff.",
+          "Against: the rise from 600 to 745 cited by Ali Korkmaz makes new entry more expensive."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1196,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Nuclear reactor components and naval contracts give it exposure to the defense/energy side of the AI power-demand theme; it was not mentioned in today's flow. At a 12% weight it diversifies the portfolio somewhat away from AI semiconductors.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: AI data-center power needs (OCP developments relayed by wallstengine) support the nuclear and grid theme.",
+          "For: a revenue source independent from the semiconductor selloff.",
+          "Against: there is no direct information on the company in today's sources."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1024,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Reddit's ad and data-licensing revenue is indirectly tied to the AI theme; high-beta stocks move harder as risk appetite weakens. A 10% weight deserves attention.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: according to Ali Korkmaz market breadth is weak and growth stocks are under pressure.",
+          "For: according to Ali Korkmaz pressured growth stocks could recover if tension eases.",
+          "No company-specific news today."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0762,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "negative",
+            "quote": "Ed Yardeni, ABD 10 yıllık tahvil faizlerinin hızla %6 seviyesine tırmanmasının finansal sistemde ciddi çatlaklar yaratabileceğini belirtti.",
+            "source_url": "https://x.com/WallStDiaries/status/2109607512655737320"
+          }
+        ],
+        "action": "hold",
+        "why": "The Yardeni warning relayed by WallStDiaries gives a 6% level but is not on its own a sell reason for long-dated bonds.",
+        "opinion": "Long-dated US Treasuries are the most rate-sensitive holding; with the 10-year at 5.24% the yield looks attractive but a CPI surprise can move the price quickly. The EUR hedge cost also trims the return.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: high starting yield; according to Bora Özkent wages lag inflation so inflation may not surge lastingly.",
+          "Against: according to Yardeni a 6% 10-year yield could create cracks.",
+          "Against: if Wednesday's CPI beats expectations tightening expectations rise."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0651,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The Turkey ETF competes against lira depreciation and high inflation in dollar terms; there is no direct information on Turkish assets in today's sources. Emerging markets generally come under pressure when global risk appetite weakens.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: Ahmet Sunelcan assessed Turkey's GDP and inflation data critically.",
+          "Against: the sharp selloff in Korea shows weakening global risk appetite.",
+          "For: a 6.5% weight does not add much to portfolio risk."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0474,
+        "mentions": [
+          {
+            "person": "Ahmet Sunelcan",
+            "sentiment": "positive",
+            "quote": "$FPS biraz arttırıldı. Düsüslerin devam edecegini düsünmekle birlikte yarin borsa belki geri toparlar az da olsa bir sey almis olayim mantiginda icimi rahatlatmak amacli alim yaptim.",
+            "source_url": "https://x.com/AhmetSunelcan1/status/2109702664875602186"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Ahmet Sunelcan a small add was made but declines are expected to continue; there is no concrete level or date.",
+        "opinion": "The data-center power infrastructure theme is alive (Nvidia's 800V and power-standard announcements); but as a small, recently listed company its volatility is high. A 5% weight keeps that risk reasonable.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: OCP announcements relayed by wallstengine support the 800V power infrastructure theme.",
+          "Against: Ahmet Sunelcan expects declines to continue.",
+          "Against: according to Ali Korkmaz small speculative names face dilution risk and tight liquidity."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "LITE",
+        "name": "Lumentum",
+        "why": "Ahmet Sunelcan plans a first purchase at 850 dollars; according to WallStDiaries capacity is sold out through early 2029.",
+        "source_url": "https://x.com/AhmetSunelcan1/status/2109686584429998356"
+      },
+      {
+        "symbol": "SMH",
+        "name": "VanEck Semiconductor ETF",
+        "why": "Tunç Şatıroğlu says buy above 610 and sell below; he flagged 600 as critical support.",
+        "source_url": "https://x.com/TuncSatiroglu/status/2109669448932306961"
+      },
+      {
+        "symbol": "ASTS",
+        "name": "AST SpaceMobile",
+        "why": "Deutsche Bank upgraded the stock to Buy with a 93 dollar target (wallstengine).",
+        "source_url": "https://x.com/wallstengine/status/2109656912770080802"
+      }
+    ]
+  }
+}
