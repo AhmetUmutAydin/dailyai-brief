@@ -1,0 +1,1089 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T07:28:42.910Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "ASML üçüncü çeyrekte beklentileri aştı, yıl rehberini yükseltti",
+      "person": "wallstengine",
+      "why": "Net satış 11.662 milyon euro (beklenti 11,56 milyar), FY26 satış rehberi 44-45 milyar euro; 2027 ve 2028 arzı müşteri talebini tam karşılamayacak.",
+      "source_url": "https://x.com/wallstengine/status/2110234293586854258"
+    },
+    {
+      "title": "Asya'da çip satışı: Kospi %6'dan fazla düştü",
+      "person": "WallStDiaries",
+      "why": "SK Hynix ve Samsung, Çinli CXMT'nin bellek yoğunluğunu artıracak teknolojide ilerlediği haberleriyle baskılandı; Nasdaq vadelileri %1 geriledi.",
+      "source_url": "https://x.com/WallStDiaries/status/2109928226646565314"
+    },
+    {
+      "title": "Goolsbee: AI harcamaları enflasyonu körükleyebilir",
+      "person": "korkmazali08",
+      "why": "Chicago Fed Başkanı Goolsbee'ye göre tarifeler ve yüksek petrol fiyatları henüz faiz indirimine alan açacak kadar hafiflemedi; AI yatırımları beklenen getiriyi vermezse dotcom benzeri çözülme riski var.",
+      "source_url": "https://x.com/korkmazali08/status/2110026411914285457"
+    },
+    {
+      "title": "Türkiye'de PPF fon krizi: 1 aydır para alınamıyor",
+      "person": "dtfinans_",
+      "why": "SPK'nın likit garantisi verdiği PPF'lerde bir aydır para çekilemiyor; TÜFE ile hesaplama ve hisse fonlarında hisse olarak iade gibi çözümler konuşuluyor.",
+      "source_url": "https://x.com/dtfinans_/status/2109975454673146176"
+    },
+    {
+      "title": "Bugün ABD TÜFE verisi ve Fed konuşmaları var",
+      "person": "wallstengine",
+      "why": "08:30 TÜFE; Bowman, Barkin, Beige Book ve Goolsbee aynı gün; BlackRock ve Bank of America açılış öncesi bilanço veriyor.",
+      "source_url": "https://x.com/wallstengine/status/2110249349976338899"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Yapay zekâ harcamaları, enflasyon ve Fed",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "Goolsbee'ye göre AI harcamaları teknoloji dışında da enflasyonu körükleyebilir.",
+          "quote": "Chicago Fed Başkanı Austan Goolsbee, yapay zekâ kaynaklı harcamaların teknoloji sektörünün ötesinde de enflasyonu körükleyebileceğini düşünüyor.",
+          "source_url": "https://x.com/korkmazali08/status/2110026411914285457"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Waller'a göre AI altyapı talebi enflasyonu yukarı çekiyor ve daha sıkı bir faiz duruşu gerektirebilir.",
+          "quote": "Fed Guvernörü Christopher Waller, yapay zekâ altyapı yatırımlarının yarattığı yoğun talep nedeniyle enflasyonu yukarı çekmeye başladığını belirtti.",
+          "source_url": "https://x.com/WallStDiaries/status/2109947252005306819"
+        },
+        {
+          "person": "dtfinans_",
+          "view": "Fed'in müdahale edemeyeceği enflasyon kalemleri nedeniyle faiz artışı yaptığını ironiyle aktardı.",
+          "quote": "çok değerli fed yönetimi müdehale edemeyeceği enflasyon kalemleri nedeniyle faiz artışı yapıyor :)",
+          "source_url": "https://x.com/dtfinans_/status/2109965142217703769"
+        }
+      ]
+    },
+    {
+      "topic": "Tahvil faizleri ve hisse değerlemeleri",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "Yüksek tahvil faizi hisse talebini sınırlar, büyüme hisselerini daha çok baskılar.",
+          "quote": "Tahvil faizlerinin borsa üzerindeki etkisini hafife almamak gerekiyor.",
+          "source_url": "https://x.com/korkmazali08/status/2110024716899463181"
+        },
+        {
+          "person": "jrouldz",
+          "view": "TLT trendi dönerse spekülatif hisseler toparlanabilir.",
+          "quote": "If the $TLT trend actually reverses here maybe speculative stocks can finally rebound",
+          "source_url": "https://x.com/jrouldz/status/2110031731097313747"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Waller'a göre güvenli liman priminin bitmesi nötr faiz beklentilerini yukarı taşıyor.",
+          "quote": "Waller, güvenli liman priminin kaybolmasının nötr faiz oranı beklentilerini yukarı taşıdığını ve piyasalarda borçlanma maliyetlerini uzun süre yüksek tutacağını vurguladı.",
+          "source_url": "https://x.com/WallStDiaries/status/2109939701624750514"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye PPF fon krizi",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "SPK'nın likit garantisi verdiği paraya bir aydır kimse ulaşamıyor; bunu tarihe geçecek skandal olarak görüyor.",
+          "quote": "#PPF’ler konusunda rahatım ama yinede 1 ay oldu ve @spkgovtr ‘nin likit garantisi verdiği paraya ulaşamıyor kimse.",
+          "source_url": "https://x.com/dtfinans_/status/2109975454673146176"
+        }
+      ]
+    },
+    {
+      "topic": "Husiler ve Aramco tesisleri",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Husiler Aramco tesislerini meşru hedef ilan etti; enerji altyapısı riskleri petrol arz endişesi doğuruyor.",
+          "quote": "Husi askeri yönetimi Suudi milli petrol şirketi Aramco tesislerini meşru hedef ilan etti.",
+          "source_url": "https://x.com/WallStDiaries/status/2110041623698759724"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "Birden fazla kişi Hock Tan'ın AI finansmanı sözlerini ve OpenAI çipleri için 50 milyar dolarlık finansman arayışını işledi.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Broadcom, OpenAI ile geliştirdiği özel yapay zekâ çiplerinin üretimi için $50 milyar üzeri finansman sağlamak amacıyla Wall Street devleriyle masada.",
+          "source_url": "https://x.com/WallStDiaries/status/2110015202125283445"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "neutral",
+          "quote": "Kısıtlı olan tek şey bellek gpu vs değil para da bol değil.",
+          "source_url": "https://x.com/dtfinans_/status/2109965142217703769"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "high",
+      "why": "İki kişi Micron'da long; biri 35 milyar dolarlık geri alım yetkisini katalizör olarak gösterdi, Cathie Wood ise bellek döngüsü uyarısı yaptı.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Micron için hedefim $3000 değil fakat long pozisyonum devam ediyor.",
+          "source_url": "https://x.com/korkmazali08/status/2110046989085741325"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "İşte bu yüzden Micron. 😎 $MU",
+          "source_url": "https://x.com/cevikfinance/status/2110140913934864715"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Çin’in üretim kapasitesini artırmasıyla birlikte bellek çipi pazarındaki arz-talep döngülerinin daha da acımasız ve dalgalı hale gelebileceği uyarısında bulundu.",
+          "source_url": "https://x.com/WallStDiaries/status/2110083153473757242"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "high",
+      "why": "Ali Korkmaz net pozisyon (long, maliyet buralarda) ve gerekçe verdi; WallStDiaries borçlanma modelinin değiştiğini aktardı.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$ORCL da long olmaya devam ediyorum maliyetim buralarda.",
+          "source_url": "https://x.com/korkmazali08/status/2110079855358365740"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Geleneksel tahvil ihracı yerine Apollo ve Goldman Sachs ile masaya oturan şirket, çipleri kiralama modeliyle bilançosuna ek borç yazmadan temin etmeyi hedefliyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2110000101703995585"
+        }
+      ]
+    },
+    {
+      "symbol": "RDDT",
+      "name": "Reddit",
+      "priority": "medium",
+      "why": "Serkan Uelker 170 altını ucuz buluyor.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$RDDT hala 170 alti ucuz diye dusunuyorum.",
+          "source_url": "https://x.com/ulkser/status/2109939827294503286"
+        }
+      ]
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "priority": "medium",
+      "why": "jrouldz TLT trendinin dönmesini spekülatif hisselerin toparlanma koşulu olarak görüyor; Hazine 20 yıllık ihracını azaltmayı değerlendiriyor.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "If the $TLT trend actually reverses here maybe speculative stocks can finally rebound",
+          "source_url": "https://x.com/jrouldz/status/2110031731097313747"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "ABD Hazine Bakanlığı, 20 yıllık tahvil ihracını ciddi şekilde azaltmayı ya da tamamen durdurmayı değerlendiriyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2109977461442109754"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ (Nasdaq 100)",
+      "priority": "medium",
+      "why": "Ali Korkmaz 740 dolarlık trend seviyesini verdi.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$QQQ de takip edilmesi gereken trend seviyesi $740. Bu seviyelerin üstü piyasalar için olumlu",
+          "source_url": "https://x.com/korkmazali08/status/2110096878247239857"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "medium",
+      "why": "Ali Korkmaz Neutron'un ilk uçuşunu kritik eşik olarak gösterdi.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$RKLB için kritik eşik Neutron’un başarılı ilk uçuşu.",
+          "source_url": "https://x.com/korkmazali08/status/2110016085311271299"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "priority": "medium",
+      "why": "jrouldz yüksek inanç gerekçesini (kapı tabanlı QPU pazarı) anlattı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "So I think the POSSIBLE return potential is massive on this one which is why my conviction stays so high through the volatility.",
+          "source_url": "https://x.com/jrouldz/status/2110083635365707880"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "Favorite example: $PLTR",
+          "source_url": "https://x.com/jrouldz/status/2110090892212047960"
+        }
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML",
+      "priority": "medium",
+      "why": "wallstengine bilanço ve rehber yükseltmesini verdi.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Supply as currently planned for both 2027 and 2028 will not fully meet customer demand",
+          "source_url": "https://x.com/wallstengine/status/2110234293586854258"
+        }
+      ]
+    },
+    {
+      "symbol": "CIFR",
+      "name": "Cipher Mining",
+      "priority": "medium",
+      "why": "FinancewithIzzy düşüşün nedenini 850 milyon dolarlık dönüştürülebilir tahvile bağladı.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "$CIFR gün içinde %12'ye kadar çakıldı.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109987214713098483"
+        }
+      ]
+    },
+    {
+      "symbol": "DRMS",
+      "name": "DRMS",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "dram tarafini shortladim",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109999483123548494"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "WallStDiaries ABD talebinin zayıfladığını ve ETF çıkışlarını aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Endeks 19 gündür negatif bölgede kalıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2109985003941867813"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Bugün finansla ilgili tek paylaşımı bellek hisseleri üzerine: kendini tepeden analist ilan edenlerin marjlardaki düşüşü görmezden gelip bellek hisselerinde FOMO'ya kapıldığını, aylardır yatay seyreden pozisyonlarda sermaye ve zaman kaybettiklerini söylüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bellek hisselerinde FOMO eleştirisi",
+          "url": "https://x.com/heisenbergtrx/status/2110018860405424636",
+          "published_at": "2026-10-13T14:44:33.000Z",
+          "summary": "Marjlardaki düşüşü görmezden gelip bellek FOMO'suna kapılanların aylardır yatay seyreden pozisyonlarda sermaye ve zaman kaybettiğini söylüyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "Serkan Uelker bugün eski görüşlerini yeniden paylaştı: **Reddit**'te 170 altını hâlâ ucuz buluyor, **OKLO**'nun hâlâ 10 doların üzerinde olduğunu not ediyor ve bankalar için (**ISCTR**, **GARAN**, **SKBNK**, **GLRMK**) etiketli bir paylaşım yaptı. Banka ağırlıklı olduğunu söyleyip bankaları ucuz bulduğunu da ekledi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "RDDT 170 altı ucuz",
+          "url": "https://x.com/ulkser/status/2109939827294503286",
+          "published_at": "2026-10-13T09:30:30.000Z",
+          "summary": "Reddit'in 170 altını hâlâ ucuz buluyor; IPO'dan beri trend çizgisini kırmadığını söylüyor.",
+          "assets": [
+            {
+              "symbol": "RDDT",
+              "sentiment": "positive",
+              "note": "170 altı ucuz; IPO'dan beri trend çizgisini kırmıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "OKLO 10 doların üstünde",
+          "url": "https://x.com/ulkser/status/2109927044956242167",
+          "published_at": "2026-10-13T08:39:42.000Z",
+          "summary": "OKLO'nun hâlâ 10 doların üzerinde olduğunu paylaştı.",
+          "assets": [
+            {
+              "symbol": "OKLO",
+              "sentiment": "neutral",
+              "note": "Hâlâ 10 doların üzerinde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bankalar ucuz",
+          "url": "https://x.com/ulkser/status/2109952341143425159",
+          "published_at": "2026-10-13T10:20:13.000Z",
+          "summary": "Banka ağırlıklı olduğunu belirtip bankaları ucuz bulduğunu söylüyor.",
+          "assets": [
+            {
+              "symbol": "ISCTR",
+              "sentiment": "positive",
+              "note": "Bankaları ucuz buluyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan portföy hareketlerini kısa notlarla paylaştı: **Coca-Cola**'yı sattı, **PENG** pozisyonunu kapattı, **SMTC** için 170,5'ten verdiği emir kapanmış, **DRMS** ise portföye eklendi. DRAM tarafını hedge amacıyla shortladığını, riskli ve kaldıraçlı bir işlem olduğunu ve önermediğini belirtti.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "KO satıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2110003037729132612",
+          "published_at": "2026-10-13T13:41:40.000Z",
+          "summary": "Coca-Cola pozisyonunu sattığını bildirdi.",
+          "assets": [
+            {
+              "symbol": "KO",
+              "sentiment": "negative",
+              "note": "Pozisyon satıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "PENG kapatıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2110000171941585256",
+          "published_at": "2026-10-13T13:30:17.000Z",
+          "summary": "PENG pozisyonunu kapattığını bildirdi.",
+          "assets": [
+            {
+              "symbol": "PENG",
+              "sentiment": "neutral",
+              "note": "Pozisyon kapatıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SMTC emri",
+          "url": "https://x.com/AhmetSunelcan1/status/2110041429208650028",
+          "published_at": "2026-10-13T16:14:14.000Z",
+          "summary": "SMTC için 170,5'ten verdiği emrin kapandığını yazdı.",
+          "assets": [
+            {
+              "symbol": "SMTC",
+              "sentiment": "neutral",
+              "note": "170,5'ten verilen emir kapandı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "DRMS hedge",
+          "url": "https://x.com/AhmetSunelcan1/status/2109999483123548494",
+          "published_at": "2026-10-13T13:27:33.000Z",
+          "summary": "DRMS'in portföye eklendiğini, amacının kazanç değil hedge olduğunu ve DRAM tarafını shortladığını, riskli ve kaldıraçlı bir işlem olduğunu belirtti.",
+          "assets": [
+            {
+              "symbol": "DRMS",
+              "sentiment": "negative",
+              "note": "DRAM tarafını hedge için shortladı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz günü yapay zekâ, faiz ve bellek hisseleri etrafında geçirdi. **Oracle**'da long kalıyor: bulut gelirinin %61,5 artmasına ve 664 milyar dolarlık sözleşmeli işe dikkat çekiyor ama OpenAI'ın 300 milyar dolarlık sözünü yerine getirmesini kritik risk sayıyor. **Micron**'da da long; 3.000 dolar hedefinin kendisine ait olmadığını söylüyor. **Nasdaq (QQQ)** için 740 dolarlık trend seviyesini izliyor, **Rocket Lab** için Neutron'un ilk uçuşunu kritik eşik görüyor. Makro tarafta Goolsbee'nin AI kaynaklı enflasyon uyarısını ve tahvil faizlerinin hisseler üzerindeki baskısını vurguluyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ORCL long",
+          "url": "https://x.com/korkmazali08/status/2110079855358365740",
+          "published_at": "2026-10-13T18:46:55.000Z",
+          "summary": "Oracle'da long kalıyor; bulut gelirinin %61,5 arttığını ve 664 milyar dolarlık sözleşmeli işin olduğunu belirtiyor. Kritik nokta OpenAI'ın 300 milyar dolarlık anlaşmadaki sözlerini yerine getirmesi; talep yavaşlarsa borç ve nakit akışı baskısı artabilir.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "positive",
+              "note": "Long, maliyet buralarda; risk OpenAI'ın taahhütleri."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MU hedefi",
+          "url": "https://x.com/korkmazali08/status/2110046989085741325",
+          "published_at": "2026-10-13T16:36:19.000Z",
+          "summary": "Micron için hedefinin 3.000 dolar olmadığını, long pozisyonunun sürdüğünü ve short pozisyonlarını hedge için kullandığını söylüyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Long sürüyor; 3.000 dolar hedefi kendisinin değil."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MU geri alım yetkisi",
+          "url": "https://x.com/korkmazali08/status/2110038581905412439",
+          "published_at": "2026-10-13T16:02:55.000Z",
+          "summary": "Micron için öne çıkan katalizörün 35,16 milyar dolarlık rekor geri alım yetkisi olduğunu aktarıyor; 3.000 dolar senaryosu analistin varsayımı.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Geri alım yetkisi katalizör."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "QQQ trend seviyesi",
+          "url": "https://x.com/korkmazali08/status/2110096878247239857",
+          "published_at": "2026-10-13T19:54:34.000Z",
+          "summary": "QQQ'nun dünkü seviyelerden tepki aldığını, takip edilecek trend seviyesinin 740 dolar olduğunu ve yarınki verilerin önemli olduğunu belirtiyor.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "740 dolar üstü olumlu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "RKLB Neutron eşiği",
+          "url": "https://x.com/korkmazali08/status/2110016085311271299",
+          "published_at": "2026-10-13T14:33:31.000Z",
+          "summary": "Rocket Lab için kritik eşiğin Neutron'un başarılı ilk uçuşu olduğunu, takvim belirsizliği ve SpaceX rekabetinin baskı yarattığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Neutron ilk uçuşu kritik; yüksek değerleme kanıt istiyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Goolsbee ve AI enflasyonu",
+          "url": "https://x.com/korkmazali08/status/2110026411914285457",
+          "published_at": "2026-10-13T15:14:33.000Z",
+          "summary": "Goolsbee'nin AI harcamalarının enflasyonu körükleyebileceği ve tarifeler ile petrolün faiz indirimine alan bırakmadığı uyarısını paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tahvil faizleri ve borsa",
+          "url": "https://x.com/korkmazali08/status/2110024716899463181",
+          "published_at": "2026-10-13T15:07:49.000Z",
+          "summary": "Cazip Hazine getirisi büyük sermayenin hisse için beklediği getiriyi yükseltir; değerlemesi gelecekteki büyümeye dayanan hisseler daha çok baskı görebilir.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "TSM bilanço beklentisi",
+          "url": "https://x.com/korkmazali08/status/2110082921335828771",
+          "published_at": "2026-10-13T18:59:06.000Z",
+          "summary": "TSM'nin 15 Ekim'de açıklayacağı Q3 bilançosunda beklenti hisse başı 4,46 dolar kâr ve 45,67 milyar dolar gelir.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "Bilanço 15 Ekim; beklenti EPS 4,46 dolar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "Dtfinans_ gününü Türkiye'deki PPF fon krizine ayırdı: SPK'nın likit garantisi verdiği fonlara bir aydır ulaşılamamasını tarihe geçecek bir skandal olarak görüyor, yine de PPF'ler konusunda rahat olduğunu ve getirilerin TÜFE ile hesaplanabileceğini yazıyor. Türkiye piyasalarına bir daha uğramayıp **Nasdaq** ve **S&P 500 (SPY)**'ye döneceğini söylüyor. ABD tarafında Fed'in faiz artışına ve sermayenin AI için kısıtlı kaynak olmasına değiniyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF fon krizi",
+          "url": "https://x.com/dtfinans_/status/2109975454673146176",
+          "published_at": "2026-10-13T11:52:04.000Z",
+          "summary": "PPF'ler konusunda rahat olduğunu ama 1 aydır SPK'nın likit garantisi verdiği paraya kimsenin ulaşamadığını ve bunun büyük bir skandal olduğunu yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PPF getirileri TÜFE ile",
+          "url": "https://x.com/dtfinans_/status/2110217402797433121",
+          "published_at": "2026-10-14T03:53:29.000Z",
+          "summary": "Getirilerin muhtemelen TÜFE ile hesaplanacağını, uzun süredir faizde olanların üzülebileceğini ama herkese paralarının verileceğini düşünüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Türkiye piyasalarına veda",
+          "url": "https://x.com/dtfinans_/status/2109946844369355100",
+          "published_at": "2026-10-13T09:58:23.000Z",
+          "summary": "ABD'ye geri döndüğünü ve bir daha Türkiye finans piyasalarına uğramayacağını söylüyor.",
+          "assets": [
+            {
+              "symbol": "SPY",
+              "sentiment": "positive",
+              "note": "ABD piyasalarına dönüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Sermaye AI için kısıtlı",
+          "url": "https://x.com/dtfinans_/status/2109965142217703769",
+          "published_at": "2026-10-13T11:11:05.000Z",
+          "summary": "Bellek ve GPU kadar paranın da kısıtlı olduğunu, Fed'in müdahale edemeyeceği enflasyon kalemleri nedeniyle faiz artışı yaptığını yazıyor; Hock Tan'ın sermaye darboğazı sözlerini alıntılıyor.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Sermaye darboğazı teması."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "Sermaye darboğazı teması."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries günü çip ve AI haberleri ile makro başlıklar arasında paylaştı. Kospi %6'dan fazla düştü, Nasdaq vadelileri %1 geriledi; **Broadcom** OpenAI çipleri için 50 milyar doların üzerinde finansman arıyor, **Oracle** çip alımında özel finansmana yöneliyor. Makroda Waller AI kaynaklı enflasyonu ve güvenli liman priminin sonunu işledi, Hazine 20 yıllık tahvil ihracını azaltmayı düşünüyor. **Bitcoin**'de ABD talebi zayıf, ETF'lerden çıkış var; Husiler **Aramco** tesislerini hedef ilan etti.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Kospi sert düştü",
+          "url": "https://x.com/WallStDiaries/status/2109928226646565314",
+          "published_at": "2026-10-13T08:44:24.000Z",
+          "summary": "Kospi %6'dan fazla düştü; SK Hynix ve Samsung Çinli CXMT haberleriyle baskılandı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom 50 milyar dolar finansman",
+          "url": "https://x.com/WallStDiaries/status/2110015202125283445",
+          "published_at": "2026-10-13T14:30:01.000Z",
+          "summary": "Broadcom, OpenAI ile geliştirdiği çipler için Apollo ve Blackstone ile 50 milyar doların üzerinde özel kredi arıyor.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "50 milyar dolar üzeri finansman arayışı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oracle borçlanma modeli",
+          "url": "https://x.com/WallStDiaries/status/2110000101703995585",
+          "published_at": "2026-10-13T13:30:00.000Z",
+          "summary": "Toplam borcu 169 milyar dolara ulaşan Oracle, çipleri Apollo ve Goldman ile kiralama modeliyle temin etmeyi hedefliyor.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "neutral",
+              "note": "Kiralama modeliyle bilanço dışı finansman."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Waller ve AI enflasyonu",
+          "url": "https://x.com/WallStDiaries/status/2109947252005306819",
+          "published_at": "2026-10-13T10:00:00.000Z",
+          "summary": "Waller, AI altyapı talebinin enflasyonu yukarı çektiğini ve etkinin 2-3 yıl sürebileceğini söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin ABD talebi zayıf",
+          "url": "https://x.com/WallStDiaries/status/2109985003941867813",
+          "published_at": "2026-10-13T12:30:01.000Z",
+          "summary": "Coinbase Bitcoin Premium Endeksi -%0,12'ye düştü ve 19 gündür negatif.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "negative",
+              "note": "ABD talebi zayıf."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia Çin payı",
+          "url": "https://x.com/WallStDiaries/status/2110079371851530442",
+          "published_at": "2026-10-13T18:45:00.000Z",
+          "summary": "IDC'ye göre Nvidia'nın Çin AI hızlandırıcı pazarındaki payı %34'e geriledi.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "negative",
+              "note": "Çin payı %34'e geriledi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu uzay hisseleri tarafında **Rocket Lab (RKLB)**, **FLY** ve Blue Origin'in boşluğu doldurmaya çalışacağını yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Uzay hisseleri ve Blue Origin",
+          "url": "https://x.com/TuncSatiroglu/status/2110230103024443739",
+          "published_at": "2026-10-14T04:43:57.000Z",
+          "summary": "Blue Origin'e para yatıranın kazanç beklediğini, RKLB ve FLY'ın boşluğu doldurmaya çalışacağını yazıyor.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Boşluğu doldurmaya çalışacak."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy **JPMorgan** bilançosunu paylaştı ve **Cipher Mining (CIFR)**'daki %12'ye varan düşüşü 850 milyon dolarlık sıfır faizli dönüştürülebilir tahvile bağladı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "JPM bilançosu",
+          "url": "https://x.com/FinancewithIzzy/status/2109988335083040896",
+          "published_at": "2026-10-13T12:43:15.000Z",
+          "summary": "JPM Q3'te düzeltilmiş EPS 5,75 dolarla beklentinin (5,90) altında kaldı; sabit getirili işlemler beklentinin altında, hisse piyasaları üstünde.",
+          "assets": [
+            {
+              "symbol": "JPM",
+              "sentiment": "neutral",
+              "note": "Bilanço paylaşıldı: EPS beklentinin altında."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CIFR sıfır faizli tahvil",
+          "url": "https://x.com/FinancewithIzzy/status/2109987214713098483",
+          "published_at": "2026-10-13T12:38:48.000Z",
+          "summary": "CIFR %12'ye kadar düştü; 850 milyon dolarlık dönüştürülebilir tahvil seyrelme getiriyor, Barber Lake kapasitesinin kira sözleşmeleriyle dolup dolmadığı belirleyici.",
+          "assets": [
+            {
+              "symbol": "CIFR",
+              "sentiment": "negative",
+              "note": "Kısa vadeli düşüş mekanik; seyrelme riski."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "Wall St Engine büyük banka bilançolarını ve **ASML** sonuçlarını verdi: **Goldman Sachs** gelir ve EPS'te beklentiyi aştı, **JPMorgan** EPS'te beklentinin altında kaldı, **Citigroup** ve **UnitedHealth** beklentiyi aştı, **Wells Fargo** gelirde altında kaldı. **ASML** üçüncü çeyrekte beklentiyi aştı ve rehberi yükseltti. Bugün TÜFE ve Fed konuşmaları var.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ASML Q3 bilançosu",
+          "url": "https://x.com/wallstengine/status/2110234293586854258",
+          "published_at": "2026-10-14T05:00:36.000Z",
+          "summary": "ASML net satışı 11.662 milyon euro ile beklentinin üzerinde, FY26 rehberi 44-45 milyar euro; 2027-2028 arzı talebi karşılamıyor.",
+          "assets": [
+            {
+              "symbol": "ASML",
+              "sentiment": "positive",
+              "note": "Bilanço ve rehber beklentiyi aştı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "GS bilançosu",
+          "url": "https://x.com/wallstengine/status/2109971117871931415",
+          "published_at": "2026-10-13T11:34:50.000Z",
+          "summary": "Goldman Sachs geliri 18,68 milyar dolar, EPS 17,01 dolar ile beklentiyi aştı.",
+          "assets": [
+            {
+              "symbol": "GS",
+              "sentiment": "positive",
+              "note": "Gelir ve EPS beklentinin üstünde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bugünün takvimi",
+          "url": "https://x.com/wallstengine/status/2110249349976338899",
+          "published_at": "2026-10-14T06:00:26.000Z",
+          "summary": "14 Ekim'de TÜFE, Bowman, Barkin, Beige Book ve Goolsbee konuşmaları var.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "J Rould İtalya tatilinde olsa da yatırım notları düştü: **TLT** trendi dönerse spekülatif hisselerin toparlanabileceğini söylüyor, **IonQ**'da yüksek inancını koruyor ve ortalama düşürme stratejisini **Palantir** örneğiyle savunuyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "TLT ve spekülatif hisseler",
+          "url": "https://x.com/jrouldz/status/2110031731097313747",
+          "published_at": "2026-10-13T15:35:41.000Z",
+          "summary": "TLT trendi dönerse spekülatif hisselerin toparlanabileceğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "neutral",
+              "note": "Trend dönüşü spekülatif hisseler için kilit."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IonQ inancı",
+          "url": "https://x.com/jrouldz/status/2110083635365707880",
+          "published_at": "2026-10-13T19:01:56.000Z",
+          "summary": "IonQ'da kapı tabanlı QPU pazarının büyüklüğünü varsayarak potansiyel getiriyi çok yüksek buluyor; volatiliteye rağmen inancı yüksek.",
+          "assets": [
+            {
+              "symbol": "IONQ",
+              "sentiment": "positive",
+              "note": "Yüksek inanç; QPU pazarı hesabı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Ortalama düşürme stratejisi",
+          "url": "https://x.com/jrouldz/status/2110090892212047960",
+          "published_at": "2026-10-13T19:30:46.000Z",
+          "summary": "Yeni pozisyonlarında ortalama düşürdüğünü, PLTR'de bu stratejiyle %1000 kazandığını anlatıyor.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "DCA ile %1000 kazanç."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "Çevik Finance **Micron**'u öne çıkarıyor (Elon Musk'ın Micron övgüsünü paylaşıp 'İşte bu yüzden Micron' diyor), piyasada swing yapılacak ortam olmadığı için minimum işlem yaptığını, nakit ve mal dengesinin önemli olduğunu söylüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Micron",
+          "url": "https://x.com/cevikfinance/status/2110140913934864715",
+          "published_at": "2026-10-13T22:49:33.000Z",
+          "summary": "Elon Musk'ın Micron'u makul fiyatlama nedeniyle övmesini 'İşte bu yüzden Micron' diyerek paylaştı.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Micron'u öne çıkarıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nakit ve mal dengesi",
+          "url": "https://x.com/cevikfinance/status/2110080817837867416",
+          "published_at": "2026-10-13T18:50:45.000Z",
+          "summary": "Zirve ve dibi bilemeyeceğimiz için mal alacak kadar nakit, yükselişi kaçırmayacak kadar mal bulundurmak gerektiğini söylüyor.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0992,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2025,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Portföyün en büyük kalemi (%20) ve faize duyarlı bir fintech; bugünkü TÜFE ve Fed konuşmaları ile Waller'ın faizler uzun süre yüksek kalır sözleri en önemli dış etken. Yoğunlaşma riski ana konu.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Aleyhte: Tek kalemde %20 ağırlık yoğunlaşma riski taşıyor.",
+          "Aleyhte: WallStDiaries'e göre Waller güvenli liman priminin bittiğini ve borçlanma maliyetlerinin uzun süre yüksek kalacağını söylüyor.",
+          "Lehte: Bugünkü TÜFE verisi faiz beklentilerini rahatlatırsa fintech için destek olur."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1445,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "Broadcom, OpenAI ile geliştirdiği özel yapay zekâ çiplerinin üretimi için $50 milyar üzeri finansman sağlamak amacıyla Wall Street devleriyle masada.",
+            "source_url": "https://x.com/WallStDiaries/status/2110015202125283445"
+          },
+          {
+            "person": "dtfinans_",
+            "sentiment": "neutral",
+            "quote": "Kısıtlı olan tek şey bellek gpu vs değil para da bol değil.",
+            "source_url": "https://x.com/dtfinans_/status/2109965142217703769"
+          }
+        ],
+        "action": "hold",
+        "why": "WallStDiaries'e göre Broadcom OpenAI çipleri için 50 milyar doların üzerinde finansman arıyor; somut al/sat gerekçesi yok.",
+        "opinion": "Broadcom'un AI finansmanı için özel krediye yönelmesi talebin gücünü gösteriyor ama müşteri yoğunlaşması ve sermaye darboğazı riskini de büyütüyor. Dünkü satışın ardından bu başlık izlenmeli.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: WallStDiaries'e göre OpenAI çipleri için 50 milyar dolar üzeri finansman masada, talep güçlü.",
+          "Aleyhte: dtfinans_ sermayenin AI için kısıtlı olduğunu vurguluyor.",
+          "Aleyhte: Asya'da çip satışı ve Nasdaq vadelilerindeki %1 düşüş kısa vadeli baskı yaratıyor."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1431,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "negative",
+            "quote": "Seçim sonrası regülasyon riski teknoloji çarpanlarını baskılayabilir.",
+            "source_url": "https://x.com/WallStDiaries/status/2110000101838176602"
+          }
+        ],
+        "action": "hold",
+        "why": "WallStDiaries'e göre Demokratlar Kongre'yi alırsa Meta dahil Big Tech'e soruşturma planlıyor; somut tarih yok.",
+        "opinion": "Meta için ana risk seçim sonrası regülasyon başlığı ve AI harcamalarının getirisi; reklam geliri güçlü olsa da bu çarpanı baskılayabilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Aleyhte: WallStDiaries'e göre seçim sonrası soruşturma riski çarpanları baskılayabilir.",
+          "Aleyhte: Goolsbee AI yatırımlarının getiri vermemesi halinde dotcom benzeri çözülme riskine dikkat çekiyor.",
+          "Lehte: Portföyün üçüncü büyük kalemi ve bugün yeni olumsuz şirket haberi yok."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1196,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer bileşen üreticisi olarak AI veri merkezi enerji talebinden faydalanan bir tema; ama kaynaklarda bugün BWXT'ye dair bilgi yok.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: AI veri merkezi enerji anlaşmaları (Enerflex 1 GW, Fermi) güç altyapısına talebi gösteriyor.",
+          "Aleyhte: Yüksek tahvil faizi uzun vadeli büyüme değerlemelerine baskı yapar."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1024,
+        "mentions": [
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "$RDDT hala 170 alti ucuz diye dusunuyorum.",
+            "source_url": "https://x.com/ulkser/status/2109939827294503286"
+          }
+        ],
+        "action": "hold",
+        "why": "Serkan Uelker'e göre 170 altı ucuz, ancak yeni bir seviye ya da tarih verilmedi.",
+        "opinion": "Reddit yüksek beta bir büyüme hissesi; faiz ve spekülatif iştah dönüşü ona doğrudan etki eder. %10 ağırlık makul ama dalgalanma yüksek olabilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Serkan Uelker'e göre IPO'dan beri trend çizgisi kırılmadı ve 170 altı ucuz.",
+          "Aleyhte: jrouldz spekülatif hisselerin ezildiğini, TLT dönüşüne bağlı olduğunu söylüyor."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0762,
+        "mentions": [
+          {
+            "person": "jrouldz",
+            "sentiment": "neutral",
+            "quote": "If the $TLT trend actually reverses here maybe speculative stocks can finally rebound",
+            "source_url": "https://x.com/jrouldz/status/2110031731097313747"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "ABD Hazine Bakanlığı, 20 yıllık tahvil ihracını ciddi şekilde azaltmayı ya da tamamen durdurmayı değerlendiriyor.",
+            "source_url": "https://x.com/WallStDiaries/status/2109977461442109754"
+          }
+        ],
+        "action": "hold",
+        "why": "WallStDiaries'e göre Hazine 20 yıllık tahvil ihracını azaltmayı değerlendiriyor; henüz karar yok.",
+        "opinion": "Uzun vadeli Hazine ETF'i hem faiz hem arz haberlerine duyarlı; ihraç azalması olumlu olabilir ama Waller'ın yüksek faiz mesajı ve enflasyon verisi riski artırıyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: WallStDiaries'e göre 20 yıllık ihracın azalması arz dengesini değiştirebilir.",
+          "Aleyhte: Waller'a göre güvenli liman primi bitti ve borçlanma maliyetleri uzun süre yüksek kalacak.",
+          "Aleyhte: Goolsbee'ye göre tarifeler ve petrol faiz indirimine alan bırakmıyor."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0651,
+        "mentions": [
+          {
+            "person": "dtfinans_",
+            "sentiment": "negative",
+            "quote": "ABD’ye geri dönüyorum bir daha da Türkiye finans piyasalarına uğramam.",
+            "source_url": "https://x.com/dtfinans_/status/2109946844369355100"
+          }
+        ],
+        "action": "hold",
+        "why": "dtfinans_ PPF krizi nedeniyle Türkiye piyasalarını terk ettiğini söylüyor; somut seviye ya da tarih yok.",
+        "opinion": "Türkiye hisse ETF'i için PPF krizi güven sorunu yaratıyor; yerel yatırımcı tepkisi kısa vadede baskı yapabilir. Bugünkü TÜFE ve Türk gündemi izlenmeli.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Aleyhte: dtfinans_'e göre PPF'lerde bir aydır para alınamıyor, güven zedelendi.",
+          "Lehte: ulkser bankaları ucuz buluyor; Türk bankaları endekste büyük ağırlık taşır."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0474,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Güç dağıtım ekipmanı üreticisi olarak AI veri merkezi yatırımından faydalanır; ama %5 ağırlıklı küçük bir kalem ve bugün kaynaklarda doğrudan haber yok.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Enerflex 1 GW veri merkezi sözleşmesi güç altyapısı talebini gösteriyor.",
+          "Aleyhte: Goolsbee AI harcamaları geri dönmezse sancılı bir çözülme uyarısı yapıyor."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "MU",
+        "name": "Micron",
+        "why": "Ali Korkmaz ve Çevik Finance Micron'da long; 35,16 milyar dolarlık geri alım yetkisi katalizör, Cathie Wood ise bellek döngüsü riskine dikkat çekti.",
+        "source_url": "https://x.com/korkmazali08/status/2110038581905412439"
+      },
+      {
+        "symbol": "ORCL",
+        "name": "Oracle",
+        "why": "Ali Korkmaz long: bulut geliri %61,5 arttı, 664 milyar dolarlık sözleşmeli iş var; risk OpenAI'ın 300 milyar dolarlık taahhüdü.",
+        "source_url": "https://x.com/korkmazali08/status/2110079855358365740"
+      }
+    ]
+  }
+}

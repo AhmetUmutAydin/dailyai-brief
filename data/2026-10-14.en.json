@@ -1,0 +1,1089 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T07:28:42.910Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "ASML beat third-quarter estimates and raised its yearly guide",
+      "person": "wallstengine",
+      "why": "Net sales were €11,662M (est. €11.56B) and the FY26 sales guide is €44B-€45B; supply for 2027 and 2028 will not fully meet customer demand.",
+      "source_url": "https://x.com/wallstengine/status/2110234293586854258"
+    },
+    {
+      "title": "Chip selloff in Asia: Kospi fell more than 6%",
+      "person": "WallStDiaries",
+      "why": "SK Hynix and Samsung were hit by news that China's CXMT advanced in technology that raises memory density; Nasdaq futures lost 1%.",
+      "source_url": "https://x.com/WallStDiaries/status/2109928226646565314"
+    },
+    {
+      "title": "Goolsbee: AI spending may fuel inflation",
+      "person": "korkmazali08",
+      "why": "Chicago Fed's Goolsbee says tariffs and high oil prices have not eased enough to make room for rate cuts, and warns of a dotcom-style unwind if AI investments fail to deliver.",
+      "source_url": "https://x.com/korkmazali08/status/2110026411914285457"
+    },
+    {
+      "title": "Turkey's PPF fund crisis: money inaccessible for a month",
+      "person": "dtfinans_",
+      "why": "Funds the CMB guaranteed as liquid have been locked for a month; CPI-based payouts and returning shares in kind for equity funds are being discussed.",
+      "source_url": "https://x.com/dtfinans_/status/2109975454673146176"
+    },
+    {
+      "title": "US CPI data and Fed speakers today",
+      "person": "wallstengine",
+      "why": "CPI at 08:30; Bowman, Barkin, the Beige Book and Goolsbee speak the same day; BlackRock and Bank of America report before the open.",
+      "source_url": "https://x.com/wallstengine/status/2110249349976338899"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "AI spending, inflation and the Fed",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "Per Goolsbee, AI spending can fuel inflation beyond tech.",
+          "quote": "Chicago Fed President Austan Goolsbee thinks AI-driven spending could fuel inflation beyond the tech sector.",
+          "source_url": "https://x.com/korkmazali08/status/2110026411914285457"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Per Waller, AI infrastructure demand is pushing inflation up and may call for a tighter rate stance.",
+          "quote": "Fed Governor Christopher Waller said intense demand from AI infrastructure investment has started to push inflation up.",
+          "source_url": "https://x.com/WallStDiaries/status/2109947252005306819"
+        },
+        {
+          "person": "dtfinans_",
+          "view": "Ironically noted that the Fed is hiking rates because of inflation items it cannot influence.",
+          "quote": "the Fed leadership is raising rates because of inflation items it cannot intervene in :)",
+          "source_url": "https://x.com/dtfinans_/status/2109965142217703769"
+        }
+      ]
+    },
+    {
+      "topic": "Bond yields and equity valuations",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "High bond yields limit equity demand and weigh most on growth stocks.",
+          "quote": "Tahvil faizlerinin borsa üzerindeki etkisini hafife almamak gerekiyor.",
+          "source_url": "https://x.com/korkmazali08/status/2110024716899463181"
+        },
+        {
+          "person": "jrouldz",
+          "view": "If the TLT trend turns, speculative stocks may rebound.",
+          "quote": "If the $TLT trend actually reverses here maybe speculative stocks can finally rebound",
+          "source_url": "https://x.com/jrouldz/status/2110031731097313747"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Per Waller, the end of the safe-haven premium lifts neutral-rate expectations.",
+          "quote": "Waller stressed that the loss of the safe-haven premium lifts neutral-rate expectations and will keep borrowing costs high for a long time.",
+          "source_url": "https://x.com/WallStDiaries/status/2109939701624750514"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey PPF fund crisis",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Nobody has reached the money the CMB guaranteed as liquid for a month; calls it a scandal for the history books.",
+          "quote": "I'm relaxed about the #PPFs, but it has still been 1 month and nobody can reach the money @spkgovtr guaranteed as liquid.",
+          "source_url": "https://x.com/dtfinans_/status/2109975454673146176"
+        }
+      ]
+    },
+    {
+      "topic": "Houthis and Aramco facilities",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "The Houthis declared Aramco facilities legitimate targets; energy infrastructure risks raise oil supply concerns.",
+          "quote": "The Houthi military administration declared facilities of Saudi national oil company Aramco legitimate targets.",
+          "source_url": "https://x.com/WallStDiaries/status/2110041623698759724"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "Several people covered Hock Tan's comments on AI financing and the $50B financing hunt for OpenAI chips.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Broadcom is at the table with Wall Street giants to raise over $50B to produce the custom AI chips it develops with OpenAI.",
+          "source_url": "https://x.com/WallStDiaries/status/2110015202125283445"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "neutral",
+          "quote": "The only constraint is not memory, GPUs etc.; money is not abundant either.",
+          "source_url": "https://x.com/dtfinans_/status/2109965142217703769"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "high",
+      "why": "Two people are long Micron; one cites the $35B buyback authorization as a catalyst, while Cathie Wood warned about memory cycles.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Micron için hedefim $3000 değil fakat long pozisyonum devam ediyor.",
+          "source_url": "https://x.com/korkmazali08/status/2110046989085741325"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "İşte bu yüzden Micron. 😎 $MU",
+          "source_url": "https://x.com/cevikfinance/status/2110140913934864715"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "As China expands production capacity, supply-demand cycles in the memory chip market could become even more brutal and volatile.",
+          "source_url": "https://x.com/WallStDiaries/status/2110083153473757242"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "high",
+      "why": "Ali Korkmaz gave a clear position (long) with reasons; WallStDiaries reported the borrowing model is changing.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$ORCL da long olmaya devam ediyorum maliyetim buralarda.",
+          "source_url": "https://x.com/korkmazali08/status/2110079855358365740"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Instead of a traditional bond issue, the company sat down with Apollo and Goldman Sachs, aiming to obtain chips through a leasing model without adding debt to its balance sheet.",
+          "source_url": "https://x.com/WallStDiaries/status/2110000101703995585"
+        }
+      ]
+    },
+    {
+      "symbol": "RDDT",
+      "name": "Reddit",
+      "priority": "medium",
+      "why": "Serkan Uelker finds levels below 170 cheap.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "I still think $RDDT below 170 is cheap.",
+          "source_url": "https://x.com/ulkser/status/2109939827294503286"
+        }
+      ]
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "priority": "medium",
+      "why": "jrouldz sees a TLT trend reversal as the condition for a speculative-stock rebound; the Treasury is weighing cutting 20-year issuance.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "If the $TLT trend actually reverses here maybe speculative stocks can finally rebound",
+          "source_url": "https://x.com/jrouldz/status/2110031731097313747"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "The US Treasury is considering sharply reducing or completely halting 20-year bond issuance.",
+          "source_url": "https://x.com/WallStDiaries/status/2109977461442109754"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ (Nasdaq 100)",
+      "priority": "medium",
+      "why": "Ali Korkmaz gave a $740 trend level.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Trend level to watch on $QQQ is $740; above these levels is positive for markets",
+          "source_url": "https://x.com/korkmazali08/status/2110096878247239857"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "medium",
+      "why": "Ali Korkmaz named Neutron's first successful flight as the critical threshold.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "The critical threshold for $RKLB is Neutron's successful first flight.",
+          "source_url": "https://x.com/korkmazali08/status/2110016085311271299"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "priority": "medium",
+      "why": "jrouldz explained his high-conviction rationale (gate-based QPU market).",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "So I think the POSSIBLE return potential is massive on this one which is why my conviction stays so high through the volatility.",
+          "source_url": "https://x.com/jrouldz/status/2110083635365707880"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "Favorite example: $PLTR",
+          "source_url": "https://x.com/jrouldz/status/2110090892212047960"
+        }
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML",
+      "priority": "medium",
+      "why": "wallstengine reported the earnings and guidance raise.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Supply as currently planned for both 2027 and 2028 will not fully meet customer demand",
+          "source_url": "https://x.com/wallstengine/status/2110234293586854258"
+        }
+      ]
+    },
+    {
+      "symbol": "CIFR",
+      "name": "Cipher Mining",
+      "priority": "medium",
+      "why": "FinancewithIzzy attributed the drop to the $850M convertible bond.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "$CIFR crashed up to 12% intraday.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2109987214713098483"
+        }
+      ]
+    },
+    {
+      "symbol": "DRMS",
+      "name": "DRMS",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "I shorted the DRAM side",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2109999483123548494"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "WallStDiaries reported weak US demand and ETF outflows.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "The index has stayed in negative territory for 19 days.",
+          "source_url": "https://x.com/WallStDiaries/status/2109985003941867813"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "His only finance-related post today is about memory stocks: he says self-declared top analysts ignored the margin decline and fell into FOMO on memory names, wasting capital and time on positions that have been flat for months.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Criticism of memory-stock FOMO",
+          "url": "https://x.com/heisenbergtrx/status/2110018860405424636",
+          "published_at": "2026-10-13T14:44:33.000Z",
+          "summary": "He says those who ignored falling margins and chased memory FOMO have burned capital and time in positions flat for months.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "Serkan Uelker re-shared earlier calls today: he still finds **Reddit** below 170 cheap, notes **OKLO** is still above $10, and posted a tag-only share on banks (**ISCTR**, **GARAN**, **SKBNK**, **GLRMK**). He added he is bank-heavy and finds banks cheap.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "RDDT below 170 is cheap",
+          "url": "https://x.com/ulkser/status/2109939827294503286",
+          "published_at": "2026-10-13T09:30:30.000Z",
+          "summary": "He still finds Reddit below 170 cheap, noting it has not broken its trend line since the IPO.",
+          "assets": [
+            {
+              "symbol": "RDDT",
+              "sentiment": "positive",
+              "note": "Below 170 is cheap; it hasn't broken its trend line since the IPO."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "OKLO above $10",
+          "url": "https://x.com/ulkser/status/2109927044956242167",
+          "published_at": "2026-10-13T08:39:42.000Z",
+          "summary": "He shared that OKLO is still above $10.",
+          "assets": [
+            {
+              "symbol": "OKLO",
+              "sentiment": "neutral",
+              "note": "Still above $10."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Banks are cheap",
+          "url": "https://x.com/ulkser/status/2109952341143425159",
+          "published_at": "2026-10-13T10:20:13.000Z",
+          "summary": "Says he is bank-heavy and finds banks cheap.",
+          "assets": [
+            {
+              "symbol": "ISCTR",
+              "sentiment": "positive",
+              "note": "Finds banks cheap."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan shared portfolio moves in short notes: he sold **Coca-Cola**, closed **PENG**, his order at 170.5 on **SMTC** was filled/closed, and **DRMS** was added to the portfolio. He said he shorted the DRAM side as a hedge, that it is risky and leveraged, and that he does not recommend it.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "KO sold",
+          "url": "https://x.com/AhmetSunelcan1/status/2110003037729132612",
+          "published_at": "2026-10-13T13:41:40.000Z",
+          "summary": "Reported selling his Coca-Cola position.",
+          "assets": [
+            {
+              "symbol": "KO",
+              "sentiment": "negative",
+              "note": "Position sold."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "PENG closed",
+          "url": "https://x.com/AhmetSunelcan1/status/2110000171941585256",
+          "published_at": "2026-10-13T13:30:17.000Z",
+          "summary": "Reported closing his PENG position.",
+          "assets": [
+            {
+              "symbol": "PENG",
+              "sentiment": "neutral",
+              "note": "Position closed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SMTC order",
+          "url": "https://x.com/AhmetSunelcan1/status/2110041429208650028",
+          "published_at": "2026-10-13T16:14:14.000Z",
+          "summary": "Wrote that his order on SMTC at 170.5 was closed.",
+          "assets": [
+            {
+              "symbol": "SMTC",
+              "sentiment": "neutral",
+              "note": "Order at 170.5 closed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "DRMS hedge",
+          "url": "https://x.com/AhmetSunelcan1/status/2109999483123548494",
+          "published_at": "2026-10-13T13:27:33.000Z",
+          "summary": "Said DRMS was added to the portfolio, that the aim is hedging rather than profit, that he shorted the DRAM side and that it is a risky, leveraged trade.",
+          "assets": [
+            {
+              "symbol": "DRMS",
+              "sentiment": "negative",
+              "note": "Shorted the DRAM side as a hedge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz spent the day on AI, rates and memory stocks. He stays long **Oracle**: he points to cloud revenue up 61.5% and a $664B contracted backlog, but sees OpenAI delivering on its $300B commitment as the critical risk. He is also long **Micron** and says the $3,000 target is not his. He watches the $740 trend level on **Nasdaq (QQQ)** and sees Neutron's first flight as the critical threshold for **Rocket Lab**. On macro he stresses Goolsbee's warning on AI-driven inflation and the pressure of bond yields on equities.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ORCL long",
+          "url": "https://x.com/korkmazali08/status/2110079855358365740",
+          "published_at": "2026-10-13T18:46:55.000Z",
+          "summary": "He stays long Oracle, noting cloud revenue up 61.5% and a $664B contracted backlog. The critical point is OpenAI delivering on its $300B deal; if demand slows, debt and cash flow pressure could rise.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "positive",
+              "note": "Long, cost near current levels; risk is OpenAI's commitments."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MU target",
+          "url": "https://x.com/korkmazali08/status/2110046989085741325",
+          "published_at": "2026-10-13T16:36:19.000Z",
+          "summary": "Says his Micron target is not $3,000, his long continues and he uses shorts for hedging.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Long continues; $3,000 target is not his."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MU buyback authorization",
+          "url": "https://x.com/korkmazali08/status/2110038581905412439",
+          "published_at": "2026-10-13T16:02:55.000Z",
+          "summary": "Relays that Micron's standout catalyst is the record $35.16B buyback authorization; the $3,000 scenario is the analyst's assumption.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Buyback authorization is the catalyst."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "QQQ trend level",
+          "url": "https://x.com/korkmazali08/status/2110096878247239857",
+          "published_at": "2026-10-13T19:54:34.000Z",
+          "summary": "Says QQQ bounced from yesterday's levels, the trend level to watch is $740, and tomorrow's data matters.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Above $740 is positive."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "RKLB Neutron threshold",
+          "url": "https://x.com/korkmazali08/status/2110016085311271299",
+          "published_at": "2026-10-13T14:33:31.000Z",
+          "summary": "Writes that the critical threshold for Rocket Lab is Neutron's first successful flight, with schedule uncertainty and SpaceX competition weighing.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Neutron's first flight is critical; the high valuation demands proof."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Goolsbee and AI inflation",
+          "url": "https://x.com/korkmazali08/status/2110026411914285457",
+          "published_at": "2026-10-13T15:14:33.000Z",
+          "summary": "Shared Goolsbee's warning that AI spending may fuel inflation and that tariffs and oil leave no room for rate cuts.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bond yields and stocks",
+          "url": "https://x.com/korkmazali08/status/2110024716899463181",
+          "published_at": "2026-10-13T15:07:49.000Z",
+          "summary": "Attractive Treasury yields raise the return big capital demands from stocks; stocks whose valuations rely on future growth may come under more pressure.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "TSM earnings expectations",
+          "url": "https://x.com/korkmazali08/status/2110082921335828771",
+          "published_at": "2026-10-13T18:59:06.000Z",
+          "summary": "TSM reports Q3 on Oct 15; expectations are EPS $4.46 and revenue $45.67B.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "Earnings Oct 15; EPS est. $4.46."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "Dtfinans_ spent the day on Turkey's PPF fund crisis: he calls the month-long lockout from funds the CMB guaranteed as liquid a scandal for the history books, yet says he is relaxed about PPFs and that payouts may be computed using CPI. He says he will not return to Turkish markets and is going back to **Nasdaq** and **S&P 500 (SPY)**. On the US side he touches on Fed hikes and capital being a scarce resource for AI.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF fund crisis",
+          "url": "https://x.com/dtfinans_/status/2109975454673146176",
+          "published_at": "2026-10-13T11:52:04.000Z",
+          "summary": "Says he is relaxed about PPFs but nobody has reached the money the CMB guaranteed as liquid for a month, calling it a major scandal.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PPF returns indexed to CPI",
+          "url": "https://x.com/dtfinans_/status/2110217402797433121",
+          "published_at": "2026-10-14T03:53:29.000Z",
+          "summary": "Thinks returns will probably be computed with CPI, long-time interest holders may be disappointed but everyone will get their money.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Leaving Turkish markets",
+          "url": "https://x.com/dtfinans_/status/2109946844369355100",
+          "published_at": "2026-10-13T09:58:23.000Z",
+          "summary": "Says he is returning to the US and will never come back to Turkish financial markets.",
+          "assets": [
+            {
+              "symbol": "SPY",
+              "sentiment": "positive",
+              "note": "Returning to US markets."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Capital is scarce for AI",
+          "url": "https://x.com/dtfinans_/status/2109965142217703769",
+          "published_at": "2026-10-13T11:11:05.000Z",
+          "summary": "Writes that money is as scarce as memory and GPUs and that the Fed hikes because of inflation items it cannot influence; quotes Hock Tan's capital-bottleneck remarks.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Capital bottleneck theme."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "Capital bottleneck theme."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries split the day between chip and AI news and macro. Kospi fell over 6% and Nasdaq futures lost 1%; **Broadcom** is seeking over $50B in financing for OpenAI chips and **Oracle** is turning to private financing for chip purchases. On macro, Waller covered AI-driven inflation and the end of the safe-haven premium, and the Treasury is weighing cutting 20-year bond issuance. US demand for **Bitcoin** is weak with ETF outflows, and the Houthis declared **Aramco** facilities targets.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Kospi plunges",
+          "url": "https://x.com/WallStDiaries/status/2109928226646565314",
+          "published_at": "2026-10-13T08:44:24.000Z",
+          "summary": "Kospi fell over 6%; SK Hynix and Samsung were pressured by CXMT news.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom $50B financing",
+          "url": "https://x.com/WallStDiaries/status/2110015202125283445",
+          "published_at": "2026-10-13T14:30:01.000Z",
+          "summary": "Broadcom is seeking over $50B in private credit from Apollo and Blackstone for chips developed with OpenAI.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Seeking over $50B in financing."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oracle borrowing model",
+          "url": "https://x.com/WallStDiaries/status/2110000101703995585",
+          "published_at": "2026-10-13T13:30:00.000Z",
+          "summary": "Oracle, with total debt of $169B, aims to obtain chips via a leasing model with Apollo and Goldman.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "neutral",
+              "note": "Off-balance-sheet financing via leasing."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Waller and AI inflation",
+          "url": "https://x.com/WallStDiaries/status/2109947252005306819",
+          "published_at": "2026-10-13T10:00:00.000Z",
+          "summary": "Waller said AI infrastructure demand is pushing inflation up and the effect could last 2-3 years.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin US demand weak",
+          "url": "https://x.com/WallStDiaries/status/2109985003941867813",
+          "published_at": "2026-10-13T12:30:01.000Z",
+          "summary": "The Coinbase Bitcoin Premium Index fell to -0.12% and has been negative for 19 days.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "negative",
+              "note": "US demand weak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia China share",
+          "url": "https://x.com/WallStDiaries/status/2110079371851530442",
+          "published_at": "2026-10-13T18:45:00.000Z",
+          "summary": "Per IDC, Nvidia's share of China's AI accelerator market fell to 34%.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "negative",
+              "note": "China share fell to 34%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu wrote that **Rocket Lab (RKLB)**, **FLY** and Blue Origin will try to fill the gap in the space sector.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Space stocks and Blue Origin",
+          "url": "https://x.com/TuncSatiroglu/status/2110230103024443739",
+          "published_at": "2026-10-14T04:43:57.000Z",
+          "summary": "Writes that whoever funds Blue Origin expects gains and RKLB and FLY will try to fill the gap.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Will try to fill the gap."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy shared the **JPMorgan** earnings and tied **Cipher Mining (CIFR)**'s drop of up to 12% to the $850M zero-interest convertible bond.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "JPM earnings",
+          "url": "https://x.com/FinancewithIzzy/status/2109988335083040896",
+          "published_at": "2026-10-13T12:43:15.000Z",
+          "summary": "JPM Q3 adjusted EPS of $5.75 missed est. $5.90; fixed income below estimates, equity markets above.",
+          "assets": [
+            {
+              "symbol": "JPM",
+              "sentiment": "neutral",
+              "note": "Earnings shared: EPS below estimate."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CIFR zero-interest convertible",
+          "url": "https://x.com/FinancewithIzzy/status/2109987214713098483",
+          "published_at": "2026-10-13T12:38:48.000Z",
+          "summary": "CIFR fell up to 12%; the $850M convertible brings dilution, and whether Barber Lake capacity fills with long-term leases is decisive.",
+          "assets": [
+            {
+              "symbol": "CIFR",
+              "sentiment": "negative",
+              "note": "Short-term drop is mechanical; dilution risk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "Wall St Engine reported the big bank earnings and **ASML** results: **Goldman Sachs** beat on revenue and EPS, **JPMorgan** missed on EPS, **Citigroup** and **UnitedHealth** beat, **Wells Fargo** missed on revenue. **ASML** beat in Q3 and raised guidance. CPI and Fed speakers are on today's calendar.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ASML Q3 earnings",
+          "url": "https://x.com/wallstengine/status/2110234293586854258",
+          "published_at": "2026-10-14T05:00:36.000Z",
+          "summary": "ASML net sales of €11,662M beat estimates, FY26 guide €44B-€45B; 2027-2028 supply won't meet demand.",
+          "assets": [
+            {
+              "symbol": "ASML",
+              "sentiment": "positive",
+              "note": "Earnings and guidance beat estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "GS earnings",
+          "url": "https://x.com/wallstengine/status/2109971117871931415",
+          "published_at": "2026-10-13T11:34:50.000Z",
+          "summary": "Goldman Sachs revenue of $18.68B and EPS of $17.01 beat estimates.",
+          "assets": [
+            {
+              "symbol": "GS",
+              "sentiment": "positive",
+              "note": "Revenue and EPS above estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Today's calendar",
+          "url": "https://x.com/wallstengine/status/2110249349976338899",
+          "published_at": "2026-10-14T06:00:26.000Z",
+          "summary": "On Oct 14: CPI, plus Bowman, Barkin, the Beige Book and Goolsbee.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "J Rould is on holiday in Italy but still posted notes: if the **TLT** trend reverses, speculative stocks could rebound; he keeps high conviction in **IonQ** and defends his averaging-down strategy with the **Palantir** example.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "TLT and speculative stocks",
+          "url": "https://x.com/jrouldz/status/2110031731097313747",
+          "published_at": "2026-10-13T15:35:41.000Z",
+          "summary": "Says speculative stocks could rebound if the TLT trend reverses.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "neutral",
+              "note": "Trend reversal is key for speculative stocks."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IonQ conviction",
+          "url": "https://x.com/jrouldz/status/2110083635365707880",
+          "published_at": "2026-10-13T19:01:56.000Z",
+          "summary": "Assuming the size of the gate-based QPU market, he finds the potential return massive and his conviction high despite volatility.",
+          "assets": [
+            {
+              "symbol": "IONQ",
+              "sentiment": "positive",
+              "note": "High conviction; QPU market formula."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Averaging-down strategy",
+          "url": "https://x.com/jrouldz/status/2110090892212047960",
+          "published_at": "2026-10-13T19:30:46.000Z",
+          "summary": "He says he is averaging into new positions and cites a 1000% gain on PLTR from this strategy.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "1000% gain via DCA."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "Çevik Finance highlights **Micron** (sharing Elon Musk's praise of Micron with 'That's why Micron'), says there is no environment for swing trading so he trades minimally, and stresses balancing cash and holdings.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Micron",
+          "url": "https://x.com/cevikfinance/status/2110140913934864715",
+          "published_at": "2026-10-13T22:49:33.000Z",
+          "summary": "Shared Elon Musk's praise of Micron's reasonable pricing with 'That's why Micron'.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Highlights Micron."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Cash and holdings balance",
+          "url": "https://x.com/cevikfinance/status/2110080817837867416",
+          "published_at": "2026-10-13T18:50:45.000Z",
+          "summary": "Says since peaks and bottoms can't be known, one should hold enough cash to buy and enough holdings not to miss the rally.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0992,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.2025,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The portfolio's largest holding (20%) and a rate-sensitive fintech; today's CPI, Fed speakers and Waller's higher-for-longer remarks are the main external drivers. Concentration risk is the main issue.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: A 20% weight in one holding carries concentration risk.",
+          "Against: Per WallStDiaries, Waller says the safe-haven premium is gone and borrowing costs will stay high for long.",
+          "For: A benign CPI print today would ease rate expectations and support fintech."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1445,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "Broadcom is at the table with Wall Street giants to raise over $50B to produce the custom AI chips it develops with OpenAI.",
+            "source_url": "https://x.com/WallStDiaries/status/2110015202125283445"
+          },
+          {
+            "person": "dtfinans_",
+            "sentiment": "neutral",
+            "quote": "The only constraint is not memory, GPUs etc.; money is not abundant either.",
+            "source_url": "https://x.com/dtfinans_/status/2109965142217703769"
+          }
+        ],
+        "action": "hold",
+        "why": "Per WallStDiaries Broadcom is seeking over $50B for OpenAI chips; there is no concrete buy/sell reason.",
+        "opinion": "Broadcom turning to private credit for AI financing shows strong demand but also raises customer concentration and capital bottleneck risk. Watch this theme after yesterday's selloff.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Per WallStDiaries, over $50B of financing for OpenAI chips is on the table, so demand is strong.",
+          "Against: dtfinans_ stresses that capital is scarce for AI.",
+          "Against: The Asian chip selloff and the 1% drop in Nasdaq futures create near-term pressure."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1431,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "negative",
+            "quote": "Seçim sonrası regülasyon riski teknoloji çarpanlarını baskılayabilir.",
+            "source_url": "https://x.com/WallStDiaries/status/2110000101838176602"
+          }
+        ],
+        "action": "hold",
+        "why": "Per WallStDiaries Democrats plan probes of Big Tech including Meta if they win Congress; no concrete date.",
+        "opinion": "The main risks for Meta are post-election regulation and the return on AI spending; even with strong ad revenue they can pressure the multiple.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: Per WallStDiaries, post-election probe risk could pressure multiples.",
+          "Against: Goolsbee flags a dotcom-style unwind risk if AI investments fail to pay off.",
+          "For: Third-largest holding and no new negative company news today."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1196,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "As a nuclear component maker it benefits from AI data center power demand, but sources contain nothing on BWXT today.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: AI data center power deals (Enerflex 1 GW, Fermi) show demand for power infrastructure.",
+          "Against: High bond yields weigh on long-duration growth valuations."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.1024,
+        "mentions": [
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "I still think $RDDT below 170 is cheap.",
+            "source_url": "https://x.com/ulkser/status/2109939827294503286"
+          }
+        ],
+        "action": "hold",
+        "why": "Per Serkan Uelker, below 170 is cheap, but no new level or date was given.",
+        "opinion": "Reddit is a high-beta growth stock; rates and the return of speculative appetite hit it directly. A 10% weight is reasonable but volatility can be high.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Per Serkan Uelker the trend line hasn't broken since the IPO and below 170 is cheap.",
+          "Against: jrouldz says speculative stocks are being crushed and depend on a TLT reversal."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0762,
+        "mentions": [
+          {
+            "person": "jrouldz",
+            "sentiment": "neutral",
+            "quote": "If the $TLT trend actually reverses here maybe speculative stocks can finally rebound",
+            "source_url": "https://x.com/jrouldz/status/2110031731097313747"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "The US Treasury is considering sharply reducing or completely halting 20-year bond issuance.",
+            "source_url": "https://x.com/WallStDiaries/status/2109977461442109754"
+          }
+        ],
+        "action": "hold",
+        "why": "Per WallStDiaries the Treasury is weighing cutting 20-year issuance; no decision yet.",
+        "opinion": "The long-dated Treasury ETF is sensitive to both rate and supply news; reduced issuance could help, but Waller's higher-rate message and the inflation data raise risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Per WallStDiaries cutting 20-year issuance could change the supply balance.",
+          "Against: Per Waller the safe-haven premium is gone and borrowing costs will stay high for long.",
+          "Against: Per Goolsbee tariffs and oil leave no room for rate cuts."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0651,
+        "mentions": [
+          {
+            "person": "dtfinans_",
+            "sentiment": "negative",
+            "quote": "I'm going back to the US and will never stop by Turkish financial markets again.",
+            "source_url": "https://x.com/dtfinans_/status/2109946844369355100"
+          }
+        ],
+        "action": "hold",
+        "why": "dtfinans_ says he is leaving Turkish markets over the PPF crisis; no concrete level or date.",
+        "opinion": "The PPF crisis creates a confidence issue for a Turkey equity ETF; local investor reaction may weigh in the short term. Watch Turkey's inflation and news flow.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: Per dtfinans_ PPF money has been inaccessible for a month, damaging confidence.",
+          "For: ulkser finds banks cheap; Turkish banks carry a large weight in the index."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0474,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "As a power-distribution equipment maker it benefits from AI data center investment; it is a small 5% holding and sources have no direct news today.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: The Enerflex 1 GW data center contract shows demand for power infrastructure.",
+          "Against: Goolsbee warns of a painful unwind if AI spending doesn't pay off."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "MU",
+        "name": "Micron",
+        "why": "Ali Korkmaz and Çevik Finance are long Micron; the $35.16B buyback authorization is the catalyst, while Cathie Wood flagged memory cycle risk.",
+        "source_url": "https://x.com/korkmazali08/status/2110038581905412439"
+      },
+      {
+        "symbol": "ORCL",
+        "name": "Oracle",
+        "why": "Ali Korkmaz is long: cloud revenue up 61.5%, $664B contracted backlog; the risk is OpenAI's $300B commitment.",
+        "source_url": "https://x.com/korkmazali08/status/2110079855358365740"
+      }
+    ]
+  }
+}
