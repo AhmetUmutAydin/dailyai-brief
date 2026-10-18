@@ -1,0 +1,966 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T07:12:57.710Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "September inflation beat expectations, Nasdaq ended the week down 4.5%",
+      "person": "Defiant Gatekeeper",
+      "why": "The video cites annual CPI at 3.7% (expected 3.6%), core CPI at 2.6% (expected 2.5%), monthly PPI at 1.3% (expected 0.6%) and core PPI at 0.7% (expected 0.3%); the S&P 500 fell about 2% on the week and the Nasdaq 4.5%.",
+      "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+    },
+    {
+      "title": "CoreWeave bond fell below 80 cents, Oracle CDS at a record",
+      "person": "Defiant Gatekeeper",
+      "why": "According to Defiant Gatekeeper a specific CoreWeave bond fell below 80% of par and its CDS spread rose to about 1,000 bps; Oracle's CDS hit a record 288 bps and SK Hynix is down about 57% from its summer peak.",
+      "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+    },
+    {
+      "title": "Buy list if the index decline deepens: DELL, TSM, MU, AVGO, NVDA, META, VST",
+      "person": "korkmazali08",
+      "why": "Ali Korkmaz says he plans buys at -10% and then -20% from the index peak and shared a 17-stock list.",
+      "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+    },
+    {
+      "title": "Semiconductor ETFs on their longest losing streak in 20 years",
+      "person": "WallStDiaries",
+      "why": "WallStDiaries reports SOXX is on its longest negative streak since 2006, driven by worries over slowing chip sales and the payoff of AI spending.",
+      "source_url": "https://x.com/WallStDiaries/status/2111449834884313140"
+    },
+    {
+      "title": "Trump suspended Russia sanctions and tariffs for 60 days",
+      "person": "WallStDiaries",
+      "why": "Secretary of State Marco Rubio said new sanctions and extra tariffs on Russia are suspended for 60 days, a decision taken with global energy prices and allied supply in mind.",
+      "source_url": "https://x.com/WallStDiaries/status/2111704695903261165"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US inflation, rates and bond yields",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Hotter CPI and PPI triggered equity selling, but the bond market expects a sharp slowdown, so the 10-year yield fell from above 5.3% to around 5.05%; the 2s10s spread narrowed to about 0.3.",
+          "quote": "Bond investors expect the economy to be heading for a sharp deterioration.",
+          "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+        }
+      ]
+    },
+    {
+      "topic": "Sustainability of AI investment",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "The market is anxious about whether AI growth is sustainable; strong results from OpenAI and Anthropic are needed to rebuild confidence.",
+          "quote": "The entire market is deeply worried about the AI industry as a whole and the sustainability of its growth.",
+          "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Per Steve Eisman, OpenAI at the centre of chip and cloud spending has become a systemic risk; a default would push the US into recession.",
+          "quote": "Eisman argues a possible bankruptcy would instantly drag the US economy into recession and trigger a deep equity sell-off.",
+          "source_url": "https://x.com/WallStDiaries/status/2111505015537893385"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Agrees with Andreas Steno Larsen that markets have been irrationally panicky about AI for the past 12-18 months.",
+          "quote": "Çok doğru.",
+          "source_url": "https://x.com/cevikfinance/status/2111540130817130525"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "With the index not yet 10% off its peak, AI and space stocks are already 45-68% below their highs.",
+          "quote": "With the index not even 10% off its peak, companies falling from ATH levels look like they are in a bear market",
+          "source_url": "https://x.com/korkmazali08/status/2111649294310859170"
+        }
+      ]
+    },
+    {
+      "topic": "Russia sanctions and energy",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "The White House suspended new Russia sanctions and tariffs for 60 days; the move sparked heated debate in Congress.",
+          "quote": "This postponement, taken with rising global energy prices and allies' supply balance in mind, caused heated debate in Congress.",
+          "source_url": "https://x.com/WallStDiaries/status/2111704695903261165"
+        }
+      ]
+    },
+    {
+      "topic": "Iran and geopolitics",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "Expects the bombing of Iran to resume where it left off after the US election.",
+          "quote": "Daha önce de söyledim bence seçimden sonra kesinlikle İran'a bombardıman kaldığı yerden devam edecek.",
+          "source_url": "https://x.com/cevikfinance/status/2111438455947362473"
+        }
+      ]
+    },
+    {
+      "topic": "Asian markets",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "After the tech selloff on Wall Street, Asian futures dropped sharply: Nikkei futures fell 1,890 points and TAIEX futures 2.42%.",
+          "quote": "Nikkei vadelileri 1.890 puan gerilerken, TAIEX vadeli kontratları yüzde 2,42 değer kaybetti.",
+          "source_url": "https://x.com/WallStDiaries/status/2111535214589599852"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey: money market fund (PPF) redemption problem",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Says his money in PPF, whose liquidity was guaranteed by the CMB (SPK), has been stuck for a month.",
+          "quote": "Ppf de olan likit olduğu spk tarafından garanti edilen param 1 ay oldu",
+          "source_url": "https://x.com/dtfinans_/status/2111482863631597711"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "high",
+      "why": "Two people mentioned it; Defiant Gatekeeper says the CDS hit a record 288 bps, while Ali Korkmaz notes it is among the 20 worst S&P 500 stocks of 2026 (-34.21%).",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Oracle's CDS index reached a record 288 basis points as the stock fell sharply.",
+          "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "2026’nın en kötü performans gösteren 20 s&p500 hissesinin arasında bizim için tanıdık bir isim $ORCL :)",
+          "source_url": "https://x.com/korkmazali08/status/2111502595172999606"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "priority": "high",
+      "why": "Defiant Gatekeeper points to distress via bond price and CDS level while Ali Korkmaz put it on his buy-the-dip list.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "CoreWeave's bond price fell below 80 cents on the dollar and its CDS spread rose to about 1,000 bps.",
+          "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Nbis, crwv",
+          "source_url": "https://x.com/korkmazali08/status/2111477988185555347"
+        }
+      ]
+    },
+    {
+      "symbol": "000660.KS",
+      "name": "SK Hynix",
+      "priority": "high",
+      "why": "Defiant Gatekeeper says the stock is down about 57% from its summer peak while Ali Korkmaz added SKHY to his list.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "SK Hynix shares fell about 57% from their summer peak.",
+          "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Skhy ve mu koyduk o kısma",
+          "source_url": "https://x.com/korkmazali08/status/2111502852099314049"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "priority": "medium",
+      "why": "Ali Korkmaz added it to his buy list; wallstengine shared quotes from Jensen Huang.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$DELL $TSM $SKHY $COHR $MU $TEM $CRDO $AVGO $BE $NVDA $SPCX $RKLB $MRVL $ARM $VST $META $ALAB",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Jensen Huang: “We used to be a GPU company … $NVDA became the largest & fastest growing networking company”",
+          "source_url": "https://x.com/wallstengine/status/2111507532141453408"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? $DELL $TSM $SKHY $COHR $MU … $AVGO …",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? … $VST $META $ALAB",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? … $ARM $VST $META $ALAB",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Skhy ve mu koyduk o kısma",
+          "source_url": "https://x.com/korkmazali08/status/2111502852099314049"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? $DELL $TSM …",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Olabikir dell yanına iyi gider.",
+          "source_url": "https://x.com/korkmazali08/status/2111477926407331949"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? … $RKLB $MRVL $ARM $VST …",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? … $SPCX $RKLB $MRVL $ARM …",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius Group",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$NBIS , $HOOD bunlarda lazım",
+          "source_url": "https://x.com/korkmazali08/status/2111477820790833551"
+        }
+      ]
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials",
+      "priority": "medium",
+      "why": "Ali Korkmaz wrote they bought AMAT the other day and mentioned it again for dips.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Amat var hocam geçen gün aldık zaten",
+          "source_url": "https://x.com/korkmazali08/status/2111479485694386403"
+        }
+      ]
+    },
+    {
+      "symbol": "SOXX",
+      "name": "iShares Semiconductor ETF",
+      "priority": "medium",
+      "why": "WallStDiaries reported the longest losing streak since 2006.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Sektör hisselerinde yaşanan bu aralıksız değer kaybı, 2006 yılından bu yana görülen 20 yılı aşkın sürenin en uzun negatif serisi olarak kayıtlara geçti.",
+          "source_url": "https://x.com/WallStDiaries/status/2111449834884313140"
+        }
+      ]
+    },
+    {
+      "symbol": "UBS",
+      "name": "UBS",
+      "priority": "medium",
+      "why": "The Swiss Senate backed a 100% CET1 rule and UBS is weighing moving its headquarters.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "UBS yönetimi rekabet gücünü korumak adına genel merkezini ülke dışına taşımayı masaya yatırdı.",
+          "source_url": "https://x.com/WallStDiaries/status/2111520115128676363"
+        }
+      ]
+    },
+    {
+      "symbol": "MET",
+      "name": "MetLife",
+      "priority": "medium",
+      "why": "It was reported that Michael Burry opened 2029 put options.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Michael Burry’nin MetLife üzerinde 2029 vadeli düşüş (put) opsiyonları açmasının ardındaki mantık tam olarak burada yatıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2111489321765114050"
+        }
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "İyi ki bir ASML var gerçekten. Hollanda hükümeti de aynı şeyi düşünüyor olacak ki şirketi ülkede tutabilmek için resmen seferberlik ilan etti.",
+          "source_url": "https://x.com/heisenbergtrx/status/2111355852317708644"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg's only finance-related post is about **ASML**: he describes the Dutch government's Project Beethoven, a €2.51 billion programme (€1.73 billion from the central government) to keep the company in the country. In his view Europe is burdening its citizens with taxes to hold on to strategic firms and the model is not sustainable.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "The Dutch Project Beethoven programme to keep ASML",
+          "url": "https://x.com/heisenbergtrx/status/2111355852317708644",
+          "published_at": "2026-10-17T07:17:16.000Z",
+          "summary": "Writes that the Netherlands launched the €2.51 billion Project Beethoven to keep ASML, €1.73 billion of it from the central government, and calls the model unsustainable.",
+          "assets": [
+            {
+              "symbol": "ASML",
+              "sentiment": "neutral",
+              "note": "The Netherlands spends billions to keep it; he warns it may leave once the resources run out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": "Defiant Gatekeeper describes the week as a global correction: the S&P 500 fell about 2% and the Nasdaq 4.5%, its biggest correction since late June. On Wednesday annual CPI came in at 3.7% against 3.6% expected, with core CPI at 2.6%; Thursday's monthly PPI was 1.3% versus 0.6% expected and Friday's core PPI was 0.7%.\n\nThe real oddity is in bonds: the 10-year yield first jumped above 5.3% and then fell to about 5.05%. In his view bond investors expect a sharp economic deterioration tied to AI; a **CoreWeave** bond fell below 80 cents and its CDS spread rose to about 1,000 bps, **Oracle**'s CDS hit a record 288 bps and **SK Hynix** is down about 57% from its summer peak. The 2026 US budget deficit was reported at $1.992 trillion (about 6% of GDP) and the semiconductor index fell about 12% on the week. Using a weather analogy he tells viewers to be careful in a storm, watch the 2s10s spread at about 0.3 and track OpenAI's and Anthropic's performance.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "AI meltdown...and dancing bond bros",
+          "url": "https://www.youtube.com/watch?v=qMjxn3SlYmg",
+          "published_at": "2026-10-17T13:08:15+00:00",
+          "summary": "The video covers the weekly correction: the S&P 500 fell about 2% and the Nasdaq 4.5%. CPI on Wednesday (3.7% vs 3.6% expected) and core CPI (2.6%) beat expectations, Thursday's monthly PPI was 1.3% (expected 0.6%) and Friday's core PPI was 0.7% (expected 0.3%). The 10-year yield dropped from above 5.3% to 5.05%; he argues this is because the bond market assumes the economy equals AI and that AI weakness would collapse the economy. A CoreWeave bond fell below 80% of par, its CDS spread rose to about 1,000 bps (implying a 63% default probability); Oracle's CDS hit a record 288 bps and SK Hynix is about 57% below its summer peak. The US budget deficit is $1.992 trillion (~6% of GDP) and the semiconductor index fell ~12% on the week. He concludes that the 2s10s spread (about 0.3) should be watched, that OpenAI's and Anthropic's performance will decide confidence, and that caution is warranted in stormy weather.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "negative",
+              "note": "A bond fell below 80% of par with CDS at about 1,000 bps; he sees it as the market's stress test."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "CDS index at a record 288 bps and the stock fell sharply."
+            },
+            {
+              "symbol": "000660.KS",
+              "sentiment": "negative",
+              "note": "Down about 57% from its summer peak."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz shared a 17-stock buy list including **DELL**, **TSM**, **MU**, **AVGO**, **NVDA**, **META** and **VST** for if the index falls 10% and 20% from its peak, saying he times purchases to index levels. With the index not yet 10% off its peak, **WDC**, **ONDS**, **RKLB**, **NBIS**, **IREN**, **ARM** and **USAR** are 45-68% below their highs, and **Oracle** is among the 20 worst S&P 500 stocks of 2026 (-34.21%). In a reply he wrote they bought **AMAT** the other day.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Stocks to buy if the index decline deepens",
+          "url": "https://x.com/korkmazali08/status/2111477176755245096",
+          "published_at": "2026-10-17T15:19:22.000Z",
+          "summary": "Says he would time purchases to -10% and -20% from the index peak and shared a 17-stock list including DELL, TSM, SKHY, MU, AVGO, NVDA, META and VST.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "On his buy list if the index falls 10%/20%."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "On his buy list if the index falls 10%/20%."
+            },
+            {
+              "symbol": "VST",
+              "sentiment": "positive",
+              "note": "On his buy list if the index falls 10%/20%."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "On his buy list if the index falls 10%/20%."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "On his buy list if the index falls 10%/20%."
+            },
+            {
+              "symbol": "TSM",
+              "sentiment": "positive",
+              "note": "On his buy list if the index falls 10%/20%."
+            },
+            {
+              "symbol": "DELL",
+              "sentiment": "positive",
+              "note": "On his buy list if the index falls 10%/20%."
+            },
+            {
+              "symbol": "ARM",
+              "sentiment": "positive",
+              "note": "On his buy list if the index falls 10%/20%."
+            },
+            {
+              "symbol": "MRVL",
+              "sentiment": "positive",
+              "note": "On his buy list if the index falls 10%/20%."
+            },
+            {
+              "symbol": "000660.KS",
+              "sentiment": "positive",
+              "note": "SKHY is on his buy list."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Many stocks in a bear market while the index has barely dropped",
+          "url": "https://x.com/korkmazali08/status/2111649294310859170",
+          "published_at": "2026-10-18T02:43:18.000Z",
+          "summary": "Notes that with the index not yet 10% off its peak, WDC, ONDS, RKLB, NBIS, IREN, ARM and USAR are 45-68% below their ATH.",
+          "assets": [
+            {
+              "symbol": "ARM",
+              "sentiment": "neutral",
+              "note": "About 50% below its ATH."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "neutral",
+              "note": "About 45% below its ATH."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oracle among 2026's worst S&P 500 stocks",
+          "url": "https://x.com/korkmazali08/status/2111502595172999606",
+          "published_at": "2026-10-17T17:00:23.000Z",
+          "summary": "Points to Oracle (-34.21%) on the list of the 20 worst S&P 500 stocks of 2026.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "neutral",
+              "note": "Among the 20 worst stocks in 2026 at -34.21%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AMAT purchase",
+          "url": "https://x.com/korkmazali08/status/2111479485694386403",
+          "published_at": "2026-10-17T15:28:33.000Z",
+          "summary": "In a reply says they bought AMAT the other day.",
+          "assets": [
+            {
+              "symbol": "AMAT",
+              "sentiment": "positive",
+              "note": "Bought the other day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_ complains that money in money market funds (PPF) has been stuck for a month and criticizes the CMB (SPK) and the collateral statement from TEFAS.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Money locked in PPF",
+          "url": "https://x.com/dtfinans_/status/2111482863631597711",
+          "published_at": "2026-10-17T15:41:58.000Z",
+          "summary": "Writes that his money in PPF, whose liquidity SPK guaranteed, has been unavailable for a month.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "TEFAS collateral statement",
+          "url": "https://x.com/dtfinans_/status/2111502983079084131",
+          "published_at": "2026-10-17T17:01:55.000Z",
+          "summary": "Criticizes TEFAS saying it won't accept poor collateral, noting lots of poor collateral was accepted earlier for Tp2.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PPF victims and SPK",
+          "url": "https://x.com/dtfinans_/status/2111713942321951193",
+          "published_at": "2026-10-18T07:00:12.000Z",
+          "summary": "Calls on MSCI and SPK to pay out the PPFs.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries closed the day with a news flow: Trump suspended Russia sanctions and tariffs for 60 days, Asian futures dropped sharply and **SOXX** is on its longest losing streak in 20 years. The Swiss Senate's 100% CET1 rule has **UBS** considering moving its headquarters, and Steve Eisman sees OpenAI as a systemic risk.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "60-day pause on Russia sanctions",
+          "url": "https://x.com/WallStDiaries/status/2111704695903261165",
+          "published_at": "2026-10-18T06:23:27.000Z",
+          "summary": "Rubio announced Trump suspended new Russia sanctions and tariffs for 60 days.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Sharp sell-off in Asian futures",
+          "url": "https://x.com/WallStDiaries/status/2111535214589599852",
+          "published_at": "2026-10-17T19:10:00.000Z",
+          "summary": "Nikkei futures fell 1,890 points and TAIEX futures 2.42%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "UBS capital pressure",
+          "url": "https://x.com/WallStDiaries/status/2111520115128676363",
+          "published_at": "2026-10-17T18:10:00.000Z",
+          "summary": "The Swiss Senate backed a 100% CET1 capital rule for foreign subsidiaries; UBS is considering moving its headquarters.",
+          "assets": [
+            {
+              "symbol": "UBS",
+              "sentiment": "neutral",
+              "note": "Faces extra capital burden; management is weighing moving its headquarters abroad."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Recession worries around AI",
+          "url": "https://x.com/WallStDiaries/status/2111505015537893385",
+          "published_at": "2026-10-17T17:10:00.000Z",
+          "summary": "Steve Eisman argues OpenAI is a systemic risk and its failure would push the US into recession.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "MetLife and AI-debt exposure",
+          "url": "https://x.com/WallStDiaries/status/2111489321765114050",
+          "published_at": "2026-10-17T16:07:38.000Z",
+          "summary": "Reports data centres are financed by private credit and life insurers and that Michael Burry opened 2029 puts on MetLife.",
+          "assets": [
+            {
+              "symbol": "MET",
+              "sentiment": "neutral",
+              "note": "Burry is reported to have opened 2029 puts."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Longest semiconductor losing streak in 20 years",
+          "url": "https://x.com/WallStDiaries/status/2111449834884313140",
+          "published_at": "2026-10-17T13:30:44.000Z",
+          "summary": "SOXX is on its longest negative streak since 2006.",
+          "assets": [
+            {
+              "symbol": "SOXX",
+              "sentiment": "neutral",
+              "note": "Longest losing streak since 2006."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu wrote in a reply that he recommended selling at 14300, is not recommending new buys and that rallies are selling opportunities until the liquidation issue is over; he also shared two videos.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Sell at 14300, rallies are selling chances",
+          "url": "https://x.com/TuncSatiroglu/status/2111361836734103964",
+          "published_at": "2026-10-17T07:41:03.000Z",
+          "summary": "Says he recommended selling at 14300, recommends no new buys and sees rallies as selling opportunities until the liquidation is over.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "When Will the Next Big Nasdaq Rally Start?",
+          "url": "https://x.com/TuncSatiroglu/status/2111419239341158718",
+          "published_at": "2026-10-17T11:29:09.000Z",
+          "summary": "Shared his video of the same title.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Restless Wait in Crypto",
+          "url": "https://x.com/TuncSatiroglu/status/2111393476906828117",
+          "published_at": "2026-10-17T09:46:47.000Z",
+          "summary": "Shared his video of the same title.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine shared quotes from Jensen Huang on **NVDA**: the shift from GPU company to networking and CPUs, and classical computing being about a third of the business.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Huang: revenue per gigawatt from $18B to over $40B",
+          "url": "https://x.com/wallstengine/status/2111507532141453408",
+          "published_at": "2026-10-17T17:20:00.000Z",
+          "summary": "Huang says the offering per gigawatt grew from roughly $18B to over $40B and that Nvidia will be one of the largest CPU companies.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Shared: Nvidia became the fastest growing networking company."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Huang: classical computing is a third of the business",
+          "url": "https://x.com/wallstengine/status/2111491378261987828",
+          "published_at": "2026-10-17T16:15:48.000Z",
+          "summary": "Huang says classical computing is roughly a third of Nvidia's business, growing 30-40% a year.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Shared: classical computing grows 30-40% a year."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "After listening to Jensen Huang's BG2 podcast, cevikfinance wrote he should own more compute, memory, connectivity, power and cooling companies. He agreed with Andreas Steno Larsen's remark on excessive AI panic and expects the bombing of Iran to resume after the US election.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "After Huang podcast, should buy more stocks",
+          "url": "https://x.com/cevikfinance/status/2111432838104969600",
+          "published_at": "2026-10-17T12:23:11.000Z",
+          "summary": "After the Huang podcast he writes he should own more compute, memory, connectivity, power and cooling companies.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Steno on AI panic",
+          "url": "https://x.com/cevikfinance/status/2111540130817130525",
+          "published_at": "2026-10-17T19:29:32.000Z",
+          "summary": "Calls Steno's remark that he has never seen a market so panicky about AI in 12-18 months 'very true'.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Iran bombing after the election",
+          "url": "https://x.com/cevikfinance/status/2111438455947362473",
+          "published_at": "2026-10-17T12:45:31.000Z",
+          "summary": "Thinks the bombing of Iran will resume after the election.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.1453,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.181,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Largest holding (18.1%); with yields staying high and credit worries rising, single-stock concentration is the main risk. Credit losses and funding costs are the key things to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: no negative news on SoFi in today's sources.",
+          "Against: the 18% weight creates single-stock concentration risk.",
+          "Against: per Defiant Gatekeeper, expectations of higher-for-longer rates after the inflation data could weigh on funding costs."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1405,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? … $VST $META $ALAB",
+            "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+          }
+        ],
+        "action": "hold",
+        "why": "Per Ali Korkmaz META is on his buy list if the index falls 10%/20%, but there is no concrete level or date.",
+        "opinion": "Ad revenue is strong but AI capex makes it sensitive to market AI worries; at a 14% weight, protecting the existing position makes more sense than adding.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Ali Korkmaz put it on his buy-the-dip list.",
+          "Against: per Defiant Gatekeeper the market is worried about AI spending sustainability.",
+          "Against: the portfolio weight is already high."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1298,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? $DELL $TSM $SKHY $COHR $MU … $AVGO …",
+            "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+          }
+        ],
+        "action": "hold",
+        "why": "Per Ali Korkmaz AVGO is on his index-dip buy list; no concrete level.",
+        "opinion": "The semiconductor group is on its longest losing streak in 20 years; Broadcom is tied to the AI cycle and a 13% weight amplifies the swings.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Ali Korkmaz added it to his index-dip buy list.",
+          "Against: per WallStDiaries semiconductor ETFs are on their longest losing streak since 2006.",
+          "Against: semiconductor exposure in the portfolio is already high."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1057,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A holding fed by nuclear and defence demand, relatively independent of the AI cycle; it diversifies the portfolio though valuation may stay elevated.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: business model relatively independent of the chip-led decline.",
+          "Against: 10.6% weight and valuation risk."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A high-beta growth stock that can fall hard when risk appetite fades. At a 9.4% weight, ad revenue resilience should be monitored.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: no negative Reddit news in today's sources.",
+          "Against: per Defiant Gatekeeper risk appetite is weak and the Nasdaq fell 4.5% on the week."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0718,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A smaller position tied to the electrical infrastructure theme; it benefits if data-centre demand holds but volatility rises if AI spending slows.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: the power and electricity bottleneck theme persists.",
+          "Against: AI spending worries could weigh on this theme too."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0711,
+        "mentions": [
+          {
+            "person": "Defiant Gatekeeper",
+            "sentiment": "neutral",
+            "quote": "The 10-year yield fell sharply to around 5.05% from about 5.2% the previous day.",
+            "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+          }
+        ],
+        "action": "hold",
+        "why": "Per Defiant Gatekeeper the bond market is positioning for a slowdown and yields fell; there is no concrete buy/sell trigger.",
+        "opinion": "A long-duration bond fund gains when yields fall, but with hot inflation data the yield volatility keeps price risk high; it offers a partial hedge against AI equities.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per Defiant Gatekeeper money is moving into bonds as stocks fall and yields dropped to 5.05%.",
+          "Against: per the same source inflation data beat expectations and the US deficit is $1.992 trillion."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0605,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Turkey equity exposure depends on global risk appetite and local macro balances; US tech selling and energy prices have an indirect effect.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: diversifies the portfolio away from US tech.",
+          "Against: emerging markets come under pressure when global risk appetite fades."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "AMAT",
+        "name": "Applied Materials",
+        "why": "Ali Korkmaz wrote they bought AMAT the other day and mentioned it again for dip buying.",
+        "source_url": "https://x.com/korkmazali08/status/2111479485694386403"
+      }
+    ]
+  }
+}

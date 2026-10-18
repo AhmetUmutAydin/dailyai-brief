@@ -1,0 +1,966 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T07:12:57.710Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Eylül enflasyonu beklentinin üstünde, Nasdaq haftayı %4,5 düşüşle kapattı",
+      "person": "Defiant Gatekeeper",
+      "why": "Videoda yıllık TÜFE %3,7 (beklenti %3,6), çekirdek TÜFE %2,6 (beklenti %2,5), aylık ÜFE %1,3 (beklenti %0,6) ve çekirdek ÜFE %0,7 (beklenti %0,3) olarak aktarılıyor; S&P 500 haftada yaklaşık %2, Nasdaq %4,5 düştü.",
+      "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+    },
+    {
+      "title": "CoreWeave tahvili 80 sentin altına indi, Oracle CDS'i rekor seviyede",
+      "person": "Defiant Gatekeeper",
+      "why": "Defiant Gatekeeper'a göre CoreWeave'in belirli bir tahvili nominal değerin %80'inin altına düştü ve CDS primi yaklaşık 1.000 baz puana çıktı; Oracle'ın CDS'i 288 baz puanla rekor kırdı, SK Hynix yaz zirvesinden yaklaşık %57 geriledi.",
+      "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+    },
+    {
+      "title": "Endeks düşüşü derinleşirse alım listesi: DELL, TSM, MU, AVGO, NVDA, META, VST",
+      "person": "korkmazali08",
+      "why": "Ali Korkmaz alımları endeksin zirveden -%10 ve ardından -%20 seviyelerine göre planladığını yazıp 17 hisselik bir liste paylaştı.",
+      "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+    },
+    {
+      "title": "Yarı iletken ETF'leri 20 yılın en uzun kayıp serisinde",
+      "person": "WallStDiaries",
+      "why": "WallStDiaries SOXX'un 2006'dan bu yana görülen en uzun negatif serisini yaşadığını ve satışın çip satışlarındaki yavaşlama ile yapay zekâ harcaması endişesinden geldiğini aktarıyor.",
+      "source_url": "https://x.com/WallStDiaries/status/2111449834884313140"
+    },
+    {
+      "title": "Trump Rusya yaptırım ve gümrük vergilerini 60 gün askıya aldı",
+      "person": "WallStDiaries",
+      "why": "Dışişleri Bakanı Marco Rubio, yeni yaptırım ve ek gümrük vergilerinin 60 gün askıya alındığını ve kararın küresel enerji fiyatları ile müttefik arzı gözetilerek alındığını açıkladı.",
+      "source_url": "https://x.com/WallStDiaries/status/2111704695903261165"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "ABD enflasyonu, faiz ve tahvil getirileri",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "TÜFE ve ÜFE beklentinin üstünde gelince hisseler satıldı, ama tahvil piyasası ekonomide sert yavaşlama beklediği için 10 yıllık getiri %5,3 üstünden %5,05 civarına geriledi; 2-10 yıl farkı yaklaşık 0,3'e indi.",
+          "quote": "Tahvil yatırımcıları ekonominin sert bir bozulmaya gittiğini bekliyor.",
+          "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+        }
+      ]
+    },
+    {
+      "topic": "Yapay zekâ yatırımlarının sürdürülebilirliği",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Piyasa yapay zekâ sektörünün büyümesinin sürdürülebilirliğinden endişeli; OpenAI ve Anthropic gibi büyük oyuncuların güçlü performansı güveni geri getirecek.",
+          "quote": "Piyasanın tamamı yapay zekâ sektörünün bütününden ve büyümesinin sürdürülebilirliğinden son derece endişeli.",
+          "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Steve Eisman'a göre çip ve bulut harcamalarının merkezindeki OpenAI sistemik riske dönüştü; olası bir iflas ABD'yi resesyona sürükler.",
+          "quote": "Eisman, olası bir iflasın ABD ekonomisini anında resesyona sürükleyeceğini ve borsada derin bir satış dalgası başlatacağını savunuyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2111505015537893385"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Andreas Steno Larsen'in son 12-18 aydır yapay zekâda aşırı panik görüldüğü tespitine katılıyor.",
+          "quote": "Çok doğru.",
+          "source_url": "https://x.com/cevikfinance/status/2111540130817130525"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Endeks zirvesinden henüz %10 bile düşmemişken yapay zekâ ve uzay hisseleri zirvelerinden %45-68 geriledi.",
+          "quote": "Endeks zirvesinden henüz %10 bile düşmemişken, ATH seviyelerinden düşüş yaşayan şirketler sanki ayı piyasasını yaşıyor gibi",
+          "source_url": "https://x.com/korkmazali08/status/2111649294310859170"
+        }
+      ]
+    },
+    {
+      "topic": "Rusya yaptırımları ve enerji",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Beyaz Saray Rusya'ya yönelik yeni yaptırım ve gümrük vergilerini 60 gün askıya aldı; karar Kongre'de sert tartışma yarattı.",
+          "quote": "Artan küresel enerji fiyatları ve müttefiklerin arz dengesi gözetilerek alınan bu erteleme kararı, Kongre'de sert tartışmalara yol açtı.",
+          "source_url": "https://x.com/WallStDiaries/status/2111704695903261165"
+        }
+      ]
+    },
+    {
+      "topic": "İran ve jeopolitik",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "ABD seçiminden sonra İran'a yönelik bombardımanın kaldığı yerden devam edeceğini düşünüyor.",
+          "quote": "Daha önce de söyledim bence seçimden sonra kesinlikle İran'a bombardıman kaldığı yerden devam edecek.",
+          "source_url": "https://x.com/cevikfinance/status/2111438455947362473"
+        }
+      ]
+    },
+    {
+      "topic": "Asya piyasaları",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Wall Street'teki teknoloji satışının ardından Asya vadelilerinde sert düşüş: Nikkei vadelileri 1.890 puan, TAIEX vadelileri %2,42 geriledi.",
+          "quote": "Nikkei vadelileri 1.890 puan gerilerken, TAIEX vadeli kontratları yüzde 2,42 değer kaybetti.",
+          "source_url": "https://x.com/WallStDiaries/status/2111535214589599852"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye: Para Piyasası Fonları (PPF) çıkış sorunu",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Likit olduğu SPK tarafından garanti edilen PPF'deki parasının bir aydır çıkarılamadığını söylüyor.",
+          "quote": "Ppf de olan likit olduğu spk tarafından garanti edilen param 1 ay oldu",
+          "source_url": "https://x.com/dtfinans_/status/2111482863631597711"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "high",
+      "why": "İki kişi bahsetti; Defiant Gatekeeper CDS'in 288 baz puanla rekor seviyeye çıktığını, Ali Korkmaz ise hissenin 2026'nın en kötü 20 S&P 500 hissesi arasında (-%34,21) olduğunu belirtti.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Oracle'ın CDS endeksi 288 baz puanla rekor seviyeye ulaştı, hisse sert düştü.",
+          "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "2026'nın en kötü performans gösteren 20 s&p500 hissesinin arasında bizim için tanıdık bir isim $ORCL :)",
+          "source_url": "https://x.com/korkmazali08/status/2111502595172999606"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "priority": "high",
+      "why": "Defiant Gatekeeper tahvil fiyatı ve CDS seviyesiyle sıkıntıya işaret ederken Ali Korkmaz derin düşüşte alım listesine koydu.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "CoreWeave tahvilinin fiyatı nominal 100 dolara karşı 80 sentin altına düştü, CDS primi yaklaşık 1.000 baz puana çıktı.",
+          "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Nbis, crwv",
+          "source_url": "https://x.com/korkmazali08/status/2111477988185555347"
+        }
+      ]
+    },
+    {
+      "symbol": "000660.KS",
+      "name": "SK Hynix",
+      "priority": "high",
+      "why": "Defiant Gatekeeper hissenin yaz zirvesinden yaklaşık %57 düştüğünü söylerken Ali Korkmaz SKHY'yi alım listesine koyduğunu yazdı.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "SK Hynix hisseleri yaz zirvesinden yaklaşık %57 düştü.",
+          "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Skhy ve mu koyduk o kısma",
+          "source_url": "https://x.com/korkmazali08/status/2111502852099314049"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "priority": "medium",
+      "why": "Ali Korkmaz alım listesine koydu; wallstengine Jensen Huang'ın sunumundan alıntılar paylaştı.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$DELL $TSM $SKHY $COHR $MU $TEM $CRDO $AVGO $BE $NVDA $SPCX $RKLB $MRVL $ARM $VST $META $ALAB",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Jensen Huang: “We used to be a GPU company … $NVDA became the largest & fastest growing networking company”",
+          "source_url": "https://x.com/wallstengine/status/2111507532141453408"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? $DELL $TSM $SKHY $COHR $MU … $AVGO …",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? … $VST $META $ALAB",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? … $ARM $VST $META $ALAB",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Skhy ve mu koyduk o kısma",
+          "source_url": "https://x.com/korkmazali08/status/2111502852099314049"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? $DELL $TSM …",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Olabikir dell yanına iyi gider.",
+          "source_url": "https://x.com/korkmazali08/status/2111477926407331949"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? … $RKLB $MRVL $ARM $VST …",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? … $SPCX $RKLB $MRVL $ARM …",
+          "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius Group",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$NBIS , $HOOD bunlarda lazım",
+          "source_url": "https://x.com/korkmazali08/status/2111477820790833551"
+        }
+      ]
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials",
+      "priority": "medium",
+      "why": "Ali Korkmaz AMAT'ı geçen gün aldıklarını yazdı, düşüş alım listesinde tekrar önerdi.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Amat var hocam geçen gün aldık zaten",
+          "source_url": "https://x.com/korkmazali08/status/2111479485694386403"
+        }
+      ]
+    },
+    {
+      "symbol": "SOXX",
+      "name": "iShares Semiconductor ETF",
+      "priority": "medium",
+      "why": "WallStDiaries 2006'dan bu yana en uzun kayıp serisini aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Sektör hisselerinde yaşanan bu aralıksız değer kaybı, 2006 yılından bu yana görülen 20 yılı aşkın sürenin en uzun negatif serisi olarak kayıtlara geçti.",
+          "source_url": "https://x.com/WallStDiaries/status/2111449834884313140"
+        }
+      ]
+    },
+    {
+      "symbol": "UBS",
+      "name": "UBS",
+      "priority": "medium",
+      "why": "İsviçre Senatosu %100 CET1 kuralını destekledi, UBS genel merkez taşımayı masaya yatırdı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "UBS yönetimi rekabet gücünü korumak adına genel merkezini ülke dışına taşımayı masaya yatırdı.",
+          "source_url": "https://x.com/WallStDiaries/status/2111520115128676363"
+        }
+      ]
+    },
+    {
+      "symbol": "MET",
+      "name": "MetLife",
+      "priority": "medium",
+      "why": "Michael Burry'nin 2029 vadeli put açtığı aktarıldı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Michael Burry’nin MetLife üzerinde 2029 vadeli düşüş (put) opsiyonları açmasının ardındaki mantık tam olarak burada yatıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2111489321765114050"
+        }
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "İyi ki bir ASML var gerçekten. Hollanda hükümeti de aynı şeyi düşünüyor olacak ki şirketi ülkede tutabilmek için resmen seferberlik ilan etti.",
+          "source_url": "https://x.com/heisenbergtrx/status/2111355852317708644"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg'in finansla ilgili tek paylaşımı **ASML** üzerine: Hollanda hükümetinin şirketi ülkede tutmak için 2,51 milyar euroluk (1,73 milyarı merkezi hükümetten) Project Beethoven programı başlattığını anlatıyor. Ona göre Avrupa elindeki stratejik şirketleri tutmak için halkı vergiyle yükleyerek bunu yapıyor ve model sürdürülebilir değil.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ASML'yi ülkede tutmak için Hollanda'nın Project Beethoven programı",
+          "url": "https://x.com/heisenbergtrx/status/2111355852317708644",
+          "published_at": "2026-10-17T07:17:16.000Z",
+          "summary": "Hollanda'nın ASML'yi tutmak için 2,51 milyar euroluk Project Beethoven programı başlattığını, bunun 1,73 milyarının merkezi hükümetten geldiğini ve modelin sürdürülebilir olmadığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "ASML",
+              "sentiment": "neutral",
+              "note": "Hollanda şirketi ülkede tutmak için milyarlar harcıyor; şirket kaynaklar tükenince gidebilir diye uyarıyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": "Defiant Gatekeeper haftayı küresel bir düzeltme olarak anlatıyor: S&P 500 yaklaşık %2, Nasdaq %4,5 düştü ve Nasdaq haziran sonundan beri en büyük düzeltmesini yaşadı. Çarşamba günü yıllık TÜFE %3,7 ile beklentiyi (%3,6) aştı, çekirdek TÜFE %2,6 geldi; perşembe ÜFE aylık %1,3 ile %0,6'lık beklentinin çok üstünde, cuma ise çekirdek ÜFE %0,7 geldi.\n\nAsıl tuhaflık tahvilde: 10 yıllık getiri önce %5,3'ün üstüne çıkıp ardından yaklaşık %5,05'e geriledi. Ona göre bunun nedeni tahvil yatırımcılarının ekonomide sert bozulma ve yapay zekâya bağlı bir çöküş beklemesi; **CoreWeave** tahvili 80 sentin altına inip CDS primi yaklaşık 1.000 baz puana çıktı, **Oracle**'ın CDS'i 288 baz puanla rekor kırdı ve **SK Hynix** yaz zirvesinden yaklaşık %57 düştü. ABD'nin 2026 bütçe açığı 1,992 trilyon dolar (GSYİH'nin yaklaşık %6'sı) açıklandı; yarı iletken endeksi haftada yaklaşık %12 düştü. İzleyiciye hava durumu benzetmesiyle fırtınada temkinli olmasını, 2-10 yıl farkının yaklaşık 0,3'e inmesini ve OpenAI ile Anthropic'in performansını izlemesini söylüyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "AI meltdown...and dancing bond bros",
+          "url": "https://www.youtube.com/watch?v=qMjxn3SlYmg",
+          "published_at": "2026-10-17T13:08:15+00:00",
+          "summary": "Video haftalık düzeltmeyi anlatıyor: S&P 500 yaklaşık %2, Nasdaq %4,5 düştü. Çarşamba TÜFE (%3,7, beklenti %3,6) ve çekirdek TÜFE (%2,6) beklentiyi aştı, perşembe aylık ÜFE %1,3 (beklenti %0,6), cuma çekirdek ÜFE %0,7 (beklenti %0,3) geldi. 10 yıllık getiri %5,3'ün üstünden %5,05'e indi; ona göre bunun sebebi tahvil piyasasının ekonominin yapay zekâyla özdeşleştiğini ve yapay zekâdaki zayıflığın ekonomiyi çökerteceğini varsaymasıdır. CoreWeave'in bir tahvili nominalin %80'inin altına düştü, CDS primi yaklaşık 1.000 baz puana çıktı (%63 temerrüt olasılığı ima ediyor); Oracle'ın CDS'i 288 baz puanla rekor, SK Hynix yaz zirvesinden yaklaşık %57 düşük. ABD bütçe açığı 1,992 trilyon dolar (GSYİH'nin ~%6'sı) ve yarı iletken endeksi haftada ~%12 geriledi. Sonuç olarak 2-10 yıl farkını (yaklaşık 0,3) izlemek ve OpenAI ile Anthropic'in performansının güveni belirleyeceğini söylüyor; fırtınalı havada temkinli olunmasını öneriyor.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "negative",
+              "note": "Bir tahvili nominalin %80'inin altına düştü, CDS primi yaklaşık 1.000 baz puan; piyasanın stres testi olarak görüyor."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "CDS endeksi 288 baz puanla rekor seviyede, hisse sert düştü."
+            },
+            {
+              "symbol": "000660.KS",
+              "sentiment": "negative",
+              "note": "Yaz zirvesinden yaklaşık %57 düştü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz endeks zirveden -%10 ve -%20 seviyelerine inerse **DELL**, **TSM**, **MU**, **AVGO**, **NVDA**, **META**, **VST** gibi 17 hisselik bir alım listesi paylaştı ve alımlarını endeks seviyelerine göre yaptığını söyledi. Endeks zirvesinden %10 bile düşmemişken **WDC**, **ONDS**, **RKLB**, **NBIS**, **IREN**, **ARM** ve **USAR** zirvelerinden %45-68 geriledi; **Oracle** da 2026'nın en kötü 20 S&P 500 hissesi arasında (-%34,21). Bir yanıtında **AMAT**'ı geçen gün aldıklarını yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Endeks düşüşü derinleşirse alınacak hisseler",
+          "url": "https://x.com/korkmazali08/status/2111477176755245096",
+          "published_at": "2026-10-17T15:19:22.000Z",
+          "summary": "Alımları endeksin zirveden -%10 ve -%20 seviyelerine göre yapmayı düşündüğünü yazıp DELL, TSM, SKHY, MU, AVGO, NVDA, META, VST dahil 17 hisselik liste paylaştı.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Endeks -%10/-%20 düşerse alım listesinde."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Endeks -%10/-%20 düşerse alım listesinde."
+            },
+            {
+              "symbol": "VST",
+              "sentiment": "positive",
+              "note": "Endeks -%10/-%20 düşerse alım listesinde."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Endeks -%10/-%20 düşerse alım listesinde."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Endeks -%10/-%20 düşerse alım listesinde."
+            },
+            {
+              "symbol": "TSM",
+              "sentiment": "positive",
+              "note": "Endeks -%10/-%20 düşerse alım listesinde."
+            },
+            {
+              "symbol": "DELL",
+              "sentiment": "positive",
+              "note": "Endeks -%10/-%20 düşerse alım listesinde."
+            },
+            {
+              "symbol": "ARM",
+              "sentiment": "positive",
+              "note": "Endeks -%10/-%20 düşerse alım listesinde."
+            },
+            {
+              "symbol": "MRVL",
+              "sentiment": "positive",
+              "note": "Endeks -%10/-%20 düşerse alım listesinde."
+            },
+            {
+              "symbol": "000660.KS",
+              "sentiment": "positive",
+              "note": "SKHY alım listesinde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Endeks düşmeden birçok hisse ayı piyasasında",
+          "url": "https://x.com/korkmazali08/status/2111649294310859170",
+          "published_at": "2026-10-18T02:43:18.000Z",
+          "summary": "Endeks zirvesinden %10 bile düşmemişken WDC, ONDS, RKLB, NBIS, IREN, ARM ve USAR'ın ATH'den %45-68 geriye gittiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "ARM",
+              "sentiment": "neutral",
+              "note": "ATH seviyesinden yaklaşık %50 aşağıda."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "neutral",
+              "note": "ATH seviyesinden yaklaşık %45 aşağıda."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oracle 2026'nın en kötü S&P 500 hisseleri arasında",
+          "url": "https://x.com/korkmazali08/status/2111502595172999606",
+          "published_at": "2026-10-17T17:00:23.000Z",
+          "summary": "2026'nın en kötü 20 S&P 500 hissesi listesindeki Oracle'a (-%34,21) dikkat çekiyor.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "neutral",
+              "note": "2026'da -%34,21 ile en kötü 20 hisse arasında."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AMAT alımı",
+          "url": "https://x.com/korkmazali08/status/2111479485694386403",
+          "published_at": "2026-10-17T15:28:33.000Z",
+          "summary": "Bir yanıtında AMAT'ı geçen gün aldıklarını yazıyor.",
+          "assets": [
+            {
+              "symbol": "AMAT",
+              "sentiment": "positive",
+              "note": "Geçen gün alındı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_ Para Piyasası Fonlarındaki (PPF) paranın bir aydır çıkarılamamasından şikayetçi ve SPK'yı, Takasbank/TEFAS'ın teminat açıklamasını eleştiriyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF'de kilitli kalan para",
+          "url": "https://x.com/dtfinans_/status/2111482863631597711",
+          "published_at": "2026-10-17T15:41:58.000Z",
+          "summary": "SPK'nın likit olduğunu garanti ettiği PPF'deki parasının bir aydır çıkarılamadığını yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tefas teminat açıklaması",
+          "url": "https://x.com/dtfinans_/status/2111502983079084131",
+          "published_at": "2026-10-17T17:01:55.000Z",
+          "summary": "Tefas'ın düşük kaliteli teminat almayacağını açıkladığını, ancak daha önce Tp2'ye çok miktarda düşük kaliteli teminat verildiğini belirterek eleştiriyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PPF mağdurları ve SPK",
+          "url": "https://x.com/dtfinans_/status/2111713942321951193",
+          "published_at": "2026-10-18T07:00:12.000Z",
+          "summary": "MSCI ve SPK'ya seslenerek PPF'lerin ödenmesini istiyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries günü haber akışıyla kapattı: Trump Rusya'ya yönelik yaptırım ve gümrük vergilerini 60 gün askıya aldı, Asya vadelileri sert düştü ve **SOXX** 20 yılın en uzun kayıp serisinde. Ayrıca İsviçre Senatosu'nun %100 CET1 kuralı **UBS**'i genel merkez taşımayı düşündürüyor, Steve Eisman OpenAI'ı sistemik risk olarak görüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Rusya yaptırımlarına 60 günlük mola",
+          "url": "https://x.com/WallStDiaries/status/2111704695903261165",
+          "published_at": "2026-10-18T06:23:27.000Z",
+          "summary": "Rubio, Trump'ın yeni Rusya yaptırım ve gümrük vergilerini 60 gün askıya aldığını duyurdu.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Asya vadelilerinde sert satış",
+          "url": "https://x.com/WallStDiaries/status/2111535214589599852",
+          "published_at": "2026-10-17T19:10:00.000Z",
+          "summary": "Nikkei vadelileri 1.890 puan, TAIEX vadelileri %2,42 geriledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "UBS sermaye baskısı",
+          "url": "https://x.com/WallStDiaries/status/2111520115128676363",
+          "published_at": "2026-10-17T18:10:00.000Z",
+          "summary": "İsviçre Senatosu yabancı iştirakler için %100 CET1 sermaye kuralını destekledi, UBS genel merkez taşımayı değerlendiriyor.",
+          "assets": [
+            {
+              "symbol": "UBS",
+              "sentiment": "neutral",
+              "note": "Ek sermaye yükü; yönetim merkezi yurtdışına taşımayı masaya yatırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yapay zekâda resesyon endişesi",
+          "url": "https://x.com/WallStDiaries/status/2111505015537893385",
+          "published_at": "2026-10-17T17:10:00.000Z",
+          "summary": "Steve Eisman, OpenAI'ın sistemik risk olduğunu ve iflasının ABD'yi resesyona sürükleyeceğini savunuyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "MetLife ve yapay zekâ borçlanması",
+          "url": "https://x.com/WallStDiaries/status/2111489321765114050",
+          "published_at": "2026-10-17T16:07:38.000Z",
+          "summary": "Veri merkezlerinin özel kredi ve hayat sigortacıları tarafından finanse edildiğini, Michael Burry'nin MetLife'ta 2029 vadeli put açtığını aktarıyor.",
+          "assets": [
+            {
+              "symbol": "MET",
+              "sentiment": "neutral",
+              "note": "Burry'nin 2029 vadeli put açtığı aktarılıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yarı iletkenlerde 20 yılın en uzun kayıp serisi",
+          "url": "https://x.com/WallStDiaries/status/2111449834884313140",
+          "published_at": "2026-10-17T13:30:44.000Z",
+          "summary": "SOXX 2006'dan bu yana en uzun negatif serisini yaşıyor.",
+          "assets": [
+            {
+              "symbol": "SOXX",
+              "sentiment": "neutral",
+              "note": "2006'dan bu yana en uzun kayıp serisi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu bir yanıtında 14300'de satış önerdiğini, yeni alım önermediğini ve tasfiye konusu bitmeden yükselişlerin satış fırsatı olduğunu yazdı; ayrıca iki video paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "14300'de satış, yükselişler satış fırsatı",
+          "url": "https://x.com/TuncSatiroglu/status/2111361836734103964",
+          "published_at": "2026-10-17T07:41:03.000Z",
+          "summary": "14300'de satış önerdiğini, yeni alım önermediğini ve tasfiye bitmeden yükselişlerin satış fırsatı olduğunu yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nasdaq'ta Yeni Büyük Ralli Ne Zaman Başlayacak?",
+          "url": "https://x.com/TuncSatiroglu/status/2111419239341158718",
+          "published_at": "2026-10-17T11:29:09.000Z",
+          "summary": "Aynı başlıklı videosunu paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Kripto Paralarda Huzursuz Bekleyiş",
+          "url": "https://x.com/TuncSatiroglu/status/2111393476906828117",
+          "published_at": "2026-10-17T09:46:47.000Z",
+          "summary": "Aynı başlıklı videosunu paylaştı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine Jensen Huang'ın **NVDA** hakkındaki sözlerinden alıntı paylaştı: GPU şirketi olmaktan ağ şirketine ve CPU'ya genişleme, klasik hesaplamanın işin yaklaşık üçte biri olması.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Huang: gigawatt başına gelir 18 milyardan 40 milyar doların üstüne",
+          "url": "https://x.com/wallstengine/status/2111507532141453408",
+          "published_at": "2026-10-17T17:20:00.000Z",
+          "summary": "Huang, gigawatt başına teklifin yaklaşık 18 milyardan 40 milyar doların üstüne çıktığını ve Nvidia'nın en büyük CPU şirketlerinden biri olacağını söylüyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Paylaşım: Nvidia en hızlı büyüyen ağ şirketi oldu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Huang: klasik hesaplama işin üçte biri",
+          "url": "https://x.com/wallstengine/status/2111491378261987828",
+          "published_at": "2026-10-17T16:15:48.000Z",
+          "summary": "Huang klasik hesaplamanın Nvidia işinin yaklaşık üçte biri olduğunu ve yılda %30-40 büyüdüğünü söylüyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Paylaşım: klasik hesaplama yılda %30-40 büyüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance Jensen Huang'ın BG2 podcast'ini dinledikten sonra daha fazla hesaplama, bellek, bağlantı, elektrik ve soğutma şirketine sahip olması gerektiğini yazdı. Andreas Steno Larsen'in yapay zekâdaki aşırı paniğe dair yorumuna katıldı ve ABD seçiminden sonra İran'a bombardımanın devam edeceğini düşünüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Huang podcast'i sonrası daha fazla hisse almalıyım",
+          "url": "https://x.com/cevikfinance/status/2111432838104969600",
+          "published_at": "2026-10-17T12:23:11.000Z",
+          "summary": "Huang'ın podcast'ini dinleyip daha fazla hesaplama, bellek, bağlantı, elektrik ve soğutma şirketlerine sahip olması gerektiğini yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Yapay zekâdaki panik üzerine Steno",
+          "url": "https://x.com/cevikfinance/status/2111540130817130525",
+          "published_at": "2026-10-17T19:29:32.000Z",
+          "summary": "Steno'nun son 12-18 ayda yapay zekâ konusunda hiç bu kadar panikli piyasa görmediği tespitine 'çok doğru' diyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Seçimden sonra İran bombardımanı",
+          "url": "https://x.com/cevikfinance/status/2111438455947362473",
+          "published_at": "2026-10-17T12:45:31.000Z",
+          "summary": "Seçimden sonra İran'a bombardımanın kaldığı yerden devam edeceğini düşünüyor.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.1453,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.181,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "En büyük kalem (%18,1); faiz getirilerinin yüksek kaldığı ve kredi endişesinin arttığı bir haftada tek hissede yoğunlaşma riski taşıyor. Kredi kayıpları ve finansman maliyeti en kritik takip noktası.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Bugünkü kaynaklarda SoFi için olumsuz bir haber yok.",
+          "Aleyhte: %18'lik ağırlık tek bir hissede yoğunlaşma riski yaratıyor.",
+          "Aleyhte: Defiant Gatekeeper'a göre enflasyon verileri sonrası faizlerin yüksek kalma beklentisi borçlanma maliyetlerini baskılayabilir."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1405,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? … $VST $META $ALAB",
+            "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+          }
+        ],
+        "action": "hold",
+        "why": "Ali Korkmaz'a göre META endeks -%10/-%20 düşerse alım listesinde; ancak somut bir seviye veya tarih yok.",
+        "opinion": "Reklam geliri güçlü ama yapay zekâ sermaye harcaması piyasanın yapay zekâ endişesine duyarlı; %14'lük ağırlıkla yeni alımdan çok mevcut pozisyonu korumak mantıklı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Ali Korkmaz düşüşte alım listesine koydu.",
+          "Aleyhte: Defiant Gatekeeper'a göre piyasa yapay zekâ harcamasının sürdürülebilirliğinden endişeli.",
+          "Aleyhte: Portföydeki ağırlık zaten yüksek."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1298,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "Endekste olabilecek düşüş derinleşirse ne alırım ? $DELL $TSM $SKHY $COHR $MU … $AVGO …",
+            "source_url": "https://x.com/korkmazali08/status/2111477176755245096"
+          }
+        ],
+        "action": "hold",
+        "why": "Ali Korkmaz'a göre AVGO endeks düşüşünde alım listesinde; somut seviye yok.",
+        "opinion": "Yarı iletken serisi 20 yılın en uzun kayıp serisinde; Broadcom yapay zekâ döngüsüne duyarlı ve %13'lük ağırlık bu dalgalanmayı büyütür.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Ali Korkmaz endeks düşüşünde alım listesine koydu.",
+          "Aleyhte: WallStDiaries'e göre yarı iletken ETF'leri 2006'dan beri en uzun kayıp serisinde.",
+          "Aleyhte: Yarı iletken ağırlığı portföyde zaten yüksek."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1057,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer ve savunma talebinden beslenen, yapay zekâ döngüsünden görece bağımsız bir kalem; portföyü çeşitlendiriyor ancak değerleme yüksek kalabilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Çip kaynaklı düşüşten görece bağımsız iş modeli.",
+          "Aleyhte: %10,6'lık ağırlık ve değerleme riski."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Yüksek beta'lı bir büyüme hissesi; risk iştahı zayıfladığında sert düşebilir. %9,4'lük ağırlıkta reklam gelirinin dayanıklılığı takip edilmeli.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Bugünkü kaynaklarda Reddit için olumsuz haber yok.",
+          "Aleyhte: Defiant Gatekeeper'a göre risk iştahı zayıf ve Nasdaq haftada %4,5 düştü."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0718,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Elektrik altyapısı temasına bağlı küçük ölçekli bir pozisyon; veri merkezi talebi güçlü kalırsa fayda sağlar ancak yapay zekâ harcaması yavaşlarsa oynaklık artar.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Enerji ve elektrik darboğazı teması sürüyor.",
+          "Aleyhte: Yapay zekâ harcaması endişesi bu temayı da baskılayabilir."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0711,
+        "mentions": [
+          {
+            "person": "Defiant Gatekeeper",
+            "sentiment": "neutral",
+            "quote": "10 yıllık tahvil getirisi önceki günkü yaklaşık %5,2'den %5,05 civarına keskin biçimde düştü.",
+            "source_url": "https://www.youtube.com/watch?v=qMjxn3SlYmg"
+          }
+        ],
+        "action": "hold",
+        "why": "Defiant Gatekeeper'a göre tahvil piyasası ekonomik yavaşlamaya oynuyor ve getiriler düştü; somut bir alım-satım gerekçesi yok.",
+        "opinion": "Uzun vadeli tahvil fonu getiri düşüşünde fiyat kazanır ama enflasyon verileri yüksek geldikçe getiri dalgalanması fiyat riskini yüksek tutar; yapay zekâ hisselerine karşı kısmi koruma sağlar.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Defiant Gatekeeper'a göre hisse düşüşünde para tahvile kayıyor ve getiri %5,05'e indi.",
+          "Aleyhte: Aynı kaynağa göre enflasyon verileri beklentinin üstünde ve ABD bütçe açığı 1,992 trilyon dolar."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0605,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Türkiye hisse maruziyeti küresel risk iştahı ve yerel makro dengelere bağlı; ABD teknoloji satışı ve enerji fiyatları dolaylı olarak etkiler.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Portföyü ABD teknolojisinden çeşitlendiriyor.",
+          "Aleyhte: Küresel risk iştahı zayıfladığında gelişen piyasalar baskı görür."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "AMAT",
+        "name": "Applied Materials",
+        "why": "Ali Korkmaz AMAT'ı geçen gün aldıklarını yazdı ve düşüş alımı için ayrıca anıldı.",
+        "source_url": "https://x.com/korkmazali08/status/2111479485694386403"
+      }
+    ]
+  }
+}
