@@ -1,0 +1,1436 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T07:17:18.772Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Microsoft pulls out of Nscale data center deal in the UK",
+      "person": "WallStDiaries",
+      "why": "According to WallStDiaries, Microsoft dropped out as anchor tenant of a planned Essex data center because the required power cannot be supplied until the 2030s.",
+      "source_url": "https://x.com/WallStDiaries/status/2111875442106081773"
+    },
+    {
+      "title": "Morgan Stanley cuts AMD GPU demand forecast from 14.1 million to 8.0 million",
+      "person": "dtfinans_",
+      "why": "dtfinans_ relays that the 2026-2030 AMD GPU demand forecast was cut 43.3% while Nvidia's stayed unchanged, and attributes it to NVDA and AVGO dominance.",
+      "source_url": "https://x.com/dtfinans_/status/2111874878148329964"
+    },
+    {
+      "title": "SpaceX reports earnings on October 20",
+      "person": "korkmazali08",
+      "why": "According to Ali Korkmaz, results come after the close; EPS expectation is $0.14, and last quarter revenue rose 92% to $7.8 billion with capex of $18.4 billion.",
+      "source_url": "https://x.com/korkmazali08/status/2111811747317264535"
+    },
+    {
+      "title": "Foldable iPhone Duo pre-order deliveries slip to January 2027",
+      "person": "korkmazali08",
+      "why": "Citing AppleInsider, Ali Korkmaz reports the $1,999 model's pre-orders sold out within minutes and Apple called demand \"extraordinary\".",
+      "source_url": "https://x.com/korkmazali08/status/2111893032157229259"
+    },
+    {
+      "title": "US futures rise ahead of earnings week while Nikkei recovers",
+      "person": "WallStDiaries",
+      "why": "WallStDiaries reports Nasdaq, S&P 500 and Dow futures rose contrary to \"Black Monday\" fears, while the Nikkei 225 pared losses to -1.2% at 64,559.63.",
+      "source_url": "https://x.com/WallStDiaries/status/2112048615174598721"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "\"Black Monday\" expectations and index futures",
+      "views": [
+        {
+          "person": "MrTradeer",
+          "view": "Argues that if everyone expects a black Monday, markets will open green; futures show S&P 500 +0.2%, Nasdaq 100 +0.2%, Dow +0.1%.",
+          "quote": "If everyone is expecting it, markets will surely open green.",
+          "source_url": "https://x.com/MrTradeer/status/2111931154337313261"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Thinks markets are not expensive enough for a black Monday.",
+          "quote": "Markets are not expensive enough for a black Monday",
+          "source_url": "https://x.com/korkmazali08/status/2111961647090663812"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "A black Monday may not come but a black Thursday could arrive when least expected; Asia's morning gains may not last.",
+          "quote": "If everyone expects a black Monday tomorrow, it won't come. But a black Thursday, say, could come when you least expect it.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2111811521336500414"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Says weekend trading means little; what matters is the Sunday evening futures open.",
+          "quote": "Weekend trading doesn't mean much. The Sunday evening futures open is what matters.",
+          "source_url": "https://x.com/cevikfinance/status/2111737719118516434"
+        }
+      ]
+    },
+    {
+      "topic": "Reasons behind the sell-off, oil and Iran",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "Lists CPI and PPI, credit market risks, liquidity strain, the Iran war, oil prices and fear of a return to high rates as the causes of the sell-off.",
+          "quote": "Many reasons: CPI and PPI, dangers in the credit market, liquidity strain, the Iran war, oil prices, fear of inflation, fear that the high-rate environment will return.",
+          "source_url": "https://x.com/cevikfinance/status/2111733029164974344"
+        },
+        {
+          "person": "MrTradeer",
+          "view": "In the futures open WTI fell 0.6%, Brent 0.5% and natural gas 2.1%.",
+          "quote": "WTI crude: -0.6% 5. Brent: -0.5% 6. Natural gas: -2.1%",
+          "source_url": "https://x.com/MrTradeer/status/2111961484561358988"
+        }
+      ]
+    },
+    {
+      "topic": "Is AI a bubble?",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "Argues the market is nothing like a bubble and 2026 is not comparable to the euphoria of 1999, noting that after VIX hit 60 and the index fell over 20% in April 2025, it made a new high within 1-2 months.",
+          "quote": "I'm telling you this market has nothing to do with a bubble, but you don't believe me.",
+          "source_url": "https://x.com/cevikfinance/status/2111732208339665254"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "Says the market thinks AI is a bubble and the expensive stocks right now are companies unrelated to AI.",
+          "quote": "The market thinks AI is a bubble.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2111898796741529677"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "Points to the sharp drawdowns from peak in AI and tech stocks that rallied in 2026 and favors taking profits.",
+          "quote": "As I've been saying for years: ‼️Taking Profits Is Good‼️",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        }
+      ]
+    },
+    {
+      "topic": "AI infrastructure: power and GPU costs",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "GPU rental costs rose another 20% recently, power infrastructure and gas turbines are scarce while demand keeps rising; finds expecting a drop in rental prices odd.",
+          "quote": "GPU rental cost keeps rising, up another 20% recently.",
+          "source_url": "https://x.com/dtfinans_/status/2111776867044688168"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Microsoft's reason for exiting the Essex data center deal is inadequate grid capacity, at a critical time for Nscale's IPO preparation.",
+          "quote": "The decision was attributed to inadequate local grid infrastructure and the required power not being available until the 2030s.",
+          "source_url": "https://x.com/WallStDiaries/status/2111875442106081773"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey: PPF liquidation and MSCI uncertainty",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Says money in PPF has gone unpaid for over a month, that SPK bears the supervisory responsibility and payment must be made.",
+          "quote": "@spkgovtr not doing its job is not my problem. (They already admitted it themselves) Pay the #PPF.",
+          "source_url": "https://x.com/dtfinans_/status/2111826473724051893"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Says it is not meaningful to say anything until the liquidation ends and MSCI uncertainty is lifted.",
+          "quote": "It is not meaningful to say anything before liquidation ends and the MSCI uncertainty is lifted.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2112003574737850878"
+        }
+      ]
+    },
+    {
+      "topic": "Cost-of-living protests in France",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Protests over rising living costs and energy prices turned violent in Paris, Marseille and Lyon.",
+          "quote": "Demonstrations triggered by rising cost of living and energy prices across France quickly turned violent.",
+          "source_url": "https://x.com/WallStDiaries/status/2111735282861285720"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "Two people mentioned it: Ali Korkmaz sees $80-$100 as a buying opportunity and the October 20 earnings date was given.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Not at $40, but an opportunity may come for those who want to buy in the $80-$100 range $SPCX",
+          "source_url": "https://x.com/korkmazali08/status/2111820612754927780"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "US warns EU over SpaceX and Starlink: 'Disruptive retaliation could follow'",
+          "source_url": "https://x.com/WallStDiaries/status/2111907793871450519"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "high",
+      "why": "Three people mentioned it: jrouldz is considering trimming his position, Ali Korkmaz finds foldable iPhone demand strong.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "I’m thinking about finally trimming this again, which would be my first sales of the ticker since 2021",
+          "source_url": "https://x.com/jrouldz/status/2111919326039281833"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "The first demand for Apple’s $AAPL first foldable iPhone, the $1,999 iPhone Duo, is quite strong.",
+          "source_url": "https://x.com/korkmazali08/status/2111893032157229259"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "Right now all the expensive stocks are companies unrelated to AI. $AAPL",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2111898796741529677"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "priority": "high",
+      "why": "Two people commented negatively after Morgan Stanley cut its GPU demand forecast by 43%.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "negative",
+          "quote": "In that case where $AMD positions itself is a big question mark.",
+          "source_url": "https://x.com/dtfinans_/status/2111874878148329964"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "Unfortunately bad news for $AMD.",
+          "source_url": "https://x.com/cevikfinance/status/2111870181739798976"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$AMD: -18.6%",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "priority": "high",
+      "why": "Two people commented on Microsoft's exit from the Essex data center deal.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Microsoft decided not to be the anchor tenant of a data center project planned in Essex, England.",
+          "source_url": "https://x.com/WallStDiaries/status/2111875442106081773"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "neutral",
+          "quote": "The project cancellations we talked about earlier have slowly started to arrive.",
+          "source_url": "https://x.com/dtfinans_/status/2111781900897644994"
+        }
+      ]
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN",
+      "priority": "high",
+      "why": "Two people were negative; Ali Korkmaz said he exited the stock.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "This is where we exited $IREN 👇 Incompetent or somewhat shady managements unfortunately end up dragging a company down.",
+          "source_url": "https://x.com/korkmazali08/status/2111890292165279883"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "How much money this IREN spends on pointless things.",
+          "source_url": "https://x.com/cevikfinance/status/2111878395714007131"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "priority": "high",
+      "why": "Two people raised it from different angles: one the 55%+ drop from peak, the other rising GPU rental costs.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$CRWV: over -55%",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "GPU rental cost keeps rising, up another 20% recently.",
+          "source_url": "https://x.com/dtfinans_/status/2111776867044688168"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "dtfinans_ says Nvidia is the only option when very high compute is needed.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "if very high compute power or software infrastructure is needed, the only option is Nvidia’s solutions anyway.",
+          "source_url": "https://x.com/dtfinans_/status/2111874878148329964"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "medium",
+      "why": "dtfinans_ attributes AMD's setback to NVDA and AVGO dominance and finds AI worries misplaced citing Anthropic's revenue.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "The reason is $NVDA and $AVGO dominance.",
+          "source_url": "https://x.com/dtfinans_/status/2111874878148329964"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "priority": "medium",
+      "why": "dtfinans_ reads data center project cancellations as positive for power equipment makers.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "I see this as positive for companies like $GEV.",
+          "source_url": "https://x.com/dtfinans_/status/2111781900897644994"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "medium",
+      "why": "FinancewithIzzy reported net Meta buying in Trump's August trades and ~20% profit growth expectations.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "$META Meta: $5.1 million – $25.3 million net purchase.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111759016242155890"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "medium",
+      "why": "FinancewithIzzy noted Trump sold Micron, the stock trades at ~12x P/E and is 27.6% below its peak.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$MU Micron: $251K – $515K net sale.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111759016242155890"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius",
+      "priority": "medium",
+      "why": "dtfinans_ says GPU rental prices rose 20% and demand is strong.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "Demand, meanwhile, is increasing incredibly.",
+          "source_url": "https://x.com/dtfinans_/status/2111776867044688168"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "priority": "medium",
+      "why": "jrouldz is consolidating quantum exposure around IonQ although the wedge breakout failed.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I see $IONQ separating themselves further from the rest of the quantum pack",
+          "source_url": "https://x.com/jrouldz/status/2111862245843984565"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "jrouldz flagged that the $80K resistance may be flipping into support.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$BTC potentially flipping the prior resistance at $80K into support",
+          "source_url": "https://x.com/jrouldz/status/2111828432434667831"
+        }
+      ]
+    },
+    {
+      "symbol": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "priority": "medium",
+      "why": "jrouldz said IWM is back at the January high, which could become a resistance-to-support flip.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "hmm $IWM is right back to the January high level would make for a great resistance-->support flip",
+          "source_url": "https://x.com/jrouldz/status/2111836979759612161"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "low",
+      "why": "jrouldz said the wedge breakout turned into a fakeout.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$RKLB and $IONQ Wedge breakouts —> wedge fakeouts",
+          "source_url": "https://x.com/jrouldz/status/2111814836946457034"
+        }
+      ]
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard",
+      "priority": "medium",
+      "why": "ulkser says MA, V, KIE, SPGI and BRK.B are breaking out.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Nobody is talking about the breakouts on $MA $V $KIE $SPGI $BRK.B literarily people sleeping on these",
+          "source_url": "https://x.com/ulkser/status/2111859944672890915"
+        }
+      ]
+    },
+    {
+      "symbol": "V",
+      "name": "Visa",
+      "priority": "medium",
+      "why": "ulkser says MA, V, KIE, SPGI and BRK.B are breaking out.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Nobody is talking about the breakouts on $MA $V $KIE $SPGI $BRK.B literarily people sleeping on these",
+          "source_url": "https://x.com/ulkser/status/2111859944672890915"
+        }
+      ]
+    },
+    {
+      "symbol": "KIE",
+      "name": "SPDR S&P Insurance ETF",
+      "priority": "medium",
+      "why": "ulkser says MA, V, KIE, SPGI and BRK.B are breaking out.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Nobody is talking about the breakouts on $MA $V $KIE $SPGI $BRK.B literarily people sleeping on these",
+          "source_url": "https://x.com/ulkser/status/2111859944672890915"
+        }
+      ]
+    },
+    {
+      "symbol": "SPGI",
+      "name": "S&P Global",
+      "priority": "medium",
+      "why": "ulkser says MA, V, KIE, SPGI and BRK.B are breaking out.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Nobody is talking about the breakouts on $MA $V $KIE $SPGI $BRK.B literarily people sleeping on these",
+          "source_url": "https://x.com/ulkser/status/2111859944672890915"
+        }
+      ]
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway B",
+      "priority": "medium",
+      "why": "ulkser says MA, V, KIE, SPGI and BRK.B are breaking out.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Nobody is talking about the breakouts on $MA $V $KIE $SPGI $BRK.B literarily people sleeping on these",
+          "source_url": "https://x.com/ulkser/status/2111859944672890915"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Google Quantum AI announced it reduced operation errors, quantum computing's biggest problem, by 40x on the Willow chip.",
+          "source_url": "https://x.com/WallStDiaries/status/2111910186680013303"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Elon Musk's AI self-criticism: \"I Should Have Focused Earlier\"",
+          "source_url": "https://x.com/WallStDiaries/status/2111757288436367388"
+        }
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$SNDK: -44.4%",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        }
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$DELL: -23.2%",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$BE: -37%",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "name": "DRAM ETF",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$DRAM is currently trading positive",
+          "source_url": "https://x.com/korkmazali08/status/2111978842600374727"
+        }
+      ]
+    },
+    {
+      "symbol": "EWJ",
+      "name": "iShares MSCI Japan ETF (Nikkei)",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "After the sharp drop in Nikkei 225 futures, the benchmark pared losses to -1.2% at 64,559.63.",
+          "source_url": "https://x.com/WallStDiaries/status/2112053630505201756"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "He says nobody is talking about the breakouts in **MA**, **V**, **KIE**, **SPGI** and **BRK.B** and people are sleeping on them. He also shared, without adding a comment, Atilla Yeşilada's call to pay PPF investors from the budget.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Breakouts in MA, V, KIE, SPGI and BRK.B",
+          "url": "https://x.com/ulkser/status/2111859944672890915",
+          "published_at": "2026-10-18T16:40:21.000Z",
+          "summary": "ulkser says the breakouts in these stocks are not being talked about by anyone.",
+          "assets": [
+            {
+              "symbol": "MA",
+              "sentiment": "positive",
+              "note": "Says it is breaking out and being overlooked."
+            },
+            {
+              "symbol": "V",
+              "sentiment": "positive",
+              "note": "Says it is breaking out and being overlooked."
+            },
+            {
+              "symbol": "KIE",
+              "sentiment": "positive",
+              "note": "Says it is breaking out and being overlooked."
+            },
+            {
+              "symbol": "SPGI",
+              "sentiment": "positive",
+              "note": "Says it is breaking out and being overlooked."
+            },
+            {
+              "symbol": "BRK.B",
+              "sentiment": "positive",
+              "note": "Says it is breaking out and being overlooked."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Atilla Yeşilada PPF share",
+          "url": "https://x.com/ulkser/status/2111882511412543594",
+          "published_at": "2026-10-18T18:10:02.000Z",
+          "summary": "ulkser shared Atilla Yeşilada's call to pay PPF investors from the budget without commenting.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "He says the market sees AI as a bubble and that the expensive stocks right now are companies unrelated to AI, citing **AAPL**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Expensive stocks are unrelated to AI",
+          "url": "https://x.com/AhmetSunelcan1/status/2111898796741529677",
+          "published_at": "2026-10-18T19:14:44.000Z",
+          "summary": "Writes that the market thinks AI is a bubble and all the expensive stocks right now are companies unrelated to AI.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Cited as an example of the expensive stocks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz relayed the flat futures open (S&P 500 −0.01%, Nasdaq 100 −0.08%, VIX 19.08) and argued markets are not expensive enough for a black Monday and that weekend-trading claims were a broker ad. He wrote that demand for the $1,999 foldable iPhone Duo is strong at **AAPL**. For **SPCX** he reminded of the October 20 earnings and saw $80-$100 as an opportunity; he said they exited **IREN**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "US futures open flat",
+          "url": "https://x.com/korkmazali08/status/2111941186151661850",
+          "published_at": "2026-10-18T22:03:11.000Z",
+          "summary": "Dow +0.07%, S&P 500 −0.01%, Nasdaq 100 −0.08%, Russell 2000 +0.21%; VIX down 0.83% at 19.08.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Markets not expensive enough for a black Monday",
+          "url": "https://x.com/korkmazali08/status/2111961647090663812",
+          "published_at": "2026-10-18T23:24:29.000Z",
+          "summary": "Writes that the same talk circulates on every drop and markets are not expensive enough for a black Monday.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Weekend trading claim and DRAM",
+          "url": "https://x.com/korkmazali08/status/2111978842600374727",
+          "published_at": "2026-10-19T00:32:49.000Z",
+          "summary": "Writes that a few large accounts spread black Monday talk through a broker's weekend-trading claim, which he thinks was an ad for that broker; adds DRAM is trading positive.",
+          "assets": [
+            {
+              "symbol": "DRAM",
+              "sentiment": "neutral",
+              "note": "Noted DRAM is currently trading positive."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Foldable iPhone Duo pre-orders",
+          "url": "https://x.com/korkmazali08/status/2111893032157229259",
+          "published_at": "2026-10-18T18:51:50.000Z",
+          "summary": "Pre-order deliveries of the $1,999 iPhone Duo slipped to January 2027 within minutes; Apple called demand \"extraordinary\".",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "positive",
+              "note": "Reports initial demand is strong and sales may beat expectations."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Exit from IREN",
+          "url": "https://x.com/korkmazali08/status/2111890292165279883",
+          "published_at": "2026-10-18T18:40:57.000Z",
+          "summary": "Shares the level they exited IREN and writes that incompetent or shady managements drag companies down.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "negative",
+              "note": "Says they exited the stock because of management quality."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX $80-$100 opportunity",
+          "url": "https://x.com/korkmazali08/status/2111820612754927780",
+          "published_at": "2026-10-18T14:04:04.000Z",
+          "summary": "Writes that an opportunity may come not at $40 but for those wanting to buy in the $80-$100 range.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Sees $80-$100 as a buying opportunity."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX earnings preview",
+          "url": "https://x.com/korkmazali08/status/2111811747317264535",
+          "published_at": "2026-10-18T13:28:50.000Z",
+          "summary": "EPS expectation for the October 20 after-close report is $0.14; last quarter revenue rose 92% to $7.8 billion with a $541 million net loss and $18.4 billion capex. AI revenue rose 247% to $2.6 billion and Starlink revenue rose 66% to $4.3 billion.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Earnings on October 20; pace of cloud contract conversion to revenue and Starlink profitability are the watch points."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_ spent much of the day on being unable to access money in PPF and reacting to SPK. In AI infrastructure he calls **AMD**'s positioning a question mark given **NVDA** and **AVGO** dominance, writes that GPU rental costs rose 20% and that he doesn't understand the worries given Anthropic's revenue. He sees **Microsoft**'s data center cancellation as positive for companies like **GEV**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF must be paid",
+          "url": "https://x.com/dtfinans_/status/2111826473724051893",
+          "published_at": "2026-10-18T14:27:21.000Z",
+          "summary": "Quoting lawyer Burak Efe's post, argues the cost of a supervision failure cannot be left to PPF investors alone and SPK must pay PPF.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "AMD GPU forecast cut and NVDA/AVGO",
+          "url": "https://x.com/dtfinans_/status/2111874878148329964",
+          "published_at": "2026-10-18T17:39:42.000Z",
+          "summary": "Attributes Morgan Stanley's cut of AMD GPU demand from 14.1 to 8.0 million to NVDA and AVGO dominance; writes that Nvidia is the only option for heavy compute and ASICs for inference, leaving AMD's position unclear.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "negative",
+              "note": "Positioning is a big question mark, squeezed between ASICs and Nvidia."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "The only option for very high compute."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Stands out with ASIC-based inference solutions."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Data center cancellations positive for GEV",
+          "url": "https://x.com/dtfinans_/status/2111781900897644994",
+          "published_at": "2026-10-18T11:30:14.000Z",
+          "summary": "Reads Microsoft's cancellation of the UK Nscale data center deal as the start of the project cancellations discussed earlier and positive for companies like GEV.",
+          "assets": [
+            {
+              "symbol": "GEV",
+              "sentiment": "positive",
+              "note": "Sees project cancellations as positive."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Canceled its UK data center deal with Nscale."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "GPU rental costs are rising",
+          "url": "https://x.com/dtfinans_/status/2111776867044688168",
+          "published_at": "2026-10-18T11:10:14.000Z",
+          "summary": "GB300 GPU rental costs rose another 20% recently; as construction costs, gas turbines and grid access get harder while demand grows, he finds expecting a rental price drop odd.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Notes rental prices rising as demand grows."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "positive",
+              "note": "Notes rental prices rising as demand grows."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "GB300 rental price chart shared."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic revenue and Nebius concerns",
+          "url": "https://x.com/dtfinans_/status/2111775287956623808",
+          "published_at": "2026-10-18T11:03:58.000Z",
+          "summary": "Says Anthropic's annualized revenue is around $70 billion and nearing $100 billion, and writes that he doesn't understand worries over revenue per GW versus Nebius compute costs.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Finds the worries misplaced because AI demand is strong."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries reported the Nikkei trying to recover after falling 1.2% and US futures rising ahead of earnings week contrary to \"Black Monday\" fears. It wrote that **Microsoft** pulled out of the Essex data center deal, **Google** cut the error rate on its Willow chip 40x and the US warned the EU of retaliation over **SpaceX**. It added that cost-of-living protests in France turned violent.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nikkei pares losses",
+          "url": "https://x.com/WallStDiaries/status/2112053630505201756",
+          "published_at": "2026-10-19T05:30:00.000Z",
+          "summary": "After the sharp drop in Nikkei 225 futures, the index rebounded to 64,559.63, down 1.2%.",
+          "assets": [
+            {
+              "symbol": "EWJ",
+              "sentiment": "neutral",
+              "note": "Nikkei at 64,559.63, down 1.2%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "US futures rise ahead of earnings",
+          "url": "https://x.com/WallStDiaries/status/2112048615174598721",
+          "published_at": "2026-10-19T05:10:04.000Z",
+          "summary": "Nasdaq, S&P 500 and Dow futures rose contrary to black Monday fears; retail investors stay cautious and earnings will set direction.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Google cuts Willow error rate 40x",
+          "url": "https://x.com/WallStDiaries/status/2111910186680013303",
+          "published_at": "2026-10-18T20:00:00.000Z",
+          "summary": "Google Quantum AI announced in Science that it reduced quantum operation errors 40x on the Willow chip, lifting accuracy to 99.99%.",
+          "assets": [
+            {
+              "symbol": "GOOG",
+              "sentiment": "positive",
+              "note": "Announced an error-correction breakthrough on the Willow chip."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "US warns EU over SpaceX/Starlink",
+          "url": "https://x.com/WallStDiaries/status/2111907793871450519",
+          "published_at": "2026-10-18T19:50:30.000Z",
+          "summary": "US ambassador to the EU Andrew Puzder said that if the EU shuts SpaceX and Starlink out of spectrum, European companies could face disruptive retaliation.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "The EU's spectrum restriction plan drew a retaliation threat."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft exits Essex data center",
+          "url": "https://x.com/WallStDiaries/status/2111875442106081773",
+          "published_at": "2026-10-18T17:41:56.000Z",
+          "summary": "Microsoft dropped out as anchor tenant of Nscale's Essex data center because of grid shortfalls and power not being available until the 2030s; Nscale said cooperation in other markets continues.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Exited the Essex project over grid constraints."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Jack Clark: US national income $44 trillion",
+          "url": "https://x.com/WallStDiaries/status/2111787116606763186",
+          "published_at": "2026-10-18T11:50:58.000Z",
+          "summary": "Anthropic co-founder Jack Clark said AI could lift US national income from $30.77 trillion to $44 trillion by 2030.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Musk: I should have focused on AI earlier",
+          "url": "https://x.com/WallStDiaries/status/2111757288436367388",
+          "published_at": "2026-10-18T09:52:26.000Z",
+          "summary": "Musk said his DOGE role kept him away from his companies and that the way out of the debt problem is raising output through AI and robotics.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Musk said he should have focused on AI and robotics projects earlier."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Cost-of-living protests turn violent in France",
+          "url": "https://x.com/WallStDiaries/status/2111735282861285720",
+          "published_at": "2026-10-18T08:25:00.000Z",
+          "summary": "Cost-of-living and energy price protests led to burning barricades and many detentions in Paris, Marseille and Lyon.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu says Asia's morning started well but the day is decided in New York, expects high volatility in the first hour after the open and says Asian gains may not last. He wrote that if everyone expects a black Monday it may not come, but a black Thursday could arrive when least expected. He said that in Turkey it is not meaningful to say anything until the liquidation ends and MSCI uncertainty is lifted.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "New York open will decide",
+          "url": "https://x.com/TuncSatiroglu/status/2112056498130194858",
+          "published_at": "2026-10-19T05:41:23.000Z",
+          "summary": "Markets started well but the day starts in New York; the first hour after the open is volatile and Asian gains may not last.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "No black Monday, but a black Thursday could come",
+          "url": "https://x.com/TuncSatiroglu/status/2111811521336500414",
+          "published_at": "2026-10-18T13:27:56.000Z",
+          "summary": "Writes that if everyone expects a black Monday tomorrow it won't come, but a black Thursday could when least expected.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Liquidation and MSCI uncertainty",
+          "url": "https://x.com/TuncSatiroglu/status/2112003574737850878",
+          "published_at": "2026-10-19T02:11:06.000Z",
+          "summary": "Writes that it is not meaningful to say anything until the liquidation ends and MSCI uncertainty is lifted.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "MrTradeer posted that in the Sunday evening futures open S&P 500 was +0.2%, Nasdaq 100 +0.2%, Dow +0.1%, while WTI was −0.6%, Brent −0.5% and natural gas −2.1%. Against black Monday expectations he wrote that if everyone expects it markets will open green and he has never seen the majority on the right side. He described entering a trade at 110, taking profit at 96 and opening another from the same zone.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Futures market open",
+          "url": "https://x.com/MrTradeer/status/2111961484561358988",
+          "published_at": "2026-10-18T23:23:50.000Z",
+          "summary": "S&P 500 +0.2%, Nasdaq 100 +0.2%, Dow +0.1%, WTI −0.6%, Brent −0.5%, natural gas −2.1%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "If everyone expects black Monday, it opens green",
+          "url": "https://x.com/MrTradeer/status/2111931154337313261",
+          "published_at": "2026-10-18T21:23:19.000Z",
+          "summary": "On black Monday expectations, writes that if everyone expects it markets will open green and he has never seen the majority on the right side.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trade from 110, target at 96",
+          "url": "https://x.com/MrTradeer/status/2111967141440426234",
+          "published_at": "2026-10-18T23:46:19.000Z",
+          "summary": "Writes they took a trade from 110 and took profit at 96, then opened another from the same zone with an SFP and are in profit.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy points out drawdowns from peak: **SNDK** −44.4%, **CRWV** over −55%, **MU** −27.6%, **DELL** −23.2%, **AMD** −18.6% and **BE** −37%; his message is \"Taking profits is good\". In Trump's August trades, a net **MU** sale ($251K-$515K) and net **META** purchase ($5.1M-$25.3M) stand out. He notes Wall Street expects roughly 20% annual profit growth at **META** over the next three years, while **MU** trades at about 12x P/E.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Drawdowns from peak: taking profits is good",
+          "url": "https://x.com/FinancewithIzzy/status/2111794554282156394",
+          "published_at": "2026-10-18T12:20:31.000Z",
+          "summary": "Shares drawdowns from peak for SNDK, DELL, MU, AMD, BE and CRWV, which rallied in 2026, and notes a $100,000 SNDK position at the peak is now about $55,600 (October 16 data).",
+          "assets": [
+            {
+              "symbol": "SNDK",
+              "sentiment": "neutral",
+              "note": "Down 44.4% from peak."
+            },
+            {
+              "symbol": "DELL",
+              "sentiment": "neutral",
+              "note": "Down 23.2% from peak."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Down 27.6% from peak."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "neutral",
+              "note": "Down 18.6% from peak."
+            },
+            {
+              "symbol": "BE",
+              "sentiment": "neutral",
+              "note": "Down 37% from peak."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Down over 55% from peak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump's portfolio: Micron sold, Meta bought",
+          "url": "https://x.com/FinancewithIzzy/status/2111759016242155890",
+          "published_at": "2026-10-18T09:59:18.000Z",
+          "summary": "In Trump's August trades MU net sales were $251K-$515K and META net purchases $5.1M-$25.3M; MU has strong HBM demand but price sustainability and supply risks, META has heavy AI spending but Wall Street expects ~20% annual profit growth.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Net sale; ~12x P/E, risk of price sustainability and supply growth."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Net purchase; ~20% annual profit growth expected."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine shared today's calendar: Cleveland-Cliffs and Fifth Third report before the open, and AGNC, Zions, Western Alliance and Steel Dynamics among others after the close, with the NAHB housing index at 10:00 EST. It also reported Anthropic committed 5% of its shares to a public benefit fund.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Today's earnings and data calendar",
+          "url": "https://x.com/wallstengine/status/2112061199453962319",
+          "published_at": "2026-10-19T06:00:04.000Z",
+          "summary": "October 19: NAHB housing index at 10:00 EST; CLF and FITB report before the open; AGNC, SFBS, ZION, WAL, STLD and others after the close.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic commits 5% of shares to public benefit fund",
+          "url": "https://x.com/wallstengine/status/2111901377182187746",
+          "published_at": "2026-10-18T19:25:00.000Z",
+          "summary": "The initial equity contribution to the Anthropic Public Benefit Fund is 5% (subject to stockholder approval); an extra 2% may be allocated for every 50% valuation increase. With the founders' 80% pledge and employee commitments, total commitments are roughly 20% of equity.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz wrote that **AAPL** is his largest position at roughly 15% of his portfolio with P/E nearing 40 and that he is considering trimming for the first time since 2021; he has already sold about half since 2008 and may go down to a 10% weight. In quantum he is consolidating around **IONQ**, having cut **QBTS** and **RGTI** below 1%, and said the wedge breakouts in **RKLB** and **IONQ** turned into fakeouts. On charts he highlighted **BTC** potentially flipping $80K resistance into support and **IWM** returning to the January high.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Considering trimming AAPL",
+          "url": "https://x.com/jrouldz/status/2111919326039281833",
+          "published_at": "2026-10-18T20:36:19.000Z",
+          "summary": "AAPL is the largest position at about 15% of the portfolio with P/E nearing 40; he is considering the first sale since 2021. In replies he adds he has sold about half since 2008 and may go down to a 10% allocation.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "negative",
+              "note": "Considering trimming again over overexposure and ~40x P/E."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Consolidating quantum exposure in IONQ",
+          "url": "https://x.com/jrouldz/status/2111862245843984565",
+          "published_at": "2026-10-18T16:49:30.000Z",
+          "summary": "He thinks IONQ is separating from the quantum pack; he cut QBTS and RGTI below 1%.",
+          "assets": [
+            {
+              "symbol": "IONQ",
+              "sentiment": "positive",
+              "note": "Highest-conviction quantum position."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "RKLB and IONQ wedge breakouts failed",
+          "url": "https://x.com/jrouldz/status/2111814836946457034",
+          "published_at": "2026-10-18T13:41:07.000Z",
+          "summary": "Writes that the wedge breakouts in RKLB and IONQ turned into fakeouts.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "negative",
+              "note": "Wedge breakout was a fakeout."
+            },
+            {
+              "symbol": "IONQ",
+              "sentiment": "negative",
+              "note": "Wedge breakout was a fakeout."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BTC $80K resistance",
+          "url": "https://x.com/jrouldz/status/2111828432434667831",
+          "published_at": "2026-10-18T14:35:08.000Z",
+          "summary": "Points to BTC potentially flipping the former $80K resistance into support.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Possible flip of $80K resistance into support."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IWM at January high",
+          "url": "https://x.com/jrouldz/status/2111836979759612161",
+          "published_at": "2026-10-18T15:09:06.000Z",
+          "summary": "Writes that IWM is back at the January high, which could be a resistance-to-support flip, though that may be hopium.",
+          "assets": [
+            {
+              "symbol": "IWM",
+              "sentiment": "neutral",
+              "note": "Back at the January high."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance called Morgan Stanley's GPU demand cut \"bad news\" for **AMD**, said he had called it expensive many times and hoped people took profits around $600. He listed CPI/PPI, credit market risks, liquidity, the Iran war, oil and fear of high rates as reasons for the decline, and kept his view that the market is nothing like a bubble and 1999-style euphoria is absent. Even if VIX goes to 60, what matters is whether the index is higher 6-12 months after the election, citing April 2025. He also shared a new video on the Nasdaq sell-off and his buy levels.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bad news for AMD",
+          "url": "https://x.com/cevikfinance/status/2111870181739798976",
+          "published_at": "2026-10-18T17:21:02.000Z",
+          "summary": "Writes that Morgan Stanley's cut to AMD GPU demand forecast is bad news, that he said many times it was expensive and hopes people took profits around $600.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "negative",
+              "note": "Calls it expensive; hopes profits were taken around $600."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Video on Nasdaq sell-off and buy levels",
+          "url": "https://x.com/cevikfinance/status/2111833253292167263",
+          "published_at": "2026-10-18T14:54:18.000Z",
+          "summary": "Announced a new video covering the Nasdaq sell-off, the stocks he follows and the levels he waits to buy (no transcript).",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Even with VIX at 60, what matters is 6-12 months after the election",
+          "url": "https://x.com/cevikfinance/status/2111752189265719717",
+          "published_at": "2026-10-18T09:32:11.000Z",
+          "summary": "Writes VIX could go to 60 and stocks could fall further, but what matters is whether we're higher 6-12 months after the election; recalls the index made a new high within 1-2 months after April 2025.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Reasons for the decline",
+          "url": "https://x.com/cevikfinance/status/2111733029164974344",
+          "published_at": "2026-10-18T08:16:02.000Z",
+          "summary": "Lists CPI and PPI, credit market dangers, liquidity strain, the Iran war, oil prices, inflation and fear of high rates as causes.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "The market is not a bubble",
+          "url": "https://x.com/cevikfinance/status/2111732208339665254",
+          "published_at": "2026-10-18T08:12:47.000Z",
+          "summary": "Sharing Antonio Costa's post that 2026 is not comparable to 1999 and the first sign of extreme fear is here, argues the market is nothing like a bubble.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.1453,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.181,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Roughly a fifth of the portfolio sits in one fintech, so rate and credit-quality news will move the whole portfolio. Credit losses and member growth are what to watch in earnings.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: holding makes sense as long as the growth story continues.",
+          "Against: an 18.1% weight is a high concentration in a single stock.",
+          "Against: today's sources highlighted rate and credit market risks (cevikfinance)."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1405,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "positive",
+            "quote": "$META Meta: $5.1 million – $25.3 million net purchase.",
+            "source_url": "https://x.com/FinancewithIzzy/status/2111759016242155890"
+          }
+        ],
+        "action": "hold",
+        "why": "According to FinancewithIzzy, Trump's August trades show net Meta buying and Wall Street expects ~20% annual profit growth, but this is not a new buying trigger.",
+        "opinion": "Meta stays attractive as ad revenue carries AI spending; the main risk is capex growing faster than revenue. Capex guidance in earnings is the thing to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: according to FinancewithIzzy, Wall Street expects ~20% annual profit growth over the next three years.",
+          "Against: AI capex is high and its payoff uncertain.",
+          "Against: at a 14% weight the portfolio is tech-heavy."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1298,
+        "mentions": [
+          {
+            "person": "dtfinans_",
+            "sentiment": "positive",
+            "quote": "The reason is $NVDA and $AVGO dominance.",
+            "source_url": "https://x.com/dtfinans_/status/2111874878148329964"
+          }
+        ],
+        "action": "hold",
+        "why": "According to dtfinans_ AVGO and NVDA dominate AI hardware, but no concrete level or date was given.",
+        "opinion": "Custom chip (ASIC) demand shields Broadcom from the forecast cut AMD suffered; but together with Meta the portfolio is doubly exposed to the AI spending cycle. Order continuity from large customers is the main risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: according to dtfinans_ ASIC design for inference puts AVGO ahead.",
+          "For: AI infrastructure demand looks strong (GPU rental +20%, dtfinans_).",
+          "Against: dependence on AI spending and a 13% weight."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1057,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "As a nuclear component maker it benefits indirectly from the data center power scarcity theme. Microsoft's grid-related cancellation shows power supply is the bottleneck.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: power supply is the bottleneck for AI data centers (the Essex cancellation relayed by WallStDiaries).",
+          "Against: nuclear projects are long-dated and the earnings impact comes slowly."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Reddit depends on ad revenue and is volatile, swinging hard in sell-offs. A 9.4% weight is reasonable but should not be allowed to grow without discipline.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: the ad revenue recovery and user growth story continues.",
+          "Against: high-beta growth stocks fall further when the market turns volatile."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0718,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Electrical grid equipment is a theme that can benefit from data center power demand; dtfinans_ reading project cancellations as positive for power equipment points the same way. The paper is relatively new and at 7.2% should be monitored.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: grid and power equipment demand is growing with AI infrastructure.",
+          "Against: the paper is new with limited history; valuation risk."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0711,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Long-dated bonds balance equity sell-offs, but the inflation and high-rate fears listed by cevikfinance are this paper's biggest risk. At 7.1% it is the portfolio's only rate hedge.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: long bonds can cushion if equities fall sharply.",
+          "Against: fear of high rates returning hits long bonds (risks listed by cevikfinance)."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0605,
+        "mentions": [
+          {
+            "person": "Tunç Şatıroğlu",
+            "sentiment": "neutral",
+            "quote": "It is not meaningful to say anything before liquidation ends and the MSCI uncertainty is lifted.",
+            "source_url": "https://x.com/TuncSatiroglu/status/2112003574737850878"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Tunç Şatıroğlu it is not meaningful to say anything before the liquidation ends and MSCI uncertainty lifts, so there is no clear buy/sell signal today.",
+        "opinion": "This fund gives dollar-based Turkey exposure and is open to local risks such as the PPF/SPK tension and MSCI uncertainty. Keeping it small at a 6% weight makes sense.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: a different risk source in the portfolio in terms of valuation and diversification.",
+          "Against: local financial system problems (PPF, SPK) weaken confidence (dtfinans_)."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "SPCX",
+        "name": "SpaceX",
+        "why": "Ali Korkmaz writes that ahead of the October 20 earnings an opportunity may come not at $40 but in the $80-$100 range.",
+        "source_url": "https://x.com/korkmazali08/status/2111820612754927780"
+      },
+      {
+        "symbol": "IONQ",
+        "name": "IonQ",
+        "why": "jrouldz is consolidating quantum exposure around IonQ as his highest conviction, believing it is separating from rivals.",
+        "source_url": "https://x.com/jrouldz/status/2111862245843984565"
+      },
+      {
+        "symbol": "GEV",
+        "name": "GE Vernova",
+        "why": "dtfinans_ thinks data center project cancellations are positive for companies like GEV.",
+        "source_url": "https://x.com/dtfinans_/status/2111781900897644994"
+      }
+    ]
+  }
+}

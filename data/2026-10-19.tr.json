@@ -1,0 +1,1436 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T07:17:18.772Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Microsoft İngiltere'deki Nscale veri merkezi anlaşmasından çekildi",
+      "person": "WallStDiaries",
+      "why": "WallStDiaries'e göre Microsoft, Essex'te planlanan veri merkezinde ana kiracı olmaktan vazgeçti; gerekçe, gerekli elektriğin 2030'lu yıllara kadar sağlanamaması.",
+      "source_url": "https://x.com/WallStDiaries/status/2111875442106081773"
+    },
+    {
+      "title": "Morgan Stanley AMD GPU talep tahminini 14,1 milyondan 8,0 milyona indirdi",
+      "person": "dtfinans_",
+      "why": "dtfinans_, 2026-2030 AMD GPU talep tahmininin %43,3 kesildiğini, Nvidia tahmininin ise aynı kaldığını aktarıp bunu NVDA ve AVGO dominasyonuna bağlıyor.",
+      "source_url": "https://x.com/dtfinans_/status/2111874878148329964"
+    },
+    {
+      "title": "SpaceX 20 Ekim'de bilanço açıklıyor",
+      "person": "korkmazali08",
+      "why": "Ali Korkmaz'a göre bilanço kapanış sonrası gelecek; hisse başına kâr beklentisi 0,14 dolar, geçen çeyrekte gelir %92 artışla 7,8 milyar dolar, yatırım harcaması 18,4 milyar dolar.",
+      "source_url": "https://x.com/korkmazali08/status/2111811747317264535"
+    },
+    {
+      "title": "Katlanabilir iPhone Duo ön siparişlerinde teslimat Ocak 2027'ye uzadı",
+      "person": "korkmazali08",
+      "why": "Ali Korkmaz, AppleInsider'a dayanarak 1.999 dolarlık modelin ön siparişlerinin dakikalar içinde tükendiğini ve Apple'ın talebi \"olağanüstü\" olarak nitelendirdiğini aktarıyor.",
+      "source_url": "https://x.com/korkmazali08/status/2111893032157229259"
+    },
+    {
+      "title": "ABD vadelileri bilanço haftası öncesi yükselişte, Nikkei toparlanıyor",
+      "person": "WallStDiaries",
+      "why": "WallStDiaries'e göre Nasdaq, S&P 500 ve Dow vadelileri \"Kara Pazartesi\" korkusunun aksine yükseldi; Nikkei 225 ise %1,2 düşüşle 64.559,63 puana çekildi.",
+      "source_url": "https://x.com/WallStDiaries/status/2112048615174598721"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "\"Kara Pazartesi\" beklentisi ve vadeli endeksler",
+      "views": [
+        {
+          "person": "MrTradeer",
+          "view": "Herkes kara pazartesi bekliyorsa piyasanın yeşil açacağını savunuyor; vadelilerde S&P 500 +%0,2, Nasdaq 100 +%0,2, Dow +%0,1.",
+          "quote": "Herkes bekliyorsa kesin yeşil açar piyasalar.",
+          "source_url": "https://x.com/MrTradeer/status/2111931154337313261"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Piyasaların kara pazartesi yaşanacak kadar pahalı olmadığını düşünüyor.",
+          "quote": "Kara pazartesi olacak kadar pahalı değil piyasalar",
+          "source_url": "https://x.com/korkmazali08/status/2111961647090663812"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Kara Pazartesi gelmeyebilir ama beklenmedik bir zamanda kara Perşembe gelebilir; Asya sabahındaki kazançlar kalıcı olmayabilir.",
+          "quote": "Herkes yarın kara Pazartesi bekliyorsa gelmez. Ama beklemediğiniz bir zamanda mesela kara Perşembe gelebilir.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2111811521336500414"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Haftasonu piyasasının anlamı olmadığını, asıl önemli olanın pazar akşamı vadeli endeks açılışı olduğunu söylüyor.",
+          "quote": "Haftasonu piyasasının pek bir anlamı yok. Pazar günü akşam vadeli endeks açılışı önemli.",
+          "source_url": "https://x.com/cevikfinance/status/2111737719118516434"
+        }
+      ]
+    },
+    {
+      "topic": "Piyasa düşüşünün nedenleri, petrol ve İran",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "Düşüşün sebepleri olarak CPI ve PPI, kredi piyasası riskleri, likidite sıkıntısı, İran savaşı, petrol fiyatları ve yüksek faiz korkusunu sıralıyor.",
+          "quote": "CPI ve PPI, kredi piyasasındaki tehlikeler, likitide sıkıntısı, İran savaşı, petrol fiyatları, enflasyon korkusu, yüksek faiz ortamının geri döneceği korkusu gibi bir çok sebep.",
+          "source_url": "https://x.com/cevikfinance/status/2111733029164974344"
+        },
+        {
+          "person": "MrTradeer",
+          "view": "Vadeli açılışta WTI −%0,6, Brent −%0,5 ve doğal gaz −%2,1 geriledi.",
+          "quote": "WTI Ham Petrol: -%0,6 5. Brent: -%0,5 6. Doğal Gaz: -%2,1",
+          "source_url": "https://x.com/MrTradeer/status/2111961484561358988"
+        }
+      ]
+    },
+    {
+      "topic": "Yapay zekâ balon mu?",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "Piyasanın balonla alakası olmadığını, 2026'nın 1999 coşkusuyla kıyaslanamayacağını savunuyor; Nisan 2025'te VIX 60'a çıkıp %20'den fazla düşen endeksin 1-2 ayda yeni zirve yaptığını hatırlatıyor.",
+          "quote": "Size söylüyorum bu piyasanın balon olmakla uzaktan yakından alakası yok diye ama bana inanmıyorsunuz.",
+          "source_url": "https://x.com/cevikfinance/status/2111732208339665254"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "Piyasanın yapay zekânın balon olduğunu düşündüğünü, şu an pahalı olan hisselerin yapay zekâyla ilgisi olmayan şirketler olduğunu söylüyor.",
+          "quote": "Piyasa yapay zekânın balon olduğunu düşünüyor.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2111898796741529677"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "Yıl içinde çok yükselen yapay zekâ ve teknoloji hisselerinin zirveden ciddi kayıplarına dikkat çekip kâr almayı öneriyor.",
+          "quote": "Benim yıllardır söylediğim gibi: ‼️Kâr Almak Candır‼️",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        }
+      ]
+    },
+    {
+      "topic": "Yapay zekâ altyapısı: enerji ve GPU maliyetleri",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "GPU kiralama maliyetleri son dönemde %20 arttı, enerji altyapısı ve gaz türbinleri kıt, talep ise artıyor; kiralama fiyatlarında düşüş beklemeyi anlamsız buluyor.",
+          "quote": "GPU kiralama maliyeti sürekli artıyor son dönemde %20 daha artmış.",
+          "source_url": "https://x.com/dtfinans_/status/2111776867044688168"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Microsoft'un Essex'teki veri merkezi anlaşmasından çekilme gerekçesi şebeke yetersizliği; Nscale'in halka arz hazırlığı için kritik dönemde.",
+          "quote": "Karara gerekçe olarak bölgedeki elektrik şebekesi altyapısının yetersizliği ve gerekli gücün 2030’lu yıllara kadar sağlanamaması gösterildi.",
+          "source_url": "https://x.com/WallStDiaries/status/2111875442106081773"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye: PPF tasfiyesi ve MSCI belirsizliği",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "PPF'deki paranın bir aydır ödenmediğini, SPK'nın denetim sorumluluğunu taşıdığını ve ödemenin yapılması gerektiğini savunuyor.",
+          "quote": "@spkgovtr nin işini yapmıyor olması benim sorunum değil. (Kendileri zaten itiraf etti) #PPF’yi ödeyin.",
+          "source_url": "https://x.com/dtfinans_/status/2111826473724051893"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Tasfiye bitmeden ve MSCI belirsizliği kalkmadan bir şey söylemenin anlamlı olmadığını belirtiyor.",
+          "quote": "Tasfiye bitmeden, msci bekirsizliği kalkmadan bir şey demek anlamlı drğil.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2112003574737850878"
+        }
+      ]
+    },
+    {
+      "topic": "Fransa'da hayat pahalılığı protestoları",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Artan hayat pahalılığı ve enerji fiyatları nedeniyle başlayan gösteriler Paris, Marsilya ve Lyon'da şiddete dönüştü.",
+          "quote": "Fransa genelinde artan hayat pahalılığı ve enerji fiyatları nedeniyle başlayan gösteriler hızla şiddet olaylarına dönüştü.",
+          "source_url": "https://x.com/WallStDiaries/status/2111735282861285720"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "İki kişi bahsetti: Ali Korkmaz 80-100 dolar aralığını alım fırsatı olarak görüyor, ayrıca 20 Ekim bilançosu tarihi verildi.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$40 a değil ama $80-$100 aralığında almak isteyenlere fırsat gelebilir $SPCX",
+          "source_url": "https://x.com/korkmazali08/status/2111820612754927780"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "ABD’den AB’ye SpaceX ve Starlink Uyarısı: 'Yıkıcı Misilleme Gelişebilir'",
+          "source_url": "https://x.com/WallStDiaries/status/2111907793871450519"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "high",
+      "why": "Üç kişi bahsetti: Jrouldz portföy ağırlığını azaltmayı düşünüyor, Ali Korkmaz katlanabilir iPhone talebini güçlü buluyor.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "I’m thinking about finally trimming this again, which would be my first sales of the ticker since 2021",
+          "source_url": "https://x.com/jrouldz/status/2111919326039281833"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Apple’ın $AAPL ilk katlanabilir iPhone modeli olan 1.999 dolarlık iPhone Duo’ya ilk talep oldukça güçlü.",
+          "source_url": "https://x.com/korkmazali08/status/2111893032157229259"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "Şu an tüm pahalı hisseler yapay zekâyla alakası olmayan şirketler. $AAPL",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2111898796741529677"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "priority": "high",
+      "why": "Morgan Stanley'nin GPU talep tahminini %43 kesmesi üzerine iki kişi olumsuz yorum yaptı.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "negative",
+          "quote": "Bu durumda $AMD nin kendini nereye konumlandırdığı büyük bir soru işareti işte.",
+          "source_url": "https://x.com/dtfinans_/status/2111874878148329964"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "$AMD için kötü bir haber maalesef.",
+          "source_url": "https://x.com/cevikfinance/status/2111870181739798976"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$AMD: -%18,6",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "priority": "high",
+      "why": "İki kişi Microsoft'un Essex'teki veri merkezi anlaşmasından çekilmesini yorumladı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Microsoft, İngiltere’nin Essex bölgesinde kurulması planlanan veri merkezi projesinde ana kiracı olma kararından vazgeçti.",
+          "source_url": "https://x.com/WallStDiaries/status/2111875442106081773"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "neutral",
+          "quote": "Daha önce konuştuğumuz proje iptalleri yavaştan gelmeye başladı.",
+          "source_url": "https://x.com/dtfinans_/status/2111781900897644994"
+        }
+      ]
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN",
+      "priority": "high",
+      "why": "İki kişi olumsuz konuştu; Ali Korkmaz hisseden çıktığını söyledi.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "$IREN den çıktığımız yer 👇 Beceriksiz yönetimler yada biraz şaibeli hareket sergileyen yönetimler bir yerde maalesef şirketi aşağı çekiyorlar.",
+          "source_url": "https://x.com/korkmazali08/status/2111890292165279883"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "Parayı ne kadar boş işlere harcıyor ya bu IREN.",
+          "source_url": "https://x.com/cevikfinance/status/2111878395714007131"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "priority": "high",
+      "why": "İki kişi farklı açıdan değindi: biri zirveden -%55 düşüşü, diğeri GPU kiralama maliyetlerindeki artışı vurguladı.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$CRWV: -%55'nin üzerinde",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        },
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "GPU kiralama maliyeti sürekli artıyor son dönemde %20 daha artmış.",
+          "source_url": "https://x.com/dtfinans_/status/2111776867044688168"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "dtfinans_ yüksek hesaplama gücü gerekiyorsa tek seçeneğin Nvidia olduğunu söylüyor.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "eğer çok yüksek hesaplama gücüne, yazılım altyapısına vs ihtiyaç varsa zaten tek seçenek nvidia’nın çözümleri.",
+          "source_url": "https://x.com/dtfinans_/status/2111874878148329964"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "medium",
+      "why": "dtfinans_ AMD'nin gerilemesini NVDA ve AVGO dominasyonuna bağlıyor ve Anthropic gelirini gösterip yapay zekâ endişelerini yersiz buluyor.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "Bunun nedeni $NVDA ve $AVGO dominasyonu.",
+          "source_url": "https://x.com/dtfinans_/status/2111874878148329964"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "priority": "medium",
+      "why": "dtfinans_ veri merkezi proje iptallerini enerji ekipmanı üreticileri için olumlu okuyor.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "$GEV gibi sirketler için olumlu görüyorum bunu.",
+          "source_url": "https://x.com/dtfinans_/status/2111781900897644994"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "medium",
+      "why": "FinancewithIzzy Trump'ın Ağustos işlemlerinde Meta net alışını ve ~%20 kâr büyümesi beklentisini aktardı.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "$META Meta: 5,1 milyon – 25,3 milyon dolar net alış.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111759016242155890"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "medium",
+      "why": "FinancewithIzzy Trump'ın Micron'u sattığını, hissenin ~12 F/K ile işlem gördüğünü ve zirveden -%27,6 olduğunu belirtti.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$MU Micron: 251 bin – 515 bin dolar net satış.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111759016242155890"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius",
+      "priority": "medium",
+      "why": "dtfinans_ GPU kiralama fiyatlarının %20 arttığını ve talebin güçlü olduğunu söylüyor.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "Talep ise inanılmaz şekilde artıyor.",
+          "source_url": "https://x.com/dtfinans_/status/2111776867044688168"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "priority": "medium",
+      "why": "jrouldz kuantum maruziyetini IonQ etrafında topluyor ama kama kırılımı sahte çıktı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I see $IONQ separating themselves further from the rest of the quantum pack",
+          "source_url": "https://x.com/jrouldz/status/2111862245843984565"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "jrouldz 80 bin dolar direncinin desteğe dönebileceğini işaret etti.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$BTC potentially flipping the prior resistance at $80K into support",
+          "source_url": "https://x.com/jrouldz/status/2111828432434667831"
+        }
+      ]
+    },
+    {
+      "symbol": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "priority": "medium",
+      "why": "jrouldz IWM'nin Ocak zirvesi seviyesine döndüğünü ve burasının direnç-destek dönüşümü olabileceğini söyledi.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "hmm $IWM is right back to the January high level would make for a great resistance-->support flip",
+          "source_url": "https://x.com/jrouldz/status/2111836979759612161"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "low",
+      "why": "jrouldz kama kırılımının sahte çıktığını söyledi.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$RKLB and $IONQ Wedge breakouts —> wedge fakeouts",
+          "source_url": "https://x.com/jrouldz/status/2111814836946457034"
+        }
+      ]
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard",
+      "priority": "medium",
+      "why": "ulkser MA, V, KIE, SPGI ve BRK.B'de yukarı kırılım olduğunu söylüyor.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Nobody is talking about the breakouts on $MA $V $KIE $SPGI $BRK.B literarily people sleeping on these",
+          "source_url": "https://x.com/ulkser/status/2111859944672890915"
+        }
+      ]
+    },
+    {
+      "symbol": "V",
+      "name": "Visa",
+      "priority": "medium",
+      "why": "ulkser MA, V, KIE, SPGI ve BRK.B'de yukarı kırılım olduğunu söylüyor.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Nobody is talking about the breakouts on $MA $V $KIE $SPGI $BRK.B literarily people sleeping on these",
+          "source_url": "https://x.com/ulkser/status/2111859944672890915"
+        }
+      ]
+    },
+    {
+      "symbol": "KIE",
+      "name": "SPDR S&P Insurance ETF",
+      "priority": "medium",
+      "why": "ulkser MA, V, KIE, SPGI ve BRK.B'de yukarı kırılım olduğunu söylüyor.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Nobody is talking about the breakouts on $MA $V $KIE $SPGI $BRK.B literarily people sleeping on these",
+          "source_url": "https://x.com/ulkser/status/2111859944672890915"
+        }
+      ]
+    },
+    {
+      "symbol": "SPGI",
+      "name": "S&P Global",
+      "priority": "medium",
+      "why": "ulkser MA, V, KIE, SPGI ve BRK.B'de yukarı kırılım olduğunu söylüyor.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Nobody is talking about the breakouts on $MA $V $KIE $SPGI $BRK.B literarily people sleeping on these",
+          "source_url": "https://x.com/ulkser/status/2111859944672890915"
+        }
+      ]
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway B",
+      "priority": "medium",
+      "why": "ulkser MA, V, KIE, SPGI ve BRK.B'de yukarı kırılım olduğunu söylüyor.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Nobody is talking about the breakouts on $MA $V $KIE $SPGI $BRK.B literarily people sleeping on these",
+          "source_url": "https://x.com/ulkser/status/2111859944672890915"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Google Quantum AI ekibi, kuantum bilgisayarların en büyük problemi olan işlem hatalarını Willow çipinde 40 kat azaltmayı başardığını duyurdu.",
+          "source_url": "https://x.com/WallStDiaries/status/2111910186680013303"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Elon Musk’tan Yapay Zeka Özeleştirisi: \"Daha Erken Odaklanmalıydım\"",
+          "source_url": "https://x.com/WallStDiaries/status/2111757288436367388"
+        }
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$SNDK: -%44,4",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        }
+      ]
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$DELL: -%23,2",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$BE: -%37",
+          "source_url": "https://x.com/FinancewithIzzy/status/2111794554282156394"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "name": "DRAM ETF",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$DRAM an itibariyle pozitif işlem görüyor",
+          "source_url": "https://x.com/korkmazali08/status/2111978842600374727"
+        }
+      ]
+    },
+    {
+      "symbol": "EWJ",
+      "name": "iShares MSCI Japan ETF (Nikkei)",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Nikkei 225 vadeli işlemlerinde görülen sert düşüşün ardından gösterge endeks, kayıplarını hafifleterek yüzde 1,2 gerilemeyle 64.559,63 puana çekildi.",
+          "source_url": "https://x.com/WallStDiaries/status/2112053630505201756"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "**MA**, **V**, **KIE**, **SPGI** ve **BRK.B**'deki yukarı kırılımların kimsenin gündeminde olmadığını, insanların bunları kaçırdığını söylüyor. Ayrıca Atilla Yeşilada'nın PPF mağdurlarının parasının bütçeden ödenmesi çağrısını yorum eklemeden paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "MA, V, KIE, SPGI ve BRK.B kırılımları",
+          "url": "https://x.com/ulkser/status/2111859944672890915",
+          "published_at": "2026-10-18T16:40:21.000Z",
+          "summary": "ulkser bu hisselerdeki yukarı kırılımların kimse tarafından konuşulmadığını söylüyor.",
+          "assets": [
+            {
+              "symbol": "MA",
+              "sentiment": "positive",
+              "note": "Yukarı kırılım olduğunu ve fark edilmediğini söylüyor."
+            },
+            {
+              "symbol": "V",
+              "sentiment": "positive",
+              "note": "Yukarı kırılım olduğunu ve fark edilmediğini söylüyor."
+            },
+            {
+              "symbol": "KIE",
+              "sentiment": "positive",
+              "note": "Yukarı kırılım olduğunu ve fark edilmediğini söylüyor."
+            },
+            {
+              "symbol": "SPGI",
+              "sentiment": "positive",
+              "note": "Yukarı kırılım olduğunu ve fark edilmediğini söylüyor."
+            },
+            {
+              "symbol": "BRK.B",
+              "sentiment": "positive",
+              "note": "Yukarı kırılım olduğunu ve fark edilmediğini söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Atilla Yeşilada PPF paylaşımı",
+          "url": "https://x.com/ulkser/status/2111882511412543594",
+          "published_at": "2026-10-18T18:10:02.000Z",
+          "summary": "ulkser, Atilla Yeşilada'nın PPF yatırımcılarının parasının bütçeden ödenmesi çağrısını yorum yapmadan paylaştı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Piyasanın yapay zekâyı balon olarak gördüğünü, şu an pahalı olan hisselerin yapay zekâyla ilgisi olmayan şirketler olduğunu söylüyor ve örnek olarak **AAPL**'yi anıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Pahalı hisseler yapay zekâyla ilgisiz",
+          "url": "https://x.com/AhmetSunelcan1/status/2111898796741529677",
+          "published_at": "2026-10-18T19:14:44.000Z",
+          "summary": "Piyasanın yapay zekânın balon olduğunu düşündüğünü, şu an tüm pahalı hisselerin yapay zekâyla alakası olmayan şirketler olduğunu yazıyor.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Pahalı hisselere örnek olarak anıldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz vadelilerin yatay açılışını (S&P 500 −%0,01, Nasdaq 100 −%0,08, VIX 19,08) aktarıp piyasaların kara pazartesi yaşanacak kadar pahalı olmadığını ve haftasonu işlem iddialarının bir aracı kurum reklamı olduğunu savundu. **AAPL**'de 1.999 dolarlık katlanabilir iPhone Duo talebinin güçlü olduğunu yazdı. **SPCX** için 20 Ekim bilançosunu hatırlatıp 80-100 dolar aralığını fırsat olarak gördü; **IREN**'den ise çıktıklarını söyledi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ABD vadelileri yatay açıldı",
+          "url": "https://x.com/korkmazali08/status/2111941186151661850",
+          "published_at": "2026-10-18T22:03:11.000Z",
+          "summary": "Dow +%0,07, S&P 500 −%0,01, Nasdaq 100 −%0,08, Russell 2000 +%0,21; VIX %0,83 düşüşle 19,08.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Kara pazartesi için piyasalar yeterince pahalı değil",
+          "url": "https://x.com/korkmazali08/status/2111961647090663812",
+          "published_at": "2026-10-18T23:24:29.000Z",
+          "summary": "Her düşüşte aynı söylemin dolaştığını, piyasaların kara pazartesi olacak kadar pahalı olmadığını yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Haftasonu işlem iddiası ve DRAM",
+          "url": "https://x.com/korkmazali08/status/2111978842600374727",
+          "published_at": "2026-10-19T00:32:49.000Z",
+          "summary": "Birkaç büyük hesabın bir aracı kurumun haftasonu işlem iddiasıyla kara pazartesi söylemi yaydığını, bunun aracı kurum reklamı olduğunu düşündüğünü yazıyor; DRAM'in pozitif işlem gördüğünü ekliyor.",
+          "assets": [
+            {
+              "symbol": "DRAM",
+              "sentiment": "neutral",
+              "note": "DRAM'in an itibariyle pozitif işlem gördüğünü belirtti."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Katlanabilir iPhone Duo ön siparişleri",
+          "url": "https://x.com/korkmazali08/status/2111893032157229259",
+          "published_at": "2026-10-18T18:51:50.000Z",
+          "summary": "1.999 dolarlık iPhone Duo'nun ön sipariş teslimatları dakikalar içinde Ocak 2027'ye uzadı; Apple talebi \"olağanüstü\" olarak niteledi.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "positive",
+              "note": "İlk talebin güçlü olduğunu ve satışların beklentiyi aşabileceğini aktarıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IREN'den çıkış",
+          "url": "https://x.com/korkmazali08/status/2111890292165279883",
+          "published_at": "2026-10-18T18:40:57.000Z",
+          "summary": "IREN'den çıktıkları seviyeyi paylaşıp beceriksiz ya da şaibeli yönetimlerin şirketi aşağı çektiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "negative",
+              "note": "Yönetim kalitesi nedeniyle hisseden çıktıklarını söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX 80-100 dolar fırsatı",
+          "url": "https://x.com/korkmazali08/status/2111820612754927780",
+          "published_at": "2026-10-18T14:04:04.000Z",
+          "summary": "Halka arzdan sonra 40 dolara almak isteyenlere değil, 80-100 dolar aralığında almak isteyenlere fırsat gelebileceğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "80-100 dolar aralığını alım fırsatı olarak görüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX bilanço beklentileri",
+          "url": "https://x.com/korkmazali08/status/2111811747317264535",
+          "published_at": "2026-10-18T13:28:50.000Z",
+          "summary": "20 Ekim kapanış sonrası bilançoda hisse başına kâr beklentisi 0,14 dolar; geçen çeyrek gelir %92 artışla 7,8 milyar dolar, net zarar 541 milyon dolar, yatırım harcaması 18,4 milyar dolar. Yapay zekâ gelirleri %247 artışla 2,6 milyar dolar, Starlink geliri %66 artışla 4,3 milyar dolar.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Bilanço 20 Ekim'de; bulut sözleşmesinin gelire dönüşme hızı ve Starlink'te kârlılık takip noktaları."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_ günün büyük kısmını PPF'deki parasına ulaşamamaya ve SPK'ya tepkiye ayırdı. Yapay zekâ altyapısında **NVDA** ve **AVGO** dominasyonu yüzünden **AMD**'nin konumunu soru işareti buluyor, GPU kiralama maliyetlerinin %20 arttığını ve Anthropic'in gelir büyüklüğü karşısında endişeleri anlamadığını yazdı. **Microsoft**'un veri merkezi iptalini ise **GEV** gibi şirketler için olumlu görüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF ödenmeli",
+          "url": "https://x.com/dtfinans_/status/2111826473724051893",
+          "published_at": "2026-10-18T14:27:21.000Z",
+          "summary": "Avukat Burak Efe'nin paylaşımını alıntılayarak denetim aksaklığının bedelinin tek başına PPF yatırımcısına bırakılamayacağını, SPK'nın PPF'yi ödemesi gerektiğini savunuyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "AMD GPU tahmini kesintisi ve NVDA/AVGO",
+          "url": "https://x.com/dtfinans_/status/2111874878148329964",
+          "published_at": "2026-10-18T17:39:42.000Z",
+          "summary": "Morgan Stanley'nin AMD GPU talebini 14,1 milyondan 8,0 milyona indirmesini NVDA ve AVGO dominasyonuna bağlıyor; yüksek hesaplama için tek seçeneğin Nvidia, çıkarım için ASIC olduğunu, AMD'nin konumunun belirsiz olduğunu yazıyor.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "negative",
+              "note": "Konumlanması büyük soru işareti; ASIC ve Nvidia arasında sıkışıyor."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Yüksek hesaplama gücü için tek seçenek."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "ASIC tabanlı çıkarım çözümleriyle öne çıkıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Veri merkezi iptalleri GEV için olumlu",
+          "url": "https://x.com/dtfinans_/status/2111781900897644994",
+          "published_at": "2026-10-18T11:30:14.000Z",
+          "summary": "Microsoft'un Nscale ile İngiltere'deki veri merkezi anlaşmasını iptal etmesini, daha önce konuştukları proje iptallerinin başlangıcı ve GEV gibi şirketler için olumlu olarak yorumluyor.",
+          "assets": [
+            {
+              "symbol": "GEV",
+              "sentiment": "positive",
+              "note": "Proje iptallerini olumlu görüyor."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "İngiltere'de Nscale ile veri merkezi anlaşmasını iptal etti."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "GPU kiralama maliyetleri artıyor",
+          "url": "https://x.com/dtfinans_/status/2111776867044688168",
+          "published_at": "2026-10-18T11:10:14.000Z",
+          "summary": "GB300 GPU kiralama maliyetleri son dönemde %20 arttı; inşaat maliyetleri, gaz türbinleri ve şebeke erişimi zorlaşırken talep artıyor, bu yüzden kiralamada düşüş beklemeyi anlamsız buluyor.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Talep artarken kiralama fiyatlarının yükseldiğini belirtiyor."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "positive",
+              "note": "Talep artarken kiralama fiyatlarının yükseldiğini belirtiyor."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "GB300 kiralama fiyat grafiği paylaşıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic geliri ve Nebius endişeleri",
+          "url": "https://x.com/dtfinans_/status/2111775287956623808",
+          "published_at": "2026-10-18T11:03:58.000Z",
+          "summary": "Anthropic'in yıllıklandırılmış gelirinin yaklaşık 70 milyar dolara denk geldiğini ve 100 milyar dolara yaklaştığını söyleyerek GW başına gelir ve Nebius maliyeti endişelerini anlamadığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Yapay zekâ talebi güçlü olduğu için endişeleri yersiz buluyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries Nikkei'nin %1,2 geriledikten sonra toparlanmaya çalıştığını ve ABD vadelilerinin bilanço haftası öncesi \"Kara Pazartesi\" korkusunun aksine yükseldiğini aktardı. **Microsoft**'un Essex'teki veri merkezi anlaşmasından çekildiğini, **Google**'ın Willow çipinde hata oranını 40 kat düşürdüğünü ve ABD'nin AB'ye **SpaceX** konusunda misilleme uyarısı yaptığını yazdı. Fransa'daki hayat pahalılığı protestolarının şiddete dönüştüğünü de ekledi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nikkei kayıpları hafifletti",
+          "url": "https://x.com/WallStDiaries/status/2112053630505201756",
+          "published_at": "2026-10-19T05:30:00.000Z",
+          "summary": "Nikkei 225 vadelilerindeki sert düşüşün ardından endeks %1,2 gerilemeyle 64.559,63 puana çıktı.",
+          "assets": [
+            {
+              "symbol": "EWJ",
+              "sentiment": "neutral",
+              "note": "Nikkei %1,2 düşüşle 64.559,63 puanda."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ABD vadelileri bilanço öncesi yükselişte",
+          "url": "https://x.com/WallStDiaries/status/2112048615174598721",
+          "published_at": "2026-10-19T05:10:04.000Z",
+          "summary": "Nasdaq, S&P 500 ve Dow vadelileri kara pazartesi korkusunun aksine yükseldi; perakende yatırımcı temkinli, bilançolar yönü belirleyecek.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Google Willow hata oranını 40 kat azalttı",
+          "url": "https://x.com/WallStDiaries/status/2111910186680013303",
+          "published_at": "2026-10-18T20:00:00.000Z",
+          "summary": "Google Quantum AI, Willow çipinde kuantum işlem hatalarını 40 kat azalttığını ve doğruluğu %99,99'a çıkardığını Science dergisinde duyurdu.",
+          "assets": [
+            {
+              "symbol": "GOOG",
+              "sentiment": "positive",
+              "note": "Willow çipinde hata düzeltme atılımı duyurdu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ABD'den AB'ye SpaceX/Starlink uyarısı",
+          "url": "https://x.com/WallStDiaries/status/2111907793871450519",
+          "published_at": "2026-10-18T19:50:30.000Z",
+          "summary": "ABD'nin AB Büyükelçisi Andrew Puzder, AB'nin SpaceX ve Starlink'i spektrumdan uzak tutmasının Avrupalı şirketler için yıkıcı misillemeye yol açabileceğini söyledi.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "AB'nin spektrum kısıtlama planı misilleme tehdidi doğurdu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft Essex veri merkezinden çekildi",
+          "url": "https://x.com/WallStDiaries/status/2111875442106081773",
+          "published_at": "2026-10-18T17:41:56.000Z",
+          "summary": "Microsoft, şebeke yetersizliği ve gücün 2030'lara kadar sağlanamaması nedeniyle Nscale'in Essex veri merkezinde ana kiracı olmaktan vazgeçti; Nscale diğer pazarlardaki iş birliğinin sürdüğünü bildirdi.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Essex projesinden şebeke nedeniyle çekildi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Jack Clark: ABD milli geliri 44 trilyon dolar",
+          "url": "https://x.com/WallStDiaries/status/2111787116606763186",
+          "published_at": "2026-10-18T11:50:58.000Z",
+          "summary": "Anthropic kurucu ortağı Jack Clark, yapay zekânın ABD milli gelirini 2030'a kadar 30,77 trilyon dolardan 44 trilyon dolara taşıyabileceğini söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Musk: Yapay zekaya daha erken odaklanmalıydım",
+          "url": "https://x.com/WallStDiaries/status/2111757288436367388",
+          "published_at": "2026-10-18T09:52:26.000Z",
+          "summary": "Musk, DOGE görevi nedeniyle şirketlerinden uzak kaldığını, borç sorununun çözümünün yapay zekâ ve robotikle üretimi artırmaktan geçtiğini söyledi.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Musk yapay zekâ ve robotik projelerine daha erken odaklanmalıydı dedi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fransa'da hayat pahalılığı protestoları şiddetlendi",
+          "url": "https://x.com/WallStDiaries/status/2111735282861285720",
+          "published_at": "2026-10-18T08:25:00.000Z",
+          "summary": "Hayat pahalılığı ve enerji fiyatları protestoları Paris, Marsilya ve Lyon'da barikat yangınlarına ve çok sayıda gözaltıya yol açtı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu Asya sabahının iyi başladığını ama günün New York'ta belli olacağını, açılışın ilk saatinde yüksek volatilite beklediğini ve Asya kazançlarının kalıcı olmayabileceğini söylüyor. Herkes kara Pazartesi beklerken gelmeyebileceğini, beklenmedik bir zamanda kara Perşembe gelebileceğini yazdı. Türkiye'de tasfiye bitmeden ve MSCI belirsizliği kalkmadan bir şey söylemenin anlamlı olmadığını belirtti.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "New York açılışı belirleyici",
+          "url": "https://x.com/TuncSatiroglu/status/2112056498130194858",
+          "published_at": "2026-10-19T05:41:23.000Z",
+          "summary": "Piyasalar güne iyi başladı ama gün New York'ta başlar; açılıştan sonra ilk saat volatil, Asya kazançları kalıcı olmayabilir.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Kara Pazartesi gelmez, kara Perşembe gelebilir",
+          "url": "https://x.com/TuncSatiroglu/status/2111811521336500414",
+          "published_at": "2026-10-18T13:27:56.000Z",
+          "summary": "Herkes yarın kara Pazartesi bekliyorsa gelmeyeceğini, beklenmedik bir zamanda kara Perşembe gelebileceğini yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tasfiye ve MSCI belirsizliği",
+          "url": "https://x.com/TuncSatiroglu/status/2112003574737850878",
+          "published_at": "2026-10-19T02:11:06.000Z",
+          "summary": "Tasfiye bitmeden ve MSCI belirsizliği kalkmadan bir şey söylemenin anlamlı olmadığını yazıyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "MrTradeer pazar akşamı vadeli açılışta S&P 500 +%0,2, Nasdaq 100 +%0,2, Dow +%0,1 iken WTI −%0,6, Brent −%0,5 ve doğal gaz −%2,1 olduğunu paylaştı. Kara pazartesi beklentisine karşı herkes bekliyorsa piyasanın yeşil açacağını, çoğunluğun doğru tarafta durduğunu görmediğini yazdı. Bir işlemde 110'dan girip 96'da kâr aldığını ve aynı bölgeden tekrar işlem açtığını anlattı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Vadeli piyasaların açılışı",
+          "url": "https://x.com/MrTradeer/status/2111961484561358988",
+          "published_at": "2026-10-18T23:23:50.000Z",
+          "summary": "S&P 500 +%0,2, Nasdaq 100 +%0,2, Dow +%0,1, WTI −%0,6, Brent −%0,5, doğal gaz −%2,1.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Herkes kara pazartesi bekliyorsa yeşil açar",
+          "url": "https://x.com/MrTradeer/status/2111931154337313261",
+          "published_at": "2026-10-18T21:23:19.000Z",
+          "summary": "Kara pazartesi beklentisi üzerine herkes bekliyorsa piyasaların yeşil açacağını, çoğunluğun doğru tarafta durduğunu görmediğini yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "110'dan işlem, 96'da hedef",
+          "url": "https://x.com/MrTradeer/status/2111967141440426234",
+          "published_at": "2026-10-18T23:46:19.000Z",
+          "summary": "110'dan işlem alıp 96'da kâr aldıklarını, aynı bölgeden SFP ile tekrar işlem açıp kârda olduklarını yazıyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy zirveden kayıpları hatırlatıyor: **SNDK** −%44,4, **CRWV** −%55'in üzerinde, **MU** −%27,6, **DELL** −%23,2, **AMD** −%18,6 ve **BE** −%37; mesajı \"Kâr almak candır\". Trump'ın Ağustos işlemlerinde **MU** net satışı (251-515 bin dolar) ve **META** net alışı (5,1-25,3 milyon dolar) öne çıkıyor. **META** için Wall Street'in önümüzdeki üç yılda yıllık yaklaşık %20 kâr büyümesi beklediğini, **MU** için ise hissenin yaklaşık 12 F/K ile işlem gördüğünü belirtiyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Zirveden kayıplar: kâr almak candır",
+          "url": "https://x.com/FinancewithIzzy/status/2111794554282156394",
+          "published_at": "2026-10-18T12:20:31.000Z",
+          "summary": "2026'da çok yükselen SNDK, DELL, MU, AMD, BE ve CRWV'nin zirveden kayıplarını paylaşıp zirvede 100.000 dolar olan SNDK pozisyonunun yaklaşık 55.600 dolara indiğini yazıyor (16 Ekim verileri).",
+          "assets": [
+            {
+              "symbol": "SNDK",
+              "sentiment": "neutral",
+              "note": "Zirveden −%44,4."
+            },
+            {
+              "symbol": "DELL",
+              "sentiment": "neutral",
+              "note": "Zirveden −%23,2."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Zirveden −%27,6."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "neutral",
+              "note": "Zirveden −%18,6."
+            },
+            {
+              "symbol": "BE",
+              "sentiment": "neutral",
+              "note": "Zirveden −%37."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Zirveden −%55'in üzerinde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump'ın portföyünde Micron satıldı, Meta alındı",
+          "url": "https://x.com/FinancewithIzzy/status/2111759016242155890",
+          "published_at": "2026-10-18T09:59:18.000Z",
+          "summary": "Trump'ın Ağustos işlemlerinde MU net satışı 251-515 bin dolar, META net alışı 5,1-25,3 milyon dolar; MU'da HBM talebi güçlü ama fiyat sürdürülebilirliği ve arz riski var, META'da AI yatırımları yüksek ama Wall Street yıllık ~%20 kâr büyümesi bekliyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Net satış; ~12 F/K, fiyat sürdürülebilirliği ve arz artışı riski."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Net alış; ~%20 yıllık kâr büyümesi beklentisi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine bugünün takvimini paylaştı: açılış öncesi Cleveland-Cliffs ve Fifth Third, kapanış sonrası AGNC, Zions, Western Alliance, Steel Dynamics gibi şirketler bilanço açıklayacak; 10:00'da (EST) NAHB konut endeksi var. Ayrıca Anthropic'in hisselerinin %5'ini kamu yararı fonuna ayırdığını duyurdu.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bugünün bilanço ve veri takvimi",
+          "url": "https://x.com/wallstengine/status/2112061199453962319",
+          "published_at": "2026-10-19T06:00:04.000Z",
+          "summary": "19 Ekim: 10:00 EST'de NAHB konut endeksi; açılış öncesi CLF, FITB; kapanış sonrası AGNC, SFBS, ZION, WAL, STLD ve diğerleri bilanço açıklıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic hisselerinin %5'ini kamu yararı fonuna ayırdı",
+          "url": "https://x.com/wallstengine/status/2111901377182187746",
+          "published_at": "2026-10-18T19:25:00.000Z",
+          "summary": "Anthropic Public Benefit Fund'a ilk katkı hisselerin %5'i (hissedar onayına bağlı); değerleme her %50 artışında ek %2 ayrılabilir. Kurucuların %80 bağışı ve çalışan taahhütleriyle toplam taahhüt yaklaşık %20 pay.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz **AAPL**'nin portföyünün yaklaşık %15'i ile en büyük pozisyonu olduğunu, F/K'nın 40'a yaklaştığını ve 2021'den beri ilk kez azaltmayı düşündüğünü yazdı; 2008'den beri zaten yaklaşık yarısını sattığını, %10 ağırlığa inebileceğini söyledi. Kuantumda **IONQ** etrafında toplanıp **QBTS** ve **RGTI**'yi %1'in altına indirdiğini, **RKLB** ve **IONQ**'daki kama kırılımlarının sahte çıktığını belirtti. Grafik tarafında **BTC**'nin 80 bin dolar direncini desteğe çevirme ihtimaline ve **IWM**'nin Ocak zirvesine dönüşüne dikkat çekti.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AAPL pozisyonunu azaltmayı düşünüyor",
+          "url": "https://x.com/jrouldz/status/2111919326039281833",
+          "published_at": "2026-10-18T20:36:19.000Z",
+          "summary": "AAPL portföyün yaklaşık %15'i ile en büyük pozisyon, F/K 40'a yaklaşıyor; 2021'den beri ilk satışı düşünüyor. Yanıtlarında 2008'den beri yaklaşık yarısını sattığını ve %10 ağırlığa inmeyi düşündüğünü ekliyor.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "negative",
+              "note": "Aşırı ağırlık ve ~40 F/K nedeniyle yeniden azaltmayı düşünüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kuantum maruziyetini IONQ'da topluyor",
+          "url": "https://x.com/jrouldz/status/2111862245843984565",
+          "published_at": "2026-10-18T16:49:30.000Z",
+          "summary": "IONQ'nun kuantum grubundan ayrıştığını düşünüyor; QBTS ve RGTI'yi %1'in altına indirdi.",
+          "assets": [
+            {
+              "symbol": "IONQ",
+              "sentiment": "positive",
+              "note": "Kuantumda en yüksek inanç pozisyonu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "RKLB ve IONQ kama kırılımları sahte çıktı",
+          "url": "https://x.com/jrouldz/status/2111814836946457034",
+          "published_at": "2026-10-18T13:41:07.000Z",
+          "summary": "RKLB ve IONQ'daki kama kırılımlarının sahte çıktığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "negative",
+              "note": "Kama kırılımı sahte çıktı."
+            },
+            {
+              "symbol": "IONQ",
+              "sentiment": "negative",
+              "note": "Kama kırılımı sahte çıktı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BTC 80 bin dolar direnci",
+          "url": "https://x.com/jrouldz/status/2111828432434667831",
+          "published_at": "2026-10-18T14:35:08.000Z",
+          "summary": "BTC'nin 80 bin dolardaki eski direnci desteğe çevirme ihtimaline dikkat çekiyor.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "80 bin dolar direncinin desteğe dönme ihtimali."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IWM Ocak zirvesinde",
+          "url": "https://x.com/jrouldz/status/2111836979759612161",
+          "published_at": "2026-10-18T15:09:06.000Z",
+          "summary": "IWM'nin Ocak zirvesi seviyesine döndüğünü, burasının direnç-destek dönüşümü olabileceğini ama bunun \"umut\" olabileceğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "IWM",
+              "sentiment": "neutral",
+              "note": "Ocak zirvesine geri döndü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance **AMD** için Morgan Stanley'nin GPU talep tahminini kesmesini \"kötü haber\" olarak yorumladı ve pahalı olduğunu birçok kez söylediğini, 600 dolar civarında kâr alınmış olmasını umduğunu yazdı. Düşüşün sebepleri olarak CPI/PPI, kredi piyasası riskleri, likidite, İran savaşı, petrol ve yüksek faiz korkusunu sıraladı; piyasanın balonla alakası olmadığı ve 1999 coşkusunun yaşanmadığı görüşünü korudu. VIX 60'a da gitse önemli olanın seçimden sonraki 6-12 ayda endeksin bugünden yukarıda olması olduğunu, Nisan 2025'i örnek verdi. Nasdaq satışlarını ve alım seviyelerini anlattığı yeni bir video da paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AMD için kötü haber",
+          "url": "https://x.com/cevikfinance/status/2111870181739798976",
+          "published_at": "2026-10-18T17:21:02.000Z",
+          "summary": "Morgan Stanley'nin AMD GPU talep tahminini kesmesinin kötü haber olduğunu, pahalı olduğunu birçok kez söylediğini ve 600 dolar civarında kâr alınmış olmasını umduğunu yazıyor.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "negative",
+              "note": "Pahalı bulduğunu söylüyor; 600 dolar civarında kâr alınmasını umuyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nasdaq satışları ve alım seviyeleri videosu",
+          "url": "https://x.com/cevikfinance/status/2111833253292167263",
+          "published_at": "2026-10-18T14:54:18.000Z",
+          "summary": "Nasdaq'taki satışları, takip ettiği hisseleri ve alım için beklediği seviyeleri anlatan yeni videosunu duyurdu (transkript yok).",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "VIX 60 olsa da önemli olan seçim sonrası 6-12 ay",
+          "url": "https://x.com/cevikfinance/status/2111752189265719717",
+          "published_at": "2026-10-18T09:32:11.000Z",
+          "summary": "VIX 60'a gidebileceğini ve borsanın daha düşebileceğini, önemli olanın seçimlerden sonraki 6-12 ayda buradan yukarıda olup olmayacağını yazıyor; Nisan 2025'te endeksin yeni zirveye 1-2 ayda döndüğünü hatırlatıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Düşüşün sebepleri",
+          "url": "https://x.com/cevikfinance/status/2111733029164974344",
+          "published_at": "2026-10-18T08:16:02.000Z",
+          "summary": "CPI ve PPI, kredi piyasasındaki tehlikeler, likidite sıkıntısı, İran savaşı, petrol fiyatları, enflasyon ve yüksek faiz korkusunu sebep olarak sıralıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Piyasa balon değil",
+          "url": "https://x.com/cevikfinance/status/2111732208339665254",
+          "published_at": "2026-10-18T08:12:47.000Z",
+          "summary": "Antonio Costa'nın 1999 ile 2026'nın kıyaslanamayacağı, ilk aşırı korku işaretinin görüldüğü yazısını paylaşıp piyasanın balonla alakası olmadığını savunuyor.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.1453,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.181,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Portföyün yaklaşık beşte biri tek bir fintech'te; faiz ve kredi kalitesi haberleri bu ağırlık yüzünden tüm portföyü sallar. Bilançoda kredi kayıpları ve üye büyümesine bakılmalı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Büyüme hikâyesi sürdüğü sürece tutmak mantıklı.",
+          "Aleyhte: %18,1 ağırlık tek hisse için yüksek konsantrasyon.",
+          "Aleyhte: Günün kaynaklarında faiz ve kredi piyasası riskleri (cevikfinance) öne çıktı."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1405,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "positive",
+            "quote": "$META Meta: 5,1 milyon – 25,3 milyon dolar net alış.",
+            "source_url": "https://x.com/FinancewithIzzy/status/2111759016242155890"
+          }
+        ],
+        "action": "hold",
+        "why": "FinancewithIzzy'ye göre Trump'ın Ağustos işlemlerinde Meta net alımı var ve Wall Street yıllık ~%20 kâr büyümesi bekliyor, ancak bu yeni bir alım gerekçesi değil.",
+        "opinion": "Reklam gelirleri yapay zekâ harcamalarını taşıdıkça Meta çekici kalır; asıl risk, yatırım harcamalarının gelirden hızlı büyümesi. Bilançodaki capex rehberliğine bakılmalı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: FinancewithIzzy'ye göre Wall Street önümüzdeki üç yıl ~%20 yıllık kâr büyümesi bekliyor.",
+          "Aleyhte: Yapay zekâ yatırım harcamaları yüksek ve getirisi belirsiz.",
+          "Aleyhte: %14 ağırlıkla portföy teknoloji yoğun."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1298,
+        "mentions": [
+          {
+            "person": "dtfinans_",
+            "sentiment": "positive",
+            "quote": "Bunun nedeni $NVDA ve $AVGO dominasyonu.",
+            "source_url": "https://x.com/dtfinans_/status/2111874878148329964"
+          }
+        ],
+        "action": "hold",
+        "why": "dtfinans_'a göre AVGO ve NVDA yapay zekâ donanımında baskın, ancak somut bir seviye ya da tarih verilmedi.",
+        "opinion": "Özel çip (ASIC) talebi Broadcom'u AMD'nin yaşadığı tahmin kesintisinden korunaklı kılıyor; ama portföyde Meta ile birlikte yapay zekâ harcama döngüsüne çift bağımlılık var. Büyük müşterilerin sipariş sürekliliği ana risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: dtfinans_'a göre çıkarım için ASIC tasarımı AVGO'yu öne çıkarıyor.",
+          "Lehte: Yapay zekâ altyapı talebi güçlü görünüyor (GPU kiralama +%20, dtfinans_).",
+          "Aleyhte: Yapay zekâ harcamalarına bağımlılık ve %13 ağırlık."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1057,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer bileşen üreticisi olarak veri merkezi enerji kıtlığı temasından dolaylı fayda sağlar. Microsoft'un şebeke yüzünden iptal ettiği proje, güç arzının darboğaz olduğunu gösteriyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Elektrik arzı yapay zekâ veri merkezlerinin darboğazı (WallStDiaries'in aktardığı Essex iptali).",
+          "Aleyhte: Nükleer projeler uzun vadeli, bilanço etkisi yavaş gelir."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Reddit reklam gelirine bağlı ve oynak; piyasa düşüşlerinde sert dalgalanır. %9,4 ağırlık makul ama stop disiplini olmadan büyüyemez.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Reklam geliri toparlanması ve kullanıcı büyümesi hikâyesi sürüyor.",
+          "Aleyhte: Piyasa dalgalandığında yüksek betalı büyüme hisseleri daha çok düşer."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0718,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Elektrik şebekesi ekipmanı, veri merkezi enerji talebinden faydalanabilecek bir tema; dtfinans_'ın proje iptallerini enerji ekipmanı için olumlu okuması bu yönde. Kağıt görece yeni ve %7,2 ağırlıkla izlenmeli.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Şebeke ve güç ekipmanı talebi yapay zekâ altyapısıyla büyüyor.",
+          "Aleyhte: Kağıt yeni ve geçmiş verisi sınırlı; değerleme riski var."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0711,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Uzun vadeli tahvil, hisse düşüşlerinde dengeleyici ama cevikfinance'ın saydığı enflasyon ve yüksek faiz korkusu bu kağıdın en büyük riski. %7,1 ağırlıkla portföyün tek faiz hedgesi.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Hisselerde sert düşüş olursa uzun tahvil dengeleyici olabilir.",
+          "Aleyhte: Yüksek faizin geri dönme korkusu uzun vadeli tahvili vurur (cevikfinance'ın saydığı riskler)."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0605,
+        "mentions": [
+          {
+            "person": "Tunç Şatıroğlu",
+            "sentiment": "neutral",
+            "quote": "Tasfiye bitmeden, msci bekirsizliği kalkmadan bir şey demek anlamlı drğil.",
+            "source_url": "https://x.com/TuncSatiroglu/status/2112003574737850878"
+          }
+        ],
+        "action": "hold",
+        "why": "Tunç Şatıroğlu'na göre tasfiye bitmeden ve MSCI belirsizliği kalkmadan bir şey söylemek anlamlı değil; yani bugün için net bir al-sat sinyali yok.",
+        "opinion": "Türkiye'ye dolar bazlı erişim sağlayan bu fon, PPF/SPK gerginliği ve MSCI belirsizliği gibi yerel risklere açık. %6 ağırlıkla küçük tutulması mantıklı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Değerleme ve çeşitlendirme açısından portföyde farklı bir risk kaynağı.",
+          "Aleyhte: Yerel finansal sistem sorunları (PPF, SPK) güveni zayıflatıyor (dtfinans_)."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "SPCX",
+        "name": "SpaceX",
+        "why": "Ali Korkmaz, 20 Ekim bilançosu öncesi 40 dolarda değil ama 80-100 dolar aralığında alım fırsatı gelebileceğini yazıyor.",
+        "source_url": "https://x.com/korkmazali08/status/2111820612754927780"
+      },
+      {
+        "symbol": "IONQ",
+        "name": "IonQ",
+        "why": "jrouldz kuantum maruziyetini en yüksek inancı olarak IonQ etrafında topluyor, rakiplerinden ayrıştığını düşünüyor.",
+        "source_url": "https://x.com/jrouldz/status/2111862245843984565"
+      },
+      {
+        "symbol": "GEV",
+        "name": "GE Vernova",
+        "why": "dtfinans_ veri merkezi proje iptallerinin GEV gibi şirketler için olumlu olduğunu düşünüyor.",
+        "source_url": "https://x.com/dtfinans_/status/2111781900897644994"
+      }
+    ]
+  }
+}
