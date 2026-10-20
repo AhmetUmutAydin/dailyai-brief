@@ -1,0 +1,1413 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T07:18:26.876Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Kara Pazartesi olmadı ama düşüş bitti denmemeli",
+      "person": "Tunç Şatıroğlu",
+      "why": "Bugün ve yarın dalgalı seyir, perşembe büyük satış olabilir; bir hafta içinde düzelme ve seçim belirsizliği bitmeden güçlü ralli bekliyor.",
+      "source_url": "https://x.com/TuncSatiroglu/status/2112427164524335184"
+    },
+    {
+      "title": "Haftanın bilanço takvimi",
+      "person": "WallStDiaries",
+      "why": "Salı SpaceX ve Netflix, çarşamba Tesla, Meta ve IBM, perşembe Nokia, Bloom Energy ve Western Digital açıklıyor.",
+      "source_url": "https://x.com/WallStDiaries/status/2112181405367374133"
+    },
+    {
+      "title": "İran, Hürmüz için yedi günlük plan önerdi",
+      "person": "korkmazali08",
+      "why": "Plan, ABD'nin ablukayı kaldırması ve dondurulmuş varlıkları serbest bırakması şartına bağlı; ABD henüz yanıt vermedi.",
+      "source_url": "https://x.com/korkmazali08/status/2112204823223312853"
+    },
+    {
+      "title": "10 yıllık faiz %5,09, Brent 110 dolar, Warsh faiz artışını dışarıda bırakmadı",
+      "person": "WallStDiaries",
+      "why": "Nasdaq haziran sonundan bu yana en sert haftalık düşüşünü (%4,5) yaşadı; vadeliler AI toparlanmasıyla yükselişte.",
+      "source_url": "https://x.com/WallStDiaries/status/2112172144826237069"
+    },
+    {
+      "title": "PPF'de para bir aydan uzun süredir kilitli",
+      "person": "dtfinans_",
+      "why": "SPK'nın likit olduğunu garanti ettiği fonda ödeme takvimi hâlâ yok.",
+      "source_url": "https://x.com/dtfinans_/status/2112174827603984750"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "ABD-İran ve Hürmüz Boğazı",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "İran, Hürmüz'den geçişleri yedi günde yeniden başlatma planı önerdi; ABD yanıt vermedi.",
+          "quote": "İran Dışişleri Bakanı Abbas Arakçi, pazar günü yaptığı açıklamada Tahran’ın Hürmüz Boğazı’ndan gemi geçişlerini yedi gün içinde yeniden başlatmaya yönelik bir plan önerdiğini söyledi.",
+          "source_url": "https://x.com/korkmazali08/status/2112204823223312853"
+        },
+        {
+          "person": "ulkser",
+          "view": "Anlaşma haberlerine şüpheyle yaklaşıyor; piyasa bu tür haberlere doymuş durumda.",
+          "quote": "sanirim bu sekilde 4502. haber, piyasa cok tokatlandigi icin bir nebze kipirdadi ama herkesin karni tok artik bu tarz haberlere",
+          "source_url": "https://x.com/ulkser/status/2112134629071179948"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Hürmüz'den petrol akışı savaş öncesinin %41 altında.",
+          "quote": "Kpler verilerine göre, Hürmüz Boğazı’ndan geçen petrol akışı savaş öncesi seviyelerin %41 altında kaldı.",
+          "source_url": "https://x.com/WallStDiaries/status/2112144231766819169"
+        }
+      ]
+    },
+    {
+      "topic": "ABD faizleri ve Fed",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "10 yıllık faiz %5,09'da, Warsh ekimde faiz artışını dışarıda bırakmadı.",
+          "quote": "10 yıllık tahvil faizi %5,09'da neredeyse sabit kaldı. Fed Başkanı Warsh ekimde faiz artışı ihtimalini dışarıda bırakmadı.",
+          "source_url": "https://x.com/WallStDiaries/status/2112172144826237069"
+        }
+      ]
+    },
+    {
+      "topic": "Piyasa yönü: Kara Pazartesi beklentisi",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Kara Pazartesi olmadı ama düşüşün bittiği söylenemez; perşembe satış olabilir, sonra güçlü ralli bekliyor.",
+          "quote": "Wall Street'te yeni bir Kara Pazartesi olmamıştır. Beklediğim de zaten olmamasıydı",
+          "source_url": "https://x.com/TuncSatiroglu/status/2112427164524335184"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "Hafta sonu korkusuna rağmen Bitcoin 82 bin doları geri aldı, ama bu şimdilik relief rally.",
+          "quote": "Hafta sonu sosyal medya \"Kara Pazartesi\" diye bağırıyordu. Bitcoin ise sessizce 82 bin doları geri aldı.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112125369046253853"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "Nasdaq 100 100 günlük ortalamanın altında kapattı; zayıf görünüm.",
+          "quote": "nas100 grafiginde 100 günlük ortalamanin altinda kapatmak icin öyle oldu. Kisacasi süründürecekler.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112291470958825968"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye enflasyon ve para politikası",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Merkez Bankası 2027 sonu %21 hedefi için kredi limitini artıracak, kurun hızlı artmasına izin verecek ve faizi indirecek; hedef tutmazsa yukarı revize edilecek.",
+          "quote": "Enflasyon konusunda beklentilerim şu şekildedir: Merkez Bankası 2027 sonu %21 enflasyon ara hedefine ulaşmak için ✅️ Kredi büyümesi limitini artıracak ✅️ Dolar kurunun daha hızlı artmasına izin verecek 🔳 Politika faizini indirecek",
+          "source_url": "https://x.com/TuncSatiroglu/status/2112101571966247066"
+        }
+      ]
+    },
+    {
+      "topic": "Çin ekonomisi",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Çin 3. çeyrekte %4,5 büyüyerek %4,4 beklentiyi aştı.",
+          "quote": "Çin ekonomisi 2026 yılının üçüncü çeyreğinde yıllık bazda yüzde 4,5 büyüme kaydederek yüzde 4,4 seviyesindeki piyasa beklentilerini geride bıraktı.",
+          "source_url": "https://x.com/WallStDiaries/status/2112186402892857790"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "İki kişi çarşamba günkü bilanço öncesi somut hedef fiyat ve beklentilerle bahsetti.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Morgan Stanley analisti Brian Nowak, üçüncü çeyrek bilançosu öncesinde modelini güncelleyerek $META için hedef fiyatını 775 dolardan 820 dolara yükseltti.",
+          "source_url": "https://x.com/korkmazali08/status/2112205071299797040"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Meta: Reklam gelirleri, dev AI harcamaları ve kârlılık.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112271804618223766"
+        }
+      ]
+    },
+    {
+      "symbol": "EOSE",
+      "name": "Eos Energy",
+      "priority": "high",
+      "why": "Üç kişi zıt görüşlerle bahsetti: biri satış/uzak dur, biri kararsız, biri rekor çeyrek ön sonucu paylaştı.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "bence eose yatırım yapılacak bir şirket değil hele piyasanın bu koşullarında",
+          "source_url": "https://x.com/korkmazali08/status/2112236233288028257"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "Undecided on $EOSE I had one good trade on it already in 2025 and deciding if I want to press my luck further",
+          "source_url": "https://x.com/jrouldz/status/2112270318177796553"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Eos Energy 3. Çeyrek Ön Sonuçlarını Açıkladı: Gelir Yıldan Yıla %170 Arttı",
+          "source_url": "https://x.com/WallStDiaries/status/2112220581529575700"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "priority": "high",
+      "why": "Korkmaz net alım niyeti bildirdi, WallStDiaries ile birlikte Nvidia HBM haberinden TSMC'nin pay alacağını aktardılar.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Bende artırmak istiyorum şöyle biraz daha gerlerse. Her fiyattan alıyorum tsm yi",
+          "source_url": "https://x.com/korkmazali08/status/2112167465459609836"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Samsung, Nvidia’nın Yeni Nesil AI Bellekleri İçin TSMC’nin 3nm Teknolojisini Kullanacak",
+          "source_url": "https://x.com/WallStDiaries/status/2112208400914280943"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "Birden fazla kişi haber akışında paylaştı ama kimse net bir seviye ya da pozisyon vermedi.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "NVIDIA CEO’su Jensen Huang, Berlin’de düzenlenen GTC etkinliğinde Almanya hükümeti ile fiziksel yapay zekâ modelleri geliştirmek üzere stratejik bir anlaşma yapıldığını duyurdu.",
+          "source_url": "https://x.com/WallStDiaries/status/2112279656691052771"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Nvidia, Samsung, $MU ve SK Hynix’ten NVHBM’in tabanındaki mantık katmanını $TSM’nin 3nm süreciyle üretmelerini istedi.",
+          "source_url": "https://x.com/korkmazali08/status/2112150209778061315"
+        }
+      ]
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv",
+      "priority": "medium",
+      "why": "Tek kişi somut gerekçeli olumlu görüş: EPS %60 artışta, değerleme makul.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "positive",
+          "quote": "Vertiv ( $VRT ) inanılmaz güçlü büyüyor. EPS yıllık %60 artıyor, şirket sürekli beklentilerini yukarı çekiyor.",
+          "source_url": "https://x.com/dtfinans_/status/2112424563178934458"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "name": "Arista Networks",
+      "priority": "medium",
+      "why": "Tek kişi somut temel veriler ve F/K genişlemesiyle görüş bildirdi.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I think if we believe in AI revolution we should expect higher down the road even if the *best* gains are over.",
+          "source_url": "https://x.com/jrouldz/status/2112297887413731497"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "priority": "medium",
+      "why": "Morgan Stanley hedefinin 350 dolara çıkması ve AWS tahminleri paylaşıldı.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$AMZN, Morgan Stanley’nin hedef fiyatını $335’ten $350’ye yükseltmesinin ardından %5 yükseldi.",
+          "source_url": "https://x.com/korkmazali08/status/2112241788756898198"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQM",
+      "name": "Invesco NASDAQ 100 ETF",
+      "priority": "medium",
+      "why": "Tunç Şatıroğlu net bir senaryo (düşüşün sürmesi, sonra ralli) ile önerdi.",
+      "mentions": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "positive",
+          "quote": "az risk almak isteyenler $QQQM $SPYM alabilir. İsteyen 50/50 alır",
+          "source_url": "https://x.com/TuncSatiroglu/status/2112427164524335184"
+        }
+      ]
+    },
+    {
+      "symbol": "SMH",
+      "name": "VanEck Semiconductor ETF",
+      "priority": "medium",
+      "why": "Tunç Şatıroğlu daha çok risk alanlar için yarı iletken fonlarını saydı.",
+      "mentions": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "positive",
+          "quote": "Biraz daha risk almak isteyenler SMH veya SOXX gibi yarı iletken fonlarına bakabilir.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2112427164524335184"
+        }
+      ]
+    },
+    {
+      "symbol": "000660.KS",
+      "name": "SK Hynix",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan pozisyonunu artırdı.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$000660.KS (SK Hynix) arttırıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112349198079443135"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "Net seviyeler verildi: 80 bin destek, 90 bin için ETF girişi gerekli.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "80 bin dolar üzerinde tutunmak ilk sınav.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112125369046253853"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$RKLB, Neutron’un ilk uçuşunun 2027’ye ertelenmesinin ardından geçen hafta %25 geriledi.",
+          "source_url": "https://x.com/korkmazali08/status/2112189624923705459"
+        }
+      ]
+    },
+    {
+      "symbol": "CBRS",
+      "name": "Cerebras",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan net seviye verdi: 100'e gelince ufak ekleme.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "ancak 100´e gelince ufak daha arttiracagim.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112181236630503428"
+        }
+      ]
+    },
+    {
+      "symbol": "TE",
+      "name": "TE",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$TE aciga satisi arttirildi.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112253155073232916"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Deutsche Telekom, Orange, Telefónica ve Vodafone, doğrudan cep telefonlarına uydu interneti sağlamak için ortak hareket etme kararı aldı.",
+          "source_url": "https://x.com/WallStDiaries/status/2112200850705899770"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "**ABD-İran** anlaşması haberine bakışı şüpheci: Walter Bloomberg'in paylaştığı \"bu hafta atılım bekleniyor\" haberi için bunun 4502. haber olduğunu, piyasanın çok tokatlandığı için bir nebze kıpırdadığını ama herkesin karnının artık bu tür haberlere tok olduğunu söylüyor.\n\nAyrıca Türkiye'de kiraya vermek için ev almanın her anlamda yanlış bir tercih olduğunu yazdı; gerekçe olarak kiracının 2 yıl evi tahliye etmediği ve kira ödemediği bir Mersin vakasını paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ABD-İran anlaşması haberine şüpheci yaklaşım",
+          "url": "https://x.com/ulkser/status/2112134629071179948",
+          "published_at": "2026-10-19T10:51:51.000Z",
+          "summary": "Walter Bloomberg'in paylaştığı \"ABD-İran arasında bu hafta atılım anlaşması bekleniyor\" haberi için bunun 4502. haber olduğunu, piyasanın çok tokatlandığı için bir nebze kıpırdadığını ama herkesin karnının artık tok olduğunu söylüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Türkiye'de kiralık amaçlı ev alımı",
+          "url": "https://x.com/ulkser/status/2112144266818642408",
+          "published_at": "2026-10-19T11:30:09.000Z",
+          "summary": "Türkiye'de kiraya vermek için ev almanın her anlamda yanlış bir tercih olduğunu, tahliye edilmeyen ve kira ödemeyen kiracı vakasını paylaşarak savunuyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Gününü pozisyon güncellemeleriyle geçirdi: **SK Hynix** ile **VICR**, **SIMO** ve **KXIAY** pozisyonlarını artırdı, **TE**'de açığa satışı büyüttü, **ASPI**'de yeni açığa satış açtı ve **PANW** açığa satışını kapattı. **CoreWeave** için \"delist edilse ben\" diye espri yaptı, **CBRS**'i ise \"pahalı\" bulduğu için izleme pozisyonunda tutuyor; 100 dolara gelirse biraz daha ekleyecek.\n\nGenel görünümde temkinli: **Nasdaq 100** grafiğinin 100 günlük ortalamanın altında kapattığını, bunun \"süründürecekler\" anlamına geldiğini söylüyor; kısa vadede kendini korurken orta vadede yapay zeka şirketlerini elde tutmayı hedefliyor. **KOSPI** için ise gün içinde %2,52 düşüş paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SK Hynix pozisyonu artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112349198079443135",
+          "published_at": "2026-10-20T01:04:29.000Z",
+          "summary": "SK Hynix (000660.KS) pozisyonunu artırdığını bildirdi.",
+          "assets": [
+            {
+              "symbol": "000660.KS",
+              "sentiment": "positive",
+              "note": "Pozisyonu artırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "KOSPI günlük düşüş",
+          "url": "https://x.com/AhmetSunelcan1/status/2112348157460062337",
+          "published_at": "2026-10-20T01:00:20.000Z",
+          "summary": "KOSPI'nin %2,52 düştüğünü paylaştı.",
+          "assets": [
+            {
+              "symbol": "KOSPI",
+              "sentiment": "negative",
+              "note": "Endeks %2,52 düşüşte."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nasdaq 100 100 günlük ortalamanın altında",
+          "url": "https://x.com/AhmetSunelcan1/status/2112291470958825968",
+          "published_at": "2026-10-19T21:15:05.000Z",
+          "summary": "Nasdaq 100 grafiğinin 100 günlük ortalamanın altında kapattığını, kısacası \"süründürecekler\" olduğunu söyledi.",
+          "assets": [
+            {
+              "symbol": "NAS100",
+              "sentiment": "negative",
+              "note": "100 günlük ortalamanın altında kapanış, zayıf teknik görünüm."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CoreWeave için espri",
+          "url": "https://x.com/AhmetSunelcan1/status/2112261846015311907",
+          "published_at": "2026-10-19T19:17:22.000Z",
+          "summary": "CoreWeave'in delist edilmesi halinde ne yapacağına dair espri yaptı, öyle bir şey olmayacağını da ekledi.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Delist espri; gerçek bir beklenti değil."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TE açığa satış artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112253155073232916",
+          "published_at": "2026-10-19T18:42:50.000Z",
+          "summary": "TE'de açığa satışını artırdığını bildirdi.",
+          "assets": [
+            {
+              "symbol": "TE",
+              "sentiment": "negative",
+              "note": "Açığa satış pozisyonunu artırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "KXIAY pozisyonu artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112233535079686181",
+          "published_at": "2026-10-19T17:24:52.000Z",
+          "summary": "KXIAY pozisyonunu artırdığını bildirdi.",
+          "assets": [
+            {
+              "symbol": "KXIAY",
+              "sentiment": "positive",
+              "note": "Pozisyonu artırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kısa vadede korunma, orta vadede AI şirketleri",
+          "url": "https://x.com/AhmetSunelcan1/status/2112210575967256916",
+          "published_at": "2026-10-19T15:53:38.000Z",
+          "summary": "Tezinin kısa vadede kendini korurken orta vadede yapay zeka şirketlerini elde tutmak olduğunu söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "VICR pozisyonu artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112190227364053158",
+          "published_at": "2026-10-19T14:32:47.000Z",
+          "summary": "VICR pozisyonunu artırdığını bildirdi.",
+          "assets": [
+            {
+              "symbol": "VICR",
+              "sentiment": "positive",
+              "note": "Pozisyonu artırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ASPI açığa satıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112184141802516575",
+          "published_at": "2026-10-19T14:08:36.000Z",
+          "summary": "ASPI'de açığa satış açtığını bildirdi.",
+          "assets": [
+            {
+              "symbol": "ASPI",
+              "sentiment": "negative",
+              "note": "Açığa satış açtı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SIMO pozisyonu artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112182317079052763",
+          "published_at": "2026-10-19T14:01:21.000Z",
+          "summary": "SIMO pozisyonunu artırdığını bildirdi.",
+          "assets": [
+            {
+              "symbol": "SIMO",
+              "sentiment": "positive",
+              "note": "Pozisyonu artırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CBRS izleme pozisyonunda",
+          "url": "https://x.com/AhmetSunelcan1/status/2112181236630503428",
+          "published_at": "2026-10-19T13:57:03.000Z",
+          "summary": "CBRS'in rakibini \"bölüm sonu canavarı\" olarak niteleyip şirketin %50 düşse bile pahalı olduğunu söylüyor; 100 dolara gelince biraz daha artıracak.",
+          "assets": [
+            {
+              "symbol": "CBRS",
+              "sentiment": "neutral",
+              "note": "İzleme pozisyonunda; 100'e gelince ufak ekleme planı, buradan %50 düşse de pahalı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "PANW açığa satışı kapatıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112175470100042056",
+          "published_at": "2026-10-19T13:34:09.000Z",
+          "summary": "PANW açığa satışını kapattığını bildirdi.",
+          "assets": [
+            {
+              "symbol": "PANW",
+              "sentiment": "neutral",
+              "note": "Açığa satışı kapattı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Yapay zeka ve büyüme hisselerine inancını koruyor: **TSM**'yi \"her fiyattan\" aldığını, biraz daha gerilerse artırmak istediğini yazdı ve temettü yerine teknolojiye odaklandığını söyledi. **EOSE**'nin sürekli yeni dip yaptığını, bence yatırım yapılacak bir şirket olmadığını yineledi. Haber akışında **Meta** için Morgan Stanley'nin hedefi 775'ten 820 dolara çıkarması, **Amazon** hedefinin 350 dolara yükselmesi, **Nvidia**'nın HBM tedarikçilerinden **TSMC** 3nm üretimi istemesi ve İran'ın Hürmüz için yedi günlük plan önermesi yer aldı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "TSM'yi her fiyattan alıyor",
+          "url": "https://x.com/korkmazali08/status/2112167465459609836",
+          "published_at": "2026-10-19T13:02:20.000Z",
+          "summary": "Biraz daha gerilerse TSM'yi artırmak istediğini, her fiyattan aldığını yazdı.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "positive",
+              "note": "Biraz daha gerilerse artırmak istiyor, her fiyattan alıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Temettü hissesi O ile TSM/NVDA karşılaştırması",
+          "url": "https://x.com/korkmazali08/status/2112319056892309623",
+          "published_at": "2026-10-19T23:04:42.000Z",
+          "summary": "1 yıl önce O hissesine 206.000 dolar yatırılsaydı ana paranın 190.724 dolara düşeceğini, aynı sürede TSM'nin %40, NVDA'nın %20 getirdiğini anlatıp temettü stratejisini eleştirdi.",
+          "assets": [
+            {
+              "symbol": "O",
+              "sentiment": "negative",
+              "note": "1 yılda ana paradan kayıp, temettü yetersiz kaldı."
+            },
+            {
+              "symbol": "TSM",
+              "sentiment": "positive",
+              "note": "Son 1 yılda %40 getiri."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Son 1 yılda %20 getiri."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "EOSE yeni dip serisi",
+          "url": "https://x.com/korkmazali08/status/2112234433348595847",
+          "published_at": "2026-10-19T17:28:26.000Z",
+          "summary": "EOSE'nin her gün yeni dip yaptığını, bence yatırım yapılacak bir şirket olmadığını (özellikle bu piyasa koşullarında) yazdı.",
+          "assets": [
+            {
+              "symbol": "EOSE",
+              "sentiment": "negative",
+              "note": "Her gün yeni dip; yatırım yapılacak şirket değil, opsiyonla maliyeti alıp kapattı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Morgan Stanley META hedefini 820 dolara çıkardı",
+          "url": "https://x.com/korkmazali08/status/2112205071299797040",
+          "published_at": "2026-10-19T15:31:46.000Z",
+          "summary": "Morgan Stanley'den Brian Nowak'ın META hedef fiyatını bilanço öncesi 775'ten 820 dolara yükselttiğini, Endeks Üzeri Getiri tavsiyesini koruduğunu paylaştı.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "MS hedef fiyatı 775'ten 820 dolara yükseltti, tavsiye korundu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Morgan Stanley AMZN hedefini 350 dolara çıkardı",
+          "url": "https://x.com/korkmazali08/status/2112241788756898198",
+          "published_at": "2026-10-19T17:57:40.000Z",
+          "summary": "AMZN'nin MS'nin hedefi 335'ten 350 dolara yükseltmesi sonrası %5 yükseldiğini ve AWS büyüme katalizörlerini paylaştı.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "MS hedefi 350 dolar; AWS 2027'de %47 büyüme beklentisi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia NVHBM için TSMC 3nm istiyor",
+          "url": "https://x.com/korkmazali08/status/2112150209778061315",
+          "published_at": "2026-10-19T11:53:46.000Z",
+          "summary": "Seoul Economic Daily'ye göre Nvidia'nın Samsung, Micron ve SK Hynix'ten NVHBM taban katmanında TSMC 3nm istediğini paylaştı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Özel HBM için ortak üretim standardı istiyor."
+            },
+            {
+              "symbol": "TSM",
+              "sentiment": "positive",
+              "note": "Bellek siparişini kim kazanırsa kazansın TSMC üretimden pay alabilir."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Tedarikçilerden biri."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "İran Hürmüz için yedi günlük plan önerdi",
+          "url": "https://x.com/korkmazali08/status/2112204823223312853",
+          "published_at": "2026-10-19T15:30:47.000Z",
+          "summary": "İran Dışişleri Bakanı Arakçi'nin Hürmüz'den geçişleri yedi günde yeniden başlatma planını, ABD'nin ablukayı kaldırması koşuluyla önerdiğini paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "RKLB Neutron gecikmesi",
+          "url": "https://x.com/korkmazali08/status/2112189624923705459",
+          "published_at": "2026-10-19T14:30:23.000Z",
+          "summary": "Neutron'un 2027'ye ertelenmesi sonrası RKLB'nin haftada %25 düştüğünü ve Iridium alımı ile finansmanı anlatan analizi paylaştı.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Neutron 2027'ye ertelendi, hisse mayıs zirvesinin ~%65 altında; Iridium alımı ve seyreltme riskleri var."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NYSE opsiyonlarda uzatılmış işlem saati",
+          "url": "https://x.com/korkmazali08/status/2112261967511720186",
+          "published_at": "2026-10-19T19:17:51.000Z",
+          "summary": "CNBC'ye göre NYSE'nin NVDA, BAC, SPY ve IWM dahil 29 hisse/ETF opsiyonunda 6 Aralık'tan itibaren günde 23 saat işlem başlatacağını paylaştı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Uzatılmış opsiyon saatleri kapsamındaki hisselerden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "Gündemi **PPF** ve SPK'nın fon likiditesi oldu: SPK'nın likit olduğunu garanti ettiği fonda paranın bir aydan uzun süredir kilitli kaldığını söylüyor ve SPK'dan ödeme takvimi istiyor. Yurt dışı hisselerde ise **Vertiv**'i çok güçlü büyüyen ve değerlemesi makul bir şirket olarak buluyor, rekabet ve Wall Street'in marj kaygısı üzerinden hisseyi aşağı çektiğini düşünüyor. Veri merkezi iptallerinin nedeninin talep değil enerji yetersizliği olduğunu savundu.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Vertiv güçlü büyüyor, Wall Street'e güvenmiyor",
+          "url": "https://x.com/dtfinans_/status/2112424563178934458",
+          "published_at": "2026-10-20T06:03:57.000Z",
+          "summary": "VRT'nin EPS'inin yıllık %60 arttığını, beklentilerini sürekli yükselttiğini ve değerlemesinin makul olduğunu, buna karşın artan soğutma rekabetinin marj baskısı gerekçesiyle hisseyi aşağı çekmeye devam ettiğini yazdı.",
+          "assets": [
+            {
+              "symbol": "VRT",
+              "sentiment": "positive",
+              "note": "EPS %60 artıyor, değerleme makul; rekabet ve marj baskısı riski, 370 dolardan beri düşüş."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Veri merkezi iptalleri talep değil enerji kaynaklı",
+          "url": "https://x.com/dtfinans_/status/2112405636944154670",
+          "published_at": "2026-10-20T04:48:45.000Z",
+          "summary": "ZeroHedge'in veri merkezi iptalleri listesine yanıt olarak iptallerin nedeninin talebin azlığı değil, yeterli enerjiye ulaşılamaması olduğunu savundu.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PPF'de kilitli kalan para",
+          "url": "https://x.com/dtfinans_/status/2112174827603984750",
+          "published_at": "2026-10-19T13:31:35.000Z",
+          "summary": "SPK'nın likit olduğunu garanti ettiği PPF'de paranın bir ayı aşkın süredir kilitli kaldığını belirtip ödeme talep etti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "PPF için ödeme takvimi talebi",
+          "url": "https://x.com/dtfinans_/status/2112245586372280522",
+          "published_at": "2026-10-19T18:12:46.000Z",
+          "summary": "Bir milyonun üzerindeki paranın ne zaman ödeneceği konusunda net cevap istedi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "BIST'te tavan hisseler, MSCI göndermesi",
+          "url": "https://x.com/dtfinans_/status/2112197814725816626",
+          "published_at": "2026-10-19T15:02:56.000Z",
+          "summary": "XU100'ün yaklaşık %2 düştüğü bir günde tavanda yer alan hisselere \"MSCI izliyor\" diye gönderme yaptı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "Haftaya piyasa özetiyle başladı: Nasdaq haftalık %4,5 kayıpla haziran sonundan bu yana en sert haftasını yaşadı, 10 yıllık faiz %5,09'da, Brent 110 dolara değdi ve **Fed** Başkanı Warsh ekimde faiz artışını dışarıda bırakmadı. Vadeliler yapay zeka hisselerindeki toparlanmayla yükselişte; haftanın bilançolarında **SpaceX**, **Netflix**, **Tesla**, **Meta** ve **IBM** var. Şirket haberlerinde **Nvidia**'nın Almanya ile fiziksel yapay zeka anlaşması, **Anthropic**'in Nscale ile 45 milyar dolarlık ikinci hesaplama anlaşması müzakeresi ve **Eos Energy**'nin rekor 3. çeyrek ön sonuçları öne çıktı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Piyasa özeti: teknoloji satışı, faiz ve petrol",
+          "url": "https://x.com/WallStDiaries/status/2112172144826237069",
+          "published_at": "2026-10-19T13:20:56.000Z",
+          "summary": "S&P 500 ve Nasdaq haziran sonundan beri en sert haftalık düşüşünü yaşadı (Nasdaq %4,5), 10 yıllık faiz %5,09, Brent 110 dolar, Warsh ekimde faiz artışını dışarıda bırakmadı.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Nasdaq haftayı %4,5 kayıpla kapattı."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Brent 110 dolara değdi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Haftanın bilanço takvimi",
+          "url": "https://x.com/WallStDiaries/status/2112181405367374133",
+          "published_at": "2026-10-19T13:57:44.000Z",
+          "summary": "Salı SpaceX ve Netflix, Çarşamba Tesla, Meta ve IBM, Perşembe Nokia, Bloom Energy ve Western Digital bilanço açıklayacak.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Salı bilanço."
+            },
+            {
+              "symbol": "NFLX",
+              "sentiment": "neutral",
+              "note": "Salı bilanço."
+            },
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Çarşamba bilanço."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Çarşamba bilanço."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia ve Almanya fiziksel yapay zeka anlaşması",
+          "url": "https://x.com/WallStDiaries/status/2112279656691052771",
+          "published_at": "2026-10-19T20:28:09.000Z",
+          "summary": "Jensen Huang Berlin GTC'de Almanya hükümetiyle fiziksel yapay zeka modelleri için stratejik anlaşma duyurdu.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Almanya ile fiziksel yapay zeka ortaklığı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic Nscale ile ikinci anlaşmayı görüşüyor",
+          "url": "https://x.com/WallStDiaries/status/2112267342117744657",
+          "published_at": "2026-10-19T19:39:13.000Z",
+          "summary": "Anthropic'in Nscale ile 45 milyar dolarlık ikinci hesaplama anlaşması için müzakere ettiğini paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Eos Energy 3. çeyrek ön sonuçları",
+          "url": "https://x.com/WallStDiaries/status/2112220581529575700",
+          "published_at": "2026-10-19T16:33:24.000Z",
+          "summary": "Eos'un 3. çeyrek gelirinin yıllık %170 artışla 82-83 milyon dolar olacağını, nakdin 344 milyon dolar, backlog'un 765 milyon dolar olduğunu paylaştı.",
+          "assets": [
+            {
+              "symbol": "EOSE",
+              "sentiment": "positive",
+              "note": "Gelir yıllık %170 arttı, brüt marj 17 puan iyileşti; yıllık gelir beklentisi aralığın alt yarısında."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Samsung Nvidia NVHBM için TSMC 3nm kullanacak",
+          "url": "https://x.com/WallStDiaries/status/2112208400914280943",
+          "published_at": "2026-10-19T15:45:00.000Z",
+          "summary": "Samsung'un Nvidia'nın yeni nesil AI bellekleri için TSMC'nin 3nm teknolojisini kullanacağını paylaştı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Yeni nesil özel HBM talebi."
+            },
+            {
+              "symbol": "TSM",
+              "sentiment": "positive",
+              "note": "Bellek tabanı katmanı TSMC 3nm'de üretilecek."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Centrus Westerman'ı satın aldı",
+          "url": "https://x.com/WallStDiaries/status/2112204629295423552",
+          "published_at": "2026-10-19T15:30:01.000Z",
+          "summary": "Centrus Energy'nin santrifüj tedarikçisi Westerman'ı yaklaşık 116 milyon dolara satın aldığını paylaştı.",
+          "assets": [
+            {
+              "symbol": "LEU",
+              "sentiment": "neutral",
+              "note": "~116 milyon dolarlık satın alma."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Avrupalı telekomlar AST SpaceMobile ile",
+          "url": "https://x.com/WallStDiaries/status/2112200850705899770",
+          "published_at": "2026-10-19T15:15:00.000Z",
+          "summary": "Deutsche Telekom, Orange, Telefónica ve Vodafone'un AST SpaceMobile altyapısıyla doğrudan cep telefonuna uydu interneti kuracağını paylaştı.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "positive",
+              "note": "Dört büyük Avrupa operatörüyle altyapı ortaklığı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Çin 3. çeyrekte %4,5 büyüdü",
+          "url": "https://x.com/WallStDiaries/status/2112186402892857790",
+          "published_at": "2026-10-19T14:17:35.000Z",
+          "summary": "Çin ekonomisinin 3. çeyrekte yıllık %4,5 büyüyerek %4,4'lük beklentiyi aştığını paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Merkez bankalarında altın doları geçti",
+          "url": "https://x.com/WallStDiaries/status/2112166889543831897",
+          "published_at": "2026-10-19T13:00:03.000Z",
+          "summary": "Merkez bankası portföylerinde altının ABD dolarını geride bırakmasını küresel rezerv mimarisinde eksen kayması olarak aktardı.",
+          "assets": [
+            {
+              "symbol": "XAUUSD",
+              "sentiment": "positive",
+              "note": "Merkez bankası rezervlerinde altın doları geçti."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hürmüz'den petrol akışı savaş öncesinin %41 altında",
+          "url": "https://x.com/WallStDiaries/status/2112144231766819169",
+          "published_at": "2026-10-19T11:30:01.000Z",
+          "summary": "Kpler verilerine göre Hürmüz'den geçen petrol akışının savaş öncesi seviyelerin %41 altında kaldığını paylaştı.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Arz tıkanıklığı risk primini artırıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kospi %2,5 yükselişle 5.811",
+          "url": "https://x.com/WallStDiaries/status/2112126638620041261",
+          "published_at": "2026-10-19T10:20:06.000Z",
+          "summary": "Kospi'nin teknoloji öncülüğünde %2,5 primle 5.811,43 puana ulaştığını paylaştı.",
+          "assets": [
+            {
+              "symbol": "KOSPI",
+              "sentiment": "positive",
+              "note": "Teknoloji öncülüğünde %2,5 yükseliş."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Musk ABD'deki çocuklara SpaceX hissesi vaat etti",
+          "url": "https://x.com/WallStDiaries/status/2112105776139399173",
+          "published_at": "2026-10-19T08:57:12.000Z",
+          "summary": "Musk'ın önümüzdeki yıl ABD'deki her çocuğa SpaceX hissesi vereceğini duyurduğunu paylaştı.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Yaklaşık 72 milyon çocuğu kapsayacak plan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Kara Pazartesi'nin yaşanmadığını, zaten beklediğinin de bu olduğunu söylüyor ama bunun düşüşün bittiği anlamına gelmediğini vurguluyor: bugün ve yarın dalgalı seyir olabilir, perşembe büyük satış görülebilir; yine de bir hafta içinde düzelme ve seçim belirsizliği bitmeden güçlü bir ralli bekliyor. Düşük riskli seçenek olarak **QQQM** ve **SPYM**, daha riskli olarak **SMH/SOXX** ve DRAM'i sayıyor. Türkiye tarafında Merkez Bankası'nın 2027 sonu %21 enflasyon ara hedefine ulaşmak için kredi büyüme limitini artıracağını, kurun daha hızlı artmasına izin vereceğini ve faizi indireceğini, hedef tutmayınca da yukarı revize edeceğini öngörüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Yeni bir Kara Pazartesi olmadı ama düşüş bitti denmemeli",
+          "url": "https://x.com/TuncSatiroglu/status/2112427164524335184",
+          "published_at": "2026-10-20T06:14:17.000Z",
+          "summary": "Perşembe büyük satış olabileceğini, bir hafta içinde düzelme ve seçim belirsizliği bitmeden güçlü ralli beklediğini, QQQM/SPYM ile SMH/SOXX'u risk seviyesine göre saydığını yazdı.",
+          "assets": [
+            {
+              "symbol": "QQQM",
+              "sentiment": "positive",
+              "note": "Düşük riskli seçenek, 50/50 SPYM ile."
+            },
+            {
+              "symbol": "SPYM",
+              "sentiment": "positive",
+              "note": "En düşük riskli seçenek."
+            },
+            {
+              "symbol": "SMH",
+              "sentiment": "positive",
+              "note": "Biraz daha risk isteyenler için yarı iletken fonu."
+            },
+            {
+              "symbol": "SOXX",
+              "sentiment": "positive",
+              "note": "SMH ile birlikte yarı iletken fonu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Merkez Bankası %21 enflasyon hedefi beklentisi",
+          "url": "https://x.com/TuncSatiroglu/status/2112101571966247066",
+          "published_at": "2026-10-19T08:40:30.000Z",
+          "summary": "Merkez Bankası'nın kredi büyümesini artırıp kurun hızlı artmasına izin vererek ve faizi indirerek 2027 sonu %21 hedefine ulaşmaya çalışacağını, tutmayınca hedefi yukarı revize edeceğini yazdı.",
+          "assets": [
+            {
+              "symbol": "USDTRY",
+              "sentiment": "positive",
+              "note": "Kurun daha hızlı artmasına izin verileceğini bekliyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Konut krizi ve kiralar",
+          "url": "https://x.com/TuncSatiroglu/status/2112124622628123048",
+          "published_at": "2026-10-19T10:12:06.000Z",
+          "summary": "Kiraların ücretlere göre daha hızlı artacağını ve konut krizinin derinleşeceğini düşündüğünü yazdı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "Hafta sonu sosyal medyada \"Kara Pazartesi\" korkusu dolaşırken **Bitcoin**'in 82 bin doları geri aldığını, petrolün 5 aylık zirveden gerilediğini ve Çin'in beklentiyi aştığını yazdı, ama bunu şimdilik \"relief rally\" olarak görüyor. **SpaceX** ve **Meta** bilançoları öncesi bir video analizi paylaştı ve **Barclays**'e yönelik İngiltere Merkez Bankası incelemesini aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bitcoin 82 bin doları geri aldı, relief rally",
+          "url": "https://x.com/FinancewithIzzy/status/2112125369046253853",
+          "published_at": "2026-10-19T10:15:04.000Z",
+          "summary": "Bitcoin'in 82 bin doları geri aldığını, ancak spot ETF'lerden iki haftada ~910 milyon dolar çıkış olduğunu, 80 bin doların üzerinde tutunmanın ilk sınav ve ETF girişleri başlamadan 90 bini konuşmanın erken olduğunu yazdı.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "82 bin dolar geri alındı; 80 bin üstü tutunma ilk sınav, 90 bin için erken."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SPCX ve META bilanço öncesi",
+          "url": "https://x.com/FinancewithIzzy/status/2112271804618223766",
+          "published_at": "2026-10-19T19:56:56.000Z",
+          "summary": "SpaceX için Starlink büyümesi ve nakit akışını, Meta için reklam gelirleri ve AI harcamalarını izlenecek konular olarak sıraladığı video analizini paylaştı.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Starlink büyümesi, gelir ve nakit akışı izlenecek."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Reklam gelirleri, AI harcamaları, kârlılık izlenecek."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Barclays'e İngiltere Merkez Bankası incelemesi",
+          "url": "https://x.com/FinancewithIzzy/status/2112102005665681699",
+          "published_at": "2026-10-19T08:42:13.000Z",
+          "summary": "FT'ye göre İngiltere Merkez Bankası'nın Barclays'in özel kredi işlemlerinin risklerini düşük gösterip göstermediğini incelediğini ve hisselerin %2,3 düştüğünü aktardı.",
+          "assets": [
+            {
+              "symbol": "BARC",
+              "sentiment": "negative",
+              "note": "Hisse %2,3 düştü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "Gün boyunca ABD 3. çeyrek bilançolarını geçti: **Wintrust**, **Western Alliance**, **Zions**, **BOK Financial** ve **Fifth Third** gibi bankalar ağırlıklı beklenti üstü sonuç verirken **Steel Dynamics** kâr beklentisini kaçırdı. **Cleveland-Cliffs** ve **Crown Holdings** da sonuç açıkladı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Wintrust Q3 sonuçları",
+          "url": "https://x.com/wallstengine/status/2112286092577681890",
+          "published_at": "2026-10-19T20:53:43.000Z",
+          "summary": "Gelir 757,9 milyon dolar (tahmin 754), EPS 3,37 dolar (tahmin 3,30), yıllık %21 artış.",
+          "assets": [
+            {
+              "symbol": "WTFC",
+              "sentiment": "positive",
+              "note": "Gelir ve EPS beklentinin üzerinde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Steel Dynamics Q3 sonuçları",
+          "url": "https://x.com/wallstengine/status/2112280340437799166",
+          "published_at": "2026-10-19T20:30:52.000Z",
+          "summary": "Gelir 6,51 milyar dolar beklentiyi aştı, EPS 5,26 dolar ile tahminin (5,41) altında kaldı.",
+          "assets": [
+            {
+              "symbol": "STLD",
+              "sentiment": "negative",
+              "note": "EPS ve faaliyet kârı beklentinin altında."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Crown Holdings Q3 sonuçları",
+          "url": "https://x.com/wallstengine/status/2112274026622079072",
+          "published_at": "2026-10-19T20:05:46.000Z",
+          "summary": "Gelir 3,71 milyar dolar (tahmin 3,44), ayarlı EPS 2,39 dolar (tahmin 2,26), yıllık rehber 8,35-8,45 dolar.",
+          "assets": [
+            {
+              "symbol": "CCK",
+              "sentiment": "positive",
+              "note": "Gelir ve EPS beklentinin üzerinde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AGNC Q3 sonuçları",
+          "url": "https://x.com/wallstengine/status/2112272933162787248",
+          "published_at": "2026-10-19T20:01:26.000Z",
+          "summary": "Ayarlı EPS 0,37 dolar tahminle aynı, tangible defter değeri çeyreklik %16,9 düştü.",
+          "assets": [
+            {
+              "symbol": "AGNC",
+              "sentiment": "negative",
+              "note": "Tangible defter değeri çeyreklik %16,9 düştü."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fifth Third Q3 sonuçları",
+          "url": "https://x.com/wallstengine/status/2112129735572504621",
+          "published_at": "2026-10-19T10:32:25.000Z",
+          "summary": "Gelir 3,28 milyar dolar ile tahminin (3,34) altında, ayarlı EPS 1,13 dolar.",
+          "assets": [
+            {
+              "symbol": "FITB",
+              "sentiment": "neutral",
+              "note": "Gelir beklentinin altında."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Cleveland-Cliffs Q3 sonuçları",
+          "url": "https://x.com/wallstengine/status/2112121750347464852",
+          "published_at": "2026-10-19T10:00:41.000Z",
+          "summary": "Gelir 5,61 milyar dolar tahminin altında, EPS 0,26 dolar tahminin (0,19) üzerinde, ayarlı FAVÖK 612 milyon dolar.",
+          "assets": [
+            {
+              "symbol": "CLF",
+              "sentiment": "neutral",
+              "note": "Gelir kaçırdı, kâr beklentiyi aştı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "Düşüş gününü \"hasar tespiti\" olarak değerlendirdi: çok sayıda kurulumu inceledi, portföyünün yaklaşık yatay olduğunu söyledi ve önümüzdeki gün/haftalarda inançlarını gözden geçirip yeniden dengeleme yapacağını yazdı. **Arista** için fiyatın çok koştuğunu ama temellerin gerekçelendirdiğini, **PRME** için 2027 deney sonuçlarına bakacağını belirtti.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ANET: fiyat çok koştu ama temeller destekliyor",
+          "url": "https://x.com/jrouldz/status/2112297887413731497",
+          "published_at": "2026-10-19T21:40:35.000Z",
+          "summary": "Gelir ve brüt kârın hızlandığını, F/K'nın 25'ten 58'e çıktığını, elinde olsa tutar ya da kısmi kâr alırdı dediğini; AI'a inanıyorsak daha yüksek bekleyebileceğimizi yazdı.",
+          "assets": [
+            {
+              "symbol": "ANET",
+              "sentiment": "positive",
+              "note": "Gelir ivmeli, F/K 25→58; elinde olsa tut ya da kısmi kâr al, parabolik trend yorulmaya başladı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "PRME ve EOSE",
+          "url": "https://x.com/jrouldz/status/2112270318177796553",
+          "published_at": "2026-10-19T19:51:02.000Z",
+          "summary": "PRME'nin 2027 deney sonuçlarına bağlı olduğunu, 3 dolar altının taban gibi göründüğünü; EOSE'de 2025'te iyi bir işlem yaptığını ve tekrar girip girmemeye karar vermediğini yazdı.",
+          "assets": [
+            {
+              "symbol": "PRME",
+              "sentiment": "neutral",
+              "note": "2027 deney sonuçlarına bağlı, 3 dolar altı taban gibiydi."
+            },
+            {
+              "symbol": "EOSE",
+              "sentiment": "neutral",
+              "note": "Kararsız; 2025'te iyi bir işlem yaptı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Portföyü yeniden dengeleme",
+          "url": "https://x.com/jrouldz/status/2112175900506587521",
+          "published_at": "2026-10-19T13:35:51.000Z",
+          "summary": "Piyasa çalkantısını en yüksek ve en düşük inançları gözden geçirme fırsatı olarak gördüğünü, önümüzdeki gün/haftalarda değişiklik yapacağını yazdı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.1453,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.181,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Ağırlığı %18 ile portföyün en büyüğü; tek hisse riski yüksek, faiz ve kredi döngüsüne duyarlı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Büyük ağırlık, büyüme hikâyesi hâlâ ana tez.",
+          "Aleyhte: %18 ağırlık tek bir hisseye aşırı bağımlılık yaratıyor; yüksek faiz ortamı risk."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1405,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "Morgan Stanley analisti Brian Nowak, üçüncü çeyrek bilançosu öncesinde modelini güncelleyerek $META için hedef fiyatını 775 dolardan 820 dolara yükseltti.",
+            "source_url": "https://x.com/korkmazali08/status/2112205071299797040"
+          },
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "neutral",
+            "quote": "Meta: Reklam gelirleri, dev AI harcamaları ve kârlılık.",
+            "source_url": "https://x.com/FinancewithIzzy/status/2112271804618223766"
+          }
+        ],
+        "action": "hold",
+        "why": "Bilanço öncesi Morgan Stanley hedefini 820 dolara çıkardı (korkmazali08 aktardı), çarşamba bilanço var.",
+        "opinion": "Çarşamba günkü bilanço yakın; reklam gelirleri ve AI harcamaları kritik, %14 ağırlıkla bilanço öncesi pozisyon büyüklüğü gözden geçirilebilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Morgan Stanley hedefi 775'ten 820 dolara çıktı (korkmazali08 paylaştı).",
+          "Aleyhte: Dev AI harcamaları kârlılığı baskılayabilir; çarşamba bilançosu oynaklık getirir (FinancewithIzzy)."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1298,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Yapay zeka çipi eğilimi ve Nvidia HBM haberleri sektöre destek, ama çip hisseleri geçen hafta sert satıldı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Yapay zeka altyapı harcamaları sürüyor; Güney Kore Maliye Bakanı'na göre yarı iletken büyümesi en az 2027'ye kadar sürecek (WallStDiaries).",
+          "Aleyhte: Çip hisseleri son haftada baskı altında, yapay zeka finansman kaygısı var."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1057,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer tema yapay zeka enerji talebiyle destekleniyor; AEP-Amazon SMR haberi sektör için olumlu ama tek hisse riski sürüyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: AEP, Amazon ve X-Energy'nin 960 MW'lık SMR projesi nükleer talebi destekliyor (WallStDiaries).",
+          "Aleyhte: Tema hisseleri risk iştahı düşerken sert düşebilir."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Yüksek beta bir internet hissesi; piyasa düşüşünde en çok sallanan kağıtlardan olabilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Büyüme ve reklam eğilimi Meta bilançosundan olumlu okuma alabilir.",
+          "Aleyhte: Teknoloji satışı ve yüksek faiz ortamı yüksek beta hisselere baskı yapıyor."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0718,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Veri merkezi enerji altyapısı teması; dtfinans_ iptallerin nedenini talep değil enerji eksikliği olarak görüyor, bu elektrik ekipmanı için dolaylı destek.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Enerji darboğazı elektrik altyapısı talebini destekliyor (dtfinans_).",
+          "Aleyhte: Veri merkezi iptal haberleri tema duyarlılığını zayıflatabilir."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0711,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "negative",
+            "quote": "Fed Başkanı Warsh ekimde faiz artışı ihtimalini dışarıda bırakmadı.",
+            "source_url": "https://x.com/WallStDiaries/status/2112172144826237069"
+          }
+        ],
+        "action": "hold",
+        "why": "WallStDiaries'e göre 10 yıllık faiz %5,09 ve Warsh ekimde faiz artışını dışarıda bırakmadı.",
+        "opinion": "Uzun vadeli ABD tahvilleri faiz artışı riskine karşı savunmasız; 10 yıllık faiz %5,09 ve Fed duruşu belirsiz.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: %5 üzeri getiri, risk iştahı düşerse korunma sağlayabilir.",
+          "Aleyhte: Warsh'ın ekimde faiz artışını dışarıda bırakmaması uzun vadeli tahvil fiyatına baskı (WallStDiaries)."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0605,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Türkiye'de PPF/SPK güven sorunu ve enflasyon-politika belirsizliği yerel sermaye piyasasına baskı yapıyor; kur riski var.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Tunç Şatıroğlu'na göre Merkez Bankası faiz indirimi yoluna girebilir, bu hisseleri destekleyebilir.",
+          "Aleyhte: Tunç Şatıroğlu enflasyonun %16 seviyesine dönmeyeceğini, kurun hızlı artacağını düşünüyor; dtfinans_ PPF mağduriyetini anlatıyor."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "VRT",
+        "name": "Vertiv",
+        "why": "dtfinans_ EPS'in yıllık %60 arttığını, beklentilerin sürekli yükseltildiğini ve değerlemenin makul olduğunu söylüyor; rekabet ve marj baskısı riskini de not ediyor.",
+        "source_url": "https://x.com/dtfinans_/status/2112424563178934458"
+      },
+      {
+        "symbol": "QQQM",
+        "name": "Invesco NASDAQ 100 ETF",
+        "why": "Tunç Şatıroğlu düşüşün sürebileceğini ama bir hafta içinde düzelme ve güçlü ralli beklediğini, düşük riskli seçenek olarak QQQM/SPYM'yi saydığını yazdı.",
+        "source_url": "https://x.com/TuncSatiroglu/status/2112427164524335184"
+      },
+      {
+        "symbol": "ANET",
+        "name": "Arista Networks",
+        "why": "jrouldz gelir ve brüt kâr ivmesine dikkat çekiyor, F/K 25'ten 58'e çıktığı için ucuz değil ama haklı görüyor; elinde olsa tut ya da kısmi kâr alırdı.",
+        "source_url": "https://x.com/jrouldz/status/2112297887413731497"
+      }
+    ]
+  }
+}
