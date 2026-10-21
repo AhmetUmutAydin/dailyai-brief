@@ -1,0 +1,1528 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T07:20:35.216Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "SpaceX grew Q3 revenue 161% with net income of $4.4B",
+      "person": "wallstengine",
+      "why": "Revenue $14.58B (est. $12.87B), adjusted EBITDA $8.81B; the Super Intelligence segment revenue rose 830% and CapEx was $19.59B.",
+      "source_url": "https://x.com/wallstengine/status/2112638188535595135"
+    },
+    {
+      "title": "Netflix beat estimates but guided Q4 below expectations",
+      "person": "wallstengine",
+      "why": "EPS $0.87 (est. $0.82); Q4 revenue $13.44B (est. $13.52B), EPS $0.67 (est. $0.73), and full-year free cash flow was cut to ~$12.0B.",
+      "source_url": "https://x.com/wallstengine/status/2112635894670778708"
+    },
+    {
+      "title": "Citadel's Ken Griffin: AI is \"almost certainly\" a bubble",
+      "person": "ulkser",
+      "why": "Griffin said firms struggle to turn AI spending into productivity but stays bullish long term; ulkser notes AI stocks are already at lows and this could deliver another hit.",
+      "source_url": "https://x.com/ulkser/status/2112795536000467194"
+    },
+    {
+      "title": "US 10-year yield hit 5.35% this month, Fed meets Oct 27-28",
+      "person": "FinancewithIzzy",
+      "why": "Oil is near $110, bond supply is surging and Japan pulled 5.3 trillion yen from foreign bonds; the CBRT will discuss a cut on Thursday.",
+      "source_url": "https://x.com/FinancewithIzzy/status/2112544371539104017"
+    },
+    {
+      "title": "Anthropic draft S-1: H1 revenue $16.3B, net loss $80.7B",
+      "person": "wallstengine",
+      "why": "Per WSJ the company will spend more than $600B on compute; the loss is largely due to accounting charges.",
+      "source_url": "https://x.com/wallstengine/status/2112628316759052401"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US yields and the Fed",
+      "views": [
+        {
+          "person": "FinancewithIzzy",
+          "view": "Sees the 10-year yield staying above 5% as a bigger risk than earnings.",
+          "quote": "I think the biggest risk to the market right now is not earnings, it is this 5%.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112544371539104017"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Relayed that higher yields pressure tech financing; per Citi the issue is financing cost, not demand.",
+          "quote": "The 30% rise in US 10-year yields from the lows created financing pressure in tech and triggered volatility.",
+          "source_url": "https://x.com/WallStDiaries/status/2112510035779543278"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "Said yields rose slightly with solid bond demand in Japan and the US, but remain high.",
+          "quote": "Yields were slightly higher again yesterday.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "topic": "US-Iran talks",
+      "views": [
+        {
+          "person": "korkmazali08",
+          "view": "Relayed that talks continue and reports of an imminent deal are inaccurate.",
+          "quote": "According to a source in the talks, negotiations between Iran and the US are ongoing; reports that a deal is close do not reflect reality.",
+          "source_url": "https://x.com/korkmazali08/status/2112563234997686764"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Relayed the claim that both sides gave preliminary approval to a Qatar-Pakistan compromise.",
+          "quote": "Both sides are claimed to have given preliminary approval to a compromise offered by Qatar and Pakistan to defuse the escalating US-Iran tension.",
+          "source_url": "https://x.com/WallStDiaries/status/2112560804545368323"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "Said peace in Iran-US and Russia-Ukraine would be very positive for markets, while the war keeps oil and inflation pressure alive.",
+          "quote": "If peace comes on the Russia-Ukraine side and peace comes to the Iran-America war, it will have very positive effects on the markets.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "topic": "Oil and energy",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Attacks on Middle East shipping lanes pushed Brent to a 5-month high.",
+          "quote": "Rising attacks on maritime trade routes in the Middle East triggered global supply concerns. Brent reached its highest level in 5 months, while the oil fund $USO rose strongly before the open.",
+          "source_url": "https://x.com/WallStDiaries/status/2112506615509172305"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "While the war lasts oil stays elevated, feeding inflation worries and high rates.",
+          "quote": "As long as the war is there, the oil price is pressured. When the oil price is pressured, inflation worries come into play.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "topic": "AI valuations and the bubble debate",
+      "views": [
+        {
+          "person": "ulkser",
+          "view": "Sees Griffin's bubble warning as another possible hit with AI stocks already at lows, and wonders if he will be proven right a month later.",
+          "quote": "AI stocks are already at the lows, this statement may be one more hit and then a rise could follow, but what if the guy turns out right again a month later?",
+          "source_url": "https://x.com/ulkser/status/2112795536000467194"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "Said forward earnings are very strong yet the market does not reward them, so stocks are getting cheaper on forward P/E.",
+          "quote": "There is incredible profit growth but the sector does not reward it. On the contrary, it punishes it.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Noted CEOs are upbeat on AI while Wall Street keeps saying they will go under.",
+          "quote": "In the last 10 days the CEOs of $ASML, $TSM, $NVDA, $AMZN, Anthropic and $SPCX all voiced positive expectations on AI. But Wall Street insists, \"no, you will sink\".",
+          "source_url": "https://x.com/cevikfinance/status/2112672657741345182"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey's money market fund (PPF) crisis",
+      "views": [
+        {
+          "person": "dtfinans_",
+          "view": "Criticizes SPK's lack of oversight and says money in the funds has been ruined.",
+          "quote": "The money of the man in #PPF has been ruined due to lack of oversight. SPK sat and watched, ignoring tons of institutions and companies.",
+          "source_url": "https://x.com/dtfinans_/status/2112584441818128680"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Says he cannot offer hope on the stock market until the liquidation is finished.",
+          "quote": "I am asked to comment on the stock market. Those asking are actually looking for hope, not commentary. I understand it is a very troubled situation but I cannot give hope until the liquidation is finished.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2112456478825308449"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "Wrote that while the Fed debates hikes the CBRT will discuss a cut Thursday, so carry trade appeal must be watched if the spread narrows.",
+          "quote": "While the Fed discusses a hike, the CBRT will discuss a cut on Thursday. What happens to the appeal of the carry trade if the rate gap narrows is something to watch.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112544371539104017"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "Several people weighed in: cheap valuation and Chinese orders stood out.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "The reason for the cheapness is not bad news, it is growth.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112485032514167072"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Chinese demand is strong; however Nvidia is expected to be unable to fulfil all of it.",
+          "source_url": "https://x.com/cevikfinance/status/2112531045018906644"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "There is incredible profit growth but the sector does not reward it. On the contrary, it punishes it.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "korkmazali08 gave a concrete buy level ($315) and FinancewithIzzy highlighted valuation and revenue projections.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "For Avgo I would buy from here, then if it drops to 315 I would buy another round.",
+          "source_url": "https://x.com/korkmazali08/status/2112731054494589348"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Everyone is talking about NVIDIA but I think Broadcom $AVGO is not getting enough attention in the AI chip race.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112621663049121944"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Broadcom announced a new 10-year VMware cloud agreement with Japanese mobile operator NTT DOCOMO to modernize telecom infrastructure.",
+          "source_url": "https://x.com/WallStDiaries/status/2112582114013003823"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "Several people commented after earnings; revenue and profit far above estimates.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$SPCX SpaceX earnings: 🚀🚀 🟢 EPS: $0.35 Estimate: $0.16 — 119% above",
+          "source_url": "https://x.com/korkmazali08/status/2112636008059551814"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "I too was surprised that SpaceX's EPS is so strong with this much AI revenue.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112668792639660526"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Could Tesla investors get SpaceX shares? Per Barclays, alongside merger rumors, one of the most interesting scenarios is SpaceX buying Tesla for stock.",
+          "source_url": "https://x.com/WallStDiaries/status/2112602651711992227"
+        }
+      ]
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix",
+      "priority": "high",
+      "why": "Weak guidance after earnings; people read it in different directions.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "I had flagged the Netflix situation in this tweet of mine. I still hold a part of the position at a loss.",
+          "source_url": "https://x.com/korkmazali08/status/2112654896893722911"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "The real test is whether management can rewrite the growth story on the conference call.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112499078340739263"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "I have no investment in Netflix but it has been falling for a long time; if it turns back from here it would be positive.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Nasdaq 100",
+      "priority": "high",
+      "why": "Three people disagree on how durable the rebound is.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "I read this as a feeble reaction bounce in oversold tech. In other words the technical bottom may not be complete yet.",
+          "source_url": "https://x.com/cevikfinance/status/2112475367529230478"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "After hours the market seems to have understood that AI is not a bubble :) $QQQ🟢",
+          "source_url": "https://x.com/korkmazali08/status/2112663402686353499"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "I currently see no problem in the fundamentals but the technicals do not look good.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "symbol": "US10Y",
+      "name": "ABD 10 yıllık tahvil faizi",
+      "priority": "high",
+      "why": "Three people pointed to yields as the main pressure on the market.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "I think the biggest risk to the market right now is not earnings, it is this 5%.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112544371539104017"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "The 30% rise in US 10-year yields from the lows created financing pressure in tech and triggered volatility.",
+          "source_url": "https://x.com/WallStDiaries/status/2112510035779543278"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Yields were slightly higher again yesterday.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent petrol",
+      "priority": "high",
+      "why": "Three people stressed oil's rise and its inflation impact.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Brent oil reached its highest level in 5 months while",
+          "source_url": "https://x.com/WallStDiaries/status/2112506615509172305"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "Inflation is not falling, oil is pushing $110.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112544371539104017"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Brent and crude oil are higher again.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "symbol": "XU100",
+      "name": "BIST 100",
+      "priority": "high",
+      "why": "Two people stressed the loss of confidence after the fund crisis.",
+      "mentions": [
+        {
+          "person": "dtfinans_",
+          "sentiment": "negative",
+          "quote": "Get well soon #bist :)",
+          "source_url": "https://x.com/dtfinans_/status/2112640475282788645"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "negative",
+          "quote": "I cannot give hope until the liquidation work is finished.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2112456478825308449"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "medium",
+      "why": "Bora Özkent, an investor, called the earnings report critical.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "The Meta earnings report matters to me too. Because I have an investment in it and it will be a bold report on where the AI game is heading.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "priority": "medium",
+      "why": "Morgan Stanley target price $350.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "The reason is Morgan Stanley's new target price, they gave a $350 target.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "medium",
+      "why": "Bora Özkent positive ahead of earnings.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "But I think the coming days could work in Tesla's favor.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "priority": "medium",
+      "why": "Bora Özkent thinks the credit concern is overblown.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "I think the problem is greatly exaggerated but the market is currently in favor of exaggerating it.",
+          "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "medium",
+      "why": "ulkser sees memory as weak; jrouldz sees consolidation after a big run as healthy.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "In summary, things are troubled in memory - things are better on the chip side",
+          "source_url": "https://x.com/ulkser/status/2112498935302394243"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$MU specifically my 2 cents would be that it spent 10 years consolidating, then exploded 20x when the story changed fundamentally",
+          "source_url": "https://x.com/jrouldz/status/2112538237805760731"
+        }
+      ]
+    },
+    {
+      "symbol": "000660.KS",
+      "name": "SK Hynix",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan increased his position.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$000660.KS (SK Hynix) was increased again.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112701926899065103"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan added to his position.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$LITE was increased.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112650138229375042"
+        }
+      ]
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "priority": "medium",
+      "why": "MrTradeer took partial profit on a long.",
+      "mentions": [
+        {
+          "person": "MrTradeer",
+          "sentiment": "neutral",
+          "quote": "I took the 2nd profit on the Ethereum long we bought at the very bottom. In total I closed 75%, let's see with the remaining 25.",
+          "source_url": "https://x.com/MrTradeer/status/2112557398950924746"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "Bitcoin fell below $82,000!",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112486045233103063"
+        }
+      ]
+    },
+    {
+      "symbol": "SMCI",
+      "name": "Super Micro Computer",
+      "priority": "medium",
+      "why": "Company raised its revenue outlook.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Supermicro $SMCI RAISES its fiscal Q1 revenue outlook to $18.5B-$19.5B (prior: $14.5B-$15.5B), citing stronger AI demand.",
+          "source_url": "https://x.com/wallstengine/status/2112643573107793936"
+        }
+      ]
+    },
+    {
+      "symbol": "IWM",
+      "name": "Russell 2000",
+      "priority": "medium",
+      "why": "jrouldz watches the return to the January high as a resistance-to-support flip.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$IWM wow this is actually working 🫣",
+          "source_url": "https://x.com/jrouldz/status/2112627695700021403"
+        }
+      ]
+    },
+    {
+      "symbol": "CBRS",
+      "name": "Cerebras",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "Interested in buying $CBRS once @balkanstocks capitulates",
+          "source_url": "https://x.com/jrouldz/status/2112590831135658003"
+        }
+      ]
+    },
+    {
+      "symbol": "V",
+      "name": "Visa",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$V the 2-year consolidation breakout is already a gone case",
+          "source_url": "https://x.com/ulkser/status/2112627485603238360"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "According to Bora Özkent, the Nasdaq failed to clear its 50-day average and gains on low volume should not be taken too seriously; the Elice IPO loss in Korea and **CoreWeave** credit worries are weighing on AI stocks. He says the market will swing up and down until the war and the elections are over but he sees no problem in the fundamentals; he adds that positive Iran-US news could turn things around quickly.\n\nThis is earnings week: **Netflix** and **SpaceX** report tonight, **Tesla** and **Meta** tomorrow. He says he holds **Meta** and **Tesla**, and that **Amazon** jumped 5% on Morgan Stanley's $350 target. Anthropic's IPO is due in November, and he reads **Anthropic**'s plan to set aside 5% of its shares in a fund and Musk's SpaceX share gift as a hedge against an AI-unemployment backlash.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Nasdaq Süründürmeye Devam Ediyor",
+          "url": "https://www.youtube.com/watch?v=exCQoTxUdkY",
+          "published_at": "2026-10-20T09:30:11+00:00",
+          "summary": "Bora Özkent says the Nasdaq stayed below its 50-day average and that rallies on low volume should not be taken seriously. The Elice IPO drop and rising CoreWeave credit risk premiums are weighing on AI stocks. S&P 500 forward earnings expectations are up 31% while the index is up 12.3% year to date; tech earnings expectations are up 65.5% against a 23% price gain, so forward P/E is falling. Amazon rose 5% on Morgan Stanley's $350 target and Tesla rose 4% on an Ark Invest scenario. Netflix, SpaceX, Tesla, Meta, Nokia and Bloom Energy report this week. He says the market will swing until the war and elections end, that his portfolio is about 12% below its peak but he sees no fundamental problem, and that Iran-US peace could trigger a big rally.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Says Nvidia has incredible profit growth but the sector does not reward it."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Cites Micron as an example punished despite strong profit growth."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "positive",
+              "note": "Thinks the CoreWeave problem is exaggerated but says the market keeps exaggerating it."
+            },
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "Long-time holder; Morgan Stanley gave a $350 target."
+            },
+            {
+              "symbol": "TSLA",
+              "sentiment": "positive",
+              "note": "Thinks the coming days could work in Tesla's favor."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Holds it; the earnings report is critical for the AI game."
+            },
+            {
+              "symbol": "NFLX",
+              "sentiment": "neutral",
+              "note": "No position; a turn back after the earnings would be positive."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Sees the market reaction to the heavily indebted company's earnings as key."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg commented on the report that Trump will require new large data centers to generate their own power and share the surplus with locals, writing that AI data centers are on their way to becoming a public utility.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Veri merkezleri halk emtiası olma yolunda",
+          "url": "https://x.com/heisenbergtrx/status/2112784240660107523",
+          "published_at": "2026-10-21T05:53:11+00:00",
+          "summary": "Heisenberg shared the report that Trump wants new data centers to produce their own power and pay locals a dividend-like amount, writing that AI data centers are moving toward becoming a public utility.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser reacted to Citadel's Ken Griffin calling AI \"almost certainly\" a bubble by saying it could be one more hit with AI stocks already at lows, noting Griffin proved right a month after his previous warning. He also wrote that memory is troubled while chips look better, and that **Visa** has broken its two-year consolidation.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Ken Griffin'in AI balon uyarısı",
+          "url": "https://x.com/ulkser/status/2112795536000467194",
+          "published_at": "2026-10-21T06:38:04+00:00",
+          "summary": "ulkser wrote the warning could be another hit to AI stocks followed by a rise, but that Griffin proved right a month after his previous warning.",
+          "assets": [
+            {
+              "symbol": "SMH",
+              "sentiment": "neutral",
+              "note": "Semiconductor ETF tagged in the AI-bubble discussion."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "Nasdaq ETF tagged in the AI-bubble discussion."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bellek zayıf, çip tarafı daha iyi",
+          "url": "https://x.com/ulkser/status/2112498935302394243",
+          "published_at": "2026-10-20T10:59:29+00:00",
+          "summary": "ulkser shared the summary \"things are troubled in memory, better on the chip side\" based on news of Intel's new AI GPU without HBM.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Says things are troubled on the memory side."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Says things are better on the chip side."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Visa 2 yıllık konsolidasyonu kırdı",
+          "url": "https://x.com/ulkser/status/2112627485603238360",
+          "published_at": "2026-10-20T19:30:17+00:00",
+          "summary": "ulkser wrote that Visa's two-year consolidation breakout has already happened.",
+          "assets": [
+            {
+              "symbol": "V",
+              "sentiment": "positive",
+              "note": "The two-year consolidation breakout has already taken off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan wrote that Griffin's bubble remarks spoiled a strong run in the Kospi. He said he increased his **SK Hynix** and **Lumentum** positions (with an old forgotten order in **Lumentum** causing an unintended fill), closed his short in **AUR** and increased it in **TE**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Griffin açıklaması Kospi'yi bozdu",
+          "url": "https://x.com/AhmetSunelcan1/status/2112772185488232509",
+          "published_at": "2026-10-21T05:05:17+00:00",
+          "summary": "Ahmet Sunelcan wrote that while the Kospi was strong, Griffin's AI-bubble remark spoiled it.",
+          "assets": [
+            {
+              "symbol": "000660.KS",
+              "sentiment": "neutral",
+              "note": "Points to the pullback in Kospi chip stocks."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SK Hynix pozisyonu artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112701926899065103",
+          "published_at": "2026-10-21T00:26:06+00:00",
+          "summary": "Ahmet Sunelcan increased his SK Hynix position again.",
+          "assets": [
+            {
+              "symbol": "000660.KS",
+              "sentiment": "positive",
+              "note": "Position increased again."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Lumentum arttırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112650138229375042",
+          "published_at": "2026-10-20T21:00:18+00:00",
+          "summary": "Ahmet Sunelcan increased his Lumentum position.",
+          "assets": [
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "Position increased."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Lumentum emri tekrar kapandı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112653136209092680",
+          "published_at": "2026-10-20T21:12:13+00:00",
+          "summary": "Ahmet Sunelcan wrote that an old order at $835 filled unexpectedly and that he placed a new order at $844.57.",
+          "assets": [
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "An old order at $835 filled; he placed a new order at $844.57."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX EPS'i şaşırttı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112668792639660526",
+          "published_at": "2026-10-20T22:14:26+00:00",
+          "summary": "Ahmet Sunelcan wrote he was surprised at how strong SpaceX's EPS is with this much AI revenue.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Strong EPS surprised him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 wrote he would buy **Broadcom** here and add another round if it falls to **$315**; he posted the **SpaceX** and **Netflix** earnings and said he still has a position in **Netflix** at a loss. He relayed that US-Iran talks continue and reports of an imminent deal are inaccurate, and shared that Trump's support fell to a record-low 31%.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Broadcom için alım seviyesi",
+          "url": "https://x.com/korkmazali08/status/2112731054494589348",
+          "published_at": "2026-10-21T02:21:50+00:00",
+          "summary": "korkmazali08 wrote he would buy Broadcom here and another round if it dropped to $315.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Buy from here, second buy at $315."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom özel yapay zekâ çipleri",
+          "url": "https://x.com/korkmazali08/status/2112723298908025168",
+          "published_at": "2026-10-21T01:51:01+00:00",
+          "summary": "korkmazali08 relayed that Broadcom could benefit from the SpaceX spending boom through custom AI chips and its OpenAI relationship.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Custom chips and OpenAI financing (up to $50B) offer an opportunity."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX bilançosu",
+          "url": "https://x.com/korkmazali08/status/2112636008059551814",
+          "published_at": "2026-10-20T20:04:09+00:00",
+          "summary": "korkmazali08 posted SpaceX earnings: EPS $0.35 (est. $0.16), revenue $14.575B (est. $13B).",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "EPS 119% above and revenue 12% above estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Netflix bilançosu",
+          "url": "https://x.com/korkmazali08/status/2112635797203812451",
+          "published_at": "2026-10-20T20:03:19+00:00",
+          "summary": "korkmazali08 posted Netflix earnings: EPS $0.87, revenue $12.874B.",
+          "assets": [
+            {
+              "symbol": "NFLX",
+              "sentiment": "neutral",
+              "note": "EPS above estimates, revenue in line."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Netflix HSBC düşürmesi ve zarardaki pozisyon",
+          "url": "https://x.com/korkmazali08/status/2112654896893722911",
+          "published_at": "2026-10-20T21:19:13+00:00",
+          "summary": "korkmazali08, referring to his earlier post on HSBC cutting Netflix to Hold and lowering the target from $96 to $76, wrote part of his position is still at a loss.",
+          "assets": [
+            {
+              "symbol": "NFLX",
+              "sentiment": "negative",
+              "note": "HSBC cut to Hold; part of his position is at a loss."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ABD-İran müzakereleri sürüyor",
+          "url": "https://x.com/korkmazali08/status/2112563234997686764",
+          "published_at": "2026-10-20T15:14:59+00:00",
+          "summary": "korkmazali08 relayed, per a source, that talks continue and reports of a close deal do not reflect reality.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Arakçi: Hürmüz altıncı günde açılacaktı",
+          "url": "https://x.com/korkmazali08/status/2112650697582010807",
+          "published_at": "2026-10-20T21:02:32+00:00",
+          "summary": "korkmazali08 relayed that per Iran FM Araghchi Hormuz was expected to fully open on day 6 and that the US asked for additional clauses.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump desteği rekor düşük",
+          "url": "https://x.com/korkmazali08/status/2112619322300408184",
+          "published_at": "2026-10-20T18:57:51+00:00",
+          "summary": "korkmazali08 shared that per Reuters/Ipsos Trump's support fell to a record-low 31% and gasoline is up 43% since the war began.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic altyapı harcama planı",
+          "url": "https://x.com/korkmazali08/status/2112631785112625536",
+          "published_at": "2026-10-20T19:47:23+00:00",
+          "summary": "korkmazali08 relayed that per WSJ Anthropic plans $111B for Google Cloud, $31B for Microsoft and up to $86B for Nvidia chips.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "$111B cloud deal."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "$31B cloud deal."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Up to $86B of chip rental."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Piyasa AI'ın balon olmadığını anlamış gibi",
+          "url": "https://x.com/korkmazali08/status/2112663402686353499",
+          "published_at": "2026-10-20T21:53:01+00:00",
+          "summary": "korkmazali08 wrote that after hours the market seems to have understood AI is not a bubble.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Green after hours."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": "dtfinans_ argues money in PPFs has been inaccessible for over a month and that SPK's lack of oversight is to blame. He points to private-sector bonds and large companies like Vestel struggling, painting a negative picture for **BIST**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "PPF'de para denetimsizlik yüzünden mahvolmuş",
+          "url": "https://x.com/dtfinans_/status/2112584441818128680",
+          "published_at": "2026-10-20T16:39:15+00:00",
+          "summary": "dtfinans_ wrote money in PPFs was ruined by lack of oversight and that SPK ignored it.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Özel sektör bonoları ve BIST",
+          "url": "https://x.com/dtfinans_/status/2112640475282788645",
+          "published_at": "2026-10-20T20:21:54+00:00",
+          "summary": "dtfinans_ cited Vestel's $500M bond and wrote that confidence in private bonds, PPFs and collateral is shaken, adding \"get well soon #bist\".",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "negative",
+              "note": "Says get well soon to BIST due to the loss of confidence."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Şirket bonosu ve mevduat güvencesi",
+          "url": "https://x.com/dtfinans_/status/2112639820761538781",
+          "published_at": "2026-10-20T20:19:18+00:00",
+          "summary": "dtfinans_ questioned that banks aren't lending and where the private sector will find financing.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "negative",
+              "note": "Asks whether it is positive for Borsa Istanbul, framing it negatively."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries covered **SpaceX**'s strong quarter, record backlogs at defense names (**NOC**, **RTX**), hedge funds' fastest tech selling in a decade, and US margin debt reaching a record $1.48 trillion. It also noted Brent hitting a 5-month high and the 10-year yield pressuring tech financing.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SpaceX 3. çeyrek bilançosu",
+          "url": "https://x.com/WallStDiaries/status/2112638641868566845",
+          "published_at": "2026-10-20T20:14:37+00:00",
+          "summary": "WallStDiaries relayed SpaceX revenue up 161% to $14.6B and net income at $4.4B.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Revenue +161%, net income $4.4B."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Savunma hisselerinde sipariş patlaması",
+          "url": "https://x.com/WallStDiaries/status/2112608537323151844",
+          "published_at": "2026-10-20T18:15:00+00:00",
+          "summary": "WallStDiaries relayed Northrop's $109.6B and RTX's $340B record backlogs.",
+          "assets": [
+            {
+              "symbol": "NOC",
+              "sentiment": "positive",
+              "note": "Record backlog, shares +7%."
+            },
+            {
+              "symbol": "RTX",
+              "sentiment": "positive",
+              "note": "$340B backlog."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hedge fonlar teknolojiyi sattı",
+          "url": "https://x.com/WallStDiaries/status/2112540589439029746",
+          "published_at": "2026-10-20T13:45:00+00:00",
+          "summary": "WallStDiaries relayed Goldman data showing hedge funds cutting tech at the fastest pace in a decade.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Nasdaq 100 fell 5.5% over the last five trading days."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ABD marjin borcu rekorda",
+          "url": "https://x.com/WallStDiaries/status/2112592722670551226",
+          "published_at": "2026-10-20T17:12:09+00:00",
+          "summary": "WallStDiaries relayed FINRA data showing margin debt at $1.48 trillion at end-September.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Elice halka arzı sonrası satış",
+          "url": "https://x.com/WallStDiaries/status/2112591191451529548",
+          "published_at": "2026-10-20T17:06:04+00:00",
+          "summary": "WallStDiaries relayed Korea's Elice IPO falling 32% on day one despite 400x demand, triggering a global sell-off.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "The neo-cloud IPO also tagged CoreWeave."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Petrol 5 ayın zirvesinde",
+          "url": "https://x.com/WallStDiaries/status/2112506615509172305",
+          "published_at": "2026-10-20T11:30:00+00:00",
+          "summary": "WallStDiaries relayed Brent hitting its highest level in 5 months.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "negative",
+              "note": "5-month high."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tahvil faizleri piyasayı yönetiyor",
+          "url": "https://x.com/WallStDiaries/status/2112510035779543278",
+          "published_at": "2026-10-20T11:43:35+00:00",
+          "summary": "WallStDiaries relayed that the 30% rise in the 10-year yield from the lows created tech financing pressure; per Citi the issue is financing cost, not demand.",
+          "assets": [
+            {
+              "symbol": "US10Y",
+              "sentiment": "negative",
+              "note": "Up 30% from the lows."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia'ya Çinli devlerden 35 milyar dolarlık sipariş",
+          "url": "https://x.com/WallStDiaries/status/2112570788767232428",
+          "published_at": "2026-10-20T15:45:00+00:00",
+          "summary": "WallStDiaries relayed ByteDance, Alibaba and Tencent ordering over 3M chips worth $35B.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "$35B order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu wrote he cannot offer hope on the stock market until the fund liquidation is finished, since those asking for commentary are really looking for hope. He published a new YouTube video on the Nasdaq.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Tasfiye bitmeden umut veremem",
+          "url": "https://x.com/TuncSatiroglu/status/2112456478825308449",
+          "published_at": "2026-10-20T08:10:46+00:00",
+          "summary": "Tunç Şatıroğlu wrote that people asking for market commentary want hope, that he can't give it until the fund liquidation ends, and that policymakers rarely heed his warnings.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "negative",
+              "note": "No hope until liquidation ends."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nasdaq'ta büyük dönüşe günler kaldı videosu",
+          "url": "https://x.com/TuncSatiroglu/status/2112545223054377168",
+          "published_at": "2026-10-20T14:03:25+00:00",
+          "summary": "Tunç Şatıroğlu shared his video \"Days Left to the Big Turn in Nasdaq! The Future of the Market Caught Between Trump, War and Rates\".",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "The title implies a big turn in the Nasdaq is days away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "MrTradeer wrote he took a second profit on his **Ethereum** long, closing 75% in total and leaving 25% open.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Ethereum longunda ikinci kâr",
+          "url": "https://x.com/MrTradeer/status/2112557398950924746",
+          "published_at": "2026-10-20T14:51:47+00:00",
+          "summary": "MrTradeer wrote he took a second profit on the Ethereum long, closing 75% in total and keeping 25%.",
+          "assets": [
+            {
+              "symbol": "ETH",
+              "sentiment": "neutral",
+              "note": "75% closed, 25% kept."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy wrote that **Broadcom** trades at a similar P/E to **Nvidia** but gets too little attention, while **Nvidia** is at its cheapest in seven years at a 27 P/E. He noted the US 10-year hit 5.35% this month and called that the market's biggest risk, and summarized **Netflix**'s slide ahead of earnings.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Broadcom dikkat çekmiyor",
+          "url": "https://x.com/FinancewithIzzy/status/2112621663049121944",
+          "published_at": "2026-10-20T19:07:09+00:00",
+          "summary": "FinancewithIzzy wrote Broadcom's AI chip revenue rose 221% to $16.7B, the stock is 31% below its peak, and it targets $115B in AI revenue for FY2027.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Similar P/E to Nvidia (~44), $115B AI revenue target for 2027."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Compared at a similar P/E."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Asıl hikaye tahvil piyasasında",
+          "url": "https://x.com/FinancewithIzzy/status/2112544371539104017",
+          "published_at": "2026-10-20T14:00:02+00:00",
+          "summary": "FinancewithIzzy wrote the 10-year hit 5.35% this month, with oil, bond supply and Japan's retreat as causes, and that the biggest risk is this 5%, not earnings.",
+          "assets": [
+            {
+              "symbol": "US10Y",
+              "sentiment": "negative",
+              "note": "5.35% peak, still above 5%."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "negative",
+              "note": "Oil pushing $110."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Netflix bu yıl %25 eridi",
+          "url": "https://x.com/FinancewithIzzy/status/2112499078340739263",
+          "published_at": "2026-10-20T11:00:03+00:00",
+          "summary": "FinancewithIzzy wrote Netflix fell from $93.76 to about $70, no surprise is expected from the numbers, and the real test is whether management can rewrite the growth story.",
+          "assets": [
+            {
+              "symbol": "NFLX",
+              "sentiment": "neutral",
+              "note": "Expectations are at the floor; sometimes where the surprise is biggest."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin 82.000 doların altına indi",
+          "url": "https://x.com/FinancewithIzzy/status/2112486045233103063",
+          "published_at": "2026-10-20T10:08:15+00:00",
+          "summary": "FinancewithIzzy wrote Bitcoin fell to $81,793 on oil and geopolitical tension, with the Fed meeting in focus.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "negative",
+              "note": "Fell below $82,000."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia 7 yılın en ucuz seviyesinde",
+          "url": "https://x.com/FinancewithIzzy/status/2112485032514167072",
+          "published_at": "2026-10-20T10:04:14+00:00",
+          "summary": "FinancewithIzzy wrote Nvidia's P/E fell to 27, sales rose 106% to $92.6B last quarter, and the real risk is big tech cutting AI spending.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "P/E of 27, lowest since June 2019."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine posted a string of earnings results including **SpaceX**, **Netflix**, **GE Aerospace**, **RTX** and **GM**. It also relayed Musk's target of 13 GW of AI compute by 2027, **Supermicro** raising its outlook, and Anthropic's draft S-1.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SpaceX Q3 bilançosu",
+          "url": "https://x.com/wallstengine/status/2112638188535595135",
+          "published_at": "2026-10-20T20:12:49+00:00",
+          "summary": "wallstengine reported SpaceX revenue of $14.58B, net income of $4.40B and CapEx of $19.59B.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Revenue above estimates, +161%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Netflix Q3 bilançosu",
+          "url": "https://x.com/wallstengine/status/2112635894670778708",
+          "published_at": "2026-10-20T20:03:42+00:00",
+          "summary": "wallstengine reported Netflix EPS of $0.87 beat estimates but Q4 guidance came in below.",
+          "assets": [
+            {
+              "symbol": "NFLX",
+              "sentiment": "neutral",
+              "note": "EPS beat, Q4 guidance weak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Supermicro gelir tahminini yükseltti",
+          "url": "https://x.com/wallstengine/status/2112643573107793936",
+          "published_at": "2026-10-20T20:34:13+00:00",
+          "summary": "wallstengine reported Supermicro raised its fiscal Q1 revenue outlook to $18.5-19.5B.",
+          "assets": [
+            {
+              "symbol": "SMCI",
+              "sentiment": "positive",
+              "note": "Outlook raised from $14.5-15.5B."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Musk 2027'ye kadar 13 GW AI hesaplama hedefliyor",
+          "url": "https://x.com/wallstengine/status/2112647516613435458",
+          "published_at": "2026-10-20T20:49:53+00:00",
+          "summary": "wallstengine reported Musk plans ~200,000 GB300 GPUs per month and 13 GW by 2027.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "~200,000 GB300 per month, Vera Rubin cluster planned."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "2.5-3 GW target by end of 2026."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic taslak S-1",
+          "url": "https://x.com/wallstengine/status/2112628316759052401",
+          "published_at": "2026-10-20T19:33:36+00:00",
+          "summary": "wallstengine reported, per WSJ, Anthropic's H1 revenue of $16.3B and net loss of $80.7B.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz wrote that **IWM** is back at its January high and it is working; he said he'd like to buy **Cerebras** once **balkanstocks** capitulates. On **Micron** he said consolidating after a big run can be healthy.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "IWM Ocak zirvesine döndü",
+          "url": "https://x.com/jrouldz/status/2112627695700021403",
+          "published_at": "2026-10-20T19:31:08+00:00",
+          "summary": "jrouldz said IWM is back at the January high level and that the resistance-to-support flip is actually working.",
+          "assets": [
+            {
+              "symbol": "IWM",
+              "sentiment": "positive",
+              "note": "Ocak zirvesine dönüş işe yarıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CBRS almak istiyor",
+          "url": "https://x.com/jrouldz/status/2112590831135658003",
+          "published_at": "2026-10-20T17:04:38+00:00",
+          "summary": "jrouldz said he is interested in buying CBRS once balkanstocks capitulates.",
+          "assets": [
+            {
+              "symbol": "CBRS",
+              "sentiment": "positive",
+              "note": "balkanstocks pes ettiğinde almak istiyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance called the Nasdaq rebound feeble and wrote the technical bottom may not be complete. He also noted CEOs are upbeat on AI while Wall Street says they will sink.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nasdaq toparlanması yetersiz",
+          "url": "https://x.com/cevikfinance/status/2112475367529230478",
+          "published_at": "2026-10-20T09:25:50+00:00",
+          "summary": "cevikfinance wrote the Nasdaq rose 1.17% but had 31 new highs against 361 new lows, which he reads as a feeble reaction bounce.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Technical bottom may not be complete."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CEO'lar iyimser, Wall Street değil",
+          "url": "https://x.com/cevikfinance/status/2112672657741345182",
+          "published_at": "2026-10-20T22:29:47+00:00",
+          "summary": "cevikfinance wrote several CEOs spoke positively on AI in the last 10 days while Wall Street disagrees.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Points to CEO optimism on AI."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.1453,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.181,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The largest holding (18.1%); single-stock concentration and rate sensitivity are the main risks, and the sources did not discuss it directly today.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Higher rates can weigh on consumer credit and fintech valuations.",
+          "An 18% weight in one name means company-specific news can swing the portfolio sharply."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1405,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "The Meta earnings report matters to me too. Because I have an investment in it and it will be a bold report on where the AI game is heading.",
+            "source_url": "https://www.youtube.com/watch?v=exCQoTxUdkY"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Bora Özkent the earnings report is critical for the AI game's direction, but there is no concrete level or change of view.",
+        "opinion": "Going into tomorrow's earnings the weight is 14%; watch the return on AI spending and the reports of user churn in personal agents.",
+        "ai_action": "hold",
+        "ai_points": [
+          "The completion of the first phase of the Prometheus cluster shows scale advantage (wallstengine).",
+          "Per Bora Özkent the stock has been under pressure for a few days ahead of earnings, which adds risk."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1298,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "For Avgo I would buy from here, then if it drops to 315 I would buy another round.",
+            "source_url": "https://x.com/korkmazali08/status/2112731054494589348"
+          },
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "positive",
+            "quote": "Everyone is talking about NVIDIA but I think Broadcom $AVGO is not getting enough attention in the AI chip race.",
+            "source_url": "https://x.com/FinancewithIzzy/status/2112621663049121944"
+          }
+        ],
+        "action": "buy_more",
+        "why": "According to korkmazali08 it can be bought here and once more if it falls to $315.",
+        "opinion": "Custom AI chips and networking are a strong long-term story but at 13% it is already a large position; holding the current weight is more balanced than adding.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Per FinancewithIzzy AI revenue grew 221% while valuation is similar to Nvidia's.",
+          "A 13% weight means adding would increase concentration."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1057,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Nuclear and defense demand is supportive but at 10.6% the weight is meaningful; record backlogs at defense names today are a positive sector signal.",
+        "ai_action": "hold",
+        "ai_points": [
+          "RTX and Northrop's record backlogs point to strong defense demand (WallStDiaries).",
+          "The stock can be volatile on war headlines and the weight is already high."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Not mentioned in the sources today; track social ad revenue and AI licensing revenue.",
+        "ai_action": "hold",
+        "ai_points": [
+          "High rates and the AI-bubble debate pressure multiples on growth stocks.",
+          "A 9.4% weight carries moderate concentration."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0718,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Exposed to AI data-center power infrastructure; Trump's plan to make data centers generate their own power is a relevant policy signal for the theme.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Exposed to the data-center power theme (news shared by Heisenberg).",
+          "Financing risk around AI spending can hit this theme too."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0711,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "negative",
+            "quote": "I think the biggest risk to the market right now is not earnings, it is this 5%.",
+            "source_url": "https://x.com/FinancewithIzzy/status/2112544371539104017"
+          }
+        ],
+        "action": "hold",
+        "why": "According to FinancewithIzzy yields above 5% are the biggest risk; the Fed meets Oct 27-28 but there is no concrete sell reason.",
+        "opinion": "A long-duration bond fund is the most rate-sensitive holding; the Fed decision and oil are decisive.",
+        "ai_action": "hold",
+        "ai_points": [
+          "A rate hike would push long-dated bond prices down.",
+          "High yield levels make carry attractive (per Bora Özkent bond demand is rising)."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0605,
+        "mentions": [
+          {
+            "person": "Tunç Şatıroğlu",
+            "sentiment": "negative",
+            "quote": "I cannot give hope until the liquidation work is finished.",
+            "source_url": "https://x.com/TuncSatiroglu/status/2112456478825308449"
+          },
+          {
+            "person": "dtfinans_",
+            "sentiment": "negative",
+            "quote": "Get well soon #bist :)",
+            "source_url": "https://x.com/dtfinans_/status/2112640475282788645"
+          }
+        ],
+        "action": "hold",
+        "why": "Tunç Şatıroğlu and dtfinans_ say confidence in the Turkish market is shaken by the fund crisis, but there is no concrete sell level.",
+        "opinion": "The fund crisis and private-sector financing stress raise Turkey risk; the 6% weight is small but exposed to lira and policy risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "The fund crisis and defaults can hurt foreign investor confidence (dtfinans_).",
+          "A possible CBRT rate cut could support local equities (FinancewithIzzy)."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "NVDA",
+        "name": "Nvidia",
+        "why": "According to FinancewithIzzy the P/E of 27 is a seven-year low, sales rose 106% and earnings are outgrowing the price.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2112485032514167072"
+      }
+    ]
+  }
+}
