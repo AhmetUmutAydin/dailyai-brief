@@ -1,0 +1,1777 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T07:21:16Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Meta Q3: capex hedefi 135-145 milyar dolar, serbest nakit akışı ilk kez negatif",
+      "person": "Ahmet Sunelcan",
+      "why": "Ahmet Sunelcan'a göre cezasız EPS 7,40 dolar ve reklam fiyatı %14 arttı; ama Q3 capex 34,9 milyar dolar, serbest nakit akışı -2,1 milyar dolar ve amortisman %44 arttı.",
+      "source_url": "https://x.com/AhmetSunelcan1/status/2113001901918917041"
+    },
+    {
+      "title": "SpaceX'te 22 Ekim'de 1,3 milyar hissenin kilidi açılıyor",
+      "person": "WallStDiaries",
+      "why": "WallStDiaries, kilit açılışı ve Google'a 110 bin GPU anlaşmasının arz baskısı riski yarattığını, Q3 gelirinin 14,58 milyar dolar (%161 artış) olduğunu yazıyor.",
+      "source_url": "https://x.com/WallStDiaries/status/2112831257335783789"
+    },
+    {
+      "title": "Anthropic'in ilk bilançosu: gelir 16,8 milyar dolar ama beklentinin altında",
+      "person": "Bora Özkent",
+      "why": "Bora Özkent'e göre %85 düzeltilmiş brüt marj ve pozitif nakit akışı iyi, 67,2 milyar dolarlık yıllıklandırılmış gelir beklentinin altında; Nasdaq 100 zirveden yaklaşık %10 geride.",
+      "source_url": "https://www.youtube.com/watch?v=_Ic-urfzJ7Y"
+    },
+    {
+      "title": "SpaceX 2027 sonuna kadar 13-20 GW veri merkezi kapasitesi hedefliyor",
+      "person": "Bora Özkent",
+      "why": "Bora Özkent'e göre kurulu kapasite 3 GW; Q3 yatırımının %84'ü yapay zekâya gitti. Yatırım hızlanacağı için borç ya da seyreltme gelebilir.",
+      "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+    },
+    {
+      "title": "Yapay zekâ donanımında çarpanlar düştü; sıradaki testler 26-28 Ekim bilançoları",
+      "person": "cevikfinance",
+      "why": "cevikfinance'a göre 14 hissenin hepsinin F/K'sı düştü, medyan 24,8'den 17,9'a; CLS 26 Ekim, SKHY 27 Ekim, Vertiv 28 Ekim'de bilanço açıklayacak.",
+      "source_url": "https://x.com/cevikfinance/status/2112857907670728906"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "İran-ABD gerilimi ve petrol",
+      "views": [
+        {
+          "person": "ulkser",
+          "view": "Yeni İran geriliminin Nasdaq'ı çökerttiğini ve önceki analizini bozduğunu yazdı.",
+          "quote": "Dun calisan analiz bugun yeni Iran gerilimi sebebiyle tamamen patlamis gozukuyor nasdaq cakildi.",
+          "source_url": "https://x.com/ulkser/status/2113138742005268944"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Basra Körfezi'nden İran savaşı öncesine göre daha fazla petrol çıkışı olduğunu paylaştı.",
+          "quote": "WSJ’ye göre, Basra Körfezi’nden şu anda İran savaşı öncesine kıyasla daha fazla petrol çıkışı gerçekleşiyor.",
+          "source_url": "https://x.com/korkmazali08/status/2112936491425149379"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "ABD-İran temaslarının tıkanmasının Körfez borsalarında satışı tetiklediğini aktardı.",
+          "quote": "ABD ve İran arasındaki diplomatik temasların tıkanması, Körfez piyasalarında satış dalgasını tetikledi.",
+          "source_url": "https://x.com/WallStDiaries/status/2112826026984157617"
+        }
+      ]
+    },
+    {
+      "topic": "Faiz ve enflasyon",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Bugünkü enflasyon verisinin abartıldığını ve piyasayı ürküttüğünü, ayrı bir videoda ele alacağını söyledi.",
+          "quote": "Bugünkü enflasyon haberi epey bir abartıldı. Epey bir ürkütüldü piyasa.",
+          "source_url": "https://www.youtube.com/watch?v=_Ic-urfzJ7Y"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "10 yıllık faizin %4,70'ten %5,12'ye çıktığını ve Fed'in Eylül'de 2023'ten beri ilk kez faiz artırdığını, bunun çarpanları baskıladığını yazdı.",
+          "quote": "Aynı dönemde 10 yıllık ABD tahvil faizi %4,70'ten %5,12'ye çıktı, Fed de 16 Eylül'de 2023'ten bu yana ilk kez faiz artırdı.",
+          "source_url": "https://x.com/cevikfinance/status/2112857907670728906"
+        },
+        {
+          "person": "jrouldz",
+          "view": "Faiz eğilimi tersine dönerse spekülatif hisselerin rahatlayacağını düşünüyor.",
+          "quote": "I think if the yield trend reverses, that means speculative stocks may get some relief so I want to stay focused there over bonds 😂",
+          "source_url": "https://x.com/jrouldz/status/2113066270845526279"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "İngiltere çekirdek enflasyonunun beklentiyi aşmasının BoE'nin faiz indirimini zorlaştırabileceğini aktardı.",
+          "quote": "Ağustostaki %2,57 seviyesinden gelen bu hızlı yükseliş, BoE’nin faiz indirim sürecinde elini zora sokabilir.",
+          "source_url": "https://x.com/WallStDiaries/status/2112846363016966325"
+        }
+      ]
+    },
+    {
+      "topic": "Yapay zekâ harcamaları ve balon tartışması",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Altyapıda asıl riskin talep değil, 2 trilyon dolarlık değerleme beklentisi olduğunu söyledi.",
+          "quote": "bence altyapıda asıl risk şu anda talep değil. Çok ciddi talep var.",
+          "source_url": "https://www.youtube.com/watch?v=_Ic-urfzJ7Y"
+        },
+        {
+          "person": "jrouldz",
+          "view": "Balonsa bile muhtemelen hâlâ çok başlarda olduğunu yazdı.",
+          "quote": "*If* this is a bubble, it is probably still the very beginning",
+          "source_url": "https://x.com/jrouldz/status/2112882838135574949"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Son üç ayda düşenin kâr tahminleri değil, piyasanın ödediği çarpan olduğunu yazdı.",
+          "quote": "Son üç ayda düşen şey kâr tahminleri değil, piyasanın bu tahminlere ödediği çarpan oldu.",
+          "source_url": "https://x.com/cevikfinance/status/2112857907670728906"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "SpaceX'te yüksek capex'in kasayı eritebileceğini ama talep gelire dönüyorsa harcamanın doğru yere gittiğini söyledi.",
+          "quote": "Bu tempo kasayı eritiyor; değerleme de ucuz değil. Ama talep bu hızda gelire dönüyorsa harcama doğru yere gidiyor.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112829131272474741"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "Meta'da alınan GPU'ların gider tablosuna yansıyacağını, dalganın yeni başladığını yazdı.",
+          "quote": "Bugün alınan GPU’lar önümüzdeki yıllarda gider tablosuna yansıyacak, yani bu dalga daha yeni başlıyor.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2113001901918917041"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye piyasaları (BIST)",
+      "views": [
+        {
+          "person": "Heisenberg",
+          "view": "Gelişen piyasalarda dolar bazlı %30-40 düşüşlerin rutin olduğunu, BIST'in kıyamet sinyali vermediğini söyledi.",
+          "quote": "Türkiye gibi emerging marketlerde dolar bazlı %30-40 drawdown istisna değil, rutindir.",
+          "source_url": "https://x.com/heisenbergtrx/status/2112964806621954174"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "26 yıl önce endekse yatıranın dolar bazında para kaybettiğini yazdı.",
+          "quote": "26 yıl önce endekse para yatıran birinin, doların kendi değer kaybı da hesaba katıldığında inanılmaz para kaybettiği bir ülkede",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2113021579764367774"
+        },
+        {
+          "person": "ulkser",
+          "view": "VİOP'ta endeks shortlayanların incelenmesine karşı çıktı.",
+          "quote": "Yeter kardesim burasi borsa, VIOP da endeks shortalayan adami da incelemeyin artik daha neler.",
+          "source_url": "https://x.com/ulkser/status/2112889443073826873"
+        }
+      ]
+    },
+    {
+      "topic": "Altın",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Altının yıl başından %8, zirveden yaklaşık %24 düştüğünü ve ciddi pozisyon çözülmesi olduğunu yazdı.",
+          "quote": "Altın, 2026 başından bu yana yaklaşık %8 geriledi; yıllık dip 4.000 dolar/ons civarına indi.",
+          "source_url": "https://x.com/WallStDiaries/status/2112968646263750889"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "Birden fazla kişi bilanço sonrası görüş bildirdi: reklam gücü, negatif serbest nakit akışı ve yeni C sınıfı hisse öne çıktı.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "AI yatırımının getirisi rakamlarda net görülüyor.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2113001901918917041"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Ancak gelir büyümesi ile nakit üretimi aynı şey değil.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112986024532115659"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Meta gibi, Amazon gibi aslında karlı Google gibi, Microsoft gibi kaliteli şirketleri bile vurdu farklı boyutlarda.",
+          "source_url": "https://www.youtube.com/watch?v=_Ic-urfzJ7Y"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$META CFO says its new nonvoting Class C shares will effectively create a 2-for-1 stock split while preserving existing shareholders' voting power.",
+          "source_url": "https://x.com/wallstengine/status/2113016880994627727"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Gelir 64,6 milyar $, yıllık +%26. Beklenti 63,33 milyar $",
+          "source_url": "https://x.com/korkmazali08/status/2112998512388645267"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "Birden fazla kişi görüş bildirdi; 22 Ekim'de hisse kilidi açılışı tarihi ve yüksek capex öne çıktı.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Portföyümde SPCX var, uzun vadeli boğayım.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2112829131272474741"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Ben SpaceX yatırımcısıyım ama buradan çok yeni hisse alır mıyım? Şüpheliyim biraz.",
+          "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "22 Ekim’de 1,3 milyar hisse kilidi açılacak.",
+          "source_url": "https://x.com/WallStDiaries/status/2112831257335783789"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "neutral",
+          "quote": "SpaceX Sonuçları Uzay ve Yarı İletken Hisselerine Yaradı Ancak Tehlike Bitmiş Değil",
+          "source_url": "https://x.com/TuncSatiroglu/status/2112907854738829612"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "Birden fazla kişi paylaştı; Bora Özkent SpaceX yatırımının Nvidia'ya gideceğini söylüyor.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Bütün bu yatım Nvidia çiplere gidecek.",
+          "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "Jensen Huang konuşmada yeni bir çip açıklamadı ve Vera Rubin'in tam üretimde olduğunu tekrarladı.",
+          "source_url": "https://x.com/cevikfinance/status/2112876778360360974"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Jensen Huang says NVIDIA's DSX POD could cut the time from AI hardware arrival to producing tokens from four to five months down to about one month.",
+          "source_url": "https://x.com/wallstengine/status/2112852484750180799"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Nvidia CEO’su Jensen Huang, Blackwell GPU’larının yedi ila sekiz yıl boyunca kullanılabilir kalabileceğini ve Vera Rubin için de benzer bir kullanım ömrü beklediğini söylüyor.",
+          "source_url": "https://x.com/korkmazali08/status/2112909737461522795"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "medium",
+      "why": "Bilanço, Optimus üretimi ve SpaceX birleşme görüşmeleri paylaşıldı; kimse net pozisyon vermedi.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Tesla ve SpaceX erken birleşme görüşmelerinde.",
+          "source_url": "https://x.com/WallStDiaries/status/2112838806118305882"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Tesla says its manufacturing process is now suitable for a commercial product, although hardware improvements will continue.",
+          "source_url": "https://x.com/wallstengine/status/2113003032162005327"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Hisse başına kâr: 0,48 $ Beklenti: 0,45 $",
+          "source_url": "https://x.com/korkmazali08/status/2112999035112198156"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius",
+      "priority": "high",
+      "why": "İki kişi olumlu görüş bildirdi.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Mesela ben Nebius'ın yönetim kalitesini çok beğeniyorum.",
+          "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "Senin yazdigin sey yüzünden $NBIS ´i tercih ediyorum zaten.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2113002271155814815"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Nebius CEO Arkady Volozh on AI compute demand: “The prices are still there. Demand is still there.”",
+          "source_url": "https://x.com/wallstengine/status/2112843276713886195"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "priority": "high",
+      "why": "Bora Özkent fırsat görüyor, ulkser büyük çağrı alımını kumarlık buluyor.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "ben Corbave'de bir fırsat oluştuğunu düşünüyorum",
+          "source_url": "https://www.youtube.com/watch?v=_Ic-urfzJ7Y"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "Ilginc kumarlik pesine takilabilir $CRWV",
+          "source_url": "https://x.com/ulkser/status/2112956532623286555"
+        }
+      ]
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv",
+      "priority": "high",
+      "why": "İki kişi olumlu; 28 Ekim bilançosu tarih olarak verildi.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Yani iki tarafta da kuvvetli bir şirket.",
+          "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$VRT arttırıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112936892404527529"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "28 Ekim'de $VRT Vertiv.",
+          "source_url": "https://x.com/cevikfinance/status/2112857907670728906"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "priority": "high",
+      "why": "İki kişi pozisyon bildirdi; bilanço Perşembe.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$BE arttırıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112982411915227232"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Bloom Energy var mesela benim yatırımcısı olduğum yanılmıyorsam bu perşembe günü bilançosu da geliyor.",
+          "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "medium",
+      "why": "cevikfinance kâr beklentisi hafif düşen üç isim arasında saydı.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "Öte yandan kâr beklentisi hafif de olsa düşen üç isim var: $AVGO Broadcom",
+          "source_url": "https://x.com/cevikfinance/status/2112857907670728906"
+        }
+      ]
+    },
+    {
+      "symbol": "CLS",
+      "name": "Celestica",
+      "priority": "high",
+      "why": "Ahmet Sunelcan portföye geri aldı, cevikfinance 26 Ekim bilançosunu test olarak gösterdi.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$CLS portföye geri döndü.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112996185900498944"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "26 Ekim'de $CLS",
+          "source_url": "https://x.com/cevikfinance/status/2112857907670728906"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ (Nasdaq 100)",
+      "priority": "high",
+      "why": "ulkser Nasdaq'ta long, korkmazali08 seans sonrası düşüşü aktardı.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "su anda long yonlu islemlere devam ediyorum nasdaqta",
+          "source_url": "https://x.com/ulkser/status/2112955734107554060"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$QQQ after market tr %1 e yakın düşerek seans içinde verdiğini almaya yaklaştı",
+          "source_url": "https://x.com/korkmazali08/status/2113048771747852562"
+        }
+      ]
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "priority": "medium",
+      "why": "ulkser Ukrayna'da barış senaryosunda TLT'yi öne çıkardı.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$TLT roket olabilir olursa",
+          "source_url": "https://x.com/ulkser/status/2112990766628806744"
+        }
+      ]
+    },
+    {
+      "symbol": "XU100",
+      "name": "BIST 100",
+      "priority": "high",
+      "why": "Üç kişi BIST üzerine farklı görüş bildirdi; Heisenberg dolar bazlı uzun vadeli aralığı, Sunelcan 26 yıllık zararı vurguladı.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "BIST-100'e dolar bazlı bakın. 30 senedir aynı range içinde gidip geliyor.",
+          "source_url": "https://x.com/heisenbergtrx/status/2112964806621954174"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "26 yıl önce endekse para yatıran birinin, doların kendi değer kaybı da hesaba katıldığında inanılmaz para kaybettiği bir ülkede",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2113021579764367774"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "Batan battigiyla kalmali kazanan kazandigiyla yani endeks bu ya",
+          "source_url": "https://x.com/ulkser/status/2112889443073826873"
+        }
+      ]
+    },
+    {
+      "symbol": "XAU",
+      "name": "Altın",
+      "priority": "medium",
+      "why": "WallStDiaries tek kaynak olarak 15 yılın en sert düzeltmesini somut seviyelerle aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Altın, 2026 başından bu yana yaklaşık %8 geriledi; yıllık dip 4.000 dolar/ons civarına indi.",
+          "source_url": "https://x.com/WallStDiaries/status/2112968646263750889"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "priority": "medium",
+      "why": "Bora Özkent yazılım şirketleri için olumsuz görüş bildirdi.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "bence bütün yazılım şirketlerin Microsoft burada bir örnek başı dertli olabilir",
+          "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "medium",
+      "why": "Bora Özkent bellek tarafında fırsat gördüğünü söyledi.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Çip, bellek ve kiralama hizmetlerinde de fırsatlar var gibi.",
+          "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+        }
+      ]
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PayPal",
+      "priority": "medium",
+      "why": "ulkser ödeme sistemlerinde breakout görüyor.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Odeme sistemleri ekosistemi su anda breakoutta.",
+          "source_url": "https://x.com/ulkser/status/2112957384977227796"
+        }
+      ]
+    },
+    {
+      "symbol": "FISV",
+      "name": "Fiserv",
+      "priority": "medium",
+      "why": "ulkser bilanço öncesi küçük long planlıyor.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Bilancoya CITIR yani cok ufak pozla long girecegim",
+          "source_url": "https://x.com/ulkser/status/2112957778432053310"
+        }
+      ]
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan portföye ekledi.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$ASML portföye eklendi.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112987964808782268"
+        }
+      ]
+    },
+    {
+      "symbol": "MOD",
+      "name": "Modine",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan somut gerekçeyle zararla kapattı.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$MOD iyi bir zararla kapatildi. Rubin´in sogutmasinda chiller ihtiyaci olmamasi sebebiyle.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2112979891545145751"
+        }
+      ]
+    },
+    {
+      "symbol": "VSAT",
+      "name": "Viasat",
+      "priority": "medium",
+      "why": "Bora Özkent Starlink rekabeti nedeniyle olumsuz görüş bildirdi.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Bundan dolayı kimler kaybedebilir? Viasat ve SES gibi firmalar kaybeden olabilirler.",
+          "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+        }
+      ]
+    },
+    {
+      "symbol": "FPS",
+      "name": "Forgent Power Solutions",
+      "priority": "medium",
+      "why": "Bora Özkent ısı yönetimi tarafında öne çıkan marka olarak andı.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Burada Eon, Schneider Electric, Forgent gibi markalar öne çıkıyorlar.",
+          "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent SpaceX bilançosunu \"şimdiye kadar gördüğüm en enteresan bilanço\" diye anlatıyor: gelir %161, yapay zekâ geliri %830 arttı, çeyrekte 19,6 milyar dolar yatırım yapıldı ve Elon Musk kurulu veri merkezi kapasitesini 3 GW'tan gelecek yıl 13 GW'a, hatta 20 GW'a çıkarmayı hedefliyor. Ona göre bunun kazananları enerji, soğutma ve çip tarafı (**Vertiv**, **Bloom Energy**, **Forgent**, **Nvidia**, **Micron**, **Nebius**); **Viasat**, **Microsoft** gibi şirketler zorlanabilir. Kendisi **SpaceX** yatırımcısı ama seyreltme ve borç ihtiyacı yüzünden buradan yeni hisse almaktan şüpheli.\n\nAnthropic'in ilk bilançosu ise piyasada olumsuz karşılandı: gelir 16,8 milyar dolar, %85 düzeltilmiş brüt marj ve pozitif serbest nakit akışı iyi, ama çeyreklik büyüme ve 67,2 milyar dolarlık yıllıklandırılmış gelir beklentinin altında kaldı. Nasdaq 100 zirveden yaklaşık %10 geride, kendi portföyü tek günde 119.000 dolar kaybetti; yine de altyapı talebinin sürdüğünü, riskin talepten çok 2 trilyon dolarlık değerleme beklentisi olduğunu söylüyor ve **CoreWeave**'de fırsat gördüğünü, pozisyonlarını büyük oranda tutacağını belirtiyor. Zarardaki bazı pozisyonları vergi hasadı için satabileceğini de ekliyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "SpaceX Yapay Zeka Oyununu Değiştirdi !",
+          "url": "https://www.youtube.com/watch?v=1CgVPIQHzI0",
+          "published_at": "2026-10-21T10:24:19+00:00",
+          "summary": "Bora Özkent, SpaceX'in bilançosunu şimdiye kadar gördüğü en enteresan bilanço olarak tanımlıyor: yıllık ciro %161, yapay zekâ geliri %830 arttı, çeyrekte 431 milyon dolar faaliyet karı var ve 19,6 milyar dolarlık yatırımın yaklaşık %84'ü yapay zekâ veri merkezlerine gitti. Kurulu yapay zekâ kapasitesi 3 GW; Musk bunu gelecek yıl en az 13 GW'a, koşullar izin verirse 20 GW'a çıkarmak istiyor ve 1 GW'lık kapasitenin (40-50 milyar dolar) bir yıl içinde ciro olarak geri döndüğünü söylüyor. Bora bunun enerji (GE Vernova, Siemens Energy, Bloom Energy), soğutma (Schneider, Forgent, Vertiv), güç çipleri (onsemi, Navitas) ve Nvidia, Micron, Nebius, CoreWeave gibi şirketler için iş büyümesi demek olduğunu, ama bunun hisse fiyatı tavsiyesi olmadığını vurguluyor. Kaybedenler olarak Viasat ve SES'i, T-Mobile, Verizon, AT&T'yi ve Grok gibi ürünler yüzünden Microsoft ile yazılım şirketlerini sayıyor. Neo cloud'larda kredi, yönetim ve enerji riski olduğunu; Nebius'ın yönetim kalitesini beğendiğini söylüyor. SpaceX'in nakit ve menkul kıymeti 90 milyar dolar ama yatırım hızlanınca yeni borç veya seyreltme gelebileceği için buradan yeni hisse almaktan şüpheli. İzleyeceği başlıklar: devreye alınan GW/MW, GPU kiralama fiyatları, Starlink kurulum hızı ve rakipler.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Yatırımcısı olduğunu ama seyreltme ve borç riski yüzünden buradan yeni hisse almaktan şüpheli olduğunu söylüyor."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "SpaceX'in tüm yatırımını Nvidia çipleri üzerinden yapacağını, bunun Nvidia için olumlu olduğunu söylüyor."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "SpaceX'in belleği ağırlıklı Micron'dan aldığını ve bellek tarafında fırsat olduğunu söylüyor."
+            },
+            {
+              "symbol": "VRT",
+              "sentiment": "positive",
+              "note": "Vertiv'i hem güç hem soğutma sağlayan, iki tarafta da kuvvetli bir şirket olarak görüyor."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Nebius'ın yönetim kalitesini çok beğendiğini söylüyor; Nebius bilanço sonrası %5,39 yukarıdaydı."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Neo cloud'larda kredi, yönetim ve enerji riskleri olduğu için yaklaşırken dikkatli olunması gerektiğini söylüyor."
+            },
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "Yatırımcısı olduğunu, Perşembe günü bilançosu geleceğini ve sahada enerji üretimiyle önünün parlak olabileceğini söylüyor."
+            },
+            {
+              "symbol": "FPS",
+              "sentiment": "positive",
+              "note": "Forgent'i ısı yönetimi/soğutma tarafında öne çıkan markalar arasında sayıyor."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "negative",
+              "note": "Grok gibi çözümlerin yazılım şirketlerine saldıracağını, Microsoft'un başının derde girebileceğini söylüyor."
+            },
+            {
+              "symbol": "VSAT",
+              "sentiment": "negative",
+              "note": "Starlink'in uçak ve telefon bağlantısıyla Viasat'ın zorlanabileceğini söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "youtube",
+          "title": "Anthropic'in İlk Karnesi - Skool Üyelerine Özel",
+          "url": "https://www.youtube.com/watch?v=_Ic-urfzJ7Y",
+          "published_at": "2026-10-21T07:37:02+00:00",
+          "summary": "Bora Özkent, Anthropic'in üçüncü çeyrek verisini yorumluyor: gelir 16,8 milyar dolar (çeyreklik %45 artış), düzeltilmiş brüt marj %85, serbest nakit akışı pozitif; ama büyüme yavaşladı, 67,2 milyar dolarlık yıllıklandırılmış gelir ve 18 milyar dolarlık gelir beklentisinin altında kaldı. Beklenti altı kalmayı distilasyon önlemlerine, OpenAI rekabetine ve müşterilerin token harcamasını gözden geçirmesine bağlıyor. Nasdaq 100 zirveden yaklaşık %10 geride; enflasyon verisi, CoreWeave kredi riski primlerinin bozulması ve opsiyon piyasası düşüşü derinleştirdi, Meta, Amazon, Google, Microsoft de vuruldu. Kendisi olumlu kalıyor: kapalı model token fiyatları 30 günde %37,8 arttı, OpenAI, xAI ve Meta de gelir ekliyor, sektör geliri yıl sonunda 200 milyar doları geçebilir. Bir analistin Anthropic ziyaretinden gelen bilgiye göre günlük kod birleştirme sayısı 4 ayda 2.500'den 30.000'e çıktı, yinelemeli kendini geliştirme yakın. Riskler: halka arz izahnamesi, düzeltilmiş marjların içeriği, ucuz rakipler, düzenleme ve siber saldırılar. Dün portföyü tek günde 119.000 dolar kaybetti; zarardaki bazı pozisyonları vergi hasadı için satabilir ama pozisyonlarını büyük ölçüde tutacak ve CoreWeave'de fırsat gördüğünü söylüyor.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "positive",
+              "note": "CoreWeave'de kredi swap'larının bozulduğu bugün bir fırsat oluştuğunu düşündüğünü söylüyor."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Altyapı talebinde en ufak bir azalma olmadığını, asıl riskin talep değil değerleme beklentisi olduğunu söylüyor."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Meta gibi kaliteli şirketlerin de bugünkü düşüşten farklı boyutlarda etkilendiğini söylüyor."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Oracle'ın faize duyarlı olduğu için kredi piyasasındaki bozulmadan ağır darbe aldığını söylüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg, BIST'teki sert düşüşün \"6 ayda 200 milyar dolar silindi\" diye sunulmasına itiraz ediyor: piyasa değerinin kasada duran para değil son işlem fiyatı çarpı hisse sayısı olduğunu, düşük halka açıklık yüzünden küçük satışların fiyatı orantısız çektiğini örnekle anlatıyor. Ona göre BIST-100 dolar bazında 30 yıldır aynı aralıkta geziyor, verimlilik ve katma değer artmadan kalıcı boğa olmaz ve gelişen piyasalarda dolar bazlı %30-40 düşüşler rutin.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Market cap kasadaki para değildir: BIST düşüşü",
+          "url": "https://x.com/heisenbergtrx/status/2112964806621954174",
+          "published_at": "2026-10-21T17:50:41Z",
+          "summary": "Heisenberg, BIST piyasa değerinin 6 ayda 500 milyar dolardan 300 milyar dolara inmesine tepki veren paylaşımlara, bunun nakit değil kâğıt üzerinde bir değer olduğunu yazıyor. BIST'te halka açıklığın düşük olduğunu, BIST-100'ün dolar bazında 30 yıldır aynı aralıkta gidip geldiğini ve gelişen piyasalarda dolar bazlı %30-40 düşüşlerin rutin olduğunu söylüyor.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "neutral",
+              "note": "BIST-100'ü dolar bazında 30 yıldır aynı aralıkta görüyor; kalıcı boğa için verimlilik ve katma değer artışı gerektiğini söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Market cap bir fiyat etiketidir: hesabın matematiği",
+          "url": "https://x.com/heisenbergtrx/status/2113143516188574128",
+          "published_at": "2026-10-22T05:40:49Z",
+          "summary": "Heisenberg, 100 milyon hisseli, hisse fiyatı 100 TL olan bir şirket örneğiyle, bir fonun yüzde 0,5'lik satışının order book sığ olduğu için fiyatı 100'den 95'e indirdiğini ve piyasa değerinin gerçekte el değiştiren paradan çok daha fazla eridiğini hesaplıyor.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "neutral",
+              "note": "Düşük halka açıklıklı BIST'te küçük satışların piyasa değerini orantısız eritebileceğini anlatıyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser, bir haftadır Dow ve Avrupa tarafında yoğunlaştığını, ama Nasdaq ile korelasyon açılınca Nasdaq'a döndüğünü, bugün ise yeni İran gerilimi yüzünden Nasdaq'ın çakılıp önceki analizini boşa çıkardığını yazıyor; yine de long yönlü Nasdaq işlemlerine devam ediyor. **Fiserv**'de 4 haftalık dipte uyumsuzlukla bilanço öncesi küçük long düşünüyor, **PayPal**'ın 4 ayda %40 yükseldiğini ve ödeme sistemlerinin breakout'ta olduğunu söylüyor. **CoreWeave**'deki 17,2 milyon dolarlık çağrı alımını \"kumarlık\" buluyor, Ukrayna'nın toprak vermeye razı olduğu haberiyle **TLT**'nin roket olabileceğini yazıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Dow'dan Nasdaq'a geçiş",
+          "url": "https://x.com/ulkser/status/2112897025864048771",
+          "published_at": "2026-10-21T13:21:21Z",
+          "summary": "ulkser, bir haftadır DIA, RSP ve DAX tarafında yoğunlaştığını, NDX/QQQ ile korelasyon çok açıldığı için burayı bırakıp NDX'e yoğunlaşmaya başladığını ve farkın kapanması gerektiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "NDX/QQQ tarafında yoğunlaşmaya başladığını söylüyor."
+            },
+            {
+              "symbol": "DIA",
+              "sentiment": "neutral",
+              "note": "Dow tarafındaki tradeleri bırakıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yeni İran gerilimi analizi bozdu",
+          "url": "https://x.com/ulkser/status/2113138742005268944",
+          "published_at": "2026-10-22T05:21:50Z",
+          "summary": "ulkser, dün çalışan analizin bugün yeni İran gerilimi nedeniyle tamamen patlamış göründüğünü ve Nasdaq'ın çakıldığını yazıyor; başka bir gönderide long yönlü Nasdaq işlemlerine devam ettiğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Nasdaq'ın çöktüğünü ve önceki analizin bozulduğunu yazıyor."
+            },
+            {
+              "symbol": "DIA",
+              "sentiment": "neutral",
+              "note": "Dow tarafındaki analizinin bozulduğunu söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fiserv bilanço öncesi küçük long",
+          "url": "https://x.com/ulkser/status/2112957778432053310",
+          "published_at": "2026-10-21T17:22:45Z",
+          "summary": "ulkser, FISV'nin 4 haftalık dipte uyumsuzlukla geldiğini ve bilançoya çok küçük pozisyonla long gireceğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "FISV",
+              "sentiment": "positive",
+              "note": "Bilançoya çok küçük pozisyonla long girmeyi planlıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "PayPal ödeme sistemlerinde breakout",
+          "url": "https://x.com/ulkser/status/2112957384977227796",
+          "published_at": "2026-10-21T17:21:12Z",
+          "summary": "ulkser, PYPL'nin 4 ayda %40 yaptığını, ödeme sistemleri ekosisteminin breakout'ta olduğunu ve bilançonun haftaya geldiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "PYPL",
+              "sentiment": "positive",
+              "note": "4 ayda %40 yükselişin ve breakout'un normal olduğunu söylüyor; bilanço haftaya."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CoreWeave'de 17,2 milyon dolarlık çağrı alımı",
+          "url": "https://x.com/ulkser/status/2112956532623286555",
+          "published_at": "2026-10-21T17:17:48Z",
+          "summary": "ulkser, birinin CRWV 85 dolar vadeli çağrı opsiyonuna 17,2 milyon dolar ödediği haberini paylaşıp bunun ilginç bir kumarlık olabileceğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "17,2 milyon dolarlık CRWV 85 çağrı alımını ilginç bir kumarlık olarak görüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Ukrayna toprak verirse TLT",
+          "url": "https://x.com/ulkser/status/2112990766628806744",
+          "published_at": "2026-10-21T19:33:50Z",
+          "summary": "ulkser, Zelensky'nin savaşı bitirmek için Ukrayna'nın %25'ini vermeye hazır olduğu haberine, bu işin bittiğini ve olursa TLT'nin roket olabileceğini yazarak yorum yapıyor.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "positive",
+              "note": "Savaşın bitmesi olursa TLT'nin roket olabileceğini yazıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "VIOP'ta short açanların incelenmesi",
+          "url": "https://x.com/ulkser/status/2112889443073826873",
+          "published_at": "2026-10-21T12:51:13Z",
+          "summary": "ulkser, Işık Ökte'nin fon krizini önceden haber alıp VİOP'ta short açanların incelenmesini istemesine itiraz ediyor: borsada endeks shortlayanı incelememek, kazananın kazandığıyla kalması gerektiğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "neutral",
+              "note": "VİOP'ta endeks shortlayanların incelenmesine karşı çıkıyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan **Meta**'nın bilançosunu uzun uzun açıklıyor: 3,83 dolarlık hisse başı kâr tek seferlik 9,89 milyar dolarlık dava cezası yüzünden düşük, cezasız 7,40 dolar; yapay zekâ reklam gelirine dönüşüyor ama capex patlıyor ve serbest nakit akışı ilk kez negatife döndü. Portföyünde gün içinde çok hareket var: **Celestica** geri döndü, **ASML** ve **Coherent** eklendi, **Bloom Energy**, **Penguin Solutions**, **Semtech** ve **Vertiv** artırıldı, **Modine** zararla kapatıldı (Rubin soğutmasında chiller gerekmemesi nedeniyle) ve **SentinelOne** açığa satışı kapatıldı. **Nebius**'ı tercih ettiğini de belirtiyor. BIST tarafında ise 26 yıl önce endekse para yatıranın dolar bazında para kaybettiğini yazıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Meta Q3'26 bilançosu: manşete aldanmayın",
+          "url": "https://x.com/AhmetSunelcan1/status/2113001901918917041",
+          "published_at": "2026-10-21T20:18:05Z",
+          "summary": "Sunelcan, Meta'nın 64,6 milyar dolarlık gelirinin (%26 artış) beklentinin üstünde olduğunu, 3,83 dolarlık EPS'nin 9,89 milyar dolarlık dava karşılığı yüzünden düşük göründüğünü ve cezasız EPS'nin 7,40 dolar olduğunu yazıyor. Reklam gösterimi %10, reklam fiyatı %14 arttı; yapay zekâ yatırımının getirisini rakamlarda net görüyor. Q3 capex 34,9 milyar dolar, FY26 hedefi 135-145 milyar dolar ve serbest nakit akışı ilk kez -2,1 milyar dolarla negatife döndü; amortisman %44 arttı ve bu dalganın yeni başladığını söylüyor.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Yapay zekâ reklam gelirine dönüşüyor ama capex ve negatif serbest nakit akışı bedel; amortisman dalgasının yeni başladığını söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Celestica portföye geri döndü",
+          "url": "https://x.com/AhmetSunelcan1/status/2112996185900498944",
+          "published_at": "2026-10-21T19:55:22Z",
+          "summary": "Sunelcan, CLS'nin portföye geri döndüğünü yazıyor.",
+          "assets": [
+            {
+              "symbol": "CLS",
+              "sentiment": "positive",
+              "note": "Portföye geri döndü."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ASML portföye eklendi",
+          "url": "https://x.com/AhmetSunelcan1/status/2112987964808782268",
+          "published_at": "2026-10-21T19:22:42Z",
+          "summary": "Sunelcan, ASML'in portföye eklendiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "ASML",
+              "sentiment": "positive",
+              "note": "Portföye eklendi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Coherent portföye eklendi",
+          "url": "https://x.com/AhmetSunelcan1/status/2112982352607711412",
+          "published_at": "2026-10-21T19:00:24Z",
+          "summary": "Sunelcan, COHR'un portföye eklendiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "COHR",
+              "sentiment": "positive",
+              "note": "Portföye eklendi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bloom Energy artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112982411915227232",
+          "published_at": "2026-10-21T19:00:38Z",
+          "summary": "Sunelcan, BE pozisyonunu artırdığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "Pozisyonu artırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Modine iyi bir zararla kapatıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112979891545145751",
+          "published_at": "2026-10-21T18:50:38Z",
+          "summary": "Sunelcan, MOD'u Rubin soğutmasında chiller ihtiyacı olmaması nedeniyle zararla kapattığını, tek alanının bu olmadığını ve CDU gibi büyüyen alanları bulunduğunu, yine de daha kaliteli şirkette durmayı tercih ettiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "MOD",
+              "sentiment": "negative",
+              "note": "Rubin soğutmasında chiller ihtiyacı olmadığı için zararla kapattı; CDU alanı büyüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Penguin Solutions artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112942416269615519",
+          "published_at": "2026-10-21T16:21:43Z",
+          "summary": "Sunelcan, PENG pozisyonunu artırdığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "PENG",
+              "sentiment": "positive",
+              "note": "Pozisyonu artırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Semtech artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112939724214321565",
+          "published_at": "2026-10-21T16:11:01Z",
+          "summary": "Sunelcan, SMTC pozisyonunu artırdığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "SMTC",
+              "sentiment": "positive",
+              "note": "Pozisyonu artırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Vertiv artırıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112936892404527529",
+          "published_at": "2026-10-21T15:59:46Z",
+          "summary": "Sunelcan, VRT pozisyonunu artırdığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "VRT",
+              "sentiment": "positive",
+              "note": "Pozisyonu artırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SentinelOne açığa satışı kapatıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2112934092547215558",
+          "published_at": "2026-10-21T15:48:38Z",
+          "summary": "Sunelcan, S üzerindeki açığa satışı kapattığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "S",
+              "sentiment": "neutral",
+              "note": "Açığa satış pozisyonunu kapattı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nebius tercihi",
+          "url": "https://x.com/AhmetSunelcan1/status/2113002271155814815",
+          "published_at": "2026-10-21T20:19:33Z",
+          "summary": "Sunelcan, bir yoruma yanıt olarak yazılanlar yüzünden zaten NBIS'i tercih ettiğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Tercih ettiğini söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "26 yıl önce endekse yatıran para kaybetti",
+          "url": "https://x.com/AhmetSunelcan1/status/2113021579764367774",
+          "published_at": "2026-10-21T21:36:17Z",
+          "summary": "Sunelcan, 26 yıl önce endekse para yatıran birinin dolar bazında para kaybettiği bir ülkede insanların fonlardan inanılmaz getiri beklediğini yazıyor ve ülkenin yönetimini eleştiriyor.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "negative",
+              "note": "26 yıl önce endekse yatıranın dolar bazında para kaybettiğini yazıyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz çeyrek sonuçlarını paylaştı: **Meta** geliri 64,6 milyar dolarla beklentiyi aştı ama EPS 9,9 milyar dolarlık hukuki gider yüzünden 3,83 dolara düştü; **Tesla** EPS'yi aştı, geliri ise beklentinin hafif altında kaldı. **IBM** hem EPS hem gelirde beklentiyi geçti. **QQQ**'nun seans sonrası %1'e yakın düştüğünü ve İran Dışişleri Bakanı'nın diplomasiye bir şans daha vermeye hazır olduğunu aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Meta Q3'26 sonuçları",
+          "url": "https://x.com/korkmazali08/status/2112998512388645267",
+          "published_at": "2026-10-21T20:04:37Z",
+          "summary": "Korkmaz, Meta'nın 64,6 milyar dolarlık gelirinin beklentiyi aştığını, 3,83 dolarlık EPS'nin 9,9 milyar dolarlık hukuki gider nedeniyle beklentinin altında kaldığını, Q4 gelir hedefinin 73-76 milyar dolar, 2026 capex hedefinin 135-145 milyar dolar olduğunu ve serbest nakit akışının -2,12 milyar dolar olduğunu paylaştı.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Sonuçları paylaştı: gelir beklentinin üstünde, EPS hukuki gider nedeniyle altında, serbest nakit akışı -2,12 milyar dolar."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla Q3 sonuçları",
+          "url": "https://x.com/korkmazali08/status/2112999035112198156",
+          "published_at": "2026-10-21T20:06:42Z",
+          "summary": "Korkmaz, Tesla'nın hisse başı kârının 0,48 dolarla beklentinin üstünde, gelirinin 28,05 milyar dolarla beklentinin %1 altında kaldığını paylaştı.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Sonuçları paylaştı: EPS beklentinin üstünde, gelir hafif altında."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IBM 3. çeyrek sonuçları",
+          "url": "https://x.com/korkmazali08/status/2112999964670402699",
+          "published_at": "2026-10-21T20:10:23Z",
+          "summary": "Korkmaz, IBM'in 2,95 dolarlık EPS ve 17,10 milyar dolarlık gelirle beklentileri aştığını paylaştı.",
+          "assets": [
+            {
+              "symbol": "IBM",
+              "sentiment": "neutral",
+              "note": "Sonuçları paylaştı: EPS ve gelir beklentinin üstünde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "QQQ seans sonrası düşüş",
+          "url": "https://x.com/korkmazali08/status/2113048771747852562",
+          "published_at": "2026-10-21T23:24:20Z",
+          "summary": "Korkmaz, QQQ'nun seans sonrası %1'e yakın düşerek seans içinde verdiğini almaya yaklaştığını yazdı.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "Seans sonrası %1'e yakın düştüğünü aktardı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "İran: diplomasiye bir şans daha",
+          "url": "https://x.com/korkmazali08/status/2112958384932556981",
+          "published_at": "2026-10-21T17:25:10Z",
+          "summary": "Korkmaz, İran Dışişleri Bakanı Arakçi'nin ABD'nin samimiyetine dair güçlü kanıt görürse diplomasiye bir şans daha vermeye hazır olduklarını söylediğini paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Basra Körfezi'nden petrol çıkışı",
+          "url": "https://x.com/korkmazali08/status/2112936491425149379",
+          "published_at": "2026-10-21T15:58:10Z",
+          "summary": "Korkmaz, WSJ'ye göre Basra Körfezi'nden İran savaşı öncesine kıyasla daha fazla petrol çıkışı olduğunu paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Jensen Huang: Blackwell 7-8 yıl kullanılabilir",
+          "url": "https://x.com/korkmazali08/status/2112909737461522795",
+          "published_at": "2026-10-21T14:11:52Z",
+          "summary": "Korkmaz, Jensen Huang'ın Blackwell GPU'larının yedi-sekiz yıl kullanılabileceğini ve Vera Rubin için de benzer ömür beklediğini söylediğini paylaştı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Huang'ın Blackwell ve Vera Rubin ömrü açıklamasını olumlu işaretle paylaştı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Google Cloud ve Nvidia 960.000 GPU'ya ölçekliyor",
+          "url": "https://x.com/korkmazali08/status/2112886148766789768",
+          "published_at": "2026-10-21T12:38:08Z",
+          "summary": "Korkmaz, Google Cloud ile Nvidia'nın Vera Rubin tabanlı altyapıyı 960.000 GPU'ya kadar büyütmeyi planladığını, A5X sunucu bulutlarının gelecek ay genel kullanıma açılacağını paylaştı.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Altyapı büyütme planını paylaştı."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Vera Rubin tabanlı altyapı planını paylaştı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Rocket Lab bilanço tarihi",
+          "url": "https://x.com/korkmazali08/status/2112891005036892179",
+          "published_at": "2026-10-21T12:57:25Z",
+          "summary": "Korkmaz, Rocket Lab'in üçüncü çeyrek sonuçlarını 9 Kasım'da piyasa kapanışından sonra açıklayacağını paylaştı.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Bilanço tarihini paylaştı: 9 Kasım."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries günün bilanço ve haber akışını özetledi: yapay zekâya harcayanların kârlılığı baskı altında, harcamayı gelire çeviren tedarikçiler rekor kırıyor; **Meta** gelirini %26 artırdı ama 9,89 milyar dolarlık dava karşılığı ve yapay zekâ yatırımları kârı eritti. **SpaceX** için 22 Ekim'de 1,3 milyar hissenin kilidi açılacak, **Tesla** ve **SpaceX** erken birleşme görüşmelerinde, **Altın** ise yıl başından %8 düştü.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Yapay zekâ donanımında para nereye akıyor?",
+          "url": "https://x.com/WallStDiaries/status/2113161919691428190",
+          "published_at": "2026-10-22T06:53:56Z",
+          "summary": "WallStDiaries, dünkü bilançoların yapay zekâya harcama yapanların kârlılığını baskı altında, harcamayı gelire çeviren tedarikçileri ise rekor kırar gösterdiğini yazıyor; Meta'nın 2026 yatırım hedefi 135-145 milyar dolar, çeyrek harcaması 34,9 milyar dolar ve serbest nakit akışı eksiye döndü, Lam Research geliri %54 artırdı.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Yatırım hedefi 135-145 milyar dolar, çeyrek harcaması 34,9 milyar dolar, serbest nakit akışı eksiye döndü."
+            },
+            {
+              "symbol": "LRCX",
+              "sentiment": "positive",
+              "note": "Geliri %54 artırıp rekor kırdı, faaliyet marjı %40."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta 2026 3. çeyrek bilançosu",
+          "url": "https://x.com/WallStDiaries/status/2113157441739227536",
+          "published_at": "2026-10-22T06:36:09Z",
+          "summary": "WallStDiaries, Meta'nın gelirinin %26 artışla 64,6 milyar dolar olduğunu, reklam gösterimi ve fiyatının arttığını, 9,89 milyar dolarlık dava karşılığı ve yapay zekâ yatırımlarının kârı aşağı çektiğini ve oy hakkı olmayan yeni C sınıfı hisse oluşturulacağını aktarıyor.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Güçlü reklam geliri; dava karşılığı ve yapay zekâ yatırımı kârı düşürdü."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX'te gelir, kilit ve Google etkisi",
+          "url": "https://x.com/WallStDiaries/status/2112831257335783789",
+          "published_at": "2026-10-21T09:00:00Z",
+          "summary": "WallStDiaries, SpaceX Q3 gelirinin 14,58 milyar dolar (%161 artış) olduğunu, Starlink abonelerinin 13,6 milyona çıktığını, 22 Ekim'de 1,3 milyar hissenin kilidinin açılacağını ve Google'a 110 bin Nvidia GPU anlaşmasının arz baskısı riski yarattığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "22 Ekim'de 1,3 milyar hissenin kilidi açılacak; arz baskısı riski."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Google'a 110 bin GPU anlaşması büyümeyi destekliyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla ve SpaceX erken birleşme görüşmelerinde",
+          "url": "https://x.com/WallStDiaries/status/2112838806118305882",
+          "published_at": "2026-10-21T09:30:00Z",
+          "summary": "WallStDiaries, Tesla ve SpaceX'in erken birleşme görüşmelerinde olduğunu, bağımsız komitelerin olası anlaşmayı incelediğini ve Musk'ın komitede yer almadığını aktarıyor.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "SpaceX ile birleşme görüşmeleri; seans sonrası yaklaşık %1-2 yükseldi."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Tesla ile olası birleşme görüşmeleri."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Google Cloud'da OpenAI dönemi",
+          "url": "https://x.com/WallStDiaries/status/2112982250912657623",
+          "published_at": "2026-10-21T19:00:00Z",
+          "summary": "WallStDiaries, Google Cloud'un OpenAI modellerini altyapısına eklediğini ve artık Gemini, Claude ve GPT serisini tek çatı altında sunan tek platform olduğunu aktarıyor.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "positive",
+              "note": "Üç büyük bulutun OpenAI'da buluşması; Google Cloud üç model ailesini sunan tek platform."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Altında 15 yılın en sert düzeltmesi",
+          "url": "https://x.com/WallStDiaries/status/2112968646263750889",
+          "published_at": "2026-10-21T18:05:56Z",
+          "summary": "WallStDiaries, altının yıl başından bu yana yaklaşık %8 gerilediğini, yıllık dibin 4.000 dolar/ons civarına indiğini ve Ocak'taki 5.400 dolar zirveye göre kaybın yaklaşık %24 olduğunu yazıyor.",
+          "assets": [
+            {
+              "symbol": "XAU",
+              "sentiment": "negative",
+              "note": "Yıl başından %8, zirveden yaklaşık %24 düştü; ciddi pozisyon çözülmesi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic halka arz hedefi",
+          "url": "https://x.com/WallStDiaries/status/2112869005258371242",
+          "published_at": "2026-10-21T11:30:00Z",
+          "summary": "WallStDiaries, Anthropic'in halka arzını Kasım ortasına kadar tamamlamayı ve 1,5-2 trilyon dolar piyasa değeri hedeflediğini aktarıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "İngiltere çekirdek enflasyonu beklentiyi aştı",
+          "url": "https://x.com/WallStDiaries/status/2112846363016966325",
+          "published_at": "2026-10-21T10:00:02Z",
+          "summary": "WallStDiaries, İngiltere eylül çekirdek TÜFE'sinin yıllık %2,78 ile %2,70 beklentiyi aştığını ve BoE'nin faiz indirimini zorlaştırabileceğini yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Körfez borsalarında diplomasi çıkmazı",
+          "url": "https://x.com/WallStDiaries/status/2112826026984157617",
+          "published_at": "2026-10-21T08:39:13Z",
+          "summary": "WallStDiaries, ABD-İran temaslarının tıkanmasının Körfez borsalarında satış dalgasını tetiklediğini ve Hürmüz Boğazı risklerinin risk iştahını baskıladığını yazıyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu, SpaceX sonuçlarının uzay ve yarı iletken hisselerine yaradığını ama tehlikenin bitmediğini anlatan yeni bir video paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SpaceX sonuçları uzay ve yarı iletken hisselerine yaradı",
+          "url": "https://x.com/TuncSatiroglu/status/2112907854738829612",
+          "published_at": "2026-10-21T14:04:23Z",
+          "summary": "Şatıroğlu, SpaceX sonuçlarının uzay ve yarı iletken hisselerine yaradığı ancak tehlikenin bitmediği başlıklı videosunu paylaştı.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Sonuçların uzay ve yarı iletken hisselerine yaradığını ama tehlikenin bitmediğini söylüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "Izzy, **SpaceX** bilançosunu \"tezim doğrulandı\" diye karşıladı: gelir 14,6 milyar dolar, yapay zekâ geliri ilk kez Starlink'i geçti; portföyünde **SPCX** olduğunu ve uzun vadeli boğa olduğunu söylüyor ama 19,6 milyar dolarlık capex ve ucuz olmayan değerlemeyi risk görüyor. **Meta** için ise asıl sorunun yapay zekâ yatırımının ne zaman nakde dönüşeceği olduğunu yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SpaceX bilançosu geldi, tezim doğrulandı",
+          "url": "https://x.com/FinancewithIzzy/status/2112829131272474741",
+          "published_at": "2026-10-21T08:51:34Z",
+          "summary": "Izzy, SpaceX'in gelirinin 14,6 milyar dolarla (%161) beklentiyi aştığını, yapay zekâ gelirinin %830 artıp Starlink'i geçtiğini ve 63 milyar dolarlık sipariş birikimi olduğunu yazıyor. Çeyreklik 19,6 milyar dolar capex ve Q4'te 35-40 milyar dolarlık harcamayı ve ucuz olmayan değerlemeyi risk görüyor; portföyünde SPCX olduğunu ve uzun vadeli boğa olduğunu söylüyor.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Portföyünde SPCX olduğunu ve uzun vadeli boğa olduğunu söylüyor; capex ve değerleme riskleri var."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX artık bildiğimiz roket şirketi değil",
+          "url": "https://x.com/FinancewithIzzy/status/2112983031736594634",
+          "published_at": "2026-10-21T19:03:06Z",
+          "summary": "Izzy, SpaceX'in yapay zekâ gelirinin büyük kısmının Grok'tan değil Google ve Anthropic gibi şirketlere sağlanan veri merkezi kapasitesinden geldiğini, Q4 capex beklentisinin 35-40 milyar dolar olduğunu ve Musk'ın 2027 sonu için 500 milyar-1 trilyon dolarlık yıllıklandırılmış gelir hedefini bugünden fiyatlamayacağını yazıyor. Tesla-SpaceX birleşmesi için bağımsız komitelerin kurulduğunu da aktarıyor.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Musk'ın 2027 hedefini bugünden fiyatlamayacağını, capex'in kasayı eritebileceğini söylüyor."
+            },
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "SpaceX ile olası birleşme için bağımsız komiteler kuruldu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta bilançosu öncesi: asıl soru yapay zekâ harcamasının maliyeti",
+          "url": "https://x.com/FinancewithIzzy/status/2112986024532115659",
+          "published_at": "2026-10-21T19:15:00Z",
+          "summary": "Izzy, Meta bilançosundan önce Wall Street'in asıl odağının gelir değil yapay zekâ yatırımlarının maliyeti olduğunu yazıyor: gelir %24 artarken net kârın %17 gerilemesi, çeyrekte yaklaşık 42 milyar dolar capex ve 2027 için konuşulan yaklaşık 196 milyar dolar öne çıkıyor. Gelir büyümesi ile nakit üretiminin aynı şey olmadığını söylüyor.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Gelir büyümesi ile nakit üretiminin aynı şey olmadığını, yatırımın ne zaman nakde döneceğinin asıl soru olduğunu söylüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine bilanço akışını geçti: **Meta** oy hakkı olmayan yeni C sınıfı hisse oluşturuyor (2'ye 1 bölünme etkisi) ve capex hedefi 135-145 milyar dolar; **Tesla** Optimus üretiminin başladığını duyurdu ve Terafab için \"uzun vadede 100 milyar doların üstü\" sermaye gerektiğini aktardı. Jensen Huang 1 GW'lık bir yapay zekâ fabrikasının 50 milyar dolara mal olduğunu söyledi, **DeepSeek** yaklaşık 15 milyar dolar topladı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Meta oy hakkı olmayan C sınıfı hisse çıkarıyor",
+          "url": "https://x.com/wallstengine/status/2113002332329771445",
+          "published_at": "2026-10-21T20:19:48Z",
+          "summary": "wallstengine, Meta'nın yapay zekâ yatırımları, satın almalar ve çalışan tazminatı için Zuckerberg'in oy gücünü azaltmadan para toplamasını sağlayacak oy hakkı olmayan C sınıfı hisse oluşturduğunu, bunun 2'ye 1 bölünme etkisi yaratacağını ve 19 Ocak 2027'de yürürlüğe gireceğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Yeni C sınıfı hisse yapay zekâ genişlemesini finanse edebilir; 2'ye 1 bölünme etkisi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta Q3'26 bilanço özeti",
+          "url": "https://x.com/wallstengine/status/2112998126533447699",
+          "published_at": "2026-10-21T20:03:05Z",
+          "summary": "wallstengine, Meta'nın geliri 64,60 milyar dolar (beklenti 63,33), EPS 3,83 dolar (beklenti 5,89), FY26 capex hedefinin 135-145 milyar dolar ve Q4 gelir hedefinin 73-76 milyar dolar olduğunu paylaşıyor.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Gelir beklentinin üstünde, EPS altında; capex hedefi beklentinin üstünde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Terafab için yüz milyar doları aşan sermaye",
+          "url": "https://x.com/wallstengine/status/2113034089611853976",
+          "published_at": "2026-10-21T22:25:59Z",
+          "summary": "wallstengine, Musk'ın Terafab'ın 2028 başına kadar \"on milyarlarca\" dolarlık ekipman gerektireceğini, uzun vadede 100 milyar doların üstüne çıkacağını, Tesla-SpaceX finansman paylaşımının henüz belli olmadığını ve gerçek üretimin 2028 sonuna hedeflendiğini aktardığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Terafab finansman paylaşımı henüz belli değil."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla Optimus üretiminin başladığını doğruladı",
+          "url": "https://x.com/wallstengine/status/2113003032162005327",
+          "published_at": "2026-10-21T20:22:35Z",
+          "summary": "wallstengine, Tesla'nın Fremont'taki yüksek hacimli hatlardan ilk üretim kalitesinde Optimus robotların çıkmaya başladığını, üretimin erken rampa aşamasında olduğunu ve hacim ya da takvim açıklamadığını aktarıyor.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Optimus üretimi başladı; hacim ve takvim açıklanmadı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Jensen Huang: 1 GW'lık yapay zekâ fabrikası 50 milyar dolar",
+          "url": "https://x.com/wallstengine/status/2112852484750180799",
+          "published_at": "2026-10-21T10:24:21Z",
+          "summary": "wallstengine, Huang'ın DSX POD'un donanımın gelişinden token üretimine geçişi 4-5 aydan yaklaşık 1 aya indirebileceğini, 1 GW'lık bir yapay zekâ veri merkezinin 50 milyar dolara mal olup yıllık 40 milyar dolar gelir üretmesinin beklendiğini söylediğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "DSX POD ile devreye alma süresi 4-5 aydan yaklaşık 1 aya inebilir."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "DeepSeek 15 milyar dolar topladı",
+          "url": "https://x.com/wallstengine/status/2113132136102559958",
+          "published_at": "2026-10-22T04:55:36Z",
+          "summary": "wallstengine, Bloomberg'e göre DeepSeek'in yaklaşık 100 milyar yuan (15 milyar dolar) topladığını, Tencent ve CATL'in büyük yatırımcılar arasında olduğunu ve şirketin halka arza hazırlandığını aktarıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Texas Instruments: insansı robot başına 500-1.000 dolar çip",
+          "url": "https://x.com/wallstengine/status/2113020977386852457",
+          "published_at": "2026-10-21T21:33:53Z",
+          "summary": "wallstengine, TI'ın insansı robot başına 500-1.000 dolarlık çip içeriği gördüğünü ve robotik üretimin 2027'de hızlanmasını beklediğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "TXN",
+              "sentiment": "positive",
+              "note": "İnsansı robot başına 500-1.000 dolarlık çip içeriği bekliyor; robotik üretim 2027'de hızlanacak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nebius CEO'su: fiyatlar ve talep yerinde",
+          "url": "https://x.com/wallstengine/status/2112843276713886195",
+          "published_at": "2026-10-21T09:47:46Z",
+          "summary": "wallstengine, Nebius CEO'su Arkady Volozh'un yapay zekâ işlem gücü talebi için \"fiyatlar ve talep hâlâ yerinde\" dediğini, çözülmesi gerekenlerin finansman, inşaat ve çip tedariki olduğunu söylediğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "CEO talep ve fiyatların yerinde olduğunu söylüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "Dr J Rould, Anthropic'in önümüzdeki yıllarda 750 milyar dolar işlem gücü harcaması planladığını okuyunca, bu bir balonsa bile hâlâ çok başlarda olduğunu yazdı. Ken Griffin'in \"yapay zekâ neredeyse kesin balon\" sözünü ve Dimon'ın coşku dönemlerindeki uyarılarını sorgularken, faiz eğilimi tersine dönerse spekülatif hisselerin rahatlayacağını düşündüğü için tahvile değil bu hisselere odaklı kalmak istediğini söyledi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Anthropic 750 milyar dolar işlem gücü harcaması",
+          "url": "https://x.com/jrouldz/status/2112882838135574949",
+          "published_at": "2026-10-21T12:24:58Z",
+          "summary": "Rould, Anthropic'in önümüzdeki yıllarda işlem gücüne 750 milyar dolar harcayacağını okuyup okumadığını sorguluyor ve yapay zekâ altyapı yatırımına ayı olanlara, bu bir balonsa bile muhtemelen hâlâ çok başlarda olduğunu yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Griffin ve Dimon ne düşündüklerini mi söylüyor?",
+          "url": "https://x.com/jrouldz/status/2112920113393582107",
+          "published_at": "2026-10-21T14:53:05Z",
+          "summary": "Rould, Ken Griffin'in yapay zekâda \"neredeyse kesin\" bir balon olduğu sözüne, Griffin veya Dimon gibi isimlerin ne düşündüklerini mi yoksa duymanızı istediklerini mi söylediğini sorgulamak gerektiğini yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Faiz eğilimi dönerse spekülatif hisselere rahatlama",
+          "url": "https://x.com/jrouldz/status/2113066270845526279",
+          "published_at": "2026-10-22T00:33:52Z",
+          "summary": "Rould, faiz eğilimi tersine dönerse spekülatif hisselerin rahatlayabileceğini düşündüğü için tahvile değil bu hisselere odaklı kalmak istediğini yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Kısıt şu an arz",
+          "url": "https://x.com/jrouldz/status/2112884317961539712",
+          "published_at": "2026-10-21T12:30:51Z",
+          "summary": "Rould, yapay zekâda kısıtın açıkça arz olduğunu ve bunun dengeye gelmesinin yıllar alabileceğini yazıyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "Çevik Finance, takip ettiği 14 yapay zekâ donanım hissesinin 11'inde gelecek yıl kâr beklentisinin son 90 günde yükseldiğini ama hepsinin ileriye dönük F/K'sının düştüğünü, yani düşenin kâr tahmini değil çarpan olduğunu yazdı; 10 yıllık ABD faizi %4,70'ten %5,12'ye çıktı. **Nvidia**'nın Vera Rubin DSX POD'unun kurulum süresini altı aydan 14 güne indireceğini aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Yapay zekâ donanımında kâr tahminleri arttı, çarpanlar düştü",
+          "url": "https://x.com/cevikfinance/status/2112857907670728906",
+          "published_at": "2026-10-21T10:45:54Z",
+          "summary": "Cevik, takip listesindeki 14 yapay zekâ donanım hissesinden 11'inde kâr beklentisinin yükseldiğini ama 14'ünün F/K'sının düştüğünü (medyan 24,8'den 17,9'a) yazıyor; Broadcom, AAOI ve SK Hynix'te beklenti hafif düştü. 10 yıllık faiz %4,70'ten %5,12'ye çıktı. İlk testler 26 Ekim'de CLS, 27 Ekim'de SKHY ve 28 Ekim'de Vertiv bilançoları.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "negative",
+              "note": "Kâr beklentisi son 90 günde hafif düşen üç isimden biri."
+            },
+            {
+              "symbol": "CLS",
+              "sentiment": "neutral",
+              "note": "26 Ekim bilançosu, tahminlerin geri çekilip çekilmediğini ilk test edenlerden."
+            },
+            {
+              "symbol": "VRT",
+              "sentiment": "neutral",
+              "note": "28 Ekim bilançosu tahminler için bir test."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia Vera Rubin DSX POD",
+          "url": "https://x.com/cevikfinance/status/2112876778360360974",
+          "published_at": "2026-10-21T12:00:53Z",
+          "summary": "Cevik, Nvidia'nın GTC Berlin'de modüler Vera Rubin DSX POD'u duyurduğunu, bunun yapay zekâ fabrikası kurulum süresini altı aydan 14 güne indirebileceğini ve Huang'ın yeni çip açıklamadığını, Vera Rubin'in tam üretimde olduğunu tekrarladığını aktarıyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "DSX POD kurulum süresini altı aydan 14 güne indirebilir; Vera Rubin tam üretimde."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.1453,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.181,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Portföyün en büyük kalemi (%18,1); faiz hassasiyeti ve tek hisse yoğunlaşması ana risk. 10 yıllık faizin %5'in üstüne çıkması tüketici kredisi ve fintech değerlemelerini baskılayabilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Yüksek faiz fintech çarpanlarını baskılayabilir.",
+          "Tek kalemde %18 ağırlık, şirkete özgü bir haberde portföyü sert oynatır."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1405,
+        "mentions": [
+          {
+            "person": "Ahmet Sunelcan",
+            "sentiment": "positive",
+            "quote": "AI yatırımının getirisi rakamlarda net görülüyor.",
+            "source_url": "https://x.com/AhmetSunelcan1/status/2113001901918917041"
+          },
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "Meta gibi, Amazon gibi aslında karlı Google gibi, Microsoft gibi kaliteli şirketleri bile vurdu farklı boyutlarda.",
+            "source_url": "https://www.youtube.com/watch?v=_Ic-urfzJ7Y"
+          }
+        ],
+        "action": "hold",
+        "why": "Ahmet Sunelcan'a göre ceza hariç EPS 7,40 dolar ve reklam fiyatı %14 arttı, ama serbest nakit akışı ilk kez negatif; net bir al/sat gerekçesi yok.",
+        "opinion": "Reklam motoru güçlü, ancak 135-145 milyar dolarlık capex ve negatif nakit akışı yeni C sınıfı hisseyle finansman ihtimalini gündeme getiriyor. Q4 capex rehberliği ve Muse gelirleri izlenmeli.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: reklam gösterimi %10 ve fiyatı %14 arttı, gelir beklentiyi aştı.",
+          "Aleyhte: serbest nakit akışı -2,1 milyar dolar, amortisman %44 arttı.",
+          "Aleyhte: 9,89 milyar dolarlık dava karşılığı ve 135-145 milyar dolarlık capex hedefi."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1298,
+        "mentions": [
+          {
+            "person": "cevikfinance",
+            "sentiment": "negative",
+            "quote": "Öte yandan kâr beklentisi hafif de olsa düşen üç isim var: $AVGO Broadcom",
+            "source_url": "https://x.com/cevikfinance/status/2112857907670728906"
+          }
+        ],
+        "action": "hold",
+        "why": "cevikfinance'a göre Broadcom'un kâr beklentisi son 90 günde hafif düştü; satış ya da alış için somut seviye yok.",
+        "opinion": "Yapay zekâ çip talebinin ana faydalananlarından; ama beklenti revizyonu hafif negatife dönmüş. Tahminlerin geri çekilip çekilmediği ilk işarettir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: yapay zekâ altyapı harcamaları sürüyor, Nvidia'nın Vera Rubin üretimi tam hızda.",
+          "Aleyhte: kâr beklentisi hafif düşen üç isimden biri."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1057,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer enerji tarafı, yapay zekâ veri merkezlerinin elektrik ihtiyacı anlatısından fayda görür; Trump'ın veri merkezlerine kendi elektriğini üretme şartı bu temayı canlı tutuyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: veri merkezi elektrik talebi uzun vadeli bir tema.",
+          "Aleyhte: bugün kaynaklarda şirketle ilgili somut bir gelişme yok."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0942,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Reddit reklam geliri ve yapay zekâ veri lisanslaması anlatısıyla yüksek beta bir hisse; Meta'nın reklam fiyatlarındaki %14 artış sektörel olarak destekleyici ama Nasdaq'taki satış baskısında sert dalgalanabilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: dijital reklam fiyatları güçlü (Meta'da %14 artış).",
+          "Aleyhte: Nasdaq'ta satış baskısı ve yüksek beta."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0718,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "positive",
+            "quote": "Burada Eon, Schneider Electric, Forgent gibi markalar öne çıkıyorlar.",
+            "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+          }
+        ],
+        "action": "hold",
+        "why": "Bora Özkent'e göre Forgent ısı yönetimi tarafında öne çıkan markalar arasında; ama hisse fiyatı için bir görüş vermiyor.",
+        "opinion": "SpaceX'in 13-20 GW hedefi elektrik ve soğutma altyapısı için talebi destekliyor; ancak yeni halka arz olduğu için oynaklık ve değerleme riski yüksek.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: SpaceX ve Nvidia kaynaklı veri merkezi yatırımı elektrik ve soğutma talebini büyütüyor.",
+          "Aleyhte: Bora Özkent'in vurguladığı gibi sektör büyümesi hisse fiyatı anlamına gelmez."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0711,
+        "mentions": [
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "$TLT roket olabilir olursa",
+            "source_url": "https://x.com/ulkser/status/2112990766628806744"
+          }
+        ],
+        "action": "hold",
+        "why": "ulkser'e göre Ukrayna'da savaşın bitmesi TLT'yi roket yapabilir; ama 10 yıllık faiz %5,12'ye çıkmışken somut bir giriş seviyesi yok.",
+        "opinion": "Uzun vadeli tahvil faizlerin yönüne çok duyarlı; faiz artışı sürdükçe fiyat baskısı devam eder, tersine dönüş ise güçlü getiri yaratır.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: faiz eğilimi tersine dönerse uzun vadeli tahviller sert yükselir.",
+          "Aleyhte: cevikfinance'a göre 10 yıllık faiz %4,70'ten %5,12'ye çıktı ve Fed Eylül'de faiz artırdı."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0605,
+        "mentions": [
+          {
+            "person": "Heisenberg",
+            "sentiment": "neutral",
+            "quote": "Türkiye gibi emerging marketlerde dolar bazlı %30-40 drawdown istisna değil, rutindir.",
+            "source_url": "https://x.com/heisenbergtrx/status/2112964806621954174"
+          },
+          {
+            "person": "Ahmet Sunelcan",
+            "sentiment": "negative",
+            "quote": "26 yıl önce endekse para yatıran birinin, doların kendi değer kaybı da hesaba katıldığında inanılmaz para kaybettiği bir ülkede",
+            "source_url": "https://x.com/AhmetSunelcan1/status/2113021579764367774"
+          }
+        ],
+        "action": "hold",
+        "why": "Heisenberg dolar bazlı %30-40 düşüşlerin rutin olduğunu, Sunelcan 26 yıllık dolar bazlı zararı vurguluyor; ikisi de somut al/sat seviyesi vermiyor.",
+        "opinion": "Dolar bazlı uzun vadeli getiri kaynaklarda zayıf anlatılıyor; BIST'te düşük halka açıklık ve satış baskısı oynaklığı artırıyor, pozisyon boyutu küçük tutulmalı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: BIST'te sert düşüşler sonrası değerlemeler daha makul hale gelebilir.",
+          "Aleyhte: dolar bazlı uzun vadeli getiri zayıf ve %30-40 düşüşler olağan."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "VRT",
+        "name": "Vertiv",
+        "why": "Bora Özkent, Vertiv'i hem güç hem soğutma sağlayan iki tarafta da kuvvetli bir şirket olarak görüyor; 28 Ekim'de bilanço açıklıyor.",
+        "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+      },
+      {
+        "symbol": "NBIS",
+        "name": "Nebius",
+        "why": "Bora Özkent Nebius'ın yönetim kalitesini çok beğendiğini söylüyor; Ahmet Sunelcan da NBIS'i tercih ettiğini yazdı.",
+        "source_url": "https://www.youtube.com/watch?v=1CgVPIQHzI0"
+      },
+      {
+        "symbol": "CRWV",
+        "name": "CoreWeave",
+        "why": "Bora Özkent, CoreWeave kredi swap'ları bozulurken bir fırsat oluştuğunu düşünüyor; kredi riski yüksek.",
+        "source_url": "https://www.youtube.com/watch?v=_Ic-urfzJ7Y"
+      }
+    ]
+  }
+}
