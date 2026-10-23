@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T07:05:09.122Z",
+  "errors": [
+    "All X sources: data could not be retrieved (Apify usage limit reached, HTTP 402)",
+    "YouTube: no new videos found in the last 30 hours"
+  ],
+  "attention": [],
+  "macro": [],
+  "assets": [],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0651,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1837,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The portfolio's largest position (18.1%); rate sensitivity and single-stock concentration are the main risks. A 10-year yield above 5% could pressure consumer credit and fintech valuations.",
+        "ai_action": "hold",
+        "ai_points": [
+          "High rates can pressure fintech multiples.",
+          "An 18% weight in one name swings the portfolio hard on company-specific news."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1351,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The ad engine is strong, but $135-145 billion of capex and negative cash flow raise the prospect of financing through the new Class C shares. Q4 capex guidance and Muse revenue are worth watching.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: ad impressions rose 10% and price 14%, revenue beat expectations.",
+          "Against: free cash flow -$2.1 billion, depreciation up 44%.",
+          "Against: $9.89 billion legal provision and a $135-145 billion capex target."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1278,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "One of the main beneficiaries of AI chip demand, but estimate revisions have turned slightly negative. Whether estimates are pulled back is the first signal.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: AI infrastructure spending continues and Nvidia's Vera Rubin is in full production.",
+          "Against: one of three names with slightly falling profit expectations."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.108,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The nuclear power side benefits from the AI data center electricity-demand narrative; Trump's requirement for data centers to generate their own power keeps the theme alive.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: data center electricity demand is a long-term theme.",
+          "Against: no concrete company-specific development in sources today."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0974,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Reddit is a high-beta stock on ad revenue and AI data licensing; Meta's 14% ad price rise is supportive for the sector but it can swing hard when Nasdaq is under selling pressure.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: digital ad pricing is strong (+14% at Meta).",
+          "Against: selling pressure on Nasdaq and high beta."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0855,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Newly added position; no source data today, watch its weight and company-specific risks.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: no new negative information today.",
+          "Against: no source data was retrieved today, so the view is limited."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0752,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Long-dated bonds are highly sensitive to the direction of yields; price pressure continues while yields rise, while a reversal could produce strong returns.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: if the yield trend reverses, long bonds rally hard.",
+          "Against: per cevikfinance the 10-year yield rose from 4.70% to 5.12% and the Fed hiked in September."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0622,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "SpaceX's 13-20 GW target supports demand for electrical and cooling infrastructure; but as a recent IPO, volatility and valuation risk are high.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: SpaceX- and Nvidia-driven data center investment grows demand for power and cooling.",
+          "Against: as Bora Özkent stresses, sector growth does not imply a higher stock price."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0599,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Long-term dollar returns are described as weak in the sources; low free float and selling pressure on BIST raise volatility, so position size should stay small.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: after sharp declines valuations on BIST can become more reasonable.",
+          "Against: long-term dollar returns are weak and 30-40% drawdowns are common."
+        ]
+      }
+    ],
+    "ideas": []
+  }
+}

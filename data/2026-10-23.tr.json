@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T07:05:09.122Z",
+  "errors": [
+    "Tüm X kaynakları: veri alınamadı (Apify kullanım limiti doldu, HTTP 402)",
+    "YouTube: son 30 saatte yeni video bulunamadı"
+  ],
+  "attention": [],
+  "macro": [],
+  "assets": [],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0651,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1837,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Portföyün en büyük kalemi (%18,1); faiz hassasiyeti ve tek hisse yoğunlaşması ana risk. 10 yıllık faizin %5'in üstüne çıkması tüketici kredisi ve fintech değerlemelerini baskılayabilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Yüksek faiz fintech çarpanlarını baskılayabilir.",
+          "Tek kalemde %18 ağırlık, şirkete özgü bir haberde portföyü sert oynatır."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1351,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Reklam motoru güçlü, ancak 135-145 milyar dolarlık capex ve negatif nakit akışı yeni C sınıfı hisseyle finansman ihtimalini gündeme getiriyor. Q4 capex rehberliği ve Muse gelirleri izlenmeli.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: reklam gösterimi %10 ve fiyatı %14 arttı, gelir beklentiyi aştı.",
+          "Aleyhte: serbest nakit akışı -2,1 milyar dolar, amortisman %44 arttı.",
+          "Aleyhte: 9,89 milyar dolarlık dava karşılığı ve 135-145 milyar dolarlık capex hedefi."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1278,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Yapay zekâ çip talebinin ana faydalananlarından; ama beklenti revizyonu hafif negatife dönmüş. Tahminlerin geri çekilip çekilmediği ilk işarettir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: yapay zekâ altyapı harcamaları sürüyor, Nvidia'nın Vera Rubin üretimi tam hızda.",
+          "Aleyhte: kâr beklentisi hafif düşen üç isimden biri."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.108,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer enerji tarafı, yapay zekâ veri merkezlerinin elektrik ihtiyacı anlatısından fayda görür; Trump'ın veri merkezlerine kendi elektriğini üretme şartı bu temayı canlı tutuyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: veri merkezi elektrik talebi uzun vadeli bir tema.",
+          "Aleyhte: bugün kaynaklarda şirketle ilgili somut bir gelişme yok."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0974,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Reddit reklam geliri ve yapay zekâ veri lisanslaması anlatısıyla yüksek beta bir hisse; Meta'nın reklam fiyatlarındaki %14 artış sektörel olarak destekleyici ama Nasdaq'taki satış baskısında sert dalgalanabilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: dijital reklam fiyatları güçlü (Meta'da %14 artış).",
+          "Aleyhte: Nasdaq'ta satış baskısı ve yüksek beta."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0855,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Portföye yeni eklenen kalem; bugün kaynak verisi yok, ağırlığı ve şirkete özgü riskleri izle.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: bugün için yeni olumsuz bilgi yok.",
+          "Aleyhte: bugün kaynak verisi alınamadı, görüş sınırlı."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0752,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Uzun vadeli tahvil faizlerin yönüne çok duyarlı; faiz artışı sürdükçe fiyat baskısı devam eder, tersine dönüş ise güçlü getiri yaratır.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: faiz eğilimi tersine dönerse uzun vadeli tahviller sert yükselir.",
+          "Aleyhte: cevikfinance'a göre 10 yıllık faiz %4,70'ten %5,12'ye çıktı ve Fed Eylül'de faiz artırdı."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0622,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "SpaceX'in 13-20 GW hedefi elektrik ve soğutma altyapısı için talebi destekliyor; ancak yeni halka arz olduğu için oynaklık ve değerleme riski yüksek.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: SpaceX ve Nvidia kaynaklı veri merkezi yatırımı elektrik ve soğutma talebini büyütüyor.",
+          "Aleyhte: Bora Özkent'in vurguladığı gibi sektör büyümesi hisse fiyatı anlamına gelmez."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0599,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Dolar bazlı uzun vadeli getiri kaynaklarda zayıf anlatılıyor; BIST'te düşük halka açıklık ve satış baskısı oynaklığı artırıyor, pozisyon boyutu küçük tutulmalı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: BIST'te sert düşüşler sonrası değerlemeler daha makul hale gelebilir.",
+          "Aleyhte: dolar bazlı uzun vadeli getiri zayıf ve %30-40 düşüşler olağan."
+        ]
+      }
+    ],
+    "ideas": []
+  }
+}
