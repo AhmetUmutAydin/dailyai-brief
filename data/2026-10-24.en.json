@@ -1,0 +1,1282 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T07:15:27.220Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Bloom Energy earnings: profit but no cash",
+      "person": "Heisenberg",
+      "why": "According to Heisenberg operating cash flow is -$27M against $250M profit; contract assets rose from $179M to $793M.",
+      "source_url": "https://x.com/heisenbergtrx/status/2113672130382705006"
+    },
+    {
+      "title": "Negative free cash flow at Meta",
+      "person": "Bora Özkent",
+      "why": "According to Bora Özkent Meta's free cash flow turned negative and plans to spend hundreds of billions scared the market; it is the 2nd largest portfolio holding.",
+      "source_url": "https://www.youtube.com/watch?v=pGyJqm4ic9w"
+    },
+    {
+      "title": "CoreWeave financing risk",
+      "person": "korkmazali08",
+      "why": "According to Bernstein ~$85B is needed to fulfill contracts with only $9B financed; target cut to $51.",
+      "source_url": "https://x.com/korkmazali08/status/2113657951823028371"
+    },
+    {
+      "title": "Brent above $116, $120 critical",
+      "person": "cevikfinance",
+      "why": "According to cevikfinance, above 120 the next levels are $140 and $150.",
+      "source_url": "https://x.com/cevikfinance/status/2113712669244997670"
+    },
+    {
+      "title": "Expecting automatic CBRT cuts",
+      "person": "Tunç Şatıroğlu",
+      "why": "According to Tunç Şatıroğlu rates will be cut at every meeting unless reserves fall and the 2027 inflation target will be revised up again.",
+      "source_url": "https://x.com/TuncSatiroglu/status/2113475794240430311"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Tech/AI selloff and financing worries",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "The drop is a rotation; financing worries hit AI stocks and the Nasdaq could slide to its 200-day average.",
+          "quote": "Money is leaving AI. It is going toward areas that could be called safer havens.",
+          "source_url": "https://www.youtube.com/watch?v=pGyJqm4ic9w"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Half the stocks are in a bear market while indexes are near highs; tech valuation is at 2022 levels and he thinks bottoms are near.",
+          "quote": "Everything on my feed says bottoms are near.",
+          "source_url": "https://x.com/cevikfinance/status/2113682295093653689"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Expects the bad mood in the Nasdaq to reverse within the coming week.",
+          "quote": "I expect the bad mood in the market to reverse within the coming week.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2113506488937570774"
+        }
+      ]
+    },
+    {
+      "topic": "Oil and Iran tension",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "A Brent close above $116 would be the highest since the war began; above 120 targets are $140-150.",
+          "quote": "If it also exceeds $120 next week the next levels are $140 and $150",
+          "source_url": "https://x.com/cevikfinance/status/2113712669244997670"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "News that the Iran war could escalate after the elections pushes oil up and triggers inflation fear.",
+          "quote": "That of course pushed oil up. It also triggers inflation fear.",
+          "source_url": "https://www.youtube.com/watch?v=pGyJqm4ic9w"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey monetary policy",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Thinks the central bank will cut at every meeting and the inflation interim target will be revised up once more.",
+          "quote": "I think that in the central bank's statements policy rate cuts have been put on autopilot and unless FX reserves fall significantly rates will be cut at every meeting.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2113475794240430311"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "priority": "high",
+      "why": "Several people gave opposing views and a concrete level was given.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "negative",
+          "quote": "Q3 operating cash flow is −$27.1M. So the problem isn't investment; cash is negative even before capex.",
+          "source_url": "https://x.com/heisenbergtrx/status/2113699595167445305"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "I placed one more order for $BE at 185",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2113633849477648587"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$BE back to trend line that sent shares on a 15x run no position",
+          "source_url": "https://x.com/jrouldz/status/2113695227496296836"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "The company reported a record quarter with revenue up 138% on data center and AI demand; however operating cash flow turned negative in the quarter.",
+          "source_url": "https://x.com/WallStDiaries/status/2113512938539475353"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "Three people highlighted the cash flow side of the earnings; also in the portfolio.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Free cash flow has turned negative.",
+          "source_url": "https://www.youtube.com/watch?v=pGyJqm4ic9w"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "Wall Street no longer looks at the AI story, but at how much cash that story generates.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2113638375697625138"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Cathie Wood's ARK funds ... bought 38,110 shares of $META.",
+          "source_url": "https://x.com/korkmazali08/status/2113446599540330987"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "Three sources touched on it from different angles, but there is no single concrete level.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "software licensing will become increasingly a major part of our company’s business.",
+          "source_url": "https://x.com/wallstengine/status/2113525048707584350"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "This points to continued demand for infrastructure suppliers like $NVDA and $AVGO",
+          "source_url": "https://x.com/FinancewithIzzy/status/2113638375697625138"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "medium",
+      "why": "Heisenberg says he warned, jrouldz says the best gains are behind.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "negative",
+          "quote": "They did the same with Micron; I warned months ago.",
+          "source_url": "https://x.com/heisenbergtrx/status/2113637285736374677"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "the *best gains* have surely already happened!",
+          "source_url": "https://x.com/jrouldz/status/2113636965736468595"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "priority": "medium",
+      "why": "UBS and Bernstein cut targets with concrete financing numbers.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "Bernstein said about $85 billion is needed to fulfill current contracts with only $9 billion financed, and cut its target to $51.",
+          "source_url": "https://x.com/korkmazali08/status/2113657951823028371"
+        }
+      ]
+    },
+    {
+      "symbol": "WDC",
+      "name": "Western Digital",
+      "priority": "medium",
+      "why": "Stock sold off despite strong earnings.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "grew revenue 55% on strong storage demand from cloud customers and higher prices",
+          "source_url": "https://x.com/WallStDiaries/status/2113512277609439519"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "A great earnings report. Growth target is very good but they sold that too.",
+          "source_url": "https://www.youtube.com/watch?v=pGyJqm4ic9w"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "medium",
+      "why": "Apple hit a record, one source considers trimming.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Apple shares rose 0.4% in early trading on October 23 to reach an all-time high of $349.55.",
+          "source_url": "https://x.com/korkmazali08/status/2113640074327863615"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "My largest position by far right now is $AAPL but I’m thinking about trimming",
+          "source_url": "https://x.com/jrouldz/status/2113807954952487275"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "medium",
+      "why": "jrouldz says he started trimming on valuation.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "I finally started trimming these 2 and $PLTR unbelievable execution for all three but the valuations are getting tough",
+          "source_url": "https://x.com/jrouldz/status/2113697610007814212"
+        }
+      ]
+    },
+    {
+      "symbol": "TEM",
+      "name": "Tempus AI",
+      "priority": "medium",
+      "why": "sgundoganX listed concrete reasons strengthening his thesis.",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "positive",
+          "quote": "@bmsnews extended the $TEM collaboration to 2031. Let me explain why this strengthens my investment thesis once more",
+          "source_url": "https://x.com/sgundoganX/status/2113647380255961246"
+        }
+      ]
+    },
+    {
+      "symbol": "EOSE",
+      "name": "Eos Energy",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan said he shorted it and gave his reason.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "negative",
+          "quote": "$EOSE was shorted.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2113630281316159903"
+        }
+      ]
+    },
+    {
+      "symbol": "XU100",
+      "name": "BIST 100",
+      "priority": "high",
+      "why": "Three people gave views in different directions, ulkser gave concrete levels and it affects the Turkey ETF in the portfolio.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "I see below 200 as accumulation.",
+          "source_url": "https://x.com/ulkser/status/2113551795599364348"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "I wish the Turkish stock market were known for its successes, but under current conditions that unfortunately does not seem possible.",
+          "source_url": "https://x.com/korkmazali08/status/2113670891817336983"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent crude",
+      "priority": "medium",
+      "why": "cevikfinance gave concrete levels.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "If Brent closes above $116 today it will have its highest-priced close since the Iran war began.",
+          "source_url": "https://x.com/cevikfinance/status/2113712669244997670"
+        }
+      ]
+    },
+    {
+      "symbol": "XAU",
+      "name": "Gold",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "Gold is good below $4,000.",
+          "source_url": "https://x.com/heisenbergtrx/status/2113560963781685721"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Bitcoin fell below the $81,500 level.",
+          "source_url": "https://x.com/WallStDiaries/status/2113519409167802573"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "According to Bora Özkent, yesterday's Nasdaq drop is not a collapse but a rotation out of AI into safer areas: the equal-weighted S&P 500 closed positive while the Nasdaq 100 fell 3%. Financing is at the center; **Meta** was sold hard because free cash flow turned negative and it plans to spend hundreds of billions, and **Lam Research** and **Western Digital** also fell despite good earnings. Technically the Nasdaq Composite could slide about 1,000 points toward its 200-day average (25,000); **OpenAI**'s $30 billion round is a relieving piece of news.\n\nSafe-haven demand for Treasuries pushed yields lower while **Iran** tensions push oil up. Bora Özkent is nearly 100% in stocks in his own portfolio, wants to stay long-term but will sell some losing stocks for tax benefits; he says the elections and November tax-loss selling will bring volatility.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Stocks Are Solid But Nasdaq Is Collapsing !",
+          "url": "https://www.youtube.com/watch?v=pGyJqm4ic9w",
+          "published_at": "2026-10-23T09:30:14.000Z",
+          "summary": "According to Bora Özkent, yesterday the Dow closed flat while the S&P 500 fell 1.2% and the Nasdaq 100 fell 3%; since the equal-weighted S&P 500 was positive, this is not a collapse but a rotation out of AI into safer areas. Financing is at the center: Meta's earnings were very good but free cash flow turned negative and plans to spend hundreds of billions of dollars scared the market; Meta also plans a two-for-one split creating new shares without voting rights. Micron's earnings are solid, but if Meta and Neo Clouds like CoreWeave cannot raise money, investment stops and Nvidia and Micron would be hit too, he says. Lam Research gave a lower-than-expected growth target because of supply constraints, and Western Digital reported great earnings but was sold on competition worries. The Nasdaq Composite is below its 50-day average; the 200-day average is at 25,000 while the index is at 26,000, so there is a risk of about 1,000 more points down. Safe-haven demand for Treasuries pushed yields lower, and Iran tensions are pushing oil up. OpenAI cutting its valuation target from $1.4 trillion to $1.25 trillion and being close to raising $30 billion is a positive signal for the Anthropic IPO. Bora Özkent is nearly 100% in stocks in his own portfolio, wants to stay long-term but took a serious loss; he will sell some losing stocks for tax benefits and says the elections and November tax-loss selling will bring volatility.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "negative",
+              "note": "Free cash flow turned negative and the plan to spend hundreds of billions scared the market."
+            },
+            {
+              "symbol": "NDX",
+              "sentiment": "negative",
+              "note": "Nasdaq 100 fell 3% yesterday; the Composite's 200-day average is at 25,000 and the index is at 26,000."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Earnings and cash flow are very strong, but it would be hit if Meta and Neo Clouds cannot raise money."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Says even the most profitable companies could be affected if financing tightens."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "negative",
+              "note": "If Neo Clouds like CoreWeave cannot raise money, the investment cycle risks stalling."
+            },
+            {
+              "symbol": "LRCX",
+              "sentiment": "negative",
+              "note": "Despite strong earnings it gave a lower-than-expected growth target due to supply constraints."
+            },
+            {
+              "symbol": "WDC",
+              "sentiment": "negative",
+              "note": "Sold off on competition worries in memory despite great earnings and growth target."
+            },
+            {
+              "symbol": "US10Y",
+              "sentiment": "positive",
+              "note": "Safe-haven demand for Treasuries pushed yields lower."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg spent much of the day arguing with people who read the **Bloom Energy** earnings as 'perfect'; in his view, although net profit is $250 million, operating cash flow is -$27 million, installation margin is negative and half of revenue hasn't reached the cash account. He says the same mistake was made with **Micron**. He also wrote that **gold** is good below $4,000, that gold would move first in a rally and **silver** only later if rates fall.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bloom Energy earnings: profit did not turn into cash",
+          "url": "https://x.com/heisenbergtrx/status/2113672130382705006",
+          "published_at": "2026-10-23T16:41:20.000Z",
+          "summary": "Heisenberg wrote that he opened the Bloom Energy earnings widely called 'great' and found operating cash flow of -$27M, installation gross margin of -4.8% and contract assets up from $179M to $793M, i.e. no cash inflow against $250M profit.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "negative",
+              "note": "Net profit of $250M but operating cash flow of -$27M; nearly half of revenue has not hit the cash account and share count rose 25% in a year."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Warning on Bloom Energy and Micron",
+          "url": "https://x.com/heisenbergtrx/status/2113637285736374677",
+          "published_at": "2026-10-23T14:22:53.000Z",
+          "summary": "Heisenberg wrote that Bloom Energy fell another 10% and that he had warned about the same pattern in Micron months ago; he urged investors to read the numbers and earnings calls rather than headlines.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "negative",
+              "note": "Stock fell from $350 to about $190; says the earnings are not 'perfect'."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Says he warned months ago that the earnings were being misread."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Gold and silver",
+          "url": "https://x.com/heisenbergtrx/status/2113566120904994961",
+          "published_at": "2026-10-23T09:40:06.000Z",
+          "summary": "Heisenberg wrote that silver is more tied to monetary policy, that gold would move first if there is a rally, and that silver would outperform gold if rates fall and inflation normalizes, but there are no short-term signs of normalization.",
+          "assets": [
+            {
+              "symbol": "XAU",
+              "sentiment": "positive",
+              "note": "If there is a rally, gold moves first on stronger support."
+            },
+            {
+              "symbol": "XAG",
+              "sentiment": "neutral",
+              "note": "Silver depends on monetary policy; outperforms gold if rates fall, lags for now."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Gold below $4,000",
+          "url": "https://x.com/heisenbergtrx/status/2113560963781685721",
+          "published_at": "2026-10-23T09:19:36.000Z",
+          "summary": "Heisenberg responded to news of turning mercury into gold via fusion by saying gold is good below $4,000 and above that people would make gold out of anything.",
+          "assets": [
+            {
+              "symbol": "XAU",
+              "sentiment": "neutral",
+              "note": "Says gold is good below $4,000."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser sees below 200 as an accumulation zone for **BIST100**; he wrote that local investors can carry the market without foreigners between 215-150 and he will buy in wide steps. Since his average cost is higher, he will add if the index slides to 200.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Plan to accumulate BIST100 below 200",
+          "url": "https://x.com/ulkser/status/2113551795599364348",
+          "published_at": "2026-10-23T08:43:10.000Z",
+          "summary": "ulkser said that in BIST100 the 215-150 zone local investors can move the market between 150-300 without foreigners, while 300-340 and above needs foreigners, so he sees below 200 as an accumulation zone and will post when he buys in wide steps.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "positive",
+              "note": "Sees below 200 as accumulation zone and will scale in with wide steps."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Average cost stayed high",
+          "url": "https://x.com/ulkser/status/2113635890220466635",
+          "published_at": "2026-10-23T14:17:20.000Z",
+          "summary": "ulkser wrote that his average cost stayed far above, that he would add if the index fell more, but needs the index to slide toward 200.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "positive",
+              "note": "Will add if the index slides to 200."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan added to **Bloom Energy** several times on the dip and placed another order at $185; he also increased **SanDisk** and **Credo**. He shorted **EOSE** because he dislikes the company and its management. He wrote that **SOXX** is at a very critical level and a loss would deepen the drop.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Adding to BE",
+          "url": "https://x.com/AhmetSunelcan1/status/2113630858947301461",
+          "published_at": "2026-10-23T13:57:20.000Z",
+          "summary": "Ahmet Sunelcan announced several additions to Bloom Energy and placed another order at $185.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "Added on the dip and placed another order at $185."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "EOSE shorted",
+          "url": "https://x.com/AhmetSunelcan1/status/2113630281316159903",
+          "published_at": "2026-10-23T13:55:03.000Z",
+          "summary": "Ahmet Sunelcan said he shorted EOSE, dislikes the company and its management, and thinks a decline from the company's own weakness is more likely even if AI recovers.",
+          "assets": [
+            {
+              "symbol": "EOSE",
+              "sentiment": "negative",
+              "note": "Shorted; dislikes the company and management."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Added SNDK and CRDO",
+          "url": "https://x.com/AhmetSunelcan1/status/2113720158724252131",
+          "published_at": "2026-10-23T19:52:11.000Z",
+          "summary": "Ahmet Sunelcan announced he increased SNDK and CRDO and wrote that SOXX is at a very critical level and losing it would make a deeper drop likely.",
+          "assets": [
+            {
+              "symbol": "SNDK",
+              "sentiment": "positive",
+              "note": "Position increased."
+            },
+            {
+              "symbol": "CRDO",
+              "sentiment": "positive",
+              "note": "Position increased."
+            },
+            {
+              "symbol": "SOXX",
+              "sentiment": "neutral",
+              "note": "At a very critical level; losing it raises downside odds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "sgundoganX read BMS extending its collaboration with **Tempus AI** to 2031 as strengthening the investment thesis.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Tempus AI and BMS collaboration",
+          "url": "https://x.com/sgundoganX/status/2113647380255961246",
+          "published_at": "2026-10-23T15:02:59.000Z",
+          "summary": "sgundoganX read BMS extending its Tempus AI collaboration to 2031 as strengthening the thesis: a relationship expanded 4 times in 5 years, a shift from product to infrastructure and a shorter gap between expansions.",
+          "assets": [
+            {
+              "symbol": "TEM",
+              "sentiment": "positive",
+              "note": "BMS extended the collaboration to 2031; 4 expansions in 5 years strengthens the thesis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 followed the pressure on AI infrastructure stocks: UBS and Bernstein cut **CoreWeave** targets on financing worries, and short sellers made about $6 billion on five AI data center stocks. ARK bought **Meta** on the dip and **Apple** hit a record and passed **Nvidia**. He is pessimistic about the Turkish market.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "CoreWeave: UBS and Bernstein targets",
+          "url": "https://x.com/korkmazali08/status/2113657951823028371",
+          "published_at": "2026-10-23T15:45:00.000Z",
+          "summary": "korkmazali08 shared that after CoreWeave's drop UBS kept Buy but cut its target from $120 to $105 and Bernstein cut to $51; the selloff is about financing cost and debt needs.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "negative",
+              "note": "Interest expense up 140%; Bernstein says $85B of financing is needed with only $9B secured."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Short profits in AI data center stocks",
+          "url": "https://x.com/korkmazali08/status/2113607851503391196",
+          "published_at": "2026-10-23T12:25:55.000Z",
+          "summary": "korkmazali08 shared that short sellers made about $6B of unrealized profit this month in five AI data center stocks (CRWV $1.7B, NBIS $2.94B).",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "negative",
+              "note": "Short positions made about $1.7B."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "negative",
+              "note": "Short positions made $2.94B."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ARK bought Meta on the drop",
+          "url": "https://x.com/korkmazali08/status/2113446599540330987",
+          "published_at": "2026-10-23T01:45:09.000Z",
+          "summary": "korkmazali08 shared that ARK bought 38,110 META shares after the 7% drop and sold PLTR and RBLX.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "ARK bought $24.7M of shares after the 7% drop."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Apple passed Nvidia",
+          "url": "https://x.com/korkmazali08/status/2113640074327863615",
+          "published_at": "2026-10-23T14:33:57.000Z",
+          "summary": "korkmazali08 shared that Apple hit a record $349.55 and passed Nvidia with a $5.10 trillion market cap.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "positive",
+              "note": "At a record high with a $5.10 trillion market cap."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Lost market cap lead to Apple."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Turkish stock market",
+          "url": "https://x.com/korkmazali08/status/2113670891817336983",
+          "published_at": "2026-10-23T16:36:25.000Z",
+          "summary": "korkmazali08 shared a 'Turkish stock market is collapsing' post and wrote that current conditions make it unlikely for Borsa Istanbul to be known for success; in another post he said the index gets more 'free' each day.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "negative",
+              "note": "Sees no positive outlook for Borsa Istanbul under current conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries summed up the day as risk-off: the **Nasdaq 100** fell 2.91%, oil is at its highest since May and **Bitcoin** dropped below $81,500. **Bloom Energy** showed record revenue and raised guidance but negative cash flow, **Western Digital** posted strong earnings and **OpenAI** cut its valuation target to $1.25 trillion.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Oct 22 market summary",
+          "url": "https://x.com/WallStDiaries/status/2113542426254049609",
+          "published_at": "2026-10-23T08:05:56.000Z",
+          "summary": "WallStDiaries summarized a risk-off US session: Nasdaq 100 fell 2.91% and the S&P 500 1.21% while the Dow was flat, US10Y fell to 4.96% (-17 bp), Brent is at its highest since May after drone attacks on Saudi Arabia, and VIX rose above 19.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "negative",
+              "note": "Fell 2.91% on exit from AI stocks."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "positive",
+              "note": "Brent at its highest since May."
+            },
+            {
+              "symbol": "US10Y",
+              "sentiment": "neutral",
+              "note": "Yield fell to 4.96% (-17 bp)."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bloom Energy Q3 earnings",
+          "url": "https://x.com/WallStDiaries/status/2113512938539475353",
+          "published_at": "2026-10-23T06:08:46.000Z",
+          "summary": "WallStDiaries reported Bloom Energy lifted revenue 138% to $1.24B with net profit of $250.3M, raised 2026 revenue guidance for a third time and joined the S&P 500, but operating cash flow was -$27.1M and installation gross margin -4.8%.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "neutral",
+              "note": "Revenue $1.24B (+138%), guidance raised; operating cash flow -$27.1M."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Western Digital earnings",
+          "url": "https://x.com/WallStDiaries/status/2113512277609439519",
+          "published_at": "2026-10-23T06:06:08.000Z",
+          "summary": "WallStDiaries reported Western Digital grew revenue 55% to $4.38B, adjusted EPS of $4.64 and guided 66-72% revenue growth for the next quarter.",
+          "assets": [
+            {
+              "symbol": "WDC",
+              "sentiment": "positive",
+              "note": "Revenue +55%, margin expansion, guidance of 66-72% growth next quarter."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "OpenAI valuation target",
+          "url": "https://x.com/WallStDiaries/status/2113593779303465220",
+          "published_at": "2026-10-23T11:30:00.000Z",
+          "summary": "WallStDiaries reported OpenAI cut its valuation target in the new round from $1.4T to $1.25T, still well above March's $852B.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bitcoin below $81,500",
+          "url": "https://x.com/WallStDiaries/status/2113519409167802573",
+          "published_at": "2026-10-23T06:34:29.000Z",
+          "summary": "WallStDiaries wrote that the tech selloff spread to crypto and Bitcoin fell below $81,500.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "negative",
+              "note": "Fell below $81,500."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu thinks the central bank will cut rates at every meeting and the 2027 year-end inflation interim target will be revised up once more. He expects the bad mood in the **Nasdaq** to reverse within the coming week and noted he does not comment on BIST.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "CBRT rate cuts",
+          "url": "https://x.com/TuncSatiroglu/status/2113475794240430311",
+          "published_at": "2026-10-23T03:41:10.000Z",
+          "summary": "Tunç Şatıroğlu wrote that policy rate cuts at the central bank have become automatic, that rates will be cut at every meeting unless FX reserves fall significantly, and that the 2027 year-end inflation interim target (revised from 15% to 21%) will be revised up at least once more.",
+          "assets": [
+            {
+              "symbol": "USDTRY",
+              "sentiment": "neutral",
+              "note": "Wrote that inflation is far from target while cuts continue, and that very high inflation is being tolerated."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Expecting bad mood to reverse",
+          "url": "https://x.com/TuncSatiroglu/status/2113506488937570774",
+          "published_at": "2026-10-23T05:43:08.000Z",
+          "summary": "Tunç Şatıroğlu said he expects the bad market mood to reverse within the coming week, that his comments are about the Nasdaq and that he does not comment on BIST.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "positive",
+              "note": "Expects a rebound within the coming week."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy explained **Meta**'s drop through capex, shrinking margin and negative free cash flow; AI investment isn't ending but the market no longer gives unlimited credit, supporting **Nvidia** and **Broadcom** demand. He tied **Apple** passing **Nvidia** to Wall Street questioning AI returns.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Why Meta fell 7% after earnings",
+          "url": "https://x.com/FinancewithIzzy/status/2113638375697625138",
+          "published_at": "2026-10-23T14:27:12.000Z",
+          "summary": "FinancewithIzzy explained Meta's drop despite $64.6B revenue by capex guidance of $135-145B, operating margin falling from 40% to 20% (with a $9.89B legal provision) and free cash flow of -$2.12B; AI investment is not ending but the market no longer offers unlimited credit, which signals continued demand for NVDA and AVGO.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "negative",
+              "note": "Capex $135-145B, free cash flow -$2.12B, CDS at 114.79 bp."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Infrastructure supplier; demand continues."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Infrastructure supplier; demand continues."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Apple passes Nvidia for the fifth time",
+          "url": "https://x.com/FinancewithIzzy/status/2113674180847702136",
+          "published_at": "2026-10-23T16:49:29.000Z",
+          "summary": "FinancewithIzzy wrote that the ~$5.1T lead race between Apple and Nvidia is within 1%, Nvidia is 11% below its Oct 6 peak, and the real shift is Wall Street questioning returns on AI spending.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "positive",
+              "note": "Record close; less capital-intensive model than AI infrastructure."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "11% below peak; GPU demand has not vanished."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine shared **Nvidia**'s CEO saying software licensing will become a growing revenue line at about $2,000 per GPU per year. It also relayed that **Instacart** is exploring a sale at about a $12 billion valuation and has talked with Uber and DoorDash.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Jensen Huang: software licensing",
+          "url": "https://x.com/wallstengine/status/2113525048707584350",
+          "published_at": "2026-10-23T06:56:53.000Z",
+          "summary": "wallstengine shared Jensen Huang saying software licensing will become a major part of Nvidia's business, at about $2,000 per GPU per year for AI agents, and calculated that 1 million licensed GPUs means $2B a year.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "About $2,000 per GPU per year of software licensing could be a new revenue line."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Instacart explores sale",
+          "url": "https://x.com/wallstengine/status/2113733052505501956",
+          "published_at": "2026-10-23T20:43:25.000Z",
+          "summary": "wallstengine shared that Instacart, valued around $12B, is exploring a sale and held preliminary talks with Uber and DoorDash.",
+          "assets": [
+            {
+              "symbol": "CART",
+              "sentiment": "neutral",
+              "note": "Exploring a sale at around $12B valuation."
+            },
+            {
+              "symbol": "UBER",
+              "sentiment": "neutral",
+              "note": "Preliminary talks held."
+            },
+            {
+              "symbol": "DASH",
+              "sentiment": "neutral",
+              "note": "Preliminary talks held."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz started trimming **Palantir**, **CrowdStrike** and **Cloudflare** because valuations are getting tough; his largest position is **Apple** and he is considering trimming it too. He wrote that **Micron**'s best gains have probably already happened, while **Rocket Lab** is one of his largest positions. He sees large opportunity in crushed buildout-stage companies but calls it a minefield.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trimming PLTR, CRWD and NET",
+          "url": "https://x.com/jrouldz/status/2113697610007814212",
+          "published_at": "2026-10-23T18:22:35.000Z",
+          "summary": "jrouldz wrote that he started trimming PLTR, CRWD and NET because valuations are getting tough despite excellent execution.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "negative",
+              "note": "Trimming on valuation; outsized share of portfolio."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "negative",
+              "note": "Sold a third of the initial shares."
+            },
+            {
+              "symbol": "NET",
+              "sentiment": "negative",
+              "note": "Started taking profits."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Buildout-stage companies",
+          "url": "https://x.com/jrouldz/status/2113611432059187481",
+          "published_at": "2026-10-23T12:40:09.000Z",
+          "summary": "jrouldz wrote that buildout-stage companies being crushed from highs may create a large opportunity but it is a minefield; winners will be large multibaggers while many will never recover. He is skeptical of broad indexes but very bullish over the next few years.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "positive",
+              "note": "One of his largest positions despite the drawdown."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Micron: best gains are behind",
+          "url": "https://x.com/jrouldz/status/2113636965736468595",
+          "published_at": "2026-10-23T14:21:36.000Z",
+          "summary": "jrouldz wrote that MU traded in a neat trend for 10 years before a 20x explosion and that while it should do well long term, the best gains have likely already happened.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Fine long term but the best gains have likely happened."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AAPL largest position",
+          "url": "https://x.com/jrouldz/status/2113807954952487275",
+          "published_at": "2026-10-24T01:41:03.000Z",
+          "summary": "jrouldz wrote his largest position is AAPL and he is thinking about trimming.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Largest position; considering trimming."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BE back to trend line",
+          "url": "https://x.com/jrouldz/status/2113695227496296836",
+          "published_at": "2026-10-23T18:13:07.000Z",
+          "summary": "jrouldz wrote BE is back at the trend line that started a 15x run and that he has no position.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "neutral",
+              "note": "At the trend line that sent shares on a 15x run; no position."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "According to cevikfinance, although indexes are near highs, 58% of S&P 500 companies are at least 20% below their peaks; with Goldman net selling nearing late-March levels, he thinks bottoms are near and sees tech valuations falling to 2022 levels as an opportunity. On the other hand, he wrote that a **Brent** close above $116 would be the highest since the Iran war began, and above $120 it could head to $140-150.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Brent above $116",
+          "url": "https://x.com/cevikfinance/status/2113712669244997670",
+          "published_at": "2026-10-23T19:22:25.000Z",
+          "summary": "cevikfinance wrote that a Brent close above $116 would be the highest since the Iran war began, and if it exceeds $120 next week the next levels are $140-150.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "positive",
+              "note": "A close above $116 is the highest since the war began; above $120 next levels are $140 and $150."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Stealth bear market",
+          "url": "https://x.com/cevikfinance/status/2113677257005023518",
+          "published_at": "2026-10-23T17:01:42.000Z",
+          "summary": "cevikfinance shared that 58% of S&P 500 companies are at least 20% below their peaks, as are 62% of the Nasdaq 100, so over half of the stocks are in a bear market even with indexes near highs.",
+          "assets": [
+            {
+              "symbol": "SPX",
+              "sentiment": "neutral",
+              "note": "Index is 2.5% off its peak, 58% of stocks are down 20%+."
+            },
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "7.3% off peak, 62% of constituents down 20%+."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bottom is near",
+          "url": "https://x.com/cevikfinance/status/2113682295093653689",
+          "published_at": "2026-10-23T17:21:44.000Z",
+          "summary": "cevikfinance shared that Goldman Sachs Prime Book net selling of global equities is nearing late-March levels, saying everything on his feed says bottoms are near; he also called tech valuations falling to 2022 levels a great time to invest.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "positive",
+              "note": "Tech valuations fell to 2022 levels; a great time to invest."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Short company news",
+          "url": "https://x.com/cevikfinance/status/2113629177958093195",
+          "published_at": "2026-10-23T13:50:40.000Z",
+          "summary": "cevikfinance summarized that Jensen Huang expects no memory oversupply until 2029, SK Hynix suspended the Solidigm IPO, WDC revenue rose 55%, and BE fell despite raising guidance a third time.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Jensen Huang expects no memory oversupply until 2029."
+            },
+            {
+              "symbol": "WDC",
+              "sentiment": "positive",
+              "note": "Revenue up 55%, dividend raised 17%."
+            },
+            {
+              "symbol": "BE",
+              "sentiment": "neutral",
+              "note": "Guidance raised but stock fell."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0651,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1837,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Largest holding; falling rates and credit quality help, while risk-off and fintech multiples hurt. Single-stock risk is high given the weight.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: the 10-year yield falling to 4.96% supports rate-sensitive fintech.",
+          "Against: the exit from growth stocks continues and the 18% weight amplifies volatility."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1351,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "negative",
+            "quote": "Meta's earnings came out the day before, they delivered a very good report but there is one aspect Wall Street does not like: free cash flow has turned negative.",
+            "source_url": "https://www.youtube.com/watch?v=pGyJqm4ic9w"
+          },
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "negative",
+            "quote": "Wall Street no longer looks at the AI story, but at how much cash that story generates.",
+            "source_url": "https://x.com/FinancewithIzzy/status/2113638375697625138"
+          },
+          {
+            "person": "korkmazali08",
+            "sentiment": "neutral",
+            "quote": "Cathie Wood's ARK funds bought 38,110 shares of $META worth $24.7 million after the 7% drop in Meta on Thursday, October 22.",
+            "source_url": "https://x.com/korkmazali08/status/2113446599540330987"
+          }
+        ],
+        "action": "hold",
+        "why": "Sources agree on the reason for the drop but none gives a concrete sell or buy level.",
+        "opinion": "The ad engine is strong; the real question is when $135-145B of capex turns into cash and how it is financed (the non-voting share split). Next quarter's capex guidance will be decisive.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: ad impressions and prices are rising and ARK added on the drop.",
+          "Against: free cash flow is negative and the CDS spread rose (FinancewithIzzy).",
+          "Against: the non-voting share plan could dilute existing holders."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "positive",
+            "quote": "This points to continued demand for infrastructure suppliers like $NVDA and $AVGO",
+            "source_url": "https://x.com/FinancewithIzzy/status/2113638375697625138"
+          }
+        ],
+        "action": "hold",
+        "why": "According to FinancewithIzzy, demand for AI infrastructure suppliers continues, but there is no concrete level or date.",
+        "opinion": "If hyperscaler capex financing is questioned, Broadcom's custom chip orders are indirectly affected; still, the demand story is solid. Hyperscaler earnings next week are critical.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: AI infrastructure demand continues.",
+          "Against: the rotation out of AI stocks on the Nasdaq continues.",
+          "Against: the 12.8% weight is concentrated in the semiconductor cycle."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.108,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Relatively insulated from the AI selloff thanks to nuclear and defense contracts; Iran tension could support defense. Watch valuation and contract timing.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: defense/nuclear business is independent of the AI spending cycle.",
+          "Against: no new source information on it today."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0974,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "High-beta ad stock; moves sharply in Nasdaq selloffs. Resilience of ad budgets is the key to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: selling pressure in growth stocks continues.",
+          "In favor: Meta's strong ad revenue confirms sector demand."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0855,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Defensive-like subscription revenue is relatively protected in risk-off; the valuation multiple is the main risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: subscription revenue is not cyclical.",
+          "Against: the stock falls if growth multiples compress."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0752,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "positive",
+            "quote": "On the other hand there was demand for US Treasuries. That pushed their yields lower.",
+            "source_url": "https://www.youtube.com/watch?v=pGyJqm4ic9w"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Bora Özkent safe-haven demand pushed yields lower, but no level was given for adding or selling.",
+        "opinion": "Long-dated bonds are a natural hedge against equity selloffs; however oil-driven inflation fears could push yields back up.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: safe-haven demand in the equity selloff pushed yields to 4.96%.",
+          "Against: Brent's rise feeds inflation expectations."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0622,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Data-center electrical infrastructure theme; AI financing worries can hit this segment too, but power bottlenecks support demand. Small weight but high volatility.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: power capacity is a bottleneck for AI data centers.",
+          "Against: the financing of AI spending is being questioned."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.0599,
+        "mentions": [
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "I see below 200 as accumulation.",
+            "source_url": "https://x.com/ulkser/status/2113551795599364348"
+          },
+          {
+            "person": "korkmazali08",
+            "sentiment": "negative",
+            "quote": "I wish the Turkish stock market were known for its successes, but under current conditions that unfortunately does not seem possible.",
+            "source_url": "https://x.com/korkmazali08/status/2113670891817336983"
+          }
+        ],
+        "action": "hold",
+        "why": "ulkser sees BIST100 below 200 as an accumulation zone while korkmazali08 is pessimistic; with no clear level break, hold.",
+        "opinion": "The Turkey ETF depends on the lira and foreign flows; high inflation combined with rate cuts could pressure the lira.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: according to Tunç Şatıroğlu rate cuts will continue while inflation stays high.",
+          "In favor: ulkser sees below 200 as an accumulation zone."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "BE",
+        "name": "Bloom Energy",
+        "why": "Ahmet Sunelcan keeps adding with an order at $185 on the dip while Heisenberg does not find the earnings 'perfect' because of cash flow and margins.",
+        "source_url": "https://x.com/AhmetSunelcan1/status/2113633849477648587"
+      },
+      {
+        "symbol": "WDC",
+        "name": "Western Digital",
+        "why": "According to WallStDiaries revenue rose 55% and 66-72% growth is guided for next quarter; the stock sold off on competition worries.",
+        "source_url": "https://x.com/WallStDiaries/status/2113512277609439519"
+      }
+    ]
+  }
+}
