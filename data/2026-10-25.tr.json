@@ -1,0 +1,1582 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T08:27:51.093Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Fransa 10 yıllık tahvil getirisi %5'i aştı",
+      "person": "Defiant Gatekeeper",
+      "why": "Getiri 2002'den beri en yüksek, Almanya farkı 2011'den beri en geniş; Defiant Gatekeeper'a göre bu küresel bir tahvil satışı değil, Fransa'ya özgü bir sorun.",
+      "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+    },
+    {
+      "title": "Nasdaq düşüşü fonların zorunlu satışı mı?",
+      "person": "Bora Özkent",
+      "why": "Bora Özkent, son iki haftadaki sert düşüşü kaldıraç ve volatilite hedefli fonların zorunlu satışına bağlıyor; temellerde iki hafta öncesine göre büyük değişiklik görmüyor ve volatilitenin yakında durulacağını bekliyor.",
+      "source_url": "https://www.youtube.com/watch?v=tpnPYpggWcE"
+    },
+    {
+      "title": "TCMB 100 baz puan indirdi, Aralık'ta bir indirim daha bekleniyor",
+      "person": "Berk Dinçtürk",
+      "why": "Yayında indirim temkinli okundu, talepte net soğuma var ve Aralık'ta 100 baz puan daha bekleniyor; Borsa İstanbul günü %3,08 düşüşle 11.220'den kapattı, yabancı hisse satışı üçüncü haftaya taşındı.",
+      "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+    },
+    {
+      "title": "Bitcoin 81.000 dolara geriledi, spot ETF'lerden rekor çıkış",
+      "person": "WallStDiaries",
+      "why": "Bitcoin 50 günlük ortalamanın altına indi; spot ETF'lerden bir günde 636 milyon dolarlık rekor çıkış oldu ve vadelide 281 milyon dolarlık uzun pozisyon silindi.",
+      "source_url": "https://x.com/WallStDiaries/status/2113997443624808637"
+    },
+    {
+      "title": "BIST'te dolar bazında bir sonraki alım bölgesi 210–230",
+      "person": "Heisenberg",
+      "why": "Heisenberg 270 dolardan alıp sattığını yazdı; BIST 300 doların üzerine çıkamazsa bir sonraki ana destek 210–230 dolar bölgesi.",
+      "source_url": "https://x.com/heisenbergtrx/status/2113941957856960576"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Petrol ve Orta Doğu gerilimi",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Brent haftada yaklaşık %6 artıp 117 dolara çıktı; enflasyon beklentileri yükselirken 10 yıllık getiri düşmeye devam ediyor.",
+          "quote": "Brent ham petrol yaklaşık %6 artarak haftada 110 dolardan 117 dolara çıktı, 29 Nisan'dan beri en yüksek seviye.",
+          "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Vadeli Brent altı ayın zirvesinde ama bölgede fiziki piyasada indirim var; vadeliler risk primini fiyatlıyor.",
+          "quote": "Vadeli kontratlar ise risk primini fiyatlıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2113963731524760016"
+        }
+      ]
+    },
+    {
+      "topic": "ABD tahvil getirileri, enflasyon ve Fed",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "10 yıllık getiri %4,96 ile 5'in altında; gelecek haftaki toplantıda artırım ihtimali %10, Aralık'ta ise %75'in üzerinde.",
+          "quote": "Aralık toplantısı için faiz artırımı ihtimali şu an %75'in üzerinde.",
+          "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Dow haftayı 600 puandan fazla düşüşle kapattı; Brent'in tırmanışı Fed öncesi enflasyon endişelerini yeniden tetikledi.",
+          "quote": "Nisandan bu yana en yüksek seviyesini gören Brent petrolün tırmanışı, Fed öncesi enflasyon endişelerini yeniden tetikledi.",
+          "source_url": "https://x.com/WallStDiaries/status/2113941069050352116"
+        }
+      ]
+    },
+    {
+      "topic": "Yapay zeka hisselerinde sert satış",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Satış temel bozulmasından çok kaldıraç ve volatilite bütçesi kaynaklı fon satışı; bilançolar güçlü ama yarı iletkenler ayı piyasasına yakın.",
+          "quote": "Amerika'da yapay zeka balonu patlamasından ziyade teknik olarak özellikle fonlar tarafından kaynaklanan zorunlu satışlar var şu anda.",
+          "source_url": "https://www.youtube.com/watch?v=tpnPYpggWcE"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Piyasa çöküşü değil yalnızca yapay zeka hisselerinde satış; Lam Research'ün tedarik kısıtı ve Meta'nın nakit akışı hikâyeyi finansman sorununa çevirdi, Anthropic halka arz değerlemesinin 1,8-2 trilyon dolardan yaklaşık 1,5 trilyon dolara indiği söyleniyor.",
+          "quote": "Bu bir piyasa çöküşü değildi; sadece yapay zeka hisselerinde bir satıştı.",
+          "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Balon haberleri her üç ayda bir geliyor, Broadcom CEO'sunun sözleri yanlış okundu; güçlü teknoloji şirketlerinde her düzeltme alım fırsatı, borçlu ve nakit üretmeyenler sorun yaşar.",
+          "quote": "Kuvvetli teknoloji şirketleri için bana göre her düzeltme yeni bir alım fırsatı verecektir.",
+          "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Blackstone'un CoreWeave'e aktardığı 2,3 milyar dolarla çip teminatlı kredi modeli doğdu ve 1 trilyon dolarlık bir borçlanma pazarını tetikliyor.",
+          "quote": "Yapay zeka altyapısına dayalı bu çip teminatlı finansman mimarisi, Wall Street genelinde $1 trilyonluk devasa bir borçlanma pazarını tetikliyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2114009026367193113"
+        }
+      ]
+    },
+    {
+      "topic": "Türkiye: faiz indirimi ve Borsa İstanbul",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Yayında TCMB'nin 100 baz puanlık indirimi temkinli okundu; talepte net soğuma var, Aralık'ta 100 baz puan daha bekleniyor ama büyümeyi canlandırmaz, borsa için likidite girişi gerekiyor.",
+          "quote": "Büyük ihtimalle biz Aralık ayında da bir faiz indirimi göreceğiz, 100 baz puan daha.",
+          "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+        },
+        {
+          "person": "Heisenberg",
+          "view": "BIST dolar bazında 300'ün üzerine çıkamazsa bir sonraki ana destek 210–230 dolar bölgesi; 265-270 destek, 350 direnç.",
+          "quote": "BIST tekrar 300 doların üzerine çıkamazsa, bir sonraki ana destek kabaca 210-230 dolar bölgesine denk gelecek.",
+          "source_url": "https://x.com/heisenbergtrx/status/2113941957856960576"
+        },
+        {
+          "person": "ulkser",
+          "view": "Türkiye ekonomisi yapay zeka, uzay, ilaç Ar-Ge gibi alanlarda yer almadığı için değerini kaybediyor; borsa 160–320 dolar bandında git-gel yapacak.",
+          "quote": "Borsasi da 160 320 usd arasi yerel oyuncularla git gel yapmaya devam edecek",
+          "source_url": "https://x.com/ulkser/status/2113905512244715571"
+        }
+      ]
+    },
+    {
+      "topic": "Fransa tahvil piyasası",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Fransa 10 yıllık getirisi %5'in üzerinde ve Almanya farkı 2011'den beri en geniş; küresel tahvil satışı değil Fransa'ya özgü sorun.",
+          "quote": "Perşembe günü Fransa'nın 10 yıllık tahvil getirisi %5'i aştı, bu 2002'den beri en yüksek seviye.",
+          "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "NDX",
+      "name": "Nasdaq 100",
+      "priority": "high",
+      "why": "İki kişi görüş bildirdi: Bora Özkent düşüşü teknik buluyor ve toparlanma bekliyor, Tunç Şatıroğlu büyük yükseliş öncesi son tuzaktan söz ediyor.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "benim tahminimce volatilite yakında durulacak ve tekrar eski yere doğru gideceğiz",
+          "source_url": "https://www.youtube.com/watch?v=tpnPYpggWcE"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "positive",
+          "quote": "Nasdaq'ta Büyük Yükseliş Öncesi Son Tuzak!",
+          "source_url": "https://x.com/TuncSatiroglu/status/2113965130551799910"
+        }
+      ]
+    },
+    {
+      "symbol": "SOX",
+      "name": "Philadelphia Yarı İletken Endeksi",
+      "priority": "high",
+      "why": "İki kişi sert düşüşü ele aldı; Defiant Gatekeeper tek günde %6,7 düşüşü, Bora Özkent ayı piyasasına yakınlığı vurguladı.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Perşembe günü Philadelphia yarı iletken endeksi tek günde %6,7 düştü.",
+          "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "şu anda teknik olarak yarı iletken yapay zeka hisseleri ayı pazarına çok yakın yerlerdeler",
+          "source_url": "https://www.youtube.com/watch?v=tpnPYpggWcE"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "Üç kişi bahsetti: Bora temellerin iyileştiğini ama hissenin sert düştüğünü söyledi, Jensen Huang'ın optik ve sermaye talebi sözleri aktarıldı.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Nvidia'nın temelleri sürekli iyileşiyor ... ama bu hafta o da çok sert düştü",
+          "source_url": "https://www.youtube.com/watch?v=tpnPYpggWcE"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Jensen Huang, yapay zeka veri merkezlerinin optik ağlara geçişinin optik hacmini 15 kat artırabileceğini söyledi: \"Scale up is going to become optical.\"",
+          "source_url": "https://x.com/wallstengine/status/2114104212611309753"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "neutral",
+          "quote": "Jensen Huang: \"Sermaye talebi, sermaye bulunabilirliğinden çok daha büyük.\"",
+          "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "İki kişi zıt okudu: korkmazali08 BofA'nın hedef fiyatı 845 dolara yükselttiğini aktardı, Defiant Gatekeeper harcama planı ve negatif nakit akışı nedeniyle satışa dikkat çekti.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "BofA analisti Justin Post, “Al” tavsiyesini koruyarak hedef fiyatını $810’dan $845’e yükseltti.",
+          "source_url": "https://x.com/korkmazali08/status/2114138132170023380"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Meta gelir beklentisini aştı ama 2026 sermaye harcaması alt sınırını 135-145 milyar dolara yükseltti ve çeyreklik serbest nakit akışı eksi 2,1 milyar dolar oldu.",
+          "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "medium",
+      "why": "Berk Dinçtürk Broadcom CEO'sunun sözlerinin yanlış okunduğunu söyleyerek balon endişesini yersiz buluyor.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Aslında adam böyle bir şey söylemiyor. Bu açıklamalarından sadece bir kesit.",
+          "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "priority": "high",
+      "why": "Üç kişi bahsetti: Defiant iki haftada %35 düşüşü vurguladı, Berk hisseyi güzel bulurken tahvil için küçük pozisyon önerdi, WallStDiaries Blackstone finansmanını aktardı.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "CoreWeave ve Nebius hisseleri iki haftada yaklaşık %35 düştü.",
+          "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Hisse için bence güzel CoreWeave. Riskleri 2028'den sonraki borçlanma araçlarında ortaya çıkıyor.",
+          "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Blackstone liderliğinde CoreWeave'e aktarılan $2,3 milyarlık fonlama, Nvidia çipleri ve müşteri sözleşmelerini teminat alan yeni bir model doğurdu.",
+          "source_url": "https://x.com/WallStDiaries/status/2114009026367193113"
+        }
+      ]
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research",
+      "priority": "medium",
+      "why": "Defiant Gatekeeper şirketin temiz oda ve tedarik zinciri kısıtı uyarısını satışın iki nedeninden biri sayıyor.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Lam Research hissesi perşembe günü yaklaşık %12 düştü; şirket 2027'ye girerken temiz oda alanı ve tedarik zinciri kısıtları gördüğünü söyledi.",
+          "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "high",
+      "why": "İki kişi bahsetti: Berk Optimus temasıyla olumlu, WallStDiaries Musk'ın SpaceX birleşmesini ve enerji/soğutma engelini aktardı.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Tesla'nın asıl hikayesi bu humanoid robot olacaktır. O muhtemelen 2027'ye kaldı ama tema devam ediyor.",
+          "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Elon Musk, SpaceX ve Tesla birleşmesini resmen masaya yatırırken asıl engelin çip değil enerji ve soğutma olduğunu vurguladı.",
+          "source_url": "https://x.com/WallStDiaries/status/2113948619099529549"
+        }
+      ]
+    },
+    {
+      "symbol": "UUUU",
+      "name": "Energy Fuels",
+      "priority": "medium",
+      "why": "Berk Dinçtürk yayında hisseyi artırdığını söyledi; uranyum, nadir toprak ve Wacker satın alması üzerinden somut gerekçe verdi.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Biraz sabrederseniz bence Energy Fuels'da inanılmaz hikaye var.",
+          "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+        }
+      ]
+    },
+    {
+      "symbol": "XU100",
+      "name": "BIST 100",
+      "priority": "high",
+      "why": "Üç kişi görüş bildirdi; Heisenberg somut dolar seviyeleri verdi, Berk yayında likidite sıkışıklığına dikkat çekti.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "270'ten alıp sattığımı, bir sonraki alım bölgemin de 210–230 olduğunu açıkça yazmışım.",
+          "source_url": "https://x.com/heisenbergtrx/status/2114247689466503301"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "negative",
+          "quote": "Yeni bir trend başlatmak için neye ihtiyacımız var? Bizim likiditeye ihtiyacımız var.",
+          "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "Borsasi da 160 320 usd arasi yerel oyuncularla git gel yapmaya devam edecek",
+          "source_url": "https://x.com/ulkser/status/2113905512244715571"
+        }
+      ]
+    },
+    {
+      "symbol": "AKBNK",
+      "name": "Akbank",
+      "priority": "medium",
+      "why": "Heisenberg bu hisseleri bu yıl desteklerde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını yazdı.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "positive",
+          "quote": "Ben bunları bu sene desteklerine geldiklerinde beş kere aldım. Hepsinde de ortalama %10-20 arası dolar kazancı getirdi sattım.",
+          "source_url": "https://x.com/heisenbergtrx/status/2113941957856960576"
+        }
+      ]
+    },
+    {
+      "symbol": "GARAN",
+      "name": "Garanti BBVA",
+      "priority": "medium",
+      "why": "Heisenberg bu hisseleri bu yıl desteklerde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını yazdı.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "positive",
+          "quote": "Ben bunları bu sene desteklerine geldiklerinde beş kere aldım. Hepsinde de ortalama %10-20 arası dolar kazancı getirdi sattım.",
+          "source_url": "https://x.com/heisenbergtrx/status/2113941957856960576"
+        }
+      ]
+    },
+    {
+      "symbol": "YKBNK",
+      "name": "Yapı Kredi",
+      "priority": "medium",
+      "why": "Heisenberg bu hisseleri bu yıl desteklerde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını yazdı.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "positive",
+          "quote": "Ben bunları bu sene desteklerine geldiklerinde beş kere aldım. Hepsinde de ortalama %10-20 arası dolar kazancı getirdi sattım.",
+          "source_url": "https://x.com/heisenbergtrx/status/2113941957856960576"
+        }
+      ]
+    },
+    {
+      "symbol": "KCHOL",
+      "name": "Koç Holding",
+      "priority": "medium",
+      "why": "Heisenberg bu hisseleri bu yıl desteklerde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını yazdı.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "positive",
+          "quote": "Ben bunları bu sene desteklerine geldiklerinde beş kere aldım. Hepsinde de ortalama %10-20 arası dolar kazancı getirdi sattım.",
+          "source_url": "https://x.com/heisenbergtrx/status/2113941957856960576"
+        }
+      ]
+    },
+    {
+      "symbol": "THYAO",
+      "name": "Türk Hava Yolları",
+      "priority": "medium",
+      "why": "Heisenberg bu hisseleri bu yıl desteklerde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını yazdı.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "positive",
+          "quote": "Ben bunları bu sene desteklerine geldiklerinde beş kere aldım. Hepsinde de ortalama %10-20 arası dolar kazancı getirdi sattım.",
+          "source_url": "https://x.com/heisenbergtrx/status/2113941957856960576"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "high",
+      "why": "Üç kişi bahsetti; WallStDiaries rekor ETF çıkışını, MrTradeer 87 bin dolardan düşüş öncesi spot satışını aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Bitcoin $81.000 seviyesine gerileyerek 50 günlük hareketli ortalamasının altına indi. Kurumsal tarafta spot ETF’lerden bir günde $636 milyonluk rekor çıkış yaşandı.",
+          "source_url": "https://x.com/WallStDiaries/status/2113997443624808637"
+        },
+        {
+          "person": "MrTradeer",
+          "sentiment": "negative",
+          "quote": "87k dan düşüşü sizlere de söylemiş spotları sattığımı söylemiştim",
+          "source_url": "https://x.com/MrTradeer/status/2114176492364030154"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "Kripto para Bitcoin'de ise %3,98'lik bir geri çekilmeyle 81.255 seviyesinden geçiyor işlemler.",
+          "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+        }
+      ]
+    },
+    {
+      "symbol": "XAUUSD",
+      "name": "Altın",
+      "priority": "medium",
+      "why": "Berk fiyat hareketini aktardı, MrTradeer laboratuvarda altın üretimi haberine şüpheyle yaklaştı; ikisi de net yön vermedi.",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "Ons altın 4026 dolar 54 cent seviyesinde, %2,75'lik bir geri çekilme var.",
+          "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+        },
+        {
+          "person": "MrTradeer",
+          "sentiment": "neutral",
+          "quote": "Evet laboratuvarda altın yapabilirsiniz ama radyoaktif olur. Ayrıca normal altından kat be kat pahalı olur.",
+          "source_url": "https://x.com/MrTradeer/status/2114015188768666094"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent petrol",
+      "priority": "high",
+      "why": "Üç kişi fiyatı ve jeopolitik risk primini ele aldı; Defiant haftalık %6 artışı, WallStDiaries vadeli-fiziki makası vurguladı.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "positive",
+          "quote": "Brent ham petrol yaklaşık %6 artarak haftada 110 dolardan 117 dolara çıktı.",
+          "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Brent petrol vadeli kontratları Ortadoğu'daki jeopolitik risklerle son altı ayın zirvesine tırmanırken, bölgedeki fiziki petrol fiyatlarında belirgin bir düşüş yaşanıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2113963731524760016"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "Brent'te %3,98'lik bir yukarı yönlü hareket var. 113 dolar 15 cent seviyesindeyiz.",
+          "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "priority": "high",
+      "why": "İki kişi zıt yönde: WallStDiaries haftalık %11 yükselişi aktardı, jrouldz pozisyonunu azaltmaya başladığını yazdı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Haftalık bazda Palo Alto Networks ve CrowdStrike %11, Okta %14 değer kazandı.",
+          "source_url": "https://x.com/WallStDiaries/status/2114001468219150725"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "Similar deliberation with $CRWD $NET $PLTR but I did start trimming all three of those.",
+          "source_url": "https://x.com/jrouldz/status/2114018201054876006"
+        }
+      ]
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks",
+      "priority": "medium",
+      "why": "WallStDiaries siber güvenlik bütçelerinin savunmaya kaydığını ve hissenin haftada %11 yükseldiğini aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Kurumlar bütçelerini hızla savunmaya kaydırıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2114001468219150725"
+        }
+      ]
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "Similar deliberation with $CRWD $NET $PLTR but I did start trimming all three of those.",
+          "source_url": "https://x.com/jrouldz/status/2114018201054876006"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "Similar deliberation with $CRWD $NET $PLTR but I did start trimming all three of those.",
+          "source_url": "https://x.com/jrouldz/status/2114018201054876006"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "priority": "medium",
+      "why": "WallStDiaries, Jassy'nin bulut kapasitesinin 2027 sonuna kadar büyük ölçüde tükendiği açıklamasını aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Amazon CEO'su Andy Jassy, yapay zekâ talebinin arzı tamamen aştığını ve şirketin bulut kapasitesinin 2027 sonuna kadar büyük ölçüde tükendiğini açıkladı.",
+          "source_url": "https://x.com/WallStDiaries/status/2113971268986994723"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Yıllık geliri 100 milyar doları aşan Azure’un %45 büyüme hedefi, Wall Street için artık bir tavan değil zorunlu bir taban.",
+          "source_url": "https://x.com/WallStDiaries/status/2114234085140783520"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "medium",
+      "why": "Bora Özkent hissenin yılbaşından beri kredi notlarındaki bozulma nedeniyle baskılandığını söyledi.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Oracle hissesinin yılbaşından beri hep baskılanmasının sebeplerinden bir tanesi bu. Çünkü kredi notları bozuluyor.",
+          "source_url": "https://www.youtube.com/watch?v=tpnPYpggWcE"
+        }
+      ]
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar",
+      "priority": "medium",
+      "why": "jrouldz hissenin zirveden %35 düştüğünü ama temellerin çok güçlü olduğunu, bir noktada destek bulacağını yazdı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$CAT had gone parabolic for a moment there so it had to give up some gains eventually. -35% from peak now and super strong fundamentally so at some point this will find support",
+          "source_url": "https://x.com/jrouldz/status/2113989290275340354"
+        }
+      ]
+    },
+    {
+      "symbol": "CART",
+      "name": "Instacart",
+      "priority": "medium",
+      "why": "WallStDiaries, Instacart'ın olası satış seçenekleri için yatırım bankasıyla anlaştığını ve hissenin %9'un üzerinde primlendiğini aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Yaklaşık $12 milyar piyasa değerine sahip olan şirket hisseleri haberin ardından %9'un üzerinde primlendi.",
+          "source_url": "https://x.com/WallStDiaries/status/2113978818654335081"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "priority": "medium",
+      "why": "WallStDiaries, Roth Capital'e göre SpaceX'in baz istasyonu erişim hedefinin ASTS için büyük kazanç yaratacağını aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Roth Capital, bu hamlenin AST SpaceMobile, Ericsson ve Nokia için büyük bir kazanç yaratacağını savunuyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2113956167055454658"
+        }
+      ]
+    },
+    {
+      "symbol": "EWZ",
+      "name": "iShares MSCI Brezilya ETF",
+      "priority": "medium",
+      "why": "WallStDiaries, Jefferies'e göre Brezilya hisselerinin yapay zeka balonu riskine karşı güçlü bir hedge olduğunu aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Jefferies analistlerine göre Brezilya hisseleri, yapay zeka \"balonu\" riskine karşı en güçlü hedge araçlarından biri oldu.",
+          "source_url": "https://x.com/WallStDiaries/status/2114016565091787052"
+        }
+      ]
+    },
+    {
+      "symbol": "BX",
+      "name": "Blackstone",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Blackstone liderliğinde CoreWeave'e aktarılan $2,3 milyarlık fonlama, Nvidia çipleri ve müşteri sözleşmelerini teminat alan yeni bir model doğurdu.",
+          "source_url": "https://x.com/WallStDiaries/status/2114009026367193113"
+        }
+      ]
+    },
+    {
+      "symbol": "BEN",
+      "name": "Franklin Templeton",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Franklin Templeton, ABD hisse senetlerinden gelen kâr paylarını otomatik olarak Bitcoin’e yönlendiren iki yeni ETF için Nasdaq onayını aldı.",
+          "source_url": "https://x.com/WallStDiaries/status/2113998105704096074"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent'in bu hafta sonu iki videosu var. Nasdaq videosunda son iki haftadaki sert düşüşlerin yapay zeka temellerinin bozulmasından çok kaldıraçlı ve volatilite hedefli fonların zorunlu satışından kaynaklandığını savunuyor; **NVDA** gibi hisselerin temelleri iyileşirken bile düştüğünü, yarı iletkenlerin (**SOX**) ayı piyasasına yaklaştığını söylüyor. Kendi portföyünün iki hafta önceki zirveden %15-16 geri çekildiğini, yine de volatilitenin yakında durulacağını beklediğini ve düşüş öncesi satış yapamadığı için fırsat kaçırdığını kabul ediyor. **Oracle**'ın kredi notu baskısı ve **Meta**'nın ek fon ihtiyacı gibi kredi tarafındaki sıkışmanın iki hafta öncesinden farklı olmadığını da ekliyor.\n\nPazar sabahı yayımladığı ikinci videoda yapay zekanın iş ve kariyerleri nasıl etkileyeceğini Stanford'lı ekonomist Erik Brynjolfsson'ın görüşleriyle anlatıyor: gençler için işe giriş kapıları daralıyor (ABD'de 25 yaş altı işsizlik %16), yöneticilik pozisyonları daha dayanıklı, çözüm ise yapay zekayı hemen kullanmaya başlamak.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Yapay Zeka Çağında Kim Zenginleşecek, Kim İşsiz Kalacak?",
+          "url": "https://www.youtube.com/watch?v=1NtjmVj2KPw",
+          "published_at": "2026-10-25T06:30:22+00:00",
+          "summary": "Bora Özkent, yapay zekanın iş ve kariyerleri nasıl etkileyeceğini Stanford'lı ekonomist Erik Brynjolfsson'ın görüşleriyle anlatıyor. Yapay zekanın sanayi devriminden farkı, fiziksel değil bilişsel üretimi artırması ve üretim araçlarının daha fazla insana yayılması. Şu anki verilerde yapay zeka işleri henüz elinden almıyor ama gençlerin önünü kapatıyor: ABD'de 25 yaş altı işsizlik %16, genel işsizlik %4. Şirketler eskiden gençleri işe alıp usta-çırak ilişkisiyle yetiştirirken şimdi bu işleri yapay zekaya daha ucuza yaptırıyor. Yönetici pozisyonları onay gerektirdiği için daha sağlam kalıyor, ama baskı yukarı kayıyor. Bora gelecek yıl işlerin biraz daha kötüleşeceğini düşünüyor. Önerisi: yapay zekayı hemen kullanmaya başlamak, günlük işleri ona devretmek, basit yazılımlar geliştirmek ve kişisel markalaşma gibi yapay zekanın zor dokunacağı alanlarda kendini geliştirmek. Önümüzdeki yılların uyum sağlayanlar için çok iyi, sağlayamayanlar için berbat olabileceğini söylüyor.",
+          "assets": []
+        },
+        {
+          "platform": "youtube",
+          "title": "Nasdaq Neden Aniden Sert Düşüyor (ve Sonra Sert Yükseliyor?)",
+          "url": "https://www.youtube.com/watch?v=tpnPYpggWcE",
+          "published_at": "2026-10-24T13:48:40+00:00",
+          "summary": "Bora Özkent, son iki haftada Nasdaq ve yarı iletkenlerdeki yaklaşık %3'lük endeks düşüşlerinin ve bazı hisselerde %20-40'a varan geri çekilmelerin temel sorundan çok fonların zorunlu satışından kaynaklandığını savunuyor. Bilançolar ve büyüme beklentileri çok iyi; Nvidia'nın temelleri iyileşirken hisse çok sert düştü. Mekanizma üç halkalı: kaldıraçlı fonlar teminatı eriyince satmak zorunda kalıyor, volatilite hedefi aşılınca risk bütçesi nedeniyle otomatik satış geliyor, bir de açığa satışlar artıyor (Goldman Sachs verileri). MSCI ACWI'de teknolojinin payı %28 iken riski %40, çiplerin payı %13 iken riski %20. Temmuzda kaldıraçlı bir yapay zeka fonunun batmasının da piyasayı vurduğunu hatırlatıyor. Kendi portföyünün yalnızca yapay zeka donanımına yoğunlaştığını, iki hafta önceki zirveden %15-16 düştüğünü, yılbaşından beri kazancının bir ara %45-50'yi bulduğunu söylüyor. Başkasının portföyünü taklit etmeyin diyor; bakkalın işleri bozulmadıysa hisseyi saklayın, borç büyükse ya da teknik kırılma sertse dikkat edin. Volatilitenin yakında durulacağını ve eski seviyelere dönüleceğini tahmin ediyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Temellerinin sürekli iyileştiğini, cirosunun, kârının ve serbest nakit akışının büyüdüğünü ama bu hafta çok sert düştüğünü söylüyor; bunu fon satışına bağlıyor."
+            },
+            {
+              "symbol": "SOX",
+              "sentiment": "negative",
+              "note": "Yarı iletken yapay zeka hisselerinin teknik olarak ayı piyasasına çok yakın olduğunu söylüyor; çipler ACWI'de %13 paya karşılık %20 risk yaratıyor."
+            },
+            {
+              "symbol": "NDX",
+              "sentiment": "positive",
+              "note": "Düşüşü teknik buluyor, volatilitenin yakında durulacağını ve eski seviyelere dönüleceğini tahmin ediyor."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Hissenin yılbaşından beri baskılanmasının nedenlerinden birinin bozulan kredi notları olduğunu söylüyor."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Geçen haftaki bilançoda yapay zeka yatırımları için daha fazla para toplama ihtiyacını dile getirdiğini söylüyor; bunun bu kadar sert düşüşü açıklamadığını ekliyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg bu hafta sonu ağırlıklı olarak **BIST 100**'ün dolar bazlı seviyeleri üzerine eleştirilere cevap verdi. Planı net: 265-270 doları destek, 350'yi direnç görüyor; 270'ten alıp sattığını, bir sonraki alım bölgesinin 210-230 dolar olduğunu ve BIST 300 doların üzerine çıkamazsa o bölgeye inebileceğini yazıyor. Bu yıl **Akbank**, **Garanti**, **Yapı Kredi**, **Koç Holding** ve **THY**'yi desteklerde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını, kümülatifin %144 olduğunu söylüyor. Hisse fiyatındaki sert düşüşün şirketin battığı anlamına gelmediğini, TL piyasalarının portföyünün %5-10'unu bile oluşturmadığını, kalan %90'dan fazlasının global piyasalarda olduğunu ekliyor; abonelik tarafında **Bitcoin**, altın ve **Nasdaq** beklentilerini güncellediğini de duyurdu.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "BIST için dolar bazlı alım bölgesi",
+          "url": "https://x.com/heisenbergtrx/status/2114247689466503301",
+          "published_at": "2026-10-25T06:48:24.000Z",
+          "summary": "Heisenberg bir eleştiriye yanıt olarak 270 dolardan alıp sattığını, bir sonraki alım bölgesinin 210–230 dolar olduğunu ve fiyatın 270 temasından sonra %15–20 yükseldiğini yazdı.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "neutral",
+              "note": "270 dolardan alıp sattı, sonraki alım bölgesi 210–230 dolar; 30 yıldır yatay seyreden bir borsa için destekten al-dirençten sat mantığını savunuyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BIST destek ve direnç seviyeleri",
+          "url": "https://x.com/heisenbergtrx/status/2113941957856960576",
+          "published_at": "2026-10-24T10:33:32.000Z",
+          "summary": "Heisenberg, BIST'te 265-270 doları destek, 350'yi direnç olarak gördüğünü, bu sene bankalar ve büyük hisseleri desteklerde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını ve 300 doların üstüne çıkılamazsa sonraki ana desteğin 210-230 dolar olacağını yazdı.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "neutral",
+              "note": "265-270 dolar destek, 350 direnç; 300 üstüne çıkamazsa sonraki ana destek 210-230 dolar."
+            },
+            {
+              "symbol": "AKBNK",
+              "sentiment": "positive",
+              "note": "Bu sene desteklerinde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını söylüyor."
+            },
+            {
+              "symbol": "GARAN",
+              "sentiment": "positive",
+              "note": "Bu sene desteklerinde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını söylüyor."
+            },
+            {
+              "symbol": "YKBNK",
+              "sentiment": "positive",
+              "note": "Bu sene desteklerinde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını söylüyor."
+            },
+            {
+              "symbol": "KCHOL",
+              "sentiment": "positive",
+              "note": "Bu sene desteklerinde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını söylüyor."
+            },
+            {
+              "symbol": "THYAO",
+              "sentiment": "positive",
+              "note": "Bu sene desteklerinde beş kez alıp ortalama %10-20 dolar kazancıyla sattığını söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hisse fiyatı ile şirket aynı şey değil",
+          "url": "https://x.com/heisenbergtrx/status/2114234746997785009",
+          "published_at": "2026-10-25T05:56:58.000Z",
+          "summary": "Heisenberg, borsadaki sert düşüşlerin Türkiye'ye özgü olmadığını Carvana, Peloton, Beyond Meat ve Nikola gibi %95-99 düşen örneklerle anlattı; hisse %90 düşmüşse bunun otomatik olarak ucuz olmadığını ekledi.",
+          "assets": [
+            {
+              "symbol": "CVNA",
+              "sentiment": "neutral",
+              "note": "376 dolardan 3,55 dolara düşerek yaklaşık %99 kaybetti ama şirket batmadı."
+            },
+            {
+              "symbol": "PTON",
+              "sentiment": "neutral",
+              "note": "Yaklaşık %95 düşen örnekler arasında sayıldı."
+            },
+            {
+              "symbol": "BYND",
+              "sentiment": "neutral",
+              "note": "%99'un üzerinde düşen örnekler arasında sayıldı."
+            },
+            {
+              "symbol": "NKLA",
+              "sentiment": "neutral",
+              "note": "%99'un üzerinde düşen örnekler arasında sayıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Sabırlı al-sat sistemi ve portföy dağılımı",
+          "url": "https://x.com/heisenbergtrx/status/2114261306861560062",
+          "published_at": "2026-10-25T07:42:31.000Z",
+          "summary": "Heisenberg, grafik çalışmasını herkesle paylaşıp beklediğini, bu sene aynı stratejiyi 6-7 kez uyguladığını ve TL piyasalarına ayırdığı sermayenin portföyünün %5-10'unu bile oluşturmadığını, %90'dan fazlasının global piyasalarda olduğunu yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Abonelik güncellemesi",
+          "url": "https://x.com/heisenbergtrx/status/2113982099493384350",
+          "published_at": "2026-10-24T13:13:03.000Z",
+          "summary": "Heisenberg, abonelik tarafında bilançolar geldikçe şirketleri güncellediğini ve Bitcoin, altın ve Nasdaq beklentilerini yazdığını duyurdu; içerik herkese açık değil.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "Detaylı beklentisini abonelere yazdığını söyledi; içerik paylaşılmadı."
+            },
+            {
+              "symbol": "XAUUSD",
+              "sentiment": "neutral",
+              "note": "Detaylı beklentisini abonelere yazdığını söyledi; içerik paylaşılmadı."
+            },
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "Detaylı beklentisini abonelere yazdığını söyledi; içerik paylaşılmadı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": "Defiant Gatekeeper'ın haftalık değerlendirmesinde üç ana tema var. Birincisi, **Brent** petrol haftada yaklaşık %6 artıp 117 dolara çıkarken 10 yıllık ABD tahvil getirisinin 5'in altına inmesi; ona göre bu, tahvil piyasasının ekonomiye karşı bahis yapması anlamına geliyor. İkincisi, perşembe günü yarı iletken endeksinin (**SOX**) tek günde %6,7 düşmesi: **Lam Research**'ün tedarik kısıtı uyarısı ile **Meta**'nın 135-145 milyar dolarlık harcama planı ve negatif serbest nakit akışı hikâyeyi finansman sorununa çevirdi, **CoreWeave** ve **Nebius** iki haftada yaklaşık %35 düştü. Üçüncüsü, Fed'in gelecek hafta faiz artırması beklenmezken Aralık için artırım ihtimalinin %75'in üzerinde olması. Videonun sonunda Fransa'nın 10 yıllık getirisinin %5'i aşarak 2002'den beri en yüksek seviyeye çıktığını ve bunun küresel değil Fransa'ya özgü bir sorun olduğunu söylüyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "AI narrative breaking...and Europe",
+          "url": "https://www.youtube.com/watch?v=AUuFCst_Mv0",
+          "published_at": "2026-10-24T10:27:42+00:00",
+          "summary": "Defiant Gatekeeper haftalık piyasa değerlendirmesini üç başlıkta topluyor. S&P 500 haftada %0,5, Nasdaq %0,7 düştü, Dow %0,4 yükseldi; yarı iletken endeksi yaklaşık %3,2 geriledi. Brent 110'dan 117 dolara çıkarken 10 yıllık getiri 4,96%'ya inerek mart 2023'ten beri en büyük günlük düşüşünü yaptı; bunu tahvil piyasasının ekonomiye karşı bahsi olarak okuyor. Perşembe günü Philadelphia yarı iletken endeksi %6,7, Lam Research yaklaşık %12, Meta yaklaşık %7 düştü; S&P 500 ise yaklaşık %0,7 yükseldi, yani çöküş değil yapay zeka hisselerinde satış. Tetikleyiciler Lam'in tedarik kısıtı yorumu ve Meta'nın gelir beklentisini aşmasına rağmen harcama planını artırması ile eksi 2,1 milyar dolarlık serbest nakit akışı. Jensen Huang'ın sermaye talebinin sermaye bulunabilirliğinden büyük olduğu sözünü aktarıyor; CoreWeave ve Nebius iki haftada yaklaşık %35 düştü ve Anthropic halka arz değerlemesinin yaklaşık 1,5 trilyon dolara indiği söyleniyor. Yüksek getirili tahvil farkı yaklaşık %3,4, yani sistemik değil isim bazlı baskı. Fed'in gelecek haftaki toplantıda artırım ihtimali %10, Aralık için %75'in üzerinde; sesinde hafif bir ton değişikliği olabileceğini tahmin ediyor. Son bölümde Fransa 10 yıllık getirisinin %5'i aştığını, Almanya farkının 2011'den beri en geniş olduğunu ve bunun Fransa'ya özgü olduğunu söylüyor.",
+          "assets": [
+            {
+              "symbol": "SOX",
+              "sentiment": "negative",
+              "note": "Perşembe günü tek günde %6,7 düştü, hafta genelinde yaklaşık %3,2."
+            },
+            {
+              "symbol": "LRCX",
+              "sentiment": "negative",
+              "note": "Yaklaşık %12 düştü; 2027'ye girerken temiz oda ve tedarik zinciri kısıtı gördüklerini söyledi, bu bir talep değil arz sorunu ama kazançları düşürüyor."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "negative",
+              "note": "Yaklaşık %7 düştü; gelir 64,6 milyar dolarla beklentiyi aştı ama 2026 harcama alt sınırı 135-145 milyar dolara çıktı ve serbest nakit akışı eksi 2,1 milyar dolar."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "negative",
+              "note": "Nebius ile birlikte iki haftada yaklaşık %35 düştü."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "negative",
+              "note": "CoreWeave ile birlikte iki haftada yaklaşık %35 düştü."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Jensen Huang'ın sermaye talebinin bulunabilirliğinden çok büyük olduğu sözünü aktardı."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "positive",
+              "note": "Haftada yaklaşık %6 artışla 117 dolar, 29 Nisan'dan beri en yüksek; WTI 103 dolar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": "Berk Dinçtürk'ün kanalındaki 22 Ekim yayınında Merkez Bankası'nın 100 baz puanlık faiz indirimi temkinli bulundu; Aralık'ta bir 100 baz puan daha bekleniyor ama talep soğuduğu için büyümeye etkisinin sınırlı olacağı söyleniyor. Borsa İstanbul günü %3,08 düşüşle 11.220'den kapattı; yayında fon krizinin yarattığı likidite sıkışıklığı ve yabancı satışları nedeniyle toparlanma için 2027 başına kadar beklenebileceği konuşuldu. ABD tarafında Berk balon endişelerinin her üç ayda bir geldiğini, **Broadcom** CEO'sunun sözlerinin yanlış okunduğunu ve güçlü teknoloji için her düzeltmenin alım fırsatı olduğunu savunuyor. Kendi eklediği isimler arasında **Energy Fuels** (uranyum, nadir toprak), **Tesla** (Optimus teması) ve **SpaceX** var; **CoreWeave** hissesini beğenirken tahvilini ancak portföyün %3-5'iyle denenebilir buluyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Küresel Piyasalar - Berk Dinçtürk & Ferhat Yükseltürk | 22 Ekim 2026",
+          "url": "https://www.youtube.com/watch?v=_hL2hln5mOQ",
+          "published_at": "2026-10-24T08:09:26.960Z",
+          "summary": "Bloomberg HT tarzı yayında önce günün haberleri veriliyor: tasfiyesine karar verilen yatırım fonları yasası kabul edildi, TCMB ocaktan bu yana ilk kez 100 baz puan indirim yaptı, brüt rezervler 169,1 milyar dolara, net rezervler 39,3 milyar dolara geriledi ve yabancılar üçüncü haftada hisse sattı. Borsa İstanbul %3,08 düşüşle 11.220'den kapattı; Brent 113,15 dolar, ons altın 4.026 dolar (%2,75 düşüş), gümüş %5,81 düşüşle 54,60 dolar, Bitcoin 81.255 dolar. Konuklar faiz kararını temkinli bulup talepte net soğuma görüyor, Aralık'ta 100 baz puan daha indirim bekliyor ve kredi büyüme limitlerinde gevşeme gelmedikçe büyümede toparlanma görmüyor. Borsa İstanbul için yeni trend başlatmak adına likidite girişi gerektiğini, bunun 2027 başından önce zor göründüğünü söylüyorlar. ABD'de Berk balon haberlerinin her üç ayda bir geldiğini, Broadcom CEO'sunun sözlerinin yanlış okunduğunu söylüyor; borçlu, nakit üretmeyen şirketler sorun yaşar ama güçlü teknoloji için her düzeltme alım fırsatı. Energy Fuels'ı uranyum, nadir toprak ve Wacker birleşmesi gerekçesiyle artırdığını, SpaceX'i 5-10 yıllık doğru tema bulduğunu ve Tesla'da Optimus temasını sürdürdüğünü anlatıyor. CoreWeave'i batmaz bulup hissesini güzel, %15 getirili tahvilini ise portföyün %3-5'iyle denenebilir buluyor; büyük tutarlar için Türk bankalarının dolar cinsi perpetual ihraçlarındaki %10'a yakın getiriyi öneriyor.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "negative",
+              "note": "Günü %3,08 düşüşle 11.220'den kapattı; fon krizi nedeniyle likidite çıkışı ve yabancı satışı sürüyor, toparlanma için likidite girişi gerekiyor."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "CEO'sunun OpenAI kârı üzerine sözlerinin yanlış okunduğunu, bunun balon kanıtı olmadığını söylüyor."
+            },
+            {
+              "symbol": "TSLA",
+              "sentiment": "positive",
+              "note": "Kâr açıklaması beklentilerden iyi geldi; asıl hikâyenin 2027'ye kalan Optimus olduğunu, SpaceX ile birleşme ihtimali olduğunu söylüyor."
+            },
+            {
+              "symbol": "UUUU",
+              "sentiment": "positive",
+              "note": "Hisseyi artırdığını söylüyor: ABD'nin 2035'e kadar 90.000 ton uranyum alması, Pentagon'un Çin menşeli mıknatısları bırakması ve Wacker birleşmesi gerekçe; hisse seyreltme riskini uzun vadeli görüyor."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "positive",
+              "note": "Batmaz diyor (AMD, Nvidia, Google, Microsoft ortaktır); hisseyi güzel buluyor, riskler 2028 sonrası borçlanmada; %15 getirili tahvili için portföyün %3-5'i."
+            },
+            {
+              "symbol": "SPACEX",
+              "sentiment": "positive",
+              "note": "5-10 yıl vadeli yatırım için Amerika'daki en doğru temalardan biri; son bilançoda olağanüstü rakamlar açıklandı."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "Yayın sırasında %3,98 geri çekilmeyle 81.255 dolardan işlem görüyordu."
+            },
+            {
+              "symbol": "XAUUSD",
+              "sentiment": "neutral",
+              "note": "Ons altın 4.026,54 dolarda, %2,75 düşüşte; gümüş %5,81 düşüşle 54,60 dolar."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "113,15 dolarda, gün içinde %3,98 yukarıda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser, Türkiye ekonomisinin yapay zeka, uzay, ilaç Ar-Ge ve finans merkezi gibi alanlarda yer almadığı için küresel değerini kaybettiğini, **Borsa İstanbul**'un da 160-320 dolar bandında yerel oyuncularla git-gel yapmaya devam edeceğini yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Türkiye ekonomisi ve borsa",
+          "url": "https://x.com/ulkser/status/2113905512244715571",
+          "published_at": "2026-10-24T08:08:43.000Z",
+          "summary": "ulkser, Türkiye'nin yapay zeka, uzay, ilaç Ar-Ge ve finans merkezi alanlarında yer almadığı için değerini kaybettiğini, borsanın 160-320 dolar arasında git-gel yapacağını yazdı.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "negative",
+              "note": "Borsanın 160–320 dolar arasında yerel oyuncularla git-gel yapmaya devam edeceğini söylüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08, BofA analisti Justin Post'un **Meta** için 'Al' tavsiyesini koruyup hedef fiyatı 810'dan 845 dolara yükselttiğini paylaştı; gerekçe yapay zekanın reklam gelirine katkısı ve beklentileri aşan üçüncü çeyrek geliri.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "BofA Meta hedef fiyatını 845 dolara yükseltti",
+          "url": "https://x.com/korkmazali08/status/2114138132170023380",
+          "published_at": "2026-10-24T23:33:04.000Z",
+          "summary": "BofA analisti Justin Post, Meta için Al tavsiyesini koruyup hedef fiyatı 810'dan 845 dolara yükseltti; Muse'un 1 milyar kullanıcı hedefi ve yapay zeka harcamalarının 2027'ye doğru gelire dönüşmesi hissenin daha yüksek çarpanla işlem görmesini destekleyebilir.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "BofA hedef fiyatı 845 dolara çıkardı; üçüncü çeyrek geliri beklentiyi aştı, dördüncü çeyrek öngörüsü güçlü, harcamalar artsa da 2027'ye doğru gelire dönüşüm netleşebilir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries bir günde yapay zeka finansmanından petrole uzanan haber akışı paylaştı. **Bitcoin** 81.000 dolara inip 50 günlük ortalamanın altına düşerken spot ETF'lerden rekor 636 milyon dolarlık çıkış yaşandı. **Brent** altı ayın zirvesinde, ABD'de Dow haftayı 600 puandan fazla düşüşle kapattı. Siber güvenlikte **Palo Alto** ve **CrowdStrike** haftalık %11 yükselirken **Amazon**'un bulut kapasitesinin 2027 sonuna kadar dolduğu aktarıldı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bitcoin sert düzeltme",
+          "url": "https://x.com/WallStDiaries/status/2113997443624808637",
+          "published_at": "2026-10-24T14:14:01.000Z",
+          "summary": "Bitcoin 81.000 dolara gerileyerek 50 günlük ortalamanın altına indi; spot ETF'lerden bir günde 636 milyon dolarlık rekor çıkış oldu ve vadelide 281 milyon dolarlık uzun pozisyon silindi.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "negative",
+              "note": "81.000 dolar, 50 günlük ortalamanın altında; teknik görünüm zayıfladı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Petrol şoku ve satış dalgası",
+          "url": "https://x.com/WallStDiaries/status/2113941069050352116",
+          "published_at": "2026-10-24T10:30:00.000Z",
+          "summary": "Wall Street haftayı sert kayıpla tamamladı: Dow 600 puandan fazla geriledi ve Brent'in nisandan beri en yüksek seviyesi Fed öncesi enflasyon endişelerini yeniden tetikledi.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Nisandan bu yana en yüksek seviyede; Fed öncesi enflasyon endişesini tetikledi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Brent vadeli ile fiziki piyasa makası",
+          "url": "https://x.com/WallStDiaries/status/2113963731524760016",
+          "published_at": "2026-10-24T12:00:03.000Z",
+          "summary": "Brent vadeli kontratları altı ayın zirvesine çıkarken Hürmüz Boğazı dışındaki gemiden gemiye transferler ve Asyalı alıcılara indirimle fiziki fiyatlar düşüyor.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Vadeliler risk primini fiyatlıyor, fiziki piyasada belirgin düşüş var."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "İran istihbarat alarmı petrolü tırmandırıyor",
+          "url": "https://x.com/WallStDiaries/status/2113996879281230285",
+          "published_at": "2026-10-24T14:11:46.000Z",
+          "summary": "ABD istihbaratı İran'ın bölgedeki Amerikalı diplomatlara yönelik suikast planlarında ileri aşamaya geçtiğini bildirdi ve Washington dört ülkede elçilik personelini tahliye etmeye başladı; jeopolitik risk petrolü yukarı itiyor.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "positive",
+              "note": "Jeopolitik riskin petrolü tırmandırdığını söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Çip teminatlı kredi dalgası",
+          "url": "https://x.com/WallStDiaries/status/2114009026367193113",
+          "published_at": "2026-10-24T15:00:02.000Z",
+          "summary": "Blackstone liderliğinde CoreWeave'e aktarılan 2,3 milyar dolarlık fonlama, Nvidia çiplerini ve müşteri sözleşmelerini teminat alan yeni bir modeli doğurdu ve 1 trilyon dolarlık bir borçlanma pazarını tetikliyor.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "2,3 milyar dolarlık çip teminatlı fonlama aldı."
+            },
+            {
+              "symbol": "BX",
+              "sentiment": "neutral",
+              "note": "Fonlamaya liderlik etti."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Siber güvenlik hisseleri yükseldi",
+          "url": "https://x.com/WallStDiaries/status/2114001468219150725",
+          "published_at": "2026-10-24T14:30:00.000Z",
+          "summary": "Web sitelerinin yüzde 70'ini etkileyen kritik bir PHP açığı ve yapay zeka destekli saldırı riskleri sonrası Palo Alto ve CrowdStrike haftada %11, Okta %14 yükseldi.",
+          "assets": [
+            {
+              "symbol": "PANW",
+              "sentiment": "positive",
+              "note": "Haftalık %11 yükseldi; kurumlar bütçeyi savunmaya kaydırıyor."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "positive",
+              "note": "Haftalık %11 yükseldi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Amazon bulut kapasitesi 2027'ye kadar tükendi",
+          "url": "https://x.com/WallStDiaries/status/2113971268986994723",
+          "published_at": "2026-10-24T12:30:00.000Z",
+          "summary": "Andy Jassy yapay zeka talebinin arzı aştığını ve bulut kapasitesinin 2027 sonuna kadar büyük ölçüde tükendiğini söyledi; yıllık 220 milyar dolara ulaşan harcamalara rağmen darboğaz sürüyor.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "Bulut kapasitesi 2027 sonuna kadar büyük ölçüde dolu; 2028 kapasitesi de dolmaya başlıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft'un 50 milyar dolarlık yapay zeka bahsi",
+          "url": "https://x.com/WallStDiaries/status/2114234085140783520",
+          "published_at": "2026-10-25T05:54:21.000Z",
+          "summary": "Microsoft çeyreklik 50 milyar doları aşan yapay zeka harcamalarıyla serbest nakit akışını daraltırken Azure'un %45 büyüme hedefi zorunlu bir taban sayılıyor; 678 milyar dolarlık sipariş kuyruğu nefes aldırıyor.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Azure %45 büyüme hedefi taban; 678 milyar dolarlık sipariş kuyruğu var."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Devlerin yapay zeka çıkmazı",
+          "url": "https://x.com/WallStDiaries/status/2113948619099529549",
+          "published_at": "2026-10-24T11:00:00.000Z",
+          "summary": "Musk SpaceX ve Tesla birleşmesini masaya yatırırken asıl engelin enerji ve soğutma olduğunu söyledi; Jensen Huang çiplerin finansal teminat sayılmasını, Zuckerberg işlem gücü kıtlığını dile getirdi.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "SpaceX ile birleşme resmen gündemde; engel çip değil enerji ve soğutma."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Instacart satış masası",
+          "url": "https://x.com/WallStDiaries/status/2113978818654335081",
+          "published_at": "2026-10-24T13:00:00.000Z",
+          "summary": "Instacart olası satış seçenekleri için yatırım bankasıyla anlaştı, Uber ve DoorDash ile ilk temaslar kuruldu; hisse %9'un üzerinde primlendi ve 16-17 milyar dolarlık değerleme konuşuluyor.",
+          "assets": [
+            {
+              "symbol": "CART",
+              "sentiment": "positive",
+              "note": "Hisse %9'un üzerinde yükseldi; 16-17 milyar dolarlık değerleme konuşuluyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX baz istasyonu hedefi ve ASTS",
+          "url": "https://x.com/WallStDiaries/status/2113956167055454658",
+          "published_at": "2026-10-24T11:30:00.000Z",
+          "summary": "SpaceX'in ABD genelinde 80 bin baz istasyonu sahasına erişim hedefi telekom dengelerini değiştiriyor; Roth Capital bunun AST SpaceMobile, Ericsson ve Nokia için büyük kazanç olacağını savunuyor.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "positive",
+              "note": "Roth Capital'e göre büyük kazançlı çıkacak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Brezilya borsası yapay zeka riskine karşı sığınak",
+          "url": "https://x.com/WallStDiaries/status/2114016565091787052",
+          "published_at": "2026-10-24T15:30:00.000Z",
+          "summary": "Jefferies'e göre Brezilya hisseleri yapay zeka balonu riskine karşı en güçlü hedge araçlarından biri oldu; ucuz çarpanlar ve emtia ağırlığı sermayeyi çekiyor.",
+          "assets": [
+            {
+              "symbol": "EWZ",
+              "sentiment": "positive",
+              "note": "Jefferies'e göre yapay zeka balonuna karşı en güçlü hedge'lerden biri."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Temettüleri Bitcoin'e çeviren ETF'ler",
+          "url": "https://x.com/WallStDiaries/status/2113998105704096074",
+          "published_at": "2026-10-24T14:16:39.000Z",
+          "summary": "Franklin Templeton, ABD hisse temettülerini otomatik olarak Bitcoin'e yönlendiren FBEQ ve FIBT kodlu iki ETF için Nasdaq onayı aldı; portföyün %95'i hissede, %5'i kriptoda.",
+          "assets": [
+            {
+              "symbol": "BEN",
+              "sentiment": "neutral",
+              "note": "İki yeni ETF için Nasdaq onayı aldı."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "ETF'lerde portföyün %5'i kripto varlıkta tutulacak."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu, tasfiye işleri bitene kadar **BIST** hakkında herkese açık yorum yapmayacağını, kendisinin **Nasdaq** yorumu yaptığını yazdı. Nasdaq videosunun başlığı 'Büyük Yükseliş Öncesi Son Tuzak', bir diğer video ise kripto üzerine.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nasdaq videosu",
+          "url": "https://x.com/TuncSatiroglu/status/2113965130551799910",
+          "published_at": "2026-10-24T12:05:37.000Z",
+          "summary": "Tunç Şatıroğlu 'Nasdaq'ta Büyük Yükseliş Öncesi Son Tuzak!' başlıklı videosunu paylaştı; içerik tweet'te yok.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "positive",
+              "note": "Videonun başlığı büyük yükseliş öncesi son tuzaktan söz ediyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kripto videosu",
+          "url": "https://x.com/TuncSatiroglu/status/2113956985897103423",
+          "published_at": "2026-10-24T11:33:15.000Z",
+          "summary": "Tunç Şatıroğlu 'Kriptolarda Gergin Bekleyiş Haftaya Değişecek mi?' başlıklı videosunu paylaştı; içerik tweet'te yok.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "BIST hakkında yorum yok",
+          "url": "https://x.com/TuncSatiroglu/status/2113928980260651157",
+          "published_at": "2026-10-24T09:41:58.000Z",
+          "summary": "Tunç Şatıroğlu, tasfiye işleri bitene kadar BIST hakkında herkese açık yorumu veya videosu olmayacağını, BIST için Hakan Ergin'i takip etmeyi önerdi.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "neutral",
+              "note": "Yorum yapmayacağını söyledi; Hakan Ergin'in haftalık grafiğinde endeksler %4-5 kayıpla kapanan bir hafta görünüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "MrTradeer **Bitcoin**'de 87 bin dolardan düşüş öncesinde spotları sattığını, scalp işlemleri yalnızca abonelerle paylaştığını yazdı. Laboratuvarda yapay altın üretimi haberine karşı, bunun atom düzeyinde, radyoaktif ve çok pahalı olduğunu, **altın** piyasasını ilgilendirmediğini söyledi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bitcoin spot satışı ve scalp işlemleri",
+          "url": "https://x.com/MrTradeer/status/2114176492364030154",
+          "published_at": "2026-10-25T02:05:29.000Z",
+          "summary": "MrTradeer, 87 binden düşüşü paylaştığını ve spotları sattığını söylediğini, kısa scalp analizlerinin yalnızca abonelerle olduğunu yazdı.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "negative",
+              "note": "87 bin dolardan düşüşü paylaştığını ve spotları sattığını söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Laboratuvarda altın üretimi haberi",
+          "url": "https://x.com/MrTradeer/status/2114015188768666094",
+          "published_at": "2026-10-24T15:24:32.000Z",
+          "summary": "MrTradeer, cıvayı altına dönüştürme haberinin her yıl gündeme geldiğini, ürünün radyoaktif ve normal altından çok pahalı olacağını, atomik ölçekte kalacağını yazdı.",
+          "assets": [
+            {
+              "symbol": "XAUUSD",
+              "sentiment": "neutral",
+              "note": "Laboratuvar altınının piyasaya etkisi olmayacağını söylüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine, **Nvidia** CEO'su Jensen Huang'ın GTC'de yapay zeka veri merkezlerinin optik ağlara geçişinin optik hacmini 15 kat artırabileceğini söylediğini aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Jensen Huang: ölçeklenme optik olacak",
+          "url": "https://x.com/wallstengine/status/2114104212611309753",
+          "published_at": "2026-10-24T21:18:17.000Z",
+          "summary": "Jensen Huang, yapay zeka veri merkezlerinde optik ağa geçişle optik hacminin 15 kat artabileceğini, gereken anahtar sayısının artacağını ve optik miktarının birkaç kat büyüklük sırası artacağını söyledi.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Optik ağa geçişin optik hacmini 15 kat artırabileceği vurgulandı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz, **Caterpillar**'ın zirveden %35 düştüğünü ama temellerin çok güçlü olduğunu, bir noktada destek bulacağını yazdı. **CrowdStrike**, **Cloudflare** ve **Palantir** pozisyonlarını azaltmaya başladığını, vergi ödemekten yorulduğunu söyledi. Aşırı yoğunlaşmış portföylerin son dönemde çeşitlendirme dersi aldığını da ekledi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Caterpillar zirveden %35 geride",
+          "url": "https://x.com/jrouldz/status/2113989290275340354",
+          "published_at": "2026-10-24T13:41:37.000Z",
+          "summary": "jrouldz, Caterpillar'ın bir ara parabolik gittiğini, zirveden %35 düştüğünü, temellerin çok güçlü olduğunu ve yeni çarpan üzerinde anlaşılınca destek bulacağını yazdı.",
+          "assets": [
+            {
+              "symbol": "CAT",
+              "sentiment": "positive",
+              "note": "Zirveden %35 düştü, temelleri çok güçlü; bir noktada destek bulacak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Pozisyon azaltma ve yoğunlaşma",
+          "url": "https://x.com/jrouldz/status/2114018201054876006",
+          "published_at": "2026-10-24T15:36:30.000Z",
+          "summary": "jrouldz, CrowdStrike, Cloudflare ve Palantir pozisyonlarını azaltmaya başladığını ve vergi ödemekten yorulduğunu yazdı; ayrıca adını vermediği bir hisse portföyünün %16'sına yaklaşmış durumda.",
+          "assets": [
+            {
+              "symbol": "CRWD",
+              "sentiment": "negative",
+              "note": "Pozisyonunu azaltmaya başladı."
+            },
+            {
+              "symbol": "NET",
+              "sentiment": "negative",
+              "note": "Pozisyonunu azaltmaya başladı."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "negative",
+              "note": "Pozisyonunu azaltmaya başladı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Çeşitlendirme dersi",
+          "url": "https://x.com/jrouldz/status/2114034861941891496",
+          "published_at": "2026-10-24T16:42:42.000Z",
+          "summary": "jrouldz, aşırı yoğunlaşmış yatırımcıların son zamanlarda çeşitlendirme konusunda önemli dersler aldığını yazdı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Portföyün en büyük kalemi (%18,8) ve tek isim riski taşıyor; fintech olarak faiz ve kredi koşullarına duyarlı. Bugün kaynaklarda bahsi geçmedi, ama 10 yıllık getirinin %5 civarında ve Aralık artırım ihtimalinin yüksek olması ağırlığı izlemeyi gerektiriyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Portföyün en büyük kalemi; tek isim yoğunlaşması yüksek.",
+          "Defiant Gatekeeper'a göre Aralık'ta faiz artırım ihtimali %75'in üzerinde; bu faiz duyarlı hisseler için risk.",
+          "Bugün kaynaklarda SoFi için olumsuz ya da olumlu yeni bir veri yok."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [
+          {
+            "person": "Heisenberg",
+            "sentiment": "neutral",
+            "quote": "270'ten alıp sattığımı, bir sonraki alım bölgemin de 210–230 olduğunu açıkça yazmışım.",
+            "source_url": "https://x.com/heisenbergtrx/status/2114247689466503301"
+          },
+          {
+            "person": "Berk Dinçtürk",
+            "sentiment": "negative",
+            "quote": "Yeni bir trend başlatmak için neye ihtiyacımız var? Bizim likiditeye ihtiyacımız var.",
+            "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+          },
+          {
+            "person": "ulkser",
+            "sentiment": "negative",
+            "quote": "Borsasi da 160 320 usd arasi yerel oyuncularla git gel yapmaya devam edecek",
+            "source_url": "https://x.com/ulkser/status/2113905512244715571"
+          }
+        ],
+        "action": "hold",
+        "why": "Heisenberg'e göre bir sonraki alım bölgesi dolar bazında 210–230; Berk Dinçtürk'ün yayını likidite gelmeden toparlanma görmüyor.",
+        "opinion": "Bugünkü kaynaklar yön konusunda ayrışıyor: Heisenberg destek bölgesine bekliyor, yayında likidite ve yabancı satışı vurgulanıyor. %12,9 ağırlıkla Türkiye riskini taşıyorsun; faiz indirimi döngüsü destekleyici, ama fon krizinin likidite etkisi sürüyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Berk Dinçtürk'ün yayınında Aralık'ta 100 baz puan daha indirim bekleniyor; bu destekleyici.",
+          "Aynı yayında yabancılar hisse satışını üçüncü haftaya taşıdı ve likidite girişi 2027 başından önce zor görünüyor.",
+          "Heisenberg'e göre sonraki ana destek 210–230 dolar; bu seviye gelmeden ekleme için acele etmeye gerek yok."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [
+          {
+            "person": "Berk Dinçtürk",
+            "sentiment": "positive",
+            "quote": "Aslında adam böyle bir şey söylemiyor. Bu açıklamalarından sadece bir kesit.",
+            "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+          }
+        ],
+        "action": "hold",
+        "why": "Berk Dinçtürk'e göre CEO'nun sözleri yanlış okundu ve teknolojide her düzeltme alım fırsatı; somut seviye ya da tarih yok.",
+        "opinion": "Yarı iletken satışının tam ortasında %12,9 ağırlıkla Meta ve diğer yapay zeka isimleriyle yüksek korelasyonlu. Bora Özkent düşüşü teknik buluyor, Defiant Gatekeeper ise finansman ve tedarik kısıtını riskli görüyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Bora Özkent'e göre düşüş temel bozulmasından çok fonların zorunlu satışı.",
+          "Defiant Gatekeeper'a göre yarı iletken endeksi perşembe %6,7 düştü; yapay zeka finansmanı kırılgan.",
+          "Portföyde Meta ve diğer yapay zeka isimleriyle birlikte hareket ediyor; yeni ekleme yoğunlaşmayı artırır."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "BofA analisti Justin Post, “Al” tavsiyesini koruyarak hedef fiyatını $810’dan $845’e yükseltti.",
+            "source_url": "https://x.com/korkmazali08/status/2114138132170023380"
+          },
+          {
+            "person": "Defiant Gatekeeper",
+            "sentiment": "negative",
+            "quote": "Meta gelir beklentisini aştı ama 2026 sermaye harcaması alt sınırını 135-145 milyar dolara yükseltti ve çeyreklik serbest nakit akışı eksi 2,1 milyar dolar oldu.",
+            "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+          }
+        ],
+        "action": "hold",
+        "why": "BofA'nın 845 dolarlık hedefi (korkmazali08 aktarımı) ile Defiant Gatekeeper'ın harcama ve negatif nakit akışı uyarısı çelişiyor; net sinyal yok.",
+        "opinion": "Bilanço sonrası düşüşün nedeni gelir değil, 135-145 milyar dolarlık harcama ve negatif nakit akışı; yani hikâye finansmana kaydı. %12,8 ağırlıkla izlenmesi gereken şey Muse ve yapay zeka yatırımlarının 2027'ye doğru gelire dönüşüp dönüşmediği.",
+        "ai_action": "hold",
+        "ai_points": [
+          "BofA hedef fiyatı 845 dolara yükseltti; yapay zekanın reklam gelirine katkısı güçlü.",
+          "Çeyreklik serbest nakit akışı eksi 2,1 milyar dolar; harcama alt sınırı yükseldi.",
+          "Defiant Gatekeeper'a göre hisse perşembe yaklaşık %7 düştü; satış bilanço sonrası finansman endişesiyle geldi."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer enerji teması Berk Dinçtürk'ün yayınında uranyum üzerinden geçti ama BWX'ten bahsedilmedi. %10,5 ağırlıkla yapay zeka satışından görece bağımsız bir savunma ve nükleer kalemi; asıl risk değerleme ve sözleşme akışı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Berk Dinçtürk'e göre ABD'nin 2035'e kadar 90.000 ton uranyum alması gerekiyor; nükleer teması destekleyici.",
+          "Yapay zeka hisselerindeki satıştan farklı bir kaynak olduğu için portföyü dengeliyor.",
+          "Bugün kaynaklarda BWX'e dair doğrudan veri yok."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Reklam gelirine bağlı yüksek beta bir isim; BofA'nın yapay zekanın Meta reklam gelirine katkısı vurgusu sektör için olumlu okunabilir, ama piyasa dalgalanmasında sert hareket eder. %9,4 ağırlıkla yapay zeka satışına duyarlı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Meta'nın reklam geliri beklentiyi aştı (korkmazali08 aktarımı); sektör için olumlu.",
+          "Piyasa dalgalanması arttığında yüksek beta hisseler daha sert düşer."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Bugün kaynaklarda geçmedi. %9,4 ağırlıkla yapay zeka donanımı satışından görece uzak, abonelik gelirine dayalı bir kalem; portföyün teknoloji yoğunluğunu dengeliyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Yapay zeka donanımı satışıyla doğrudan bağlantısı düşük.",
+          "Bugün kaynaklarda Netflix için olumlu ya da olumsuz bir veri yok."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "Defiant Gatekeeper",
+            "sentiment": "neutral",
+            "quote": "10 yıllık tahvil getirisi düşmeye devam ediyor ve şu anda %5'in altında.",
+            "source_url": "https://www.youtube.com/watch?v=AUuFCst_Mv0"
+          }
+        ],
+        "action": "hold",
+        "why": "Defiant Gatekeeper'a göre getiri %4,96'ya indi ama Aralık'ta artırım ihtimali %75'in üzerinde; net sinyal yok.",
+        "opinion": "Uzun vadeli ABD tahvili ekonomi zayıflarsa kazanır, petrolün tetiklediği enflasyon ve Fed artırımı yaşanırsa kaybeder; bugün kaynaklar iki yönü de gösteriyor. %8 ağırlıkla hisse ağırlıklı portföyde dengeleyici rolü sürüyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Defiant Gatekeeper'a göre getiri düşüyor çünkü tahvil piyasası ekonomiye karşı bahis yapıyor; bu fiyatı destekler.",
+          "Brent'in 117 dolara çıkması ve Aralık artırım ihtimali uzun vadeli tahvil için risk.",
+          "Hisse düşüşlerine karşı doğal bir denge sağlıyor."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Veri merkezi elektrik altyapısı teması; WallStDiaries'in aktardığı Amazon bulut kapasitesinin 2027'ye kadar dolu olması bu yöndeki talebi destekliyor. %5,3 ağırlıkla küçük pozisyon; yapay zeka satışında duyarlı kalabilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Yapay zeka altyapı talebi güçlü: Amazon kapasitesi 2027 sonuna kadar dolu (WallStDiaries).",
+          "Defiant Gatekeeper'a göre yapay zeka hisselerindeki satış sürüyor; küçük bir pozisyon olarak riski sınırlı."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "UUUU",
+        "name": "Energy Fuels",
+        "why": "Berk Dinçtürk yayında hisseyi artırdığını söyledi: ABD'nin 2035'e kadar 90.000 ton uranyum alması gerekiyor, Pentagon 2027 başından itibaren Çin menşeli mıknatısları alamayacak ve Wacker ile birleşme 2027 başında bekleniyor.",
+        "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+      },
+      {
+        "symbol": "CRWV",
+        "name": "CoreWeave",
+        "why": "Berk Dinçtürk batmaz diyerek hisseyi güzel buluyor (ortakları AMD, Nvidia, Google, Microsoft), %15 getirili tahvilini ise portföyün %3-5'iyle denenebilir görüyor; Defiant Gatekeeper iki haftada %35 düşüş uyarısı yapıyor.",
+        "source_url": "https://www.youtube.com/watch?v=_hL2hln5mOQ"
+      }
+    ]
+  }
+}
