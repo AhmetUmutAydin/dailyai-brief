@@ -1,0 +1,1295 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T08:13:35.855Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Lula re-elected in Brazil, EWZ falls 20%",
+      "person": "WallStDiaries",
+      "why": "According to WallStDiaries, Lula won a fourth term with 51.79%; markets that had priced a right-wing win closed positions and EWZ fell about 20%.",
+      "source_url": "https://x.com/WallStDiaries/status/2114560950250446993"
+    },
+    {
+      "title": "Musk: neoclouds will not find debt, mergers and bankruptcies ahead",
+      "person": "ulkser",
+      "why": "ulkser reads Musk's 'stranded compute' message as heavily indebted neoclouds being unable to refinance; the sector is already down 65%, he holds WULF and is considering a first tranche of NBIS if it falls a bit more.",
+      "source_url": "https://x.com/ulkser/status/2114456455986442675"
+    },
+    {
+      "title": "Fed set to hold rates at 3.75-4.00% this week",
+      "person": "WallStDiaries",
+      "why": "According to WallStDiaries, Fed officials' remarks point to a hold and markets price a 90% probability; attention is on December signals.",
+      "source_url": "https://x.com/WallStDiaries/status/2114610392987242644"
+    },
+    {
+      "title": "Nvidia lowers Rubin HBM4 speed requirement to 9.6 Gbps",
+      "person": "Ahmet Sunelcan",
+      "why": "Per Ahmet Sunelcan, pin speed falling from 11.7 to 9.6 Gbps (~18%) cuts per-GPU bandwidth from ~22 to ~19.7 TB/s; it eases volume and qualification pressure for SK hynix and Micron.",
+      "source_url": "https://x.com/AhmetSunelcan1/status/2114507857500491829"
+    },
+    {
+      "title": "BIST stalls at 200-week average, 210-230 dollar zone in focus",
+      "person": "Heisenberg",
+      "why": "Heisenberg writes that he sold at 270 in dollar terms, price cannot get through the 200-week moving average, and failing that a drop toward the 210-230 dollar zone is possible.",
+      "source_url": "https://x.com/heisenbergtrx/status/2114313550868980009"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Fed decision and inflation",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Fed officials signal rates will be held at 3.75-4.00% at this week's FOMC; markets price a 90% probability.",
+          "quote": "Markets price a 90% probability of a hold, with attention on December signals.",
+          "source_url": "https://x.com/WallStDiaries/status/2114610392987242644"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "If oil stays high inflation pressure may persist and make Fed cuts harder; oil, bond yields and consumer spending are what to watch.",
+          "quote": "If oil stays high, inflation pressure may persist, Fed rate cuts may become harder and corporate profit margins may stay under pressure.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2114432406203609323"
+        }
+      ]
+    },
+    {
+      "topic": "Brazil election and market reaction",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Brazilian assets sold off hard after Lula's surprise win; the real lost 10% in futures and a circuit breaker became likelier.",
+          "quote": "A sharp selloff in Brazilian assets began after Lula's surprise victory.",
+          "source_url": "https://x.com/WallStDiaries/status/2114620545836720273"
+        },
+        {
+          "person": "Heisenberg",
+          "view": "Shared the report of Brazil's stock market opening down 19.5% as a 'live example for those saying it doesn't happen in any other country'.",
+          "quote": "A live example for those who say it doesn't happen anywhere else",
+          "source_url": "https://x.com/heisenbergtrx/status/2114597583251276166"
+        }
+      ]
+    },
+    {
+      "topic": "AI data center financing and neoclouds",
+      "views": [
+        {
+          "person": "ulkser",
+          "view": "Musk's message means debt-funded neoclouds will not find financing at current rates and will change hands; a meaningful sector rally is hard.",
+          "quote": "neoclouds, especially heavily indebted ones or those needing debt to build capacity, will not be able to find this debt at the current rates.",
+          "source_url": "https://x.com/ulkser/status/2114456455986442675"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Everyone is misreading Musk: GPUs are installed faster than power infrastructure so idle capacity appears; that is a positive supply constraint for neoclouds with power ready.",
+          "quote": "So it points to a supply constraint that can keep GPU rental prices high for providers whose power is ready.",
+          "source_url": "https://x.com/cevikfinance/status/2114406718356566309"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Musk is clearly negative on neoclouds, with 200+ expected to be culled, but financially strong names like Nebius should be unaffected.",
+          "quote": "Financially strong stocks like Nbis should not be affected",
+          "source_url": "https://x.com/korkmazali08/status/2114522288955806198"
+        }
+      ]
+    },
+    {
+      "topic": "Market breadth and leadership",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Per Michael Burry, 55% of S&P 500 stocks trade at least 20% below 10-year highs; he expects a deep rotation rather than a crash.",
+          "quote": "Burry, stressing that 55% of S&P 500 stocks trade at least 20% below their 10-year highs",
+          "source_url": "https://x.com/WallStDiaries/status/2114386506898944092"
+        },
+        {
+          "person": "jrouldz",
+          "view": "Investors pay Apple a premium for the predictability of future cash flows; leveraged build-out names were hit hardest.",
+          "quote": "investors above all else are rewarding confidence in future cash flows",
+          "source_url": "https://x.com/jrouldz/status/2114407822439882868"
+        }
+      ]
+    },
+    {
+      "topic": "Chinese yuan",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "The yuan is at 6.67, its strongest in four years on strong exports and a weak dollar; the PBOC is using its fixing to slow the appreciation.",
+          "quote": "The yuan reached 6.67 against the dollar, its strongest level in four years, on strong exports and global dollar weakness.",
+          "source_url": "https://x.com/WallStDiaries/status/2114617488776261816"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "NBIS",
+      "name": "Nebius",
+      "priority": "high",
+      "why": "Several people singled it out for financial strength; ulkser gave a concrete buy condition.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "If $NBIS takes a bit more beating I am considering buying the first tranche",
+          "source_url": "https://x.com/ulkser/status/2114456455986442675"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Financially strong stocks like Nbis should not be affected",
+          "source_url": "https://x.com/korkmazali08/status/2114522288955806198"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Not a bad thing, on the contrary it is positive for neocloud companies with power infrastructure in place.",
+          "source_url": "https://x.com/cevikfinance/status/2114406718356566309"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "priority": "high",
+      "why": "Several people commented on financing risk and a post-selloff rebound; Ahmet Sunelcan closed his position.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "Short position in $CRWV was fully closed at a small profit.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2114512928237883560"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Crwv probably won't fall much more, it has fallen enough.",
+          "source_url": "https://x.com/korkmazali08/status/2114469233996214712"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "There is demand, but what about financing?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2114296239063732489"
+        }
+      ]
+    },
+    {
+      "symbol": "WULF",
+      "name": "TeraWulf",
+      "priority": "medium",
+      "why": "ulkser holds a position and sees it as relatively better within the sector.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "I hold a $WULF position",
+          "source_url": "https://x.com/ulkser/status/2114456455986442675"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "One person gave a positive view backed by concrete data.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "a very important signal for NVIDIA's pricing power and the continuity of next-generation GPU demand",
+          "source_url": "https://x.com/FinancewithIzzy/status/2114296239063732489"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "high",
+      "why": "jrouldz is weighing trimming Apple (16% of his portfolio) for the first time since 2021.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$AAPL alone is 16% of the portfolio now (largest position by far) and I am in contemplation on whether it's time to trim",
+          "source_url": "https://x.com/jrouldz/status/2114366870497165796"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "Two people raised it from different angles; jrouldz stressed free cash flow turning negative for the first time.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$META by comparison just had FCF flip negative for the first time",
+          "source_url": "https://x.com/jrouldz/status/2114409665282937299"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "The acquisition is small; the real point of interest is Muse's non-advertising revenue model.",
+          "source_url": "https://x.com/cevikfinance/status/2114278511611437338"
+        }
+      ]
+    },
+    {
+      "symbol": "EWZ",
+      "name": "Brazil (iShares MSCI Brazil)",
+      "priority": "high",
+      "why": "Fell about 20% after Lula's election; two people covered it.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "A sharp selloff in Brazilian assets began after Lula's surprise victory.",
+          "source_url": "https://x.com/WallStDiaries/status/2114620545836720273"
+        },
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "Brazil’s Stock Market Opens: -19.5%",
+          "source_url": "https://x.com/heisenbergtrx/status/2114597583251276166"
+        }
+      ]
+    },
+    {
+      "symbol": "XU100",
+      "name": "BIST 100 (dollar terms)",
+      "priority": "high",
+      "why": "Heisenberg gave concrete levels and his sale details.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "negative",
+          "quote": "Price is getting the reaction I expected but cannot get through the 200-week moving average; it is acting as resistance.",
+          "source_url": "https://x.com/heisenbergtrx/status/2114313550868980009"
+        }
+      ]
+    },
+    {
+      "symbol": "SKHY",
+      "name": "SK Hynix",
+      "priority": "high",
+      "why": "Two people mentioned it: the HBM4 speed-requirement relief and a special dividend plan from the Kioxia sale.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "There is relief on volume and qualification for SK hynix and Micron.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2114507857500491829"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "SK Hynix is reported to plan distributing 80% of its Kioxia stake sale proceeds to shareholders as a special dividend.",
+          "source_url": "https://x.com/WallStDiaries/status/2114542568650228029"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan read the HBM4 speed-requirement change as relief for Micron.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "There is relief on volume and qualification for SK hynix and Micron.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2114507857500491829"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "priority": "high",
+      "why": "Two people relayed that AWS capacity is largely sold out and the 2026 capex plan.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Amazon $AMZN says AWS capacity is largely full through the end of 2027 and large reservations extend into 2028.",
+          "source_url": "https://x.com/korkmazali08/status/2114390628582736261"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "said large capacity commitments are exhausted for 2026, with 2027 largely and a significant part of 2028 sold",
+          "source_url": "https://x.com/cevikfinance/status/2114278511611437338"
+        }
+      ]
+    },
+    {
+      "symbol": "EOSE",
+      "name": "Eos Energy",
+      "priority": "medium",
+      "why": "jrouldz says with sentiment at lows it may be time for a second round.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "now that long term EOSE bulls are capitulating, and sentiment at lows…if it may finally be time for round two soon",
+          "source_url": "https://x.com/jrouldz/status/2114448659806859395"
+        }
+      ]
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar",
+      "priority": "low",
+      "why": "jrouldz is looking at it again on the dip; no firm position.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I have been looking at $CAT again in the recent decline.",
+          "source_url": "https://x.com/jrouldz/status/2114411412671856832"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "priority": "low",
+      "why": "jrouldz holds a position but doesn't see it as a buy even after the dip.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "Have a hard time seeing it as a buy now even with the dip.",
+          "source_url": "https://x.com/jrouldz/status/2114411412671856832"
+        }
+      ]
+    },
+    {
+      "symbol": "IBIT",
+      "name": "iShares Bitcoin Trust (spot Bitcoin ETF)",
+      "priority": "medium",
+      "why": "WallStDiaries reported a $443 million single-day net outflow.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "While spot Bitcoin ETFs saw $443 million of net outflows in a single day",
+          "source_url": "https://x.com/WallStDiaries/status/2114616122381099488"
+        }
+      ]
+    },
+    {
+      "symbol": "TLT",
+      "name": "US long-term Treasuries (TLT)",
+      "priority": "low",
+      "why": "Yields eased ahead of the Fed; no view.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "US Treasury yields eased during the Asian session.",
+          "source_url": "https://x.com/WallStDiaries/status/2114617303102820752"
+        }
+      ]
+    },
+    {
+      "symbol": "CNY",
+      "name": "Chinese yuan",
+      "priority": "medium",
+      "why": "6.67, strongest level in four years.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "The yuan reached 6.67 per dollar, its strongest in four years, on strong exports and global dollar weakness.",
+          "source_url": "https://x.com/WallStDiaries/status/2114617488776261816"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "medium",
+      "why": "Earnings figures and the $40 billion GPU debt financing appeared in two sources.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Total revenue: $14.6 billion (+161%)",
+          "source_url": "https://x.com/FinancewithIzzy/status/2114296239063732489"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Elon Musk announced SpaceX secured $40 billion of debt financing for purchases of Nvidia-made GPUs.",
+          "source_url": "https://x.com/WallStDiaries/status/2114617586763645141"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "On **BIST**, Heisenberg is on the defensive: he reminds followers he bought and sold at 270 in dollar terms, that price cannot get through the 200-week moving average, and that a failure there could take it to the 210-230 dollar zone. He treats BIST as a tactical trade, buying in tranches at support and selling at resistance, not a long-term story; about 90% of his portfolio is in foreign assets and even wiping out his Turkish stocks would cost 6-7% of the total. He also argues, citing SEC cases, that US markets are not free of fraud and manipulation, and shares a report of Brazil's stock market opening down 19.5%.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "BIST stalls at 200-week average",
+          "url": "https://x.com/heisenbergtrx/status/2114313550868980009",
+          "published_at": "2026-10-25T11:10:07.000Z",
+          "summary": "He explains he bought and sold at 270 dollars and that his public 18 September post flagged the 210-230 dollar zone if the area was not broken; price cannot pass the 200-week moving average.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "negative",
+              "note": "200-week moving average acts as resistance; 210-230 dollar zone if it fails."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tactical BIST trading and risk management",
+          "url": "https://x.com/heisenbergtrx/status/2114333412148363609",
+          "published_at": "2026-10-25T12:29:02.000Z",
+          "summary": "About 90% of his portfolio is in foreign assets with ~10% TL risk; he buys BIST in tranches at support and sells at resistance, usually closing at a 10-20% dollar return.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "neutral",
+              "note": "Tactical rather than long-term; 10-20% dollar-based target."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Returns in TL assets and global focus",
+          "url": "https://x.com/heisenbergtrx/status/2114457501274198021",
+          "published_at": "2026-10-25T20:42:07.000Z",
+          "summary": "He writes that making money in TL assets is possible but his expertise is global markets, and his BIST trades are a small part of his global portfolio.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Manipulation cases in US markets",
+          "url": "https://x.com/heisenbergtrx/status/2114316124120666362",
+          "published_at": "2026-10-25T11:20:20.000Z",
+          "summary": "He lists pump-and-dump and manipulation cases in the Russell 2000, microcap and penny stock markets that are subject to SEC and Justice Department files.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Brazil's stock market opens down 19.5%",
+          "url": "https://x.com/heisenbergtrx/status/2114597583251276166",
+          "published_at": "2026-10-26T05:58:45.000Z",
+          "summary": "Shared a post that Brazil's stock market opened down 19.5% as a 'live example for those who say it doesn't happen in any other country'.",
+          "assets": [
+            {
+              "symbol": "EWZ",
+              "sentiment": "negative",
+              "note": "Brazil's stock market opened down 19.5%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser's day revolved around the **neocloud** sector: he reads Musk's 'stranded compute' message as heavily indebted neoclouds being unable to find financing at current rates and ending up changing hands. The sector is already down 65%, even **NBIS** 50%, so he finds a meaningful rally hard to see. He holds **WULF** and rates it and the strong-balance-sheet **NBIS** slightly better, and would consider a first tranche of **NBIS** if it falls further. He also reacted with surprise to the 20% drop in Brazil.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "What Musk's warning means for neoclouds",
+          "url": "https://x.com/ulkser/status/2114456455986442675",
+          "published_at": "2026-10-25T20:37:58.000Z",
+          "summary": "He says indebted neoclouds will not find financing at current rates, distressed ones will be bought cheaply, and those leasing GPUs or with power secured will have the edge; he holds WULF and considers buying NBIS on further weakness.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Stands out with a strong balance sheet; considering a first tranche if it falls a bit more."
+            },
+            {
+              "symbol": "WULF",
+              "sentiment": "positive",
+              "note": "He holds a position; sees it as slightly better in the sector."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "negative",
+              "note": "Named among the sector hit by high-debt risk."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "WULF CEO joins the debate",
+          "url": "https://x.com/ulkser/status/2114420682108911673",
+          "published_at": "2026-10-25T18:15:49.000Z",
+          "summary": "He relays WULF CEO Paul Prager's reply that they do not build on spec and work with investment-grade customers; he adds that neoclouds fell 65%, a short-term bounce is likely but some will struggle.",
+          "assets": [
+            {
+              "symbol": "WULF",
+              "sentiment": "positive",
+              "note": "He holds a position; relayed the CEO's disciplined build approach."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Reading tip for neocloud holders",
+          "url": "https://x.com/ulkser/status/2114416665391669569",
+          "published_at": "2026-10-25T17:59:51.000Z",
+          "summary": "He shared Black Panther Capital's thesis that the market is confusing a CoreWeave financing problem with an AI demand problem, calling it long but worth reading.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "The shared thesis argues the issue is CoreWeave financing, not demand."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Chamath: neoclouds are poorly capitalized",
+          "url": "https://x.com/ulkser/status/2114414703858606242",
+          "published_at": "2026-10-25T17:52:03.000Z",
+          "summary": "He shared Chamath Palihapitiya's view that neoclouds are poorly capitalized and stranded compute will appear in 2027, commenting that this is where the problem lies.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Musk's stranded compute post",
+          "url": "https://x.com/ulkser/status/2114345212248252837",
+          "published_at": "2026-10-25T13:15:55.000Z",
+          "summary": "He reposted Musk's 'we're going to see a lot of stranded compute in partially complete data centers' with the comment 'Goodbye neoclouds'.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Brazil's stock market falls 20%",
+          "url": "https://x.com/ulkser/status/2114623607301124591",
+          "published_at": "2026-10-26T07:42:10.000Z",
+          "summary": "He shared with surprise the report that Brazil's stock market fell 20% after Lula's unexpected re-election.",
+          "assets": [
+            {
+              "symbol": "EWZ",
+              "sentiment": "negative",
+              "note": "Brazil's stock market fell 20%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan wrote that he closed his **CRWV** short at a small profit. His main long post is on Nvidia lowering the Rubin HBM4 speed requirement from 11.7 Gbps to 9.6 Gbps: per-GPU bandwidth drops from ~22 TB/s to ~19.7 TB/s, a loss of roughly 10-11% in memory-bound inference. In his view this is relief on volume and qualification for **SK hynix** and **Micron**, while the value of Samsung's speed advantage shrinks; **AMD MI450**'s reported bandwidth is still ahead.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "CRWV short closed",
+          "url": "https://x.com/AhmetSunelcan1/status/2114512928237883560",
+          "published_at": "2026-10-26T00:22:22.000Z",
+          "summary": "He wrote that he fully closed his CRWV short at a small profit.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Short closed at a small profit."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Rubin HBM4 speed requirement cut to 9.6 Gbps",
+          "url": "https://x.com/AhmetSunelcan1/status/2114507857500491829",
+          "published_at": "2026-10-26T00:02:13.000Z",
+          "summary": "Pin speed falls from 11.7 to 9.6 Gbps (~18%) and per-GPU bandwidth from ~22 to ~19.7 TB/s, a ~10-11% loss in memory-bound inference. 9.6 Gbps is the top of the JEDEC HBM4 range and all three makers can hit it comfortably. It is relief for SK hynix and Micron, while the value of Samsung's speed lead shrinks; AMD MI450's 23.3 TB/s is still ahead.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Relief on volume and qualification."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Relief on volume and qualification."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Rubin HBM4 requirement cut to 9.6 Gbps; ~10-11% loss in memory-bound inference."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "In the neocloud debate korkmazali08 reads Musk's message as clearly negative: he relays that debt markets have closed and 200+ neoclouds could be culled, yet thinks financially strong names like **NBIS** should be unaffected and **CRWV** has fallen enough. He also shared that **Amazon**'s AWS capacity is full through 2027 and, per The Information, tenants now demand late penalties of $5 million a day. Overnight index futures opened positive, led by tech.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Musk: debt markets have closed to neoclouds",
+          "url": "https://x.com/korkmazali08/status/2114460325223493935",
+          "published_at": "2026-10-25T20:53:20.000Z",
+          "summary": "He relays Musk's remarks that debt markets have shut to neoclouds, SpaceX raised $40 billion of debt for GPUs, and 200+ neoclouds may be culled.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Reported to have raised $40 billion of GPU debt financing."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Strong names like NBIS should be unaffected",
+          "url": "https://x.com/korkmazali08/status/2114522288955806198",
+          "published_at": "2026-10-26T00:59:34.000Z",
+          "summary": "He wrote he does not expect a very sharp fall, some stocks may be affected but financially strong ones like Nbis should not.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Financially sound, should not be affected."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AWS capacity full through end of 2027",
+          "url": "https://x.com/korkmazali08/status/2114390628582736261",
+          "published_at": "2026-10-25T16:16:23.000Z",
+          "summary": "He relayed that Amazon says AWS capacity is largely full through end-2027, reservations run into 2028, and the 2026 capex plan is $220 billion.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "AWS capacity full through 2027; 2026 capex $220 billion."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Data center tenants demand $5M/day penalties",
+          "url": "https://x.com/korkmazali08/status/2114382902339186871",
+          "published_at": "2026-10-25T15:45:41.000Z",
+          "summary": "Per The Information, tenants' late-delivery penalty demands rose from about $1 million to over $5 million a day; he says it is no coincidence everyone suddenly speaks negatively about data centers.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Index futures open positive",
+          "url": "https://x.com/korkmazali08/status/2114485443974906174",
+          "published_at": "2026-10-25T22:33:09.000Z",
+          "summary": "Dow +0.29%, S&P 500 +0.42%, Nasdaq 100 +0.56%, Russell 2000 +0.38%; VIX at 19.33.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries led with Lula's surprise win in Brazil, with **EWZ** down about 20% and the real losing 10% in futures. Other headlines were the Fed holding at 3.75-4.00% this week (90% probability), $443 million of outflows from spot **Bitcoin** ETFs, and the yuan hitting 6.67, a four-year high. On AI, there were Musk's data center debt warning, a special dividend plan at **SK Hynix** from its Kioxia sale, and Burry's rotation call.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Lula re-elected, EWZ down 20%",
+          "url": "https://x.com/WallStDiaries/status/2114560950250446993",
+          "published_at": "2026-10-26T03:33:11.000Z",
+          "summary": "Lula won a fourth term with 51.79%; the 20% EWZ drop is attributed to the unwinding of pre-election pricing of a right-wing win and fiscal discipline concerns.",
+          "assets": [
+            {
+              "symbol": "EWZ",
+              "sentiment": "negative",
+              "note": "About 20% drop; fiscal discipline concerns."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Sharp selloff in Brazilian assets",
+          "url": "https://x.com/WallStDiaries/status/2114620545836720273",
+          "published_at": "2026-10-26T07:30:00.000Z",
+          "summary": "The real lost 10% in futures and a circuit breaker became likelier on the index.",
+          "assets": [
+            {
+              "symbol": "EWZ",
+              "sentiment": "negative",
+              "note": "Real down 10%, circuit breaker risk."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fed officials signal a hold",
+          "url": "https://x.com/WallStDiaries/status/2114610392987242644",
+          "published_at": "2026-10-26T06:49:39.000Z",
+          "summary": "The policy rate is expected to stay at 3.75-4.00% at the FOMC, with markets pricing 90%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Cautious bond market ahead of the Fed",
+          "url": "https://x.com/WallStDiaries/status/2114617303102820752",
+          "published_at": "2026-10-26T07:17:07.000Z",
+          "summary": "US Treasury yields eased in the Asian session ahead of Wednesday's Fed decision.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "neutral",
+              "note": "Yields eased ahead of the Fed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Outflows from spot Bitcoin ETFs",
+          "url": "https://x.com/WallStDiaries/status/2114616122381099488",
+          "published_at": "2026-10-26T07:12:25.000Z",
+          "summary": "$443 million of net outflows in one day, with Ether funds following.",
+          "assets": [
+            {
+              "symbol": "IBIT",
+              "sentiment": "negative",
+              "note": "$443 million net outflow in a day."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yuan at a four-year high",
+          "url": "https://x.com/WallStDiaries/status/2114617488776261816",
+          "published_at": "2026-10-26T07:17:51.000Z",
+          "summary": "The yuan is at 6.67, its strongest in four years; the PBOC uses its fixing to slow appreciation.",
+          "assets": [
+            {
+              "symbol": "CNY",
+              "sentiment": "positive",
+              "note": "6.67 per dollar, four-year high."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SK Hynix special dividend plan after Kioxia sale",
+          "url": "https://x.com/WallStDiaries/status/2114542568650228029",
+          "published_at": "2026-10-26T02:20:09.000Z",
+          "summary": "Reported plan to pay out 80% of Kioxia stake sale proceeds (~$12 billion) as a special dividend; no final decision.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "~$12 billion special dividend plan."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Musk warns on data center debt risk",
+          "url": "https://x.com/WallStDiaries/status/2114541064300187917",
+          "published_at": "2026-10-26T02:14:10.000Z",
+          "summary": "Lenders have almost stopped lending to firms reliant only on AI data center revenue; a wave of mergers and bankruptcies in neoclouds is possible.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Burry expects deep rotation",
+          "url": "https://x.com/WallStDiaries/status/2114386506898944092",
+          "published_at": "2026-10-25T16:00:01.000Z",
+          "summary": "55% of S&P 500 stocks are at least 20% below 10-year highs; Burry expects a rotation with leaders falling rather than a crash.",
+          "assets": [
+            {
+              "symbol": "SPY",
+              "sentiment": "neutral",
+              "note": "Market breadth is poor; rotation expected."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy reads the SpaceX earnings as a sign AI infrastructure demand continues: revenue of $14.6 billion (+161%) and AI revenue of $7.6 billion. For **NVDA**, even old GPUs renting at a premium signals pricing power, while for **CRWV** demand exists but financing risk remains. He also wrote that oil could make Fed cuts harder.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "What SpaceX earnings say for NVIDIA and CoreWeave",
+          "url": "https://x.com/FinancewithIzzy/status/2114296239063732489",
+          "published_at": "2026-10-25T10:01:19.000Z",
+          "summary": "Revenue $14.6 billion (+161%), AI revenue $7.6 billion, AI capex $16.4 billion; even H100s rent at higher prices. A pricing-power signal for NVDA; for CRWV demand is strong but debt and financing risks remain.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Even old GPUs rent at a premium; pricing-power signal."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Demand is strong, financing risk remains."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Revenue $14.6 billion (+161%)."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Inflation slowed but prices stay high",
+          "url": "https://x.com/FinancewithIzzy/status/2114432406203609323",
+          "published_at": "2026-10-25T19:02:24.000Z",
+          "summary": "Price increases under Trump run at about half the pace of the Biden era; if oil stays high inflation pressure persists and Fed cuts become harder.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Buffett lesson: don't sell the dip",
+          "url": "https://x.com/FinancewithIzzy/status/2114326861006139710",
+          "published_at": "2026-10-25T12:03:00.000Z",
+          "summary": "Per JPMorgan data, an investor who misses the 10 best days earns only 60% of the return of staying invested; the message is to hold quality companies long term.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine reported, citing The Information, that AI data center tenants now demand late penalties above $5 million a day (about $1 million earlier this year). Nvidia and TCV joined the funding round of **Higgsfield**, which processes 12 trillion tokens a month and passed $1 billion in annualized revenue. It also posted the day's calendar: **Cadence**, **Amkor** and **Rambus** report earnings.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Data center late penalties exceed $5M a day",
+          "url": "https://x.com/wallstengine/status/2114382264679416154",
+          "published_at": "2026-10-25T15:43:09.000Z",
+          "summary": "Tenants demand over $5 million a day in penalties if power and facilities are not delivered on time, up from about $1 million earlier this year.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia joins Higgsfield funding round",
+          "url": "https://x.com/wallstengine/status/2114297852948091174",
+          "published_at": "2026-10-25T10:07:44.000Z",
+          "summary": "Nvidia and TCV joined an extension of Higgsfield's Series B, which raised $400 million at a $5.4 billion valuation in August; annualized revenue passed $1 billion.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Joined Higgsfield's funding round."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Today's earnings and data calendar",
+          "url": "https://x.com/wallstengine/status/2114591284438643135",
+          "published_at": "2026-10-26T05:33:44.000Z",
+          "summary": "Verizon reports before the open; Cadence, Amkor, Rambus, Welltower, Whirlpool and Public Storage report after the close; a 2-year note auction is at 13:00.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz updated his portfolio: this year's winners are software (cybersecurity) and biotech, losers are quantum and space; he is taking profits in **PLTR**, **CRWD** and **NET** and rotating into energy, materials and robotics. **Apple** is 16% of the portfolio and he is weighing his first trim since 2021; he attributes Apple's 40 P/E to a premium for cash flow predictability. At **Meta**, free cash flow has turned negative for the first time. He says it may be time for a 'round two' in the fallen **EOSE** and is looking at **CAT** again.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Diversified long-term portfolio update",
+          "url": "https://x.com/jrouldz/status/2114366870497165796",
+          "published_at": "2026-10-25T14:41:59.000Z",
+          "summary": "Software and biotech won, quantum and space lost; fintech is being reduced, profits taken in PLTR/CRWD/NET, and positions built in energy/materials/robotics; Apple is 16% of the portfolio and a trim is being considered.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "16% of portfolio; first trim since 2021 under consideration."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "negative",
+              "note": "Taking profits after the parabolic software run."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "negative",
+              "note": "Taking profits after the parabolic software run."
+            },
+            {
+              "symbol": "NET",
+              "sentiment": "negative",
+              "note": "Taking profits after the parabolic software run."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Why do investors pay a premium for Apple?",
+          "url": "https://x.com/jrouldz/status/2114407822439882868",
+          "published_at": "2026-10-25T17:24:43.000Z",
+          "summary": "P/E: AAPL 40, NVDA 27, META 22, GOOG 16; with leveraged build-out companies crushed and Apple outperforming, investors appear to be rewarding confidence in cash flows.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "P/E of 40; premium attributed to cash flow confidence."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "P/E of 27."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "negative",
+              "note": "Free cash flow turned negative for the first time."
+            },
+            {
+              "symbol": "GOOG",
+              "sentiment": "neutral",
+              "note": "P/E of 16; owns enough, just holding."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "It may be time for round two in EOSE",
+          "url": "https://x.com/jrouldz/status/2114448659806859395",
+          "published_at": "2026-10-25T20:06:59.000Z",
+          "summary": "He wrote EOSE was his best 2025 trade, that the support zone he watched has failed, but with long-term bulls capitulating and sentiment at lows a second round may be near.",
+          "assets": [
+            {
+              "symbol": "EOSE",
+              "sentiment": "positive",
+              "note": "Sentiment at lows; time for round two may come."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "On GEV and CAT",
+          "url": "https://x.com/jrouldz/status/2114411412671856832",
+          "published_at": "2026-10-25T17:38:59.000Z",
+          "summary": "He can't see GEV as a buy even after the dip (despite a $175 billion backlog); he is looking at CAT again after the recent decline.",
+          "assets": [
+            {
+              "symbol": "GEV",
+              "sentiment": "neutral",
+              "note": "Not a buy despite the dip; $175 billion backlog."
+            },
+            {
+              "symbol": "CAT",
+              "sentiment": "neutral",
+              "note": "Looking at it again after the recent decline."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance argues that those reading Musk's post as a disaster for **NBIS** misunderstood it: GPUs are installed faster than power, creating idle capacity, which keeps rental prices high for neoclouds with power ready. He points out that Musk himself spent $40 billion on Nvidia chips. In his short company news he summarized **Amazon**'s near sold-out capacity, **Nebius**'s Saudi deal and the rise in **Nvidia** H200 rental prices.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Musk's post is being misread",
+          "url": "https://x.com/cevikfinance/status/2114406718356566309",
+          "published_at": "2026-10-25T17:20:20.000Z",
+          "summary": "He argues Musk's stranded compute warning points to GPUs being installed faster than power, which is positive for neoclouds with power ready.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "A supply constraint that keeps rental prices high for providers with power ready."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Short company news",
+          "url": "https://x.com/cevikfinance/status/2114278511611437338",
+          "published_at": "2026-10-25T08:50:53.000Z",
+          "summary": "Amazon capacity is sold out for 2026; Nebius signed a preliminary deal for up to 50 MW at NEOM; Meta bought Sundial; Nvidia H200 rental prices are up ~160% and H100 ~40%; BofA sees data center spending at $2.93 trillion in 2030.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "Capacity commitments exhausted for 2026, 2027 largely sold."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Preliminary deal for up to 50 MW at NEOM; 2027 capacity sold."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Acquired Sundial; Muse non-ad revenue model."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "H200 rental prices up ~160%, H100 ~40%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Musk isn't saying demand will fall",
+          "url": "https://x.com/cevikfinance/status/2114408136006103364",
+          "published_at": "2026-10-25T17:25:58.000Z",
+          "summary": "He wrote that Musk has said electricity is the next bottleneck and would not spend $40 billion on Nvidia chips if he expected demand to fall.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Musk's $40 billion chip purchase shows demand continues."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The largest holding (18.8%) and a single fintech stock; jrouldz reducing fintech and weaker risk appetite could raise volatility. Position size is the main risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: leveraged growth stocks have rebound potential after the selloff.",
+          "Against: one stock is nearly a fifth of the portfolio, concentrating risk."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [
+          {
+            "person": "Heisenberg",
+            "sentiment": "negative",
+            "quote": "Price is getting the reaction I expected but cannot get through the 200-week moving average; it is acting as resistance.",
+            "source_url": "https://x.com/heisenbergtrx/status/2114313550868980009"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Heisenberg BIST faces resistance at the 200-week average with a possible drop to 210-230 dollars, but he gave no new buy/sell trigger.",
+        "opinion": "The Turkey ETF carries TL and dollar risk together; Heisenberg's resistance warning calls for short-term caution. At 12.9% the weight is reasonable but foreign-selling risk remains.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: valuation appeal may rise after declines.",
+          "Against: according to Heisenberg the 200-week average is acting as resistance."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The lower HBM4 speed requirement and continued AI spending indirectly support Broadcom's custom-chip model; the main risk is financing stress in AI infrastructure.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Amazon and other hyperscalers' capacity and capex plans support demand.",
+          "Against: AI data center financing conditions are tightening."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "jrouldz",
+            "sentiment": "negative",
+            "quote": "$META by comparison just had FCF flip negative for the first time",
+            "source_url": "https://x.com/jrouldz/status/2114409665282937299"
+          },
+          {
+            "person": "cevikfinance",
+            "sentiment": "neutral",
+            "quote": "The acquisition is small; the real point of interest is Muse's non-advertising revenue model.",
+            "source_url": "https://x.com/cevikfinance/status/2114278511611437338"
+          }
+        ],
+        "action": "hold",
+        "why": "According to jrouldz Meta's free cash flow turned negative for the first time, but there is no firm sell level.",
+        "opinion": "Negative FCF shows return pressure from heavy AI capex; a non-ad revenue model is long-term diversification but has not yet delivered.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: the Sundial deal and Muse show an effort to diversify revenue.",
+          "Against: according to jrouldz free cash flow turned negative for the first time."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The nuclear and energy theme is supported by AI data centers' power needs; the electricity bottleneck mentioned in sources reinforces the thesis.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: according to the Musk view relayed by cevikfinance, electricity is the next bottleneck.",
+          "Against: if data center projects slip on financing, demand timing could shift."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Reddit is a high-beta growth stock that swings hard when risk appetite weakens. The 9.4% weight is medium-high.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: index futures opened positive, risk appetite may recover.",
+          "Against: rising volatility in growth stocks and weak market breadth."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Netflix is relatively far from the AI infrastructure financing story and has predictable cash flow; the premium for cash flow confidence jrouldz points to could favor it.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: investors are paying a premium for predictable cash flow.",
+          "Against: there is no stock-specific catalyst today."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "US Treasury yields eased during the Asian session.",
+            "source_url": "https://x.com/WallStDiaries/status/2114617303102820752"
+          }
+        ],
+        "action": "hold",
+        "why": "According to WallStDiaries the Fed holds this week and yields are easing, but there is no concrete level for long-term bonds.",
+        "opinion": "Long-duration bonds are sensitive to the Fed message and oil-driven inflation pressure; it plays a balancing role but duration risk is high.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: expected Fed hold and easing yields.",
+          "Against: according to FinancewithIzzy, if oil stays high Fed cuts become harder."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The power-infrastructure theme benefits from AI data center electricity demand; the small 5.3% weight limits risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: rising data center late penalties show the weight put on power and facility readiness.",
+          "Against: a single small company with no stock-specific data today."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "NBIS",
+        "name": "Nebius",
+        "why": "ulkser is considering a first tranche of Nebius, which he highlights for its strong balance sheet, on a bit more weakness; korkmazali08 also expects it to be unaffected given its sound financials.",
+        "source_url": "https://x.com/ulkser/status/2114456455986442675"
+      },
+      {
+        "symbol": "EOSE",
+        "name": "Eos Energy",
+        "why": "jrouldz says that with sentiment at lows and the support zone broken, it may be time for a 'round two' in EOSE.",
+        "source_url": "https://x.com/jrouldz/status/2114448659806859395"
+      },
+      {
+        "symbol": "CAT",
+        "name": "Caterpillar",
+        "why": "jrouldz is looking again at Caterpillar after its roughly 35% fall from the peak.",
+        "source_url": "https://x.com/jrouldz/status/2114411412671856832"
+      }
+    ]
+  }
+}

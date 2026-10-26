@@ -1,0 +1,1295 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T08:13:35.855Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Brezilya'da Lula yeniden seçildi, EWZ %20 düştü",
+      "person": "WallStDiaries",
+      "why": "Lula %51,79 ile dördüncü kez seçildi; WallStDiaries'e göre seçim öncesi 'sağ kanat zaferi'ni fiyatlayan piyasalar pozisyon kapattı ve EWZ'de yaklaşık %20 düşüş oldu.",
+      "source_url": "https://x.com/WallStDiaries/status/2114560950250446993"
+    },
+    {
+      "title": "Musk: neocloud'lar borç bulamayacak, birleşme ve iflas dalgası gelir",
+      "person": "ulkser",
+      "why": "ulkser, Musk'ın 'atıl işlem kapasitesi' mesajını borçla GPU alan neocloud'ların finansman bulamaması olarak okuyor; sektör zaten %65 düşmüş, WULF pozisyonu var ve NBIS biraz daha düşerse ilk kademeyi almayı düşünüyor.",
+      "source_url": "https://x.com/ulkser/status/2114456455986442675"
+    },
+    {
+      "title": "Fed bu hafta faizi %3,75-%4,00'da sabit bırakmaya hazırlanıyor",
+      "person": "WallStDiaries",
+      "why": "WallStDiaries'e göre Fed yetkililerinin açıklamaları sabit faize işaret ediyor ve piyasa %90 ihtimal veriyor; gözler aralık ayı sinyallerinde.",
+      "source_url": "https://x.com/WallStDiaries/status/2114610392987242644"
+    },
+    {
+      "title": "Nvidia Rubin için HBM4 hızı şartını 9,6 Gbps'e indirdi",
+      "person": "Ahmet Sunelcan",
+      "why": "Ahmet Sunelcan'a göre pin hızı 11,7'den 9,6 Gbps'e (~%18) inince GPU başına bant genişliği ~22'den ~19,7 TB/s'ye düşüyor; SK hynix ve Micron için hacim ve kalifikasyon açısından rahatlama var.",
+      "source_url": "https://x.com/AhmetSunelcan1/status/2114507857500491829"
+    },
+    {
+      "title": "BIST 200 haftalık ortalamada tıkandı, 210-230 dolar bölgesi gündemde",
+      "person": "Heisenberg",
+      "why": "Heisenberg, dolar bazında 270'ten sattığını, fiyatın 200 haftalık hareketli ortalamayı geçemediğini ve geçilemezse 210-230 dolar bölgesine gerileme görebileceğini yazıyor.",
+      "source_url": "https://x.com/heisenbergtrx/status/2114313550868980009"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Fed kararı ve enflasyon",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Fed yetkilileri bu haftaki FOMC'de politika faizinin %3,75-%4,00'da sabit kalacağına işaret ediyor; piyasa %90 ihtimal veriyor.",
+          "quote": "Piyasalar kararın pas geçilmesine %90 ihtimal verirken, gözler aralık ayı sinyallerinde.",
+          "source_url": "https://x.com/WallStDiaries/status/2114610392987242644"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "Petrol yüksek kalırsa enflasyon baskısı sürebilir ve Fed'in faiz indirimleri zorlaşabilir; takip edilecekler petrol, tahvil faizleri ve tüketici harcaması.",
+          "quote": "Petrol yüksek kalırsa enflasyon baskısı sürebilir, Fed'in faiz indirimleri zorlaşabilir ve şirketlerin kâr marjları baskı altında kalabilir.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2114432406203609323"
+        }
+      ]
+    },
+    {
+      "topic": "Brezilya seçimi ve piyasa tepkisi",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Lula'nın sürpriz zaferi sonrası Brezilya varlıklarında sert satış var; vadelide real %10 değer kaybederken devre kesici ihtimali güçlendi.",
+          "quote": "Lula'nın sürpriz zaferiyle Brezilya varlıklarında sert satış dalgası başladı.",
+          "source_url": "https://x.com/WallStDiaries/status/2114620545836720273"
+        },
+        {
+          "person": "Heisenberg",
+          "view": "Brezilya borsasının %19,5 düşüşle açıldığı haberini 'başka hiçbir ülkede olmuyor diyenlere canlı örnek' diyerek paylaştı.",
+          "quote": "Başka hiç bir ülkede olmuyor diyenlere canlı örnek",
+          "source_url": "https://x.com/heisenbergtrx/status/2114597583251276166"
+        }
+      ]
+    },
+    {
+      "topic": "AI veri merkezi finansmanı ve neocloud'lar",
+      "views": [
+        {
+          "person": "ulkser",
+          "view": "Musk'ın mesajı, borçla büyüyen neocloud'ların faiz ortamında finansman bulamayacağı ve el değiştireceği anlamına geliyor; sektörde anlamlı yükseliş zor.",
+          "quote": "neocloudlar, ozellikle cok borclu olanlar yada kapasiteyi kurmak icin borca ihtiyaci olanlar faizlerin geldigi bu noktada bu borcu bulamayacaklar.",
+          "source_url": "https://x.com/ulkser/status/2114456455986442675"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Musk'ı yanlış okuyorlar: GPU'lar güç altyapısından hızlı kurulduğu için atıl kapasite oluşacak; bu, elektriği hazır neocloud'lar için kiralama fiyatlarını yüksek tutan olumlu bir arz kısıtı.",
+          "quote": "Yani elektriği hazır olan sağlayıcılar için GPU kiralama fiyatlarını yüksek tutabilecek bir arz kısıtına işaret ediyor.",
+          "source_url": "https://x.com/cevikfinance/status/2114406718356566309"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Musk açıkça neocloud'lar hakkında olumsuz konuşuyor; 200'ü aşkın neocloud'un elenmesi bekleniyor, ama Nebius gibi finansalı güçlü şirketlerin etkilenmemesi gerekir.",
+          "quote": "Nbis gibi finansalı iyi hisselerin etkikenmemesi gerekir",
+          "source_url": "https://x.com/korkmazali08/status/2114522288955806198"
+        }
+      ]
+    },
+    {
+      "topic": "Piyasa genişliği ve liderlik",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Michael Burry'ye göre S&P 500 hisselerinin %55'i 10 yıllık zirvelerinin en az %20 altında; çöküş yerine liderlerin gerilediği derin bir rotasyon bekleniyor.",
+          "quote": "S&P 500 endeksindeki hisselerin %55’inin 10 yıllık zirvelerinin en az %20 altında işlem gördüğünü vurgulayan Burry",
+          "source_url": "https://x.com/WallStDiaries/status/2114386506898944092"
+        },
+        {
+          "person": "jrouldz",
+          "view": "Yatırımcılar Apple'a yalnızca FCF/EPS için değil, gelecekteki nakit akışının öngörülebilirliği için prim ödüyor; kaldıraçlı büyüme şirketleri en sert düşenler.",
+          "quote": "investors above all else are rewarding confidence in future cash flows",
+          "source_url": "https://x.com/jrouldz/status/2114407822439882868"
+        }
+      ]
+    },
+    {
+      "topic": "Çin yuanı",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Yuan, güçlü ihracat ve zayıf dolarla 6,67 ile son dört yılın en güçlü seviyesinde; PBOC referans kuruyla hızlı değerlenmeyi frenlemeye çalışıyor.",
+          "quote": "Çin yuanı, güçlü ihracat ve doların küresel zayıflığıyla dolar karşısında 6,67 seviyesine inerek son dört yılın en güçlü seviyesine ulaştı.",
+          "source_url": "https://x.com/WallStDiaries/status/2114617488776261816"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "NBIS",
+      "name": "Nebius",
+      "priority": "high",
+      "why": "Birden fazla kişi finansal gücü nedeniyle sektörde öne çıkardı; ulkser net alım koşulu verdi.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$NBIS biraz daha dayak yerse ilk kademeyi almayi dusunuyorum",
+          "source_url": "https://x.com/ulkser/status/2114456455986442675"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Nbis gibi finansalı iyi hisselerin etkikenmemesi gerekir",
+          "source_url": "https://x.com/korkmazali08/status/2114522288955806198"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Kötü bir şey değil, tam tersine elektrik altyapısı hazır kurulu olan neocloud şirketler için pozitif bir durum.",
+          "source_url": "https://x.com/cevikfinance/status/2114406718356566309"
+        }
+      ]
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave",
+      "priority": "high",
+      "why": "Birden fazla kişi finansman riski ve düşüş sonrası tepki üzerinden yorum yaptı; Ahmet Sunelcan pozisyonu kapattı.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "$CRWV aciga satisi ufak bir karla tamamen kapatildi.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2114512928237883560"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Crwv çok düşmez muhtemelen yeterince düştü.",
+          "source_url": "https://x.com/korkmazali08/status/2114469233996214712"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Talep var, peki finansman?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2114296239063732489"
+        }
+      ]
+    },
+    {
+      "symbol": "WULF",
+      "name": "TeraWulf",
+      "priority": "medium",
+      "why": "ulkser pozisyon sahibi; sektörde nispeten daha iyi görüyor.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "benim $WULF pozum var",
+          "source_url": "https://x.com/ulkser/status/2114456455986442675"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "Tek kişi somut veriyle olumlu görüş bildirdi.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "NVIDIA'nın fiyatlama gücü ve yeni nesil GPU talebinin sürekliliği açısından oldukça önemli bir sinyal",
+          "source_url": "https://x.com/FinancewithIzzy/status/2114296239063732489"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "high",
+      "why": "jrouldz portföyün %16'sı olan Apple'ı 2021'den beri ilk kez azaltmayı düşünüyor.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$AAPL alone is 16% of the portfolio now (largest position by far) and I am in contemplation on whether it's time to trim",
+          "source_url": "https://x.com/jrouldz/status/2114366870497165796"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "İki kişi farklı açılardan bahsetti; jrouldz serbest nakit akışının ilk kez negatife döndüğünü vurguladı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "$META by comparison just had FCF flip negative for the first time",
+          "source_url": "https://x.com/jrouldz/status/2114409665282937299"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "Satın alma küçük; asıl dikkat çeken Muse'un reklam dışı gelir modeli.",
+          "source_url": "https://x.com/cevikfinance/status/2114278511611437338"
+        }
+      ]
+    },
+    {
+      "symbol": "EWZ",
+      "name": "Brezilya (iShares MSCI Brazil)",
+      "priority": "high",
+      "why": "Lula'nın seçilmesiyle yaklaşık %20 düştü; iki kişi konuyu işledi.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Lula'nın sürpriz zaferiyle Brezilya varlıklarında sert satış dalgası başladı.",
+          "source_url": "https://x.com/WallStDiaries/status/2114620545836720273"
+        },
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "Brazil’s Stock Market Opens: -19.5%",
+          "source_url": "https://x.com/heisenbergtrx/status/2114597583251276166"
+        }
+      ]
+    },
+    {
+      "symbol": "XU100",
+      "name": "BIST 100 (dolar bazlı)",
+      "priority": "high",
+      "why": "Heisenberg net seviye ve satış bilgisi verdi.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "negative",
+          "quote": "Fiyat ne yapıyor? Beklediğim tepkiyi alıyor ama 200 haftalık hareketli ortalamayı geçemiyor. Orası direnç olarak çalışıyor.",
+          "source_url": "https://x.com/heisenbergtrx/status/2114313550868980009"
+        }
+      ]
+    },
+    {
+      "symbol": "SKHY",
+      "name": "SK Hynix",
+      "priority": "high",
+      "why": "İki kişi bahsetti: HBM4 hız şartı rahatlaması ve Kioxia satışından özel temettü planı.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "SK hynix ve Micron için hacim ve kalifikasyon açısından rahatlama var.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2114507857500491829"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "SK Hynix'in, Kioxia hisse satışından elde edeceği kazancın %80'ini hissedarlarına özel temettü olarak dağıtmayı planladığı bildirildi.",
+          "source_url": "https://x.com/WallStDiaries/status/2114542568650228029"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan HBM4 hız şartı değişikliğini Micron için rahatlama olarak okudu.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "SK hynix ve Micron için hacim ve kalifikasyon açısından rahatlama var.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2114507857500491829"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "priority": "high",
+      "why": "İki kişi AWS kapasitesinin büyük ölçüde dolu olduğunu ve 2026 capex planını aktardı.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Amazon $AMZN, AWS kapasitesinin 2027 sonuna kadar büyük ölçüde dolu olduğunu ve büyük rezervasyonların 2028’e uzandığını belirtiyor.",
+          "source_url": "https://x.com/korkmazali08/status/2114390628582736261"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "büyük kapasite taahhütlerinin 2026 için tükendiğini, 2027'nin büyük ölçüde ve 2028'in önemli bir kısmının satıldığını belirtti",
+          "source_url": "https://x.com/cevikfinance/status/2114278511611437338"
+        }
+      ]
+    },
+    {
+      "symbol": "EOSE",
+      "name": "Eos Energy",
+      "priority": "medium",
+      "why": "jrouldz sentiment diplerdeyken ikinci tur için zamanın gelebileceğini söylüyor.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "now that long term EOSE bulls are capitulating, and sentiment at lows…if it may finally be time for round two soon",
+          "source_url": "https://x.com/jrouldz/status/2114448659806859395"
+        }
+      ]
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar",
+      "priority": "low",
+      "why": "jrouldz düşüşte yeniden bakıyor; net pozisyon yok.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I have been looking at $CAT again in the recent decline.",
+          "source_url": "https://x.com/jrouldz/status/2114411412671856832"
+        }
+      ]
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova",
+      "priority": "low",
+      "why": "jrouldz pozisyon sahibi ama düşüşte bile alım olarak görmüyor.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "Have a hard time seeing it as a buy now even with the dip.",
+          "source_url": "https://x.com/jrouldz/status/2114411412671856832"
+        }
+      ]
+    },
+    {
+      "symbol": "IBIT",
+      "name": "iShares Bitcoin Trust (spot Bitcoin ETF)",
+      "priority": "medium",
+      "why": "WallStDiaries tek günde 443 milyon dolarlık net çıkış verdi.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Spot Bitcoin ETF'lerinden tek günde $443 milyonluk net çıkış gerçekleşirken",
+          "source_url": "https://x.com/WallStDiaries/status/2114616122381099488"
+        }
+      ]
+    },
+    {
+      "symbol": "TLT",
+      "name": "ABD uzun vadeli Hazine tahvilleri (TLT)",
+      "priority": "low",
+      "why": "Getiriler Fed öncesi geriledi; görüş yok.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "ABD Hazine tahvili getirileri, Asya seansında gerileme kaydetti.",
+          "source_url": "https://x.com/WallStDiaries/status/2114617303102820752"
+        }
+      ]
+    },
+    {
+      "symbol": "CNY",
+      "name": "Çin yuanı",
+      "priority": "medium",
+      "why": "6,67 ile dört yılın en güçlü seviyesi.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Çin yuanı, güçlü ihracat ve doların küresel zayıflığıyla dolar karşısında 6,67 seviyesine inerek son dört yılın en güçlü seviyesine ulaştı.",
+          "source_url": "https://x.com/WallStDiaries/status/2114617488776261816"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "medium",
+      "why": "Bilanço rakamları ve 40 milyar dolarlık GPU borç finansmanı iki kaynakta geçti.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Toplam gelir: 14,6 milyar $ (+%161)",
+          "source_url": "https://x.com/FinancewithIzzy/status/2114296239063732489"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Elon Musk, SpaceX'in Nvidia üretimi GPU satın alımları için $40 milyar borç finansmanı sağladığını duyurdu.",
+          "source_url": "https://x.com/WallStDiaries/status/2114617586763645141"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "**BIST** konusunda Heisenberg savunmada: dolar bazında 270'ten alıp sattığını, fiyatın 200 haftalık hareketli ortalamayı geçemediğini ve geçilemezse 210-230 dolar bölgesine gerileme görebileceğini hatırlatıyor. BIST'i uzun vadeli bir hikâye olarak değil, destekten kademeli alıp dirençte satılan taktiksel bir işlem olarak görüyor; portföyünün yaklaşık %90'ı yabancı varlıklarda, Türk hisselerinin sıfırlanması bile toplamın %6-7'sine mal olurdu. Ayrıca ABD piyasalarının da dolandırıcılık ve manipülasyondan azade olmadığını, SEC dosyalarıyla anlatıyor, Brezilya borsasının %19,5 düşüşle açıldığı haberini de paylaşıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "BIST 200 haftalık ortalamada tıkandı",
+          "url": "https://x.com/heisenbergtrx/status/2114313550868980009",
+          "published_at": "2026-10-25T11:10:07.000Z",
+          "summary": "270 dolardan aldığını ve sattığını, 18 Eylül'deki herkese açık yazısında bölge geçilemezse 210-230 dolar bölgesini işaretlediğini anlatıyor; fiyat 200 haftalık hareketli ortalamayı geçemiyor.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "negative",
+              "note": "200 haftalık hareketli ortalama direnç, geçilemezse 210-230 dolar bölgesi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BIST'te taktiksel işlem ve risk yönetimi",
+          "url": "https://x.com/heisenbergtrx/status/2114333412148363609",
+          "published_at": "2026-10-25T12:29:02.000Z",
+          "summary": "Portföyünün ~%90'ı yabancı varlıkta, TL riski ~%10; BIST'te destek bölgelerinden kademeli alıp dirençte satıyor, dolar bazında %10-20 getiride genelde kapatıyor.",
+          "assets": [
+            {
+              "symbol": "XU100",
+              "sentiment": "neutral",
+              "note": "Uzun vadeli değil taktiksel pozisyon; dolar bazında %10-20 hedef."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TL varlıklarda getiri ve global uzmanlık",
+          "url": "https://x.com/heisenbergtrx/status/2114457501274198021",
+          "published_at": "2026-10-25T20:42:07.000Z",
+          "summary": "TL varlıklarda kazanmanın mümkün olduğunu ama uzmanlık alanının global piyasalar olduğunu, BIST işlemlerinin global portföyün küçük parçası olduğunu yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "ABD piyasalarında manipülasyon örnekleri",
+          "url": "https://x.com/heisenbergtrx/status/2114316124120666362",
+          "published_at": "2026-10-25T11:20:20.000Z",
+          "summary": "Russell 2000, microcap ve penny stock piyasalarında SEC ve Adalet Bakanlığı dosyalarına konu olan pump-and-dump ve manipülasyon vakalarını sıralıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Brezilya borsası %19,5 düşüşle açıldı",
+          "url": "https://x.com/heisenbergtrx/status/2114597583251276166",
+          "published_at": "2026-10-26T05:58:45.000Z",
+          "summary": "Brezilya borsasının %19,5 düşüşle açıldığı gönderisini 'başka hiçbir ülkede olmuyor diyenlere canlı örnek' diyerek paylaştı.",
+          "assets": [
+            {
+              "symbol": "EWZ",
+              "sentiment": "negative",
+              "note": "Brezilya borsası %19,5 düşüşle açıldı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser'in günü **neocloud** sektörü etrafında geçti: Musk'ın 'atıl işlem kapasitesi' mesajını, özellikle borçlu neocloud'ların faiz ortamında finansman bulamayacağı ve el değiştireceği şeklinde okuyor. Sektör zaten %65 düşmüş, **NBIS** bile %50; bu yüzden anlamlı yükselişi zor görüyor. Pozisyonu olan **WULF**'u ve güçlü bilançosuyla **NBIS**'i nispeten daha iyi buluyor, **NBIS** biraz daha düşerse ilk kademeyi almayı düşünüyor. Brezilya'daki %20 düşüş haberine de şaşkınlıkla tepki verdi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Musk'ın uyarısı neocloud'lar için ne anlama geliyor",
+          "url": "https://x.com/ulkser/status/2114456455986442675",
+          "published_at": "2026-10-25T20:37:58.000Z",
+          "summary": "Borçlu neocloud'ların faiz ortamında finansman bulamayacağını, batıkların ucuza satın alınacağını ve GPU kiralayan ya da enerjisi güvende olanların avantajlı olacağını söylüyor; WULF pozisyonu var, NBIS düşerse alım düşünüyor.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Güçlü mali yapısıyla öne çıkıyor; biraz daha düşerse ilk kademeyi almayı düşünüyor."
+            },
+            {
+              "symbol": "WULF",
+              "sentiment": "positive",
+              "note": "Pozisyonu var; sektörde bir tık daha iyi görüyor."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "negative",
+              "note": "Sektörle birlikte yüksek borç riskiyle anılıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "WULF CEO'su tartışmaya katıldı",
+          "url": "https://x.com/ulkser/status/2114420682108911673",
+          "published_at": "2026-10-25T18:15:49.000Z",
+          "summary": "WULF CEO'su Paul Prager'ın 'spekülatif inşa yapmıyoruz, yatırım yapılabilir kredi notlu müşterilerle ilerliyoruz' yanıtını aktarıyor; neocloud'ların %65 düştüğünü, kısa vadeli tepkinin gelebileceğini ama bazılarının sürüneceğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "WULF",
+              "sentiment": "positive",
+              "note": "Pozisyonu var; CEO'nun disiplinli inşa yaklaşımını aktardı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Neocloud sahipleri için okuma önerisi",
+          "url": "https://x.com/ulkser/status/2114416665391669569",
+          "published_at": "2026-10-25T17:59:51.000Z",
+          "summary": "Black Panther Capital'in 'piyasa CoreWeave finansman sorununu AI talep sorunuyla karıştırıyor' tezini uzun ama okunmalı diye paylaştı.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Paylaşılan tezde sorunun talep değil CoreWeave finansmanı olduğu savunuluyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Chamath: neocloud'lar kötü sermayelenmiş",
+          "url": "https://x.com/ulkser/status/2114414703858606242",
+          "published_at": "2026-10-25T17:52:03.000Z",
+          "summary": "Chamath Palihapitiya'nın neocloud'ların kötü sermayelenmiş olduğu ve 2027'de atıl işlem kapasitesi görüleceği tespitini 'burada açıyor sıkıntıyı' diyerek paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Musk'ın atıl işlem kapasitesi paylaşımı",
+          "url": "https://x.com/ulkser/status/2114345212248252837",
+          "published_at": "2026-10-25T13:15:55.000Z",
+          "summary": "Musk'ın 'kısmen tamamlanmış veri merkezlerinde çok sayıda atıl işlem kapasitesi göreceğiz' paylaşımını 'Goodbye neoclouds' diyerek yeniden paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Brezilya borsası %20 düştü",
+          "url": "https://x.com/ulkser/status/2114623607301124591",
+          "published_at": "2026-10-26T07:42:10.000Z",
+          "summary": "Lula'nın beklenmedik yeniden seçilmesi sonrası Brezilya borsasının %20 düştüğü haberini şaşkınlıkla paylaştı.",
+          "assets": [
+            {
+              "symbol": "EWZ",
+              "sentiment": "negative",
+              "note": "Brezilya borsası %20 düştü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan **CRWV** açığa satışını küçük bir karla kapattığını yazdı. Asıl uzun paylaşımı Nvidia'nın Rubin için HBM4 hız şartını 11,7 Gbps'ten 9,6 Gbps'e indirmesi üzerine: GPU başına bant genişliği ~22 TB/s'den ~19,7 TB/s'ye düşüyor, bellek sınırlı çıkarımda kayıp yaklaşık %10-11. Ona göre bu **SK hynix** ve **Micron** için hacim ve kalifikasyon açısından rahatlama, Samsung'un hız üstünlüğünün değeri ise azalıyor; **AMD MI450**'nin bant genişliği hâlâ önde.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "CRWV açığa satışı kapatıldı",
+          "url": "https://x.com/AhmetSunelcan1/status/2114512928237883560",
+          "published_at": "2026-10-26T00:22:22.000Z",
+          "summary": "CRWV açığa satışını küçük bir karla tamamen kapattığını yazdı.",
+          "assets": [
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Açığa satış küçük karla kapatıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Rubin için HBM4 hız şartı 9,6 Gbps'e indi",
+          "url": "https://x.com/AhmetSunelcan1/status/2114507857500491829",
+          "published_at": "2026-10-26T00:02:13.000Z",
+          "summary": "Pin hızı 11,7'den 9,6 Gbps'e (~%18) iniyor, GPU başına bant genişliği ~22'den ~19,7 TB/s'ye düşüyor; bellek sınırlı çıkarımda kayıp ~%10-11. 9,6 Gbps JEDEC HBM4 aralığının üst sınırı ve üç üretici de rahatça tutturabilir. SK hynix ve Micron için rahatlama, Samsung'un hız üstünlüğünün değeri azalıyor; AMD MI450'nin 23,3 TB/s'si hâlâ önde.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Hacim ve kalifikasyon açısından rahatlama."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Hacim ve kalifikasyon açısından rahatlama."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Rubin için HBM4 hız şartı 9,6 Gbps'e indi; bellek sınırlı çıkarımda ~%10-11 kayıp."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 neocloud tartışmasında Musk'ın mesajını açıkça olumsuz okuyor: borç piyasalarının kapandığını, 200'ü aşkın neocloud'un elenebileceğini aktarıyor, ama **NBIS** gibi finansalı güçlü şirketlerin etkilenmemesi gerektiğini ve **CRWV**'nin yeterince düştüğünü düşünüyor. **Amazon**'un AWS kapasitesinin 2027 sonuna kadar dolu olduğunu ve The Information'a göre kiracıların gecikme cezasının günde 5 milyon dolara çıktığını da paylaştı. Gece vadeli endeksler teknoloji öncülüğünde pozitif açıldı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Musk: borç piyasaları neocloud'lara kapandı",
+          "url": "https://x.com/korkmazali08/status/2114460325223493935",
+          "published_at": "2026-10-25T20:53:20.000Z",
+          "summary": "Musk'ın borç piyasalarının neocloud'lara kapandığı, SpaceX'in GPU'lar için 40 milyar dolar borç bulduğu ve 200'ü aşkın neocloud'un elenebileceği sözlerini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "40 milyar dolar GPU borç finansmanı sağladığı aktarıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NBIS gibi güçlü şirketler etkilenmemeli",
+          "url": "https://x.com/korkmazali08/status/2114522288955806198",
+          "published_at": "2026-10-26T00:59:34.000Z",
+          "summary": "Çok sert bir düşüş beklemediğini, bazı hisselerin etkilenebileceğini ama Nbis gibi finansalı iyi hisselerin etkilenmemesi gerektiğini yazdı.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Finansalı iyi, etkilenmemesi gerekir."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AWS kapasitesi 2027 sonuna kadar dolu",
+          "url": "https://x.com/korkmazali08/status/2114390628582736261",
+          "published_at": "2026-10-25T16:16:23.000Z",
+          "summary": "Amazon'un AWS kapasitesinin 2027 sonuna kadar büyük ölçüde dolu olduğunu, rezervasyonların 2028'e uzandığını ve 2026 capex planının 220 milyar dolar olduğunu aktardı.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "AWS kapasitesi 2027 sonuna kadar dolu; 2026 capex 220 milyar dolar."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Veri merkezi kiracıları günlük 5 milyon dolar ceza istiyor",
+          "url": "https://x.com/korkmazali08/status/2114382902339186871",
+          "published_at": "2026-10-25T15:45:41.000Z",
+          "summary": "The Information'a göre kiracıların gecikme cezası talebi günde 1 milyon dolardan 5 milyon doların üzerine çıktı; 'herkesin bir anda data centerlar hakkında olumsuz konuşması tesadüf değil' diyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Vadeli endeksler pozitif açıldı",
+          "url": "https://x.com/korkmazali08/status/2114485443974906174",
+          "published_at": "2026-10-25T22:33:09.000Z",
+          "summary": "Dow +%0,29, S&P 500 +%0,42, Nasdaq 100 +%0,56, Russell 2000 +%0,38; VIX 19,33.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries Brezilya'da Lula'nın sürpriz zaferiyle **EWZ**'de yaklaşık %20 düşüşü ve vadelide realde %10 kaybı öne çıkardı. Fed'in bu hafta faizi %3,75-%4,00'da sabit bırakacağı (%90 ihtimal), spot **Bitcoin** ETF'lerinden 443 milyon dolar çıkış ve yuanın 6,67 ile dört yılın zirvesine çıkması diğer başlıklar. AI tarafında Musk'ın veri merkezi borç uyarısı, **SK Hynix**'in Kioxia satışından özel temettü planı ve Burry'nin rotasyon beklentisi var.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Lula yeniden seçildi, EWZ %20 düştü",
+          "url": "https://x.com/WallStDiaries/status/2114560950250446993",
+          "published_at": "2026-10-26T03:33:11.000Z",
+          "summary": "Lula %51,79 ile dördüncü kez seçildi; EWZ'deki %20 düşüş seçim öncesi sağ kanat zaferi fiyatlamasının çözülmesi ve mali disiplin kaygılarıyla açıklanıyor.",
+          "assets": [
+            {
+              "symbol": "EWZ",
+              "sentiment": "negative",
+              "note": "Yaklaşık %20 düşüş; mali disiplin kaygısı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Brezilya varlıklarında sert satış",
+          "url": "https://x.com/WallStDiaries/status/2114620545836720273",
+          "published_at": "2026-10-26T07:30:00.000Z",
+          "summary": "Vadelide real %10 değer kaybetti, endekste devre kesici ihtimali güçlendi.",
+          "assets": [
+            {
+              "symbol": "EWZ",
+              "sentiment": "negative",
+              "note": "Real %10 değer kaybı, devre kesici ihtimali."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fed yetkililerinden sabit faiz sinyali",
+          "url": "https://x.com/WallStDiaries/status/2114610392987242644",
+          "published_at": "2026-10-26T06:49:39.000Z",
+          "summary": "FOMC'de politika faizinin %3,75-%4,00'da sabit kalması bekleniyor, piyasa %90 ihtimal veriyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Fed öncesi tahvil piyasasında bekleyiş",
+          "url": "https://x.com/WallStDiaries/status/2114617303102820752",
+          "published_at": "2026-10-26T07:17:07.000Z",
+          "summary": "ABD Hazine getirileri Asya seansında geriledi, Çarşamba Fed kararı bekleniyor.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "neutral",
+              "note": "Getiriler Fed öncesi geriledi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Spot Bitcoin ETF'lerinden çıkış",
+          "url": "https://x.com/WallStDiaries/status/2114616122381099488",
+          "published_at": "2026-10-26T07:12:25.000Z",
+          "summary": "Tek günde 443 milyon dolar net çıkış, Ether fonları da benzer.",
+          "assets": [
+            {
+              "symbol": "IBIT",
+              "sentiment": "negative",
+              "note": "Tek günde 443 milyon dolar net çıkış."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yuan dört yılın zirvesinde",
+          "url": "https://x.com/WallStDiaries/status/2114617488776261816",
+          "published_at": "2026-10-26T07:17:51.000Z",
+          "summary": "Yuan 6,67 ile son dört yılın en güçlü seviyesinde; PBOC referans kuruyla değerlenmeyi frenlemeye çalışıyor.",
+          "assets": [
+            {
+              "symbol": "CNY",
+              "sentiment": "positive",
+              "note": "Dolar karşısında 6,67, dört yılın zirvesi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SK Hynix'ten Kioxia satışı sonrası özel temettü planı",
+          "url": "https://x.com/WallStDiaries/status/2114542568650228029",
+          "published_at": "2026-10-26T02:20:09.000Z",
+          "summary": "Kioxia hisse satışı kazancının %80'ini (~12 milyar dolar) özel temettü olarak dağıtma planı bildirildi; nihai karar yok.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "~12 milyar dolarlık özel temettü planı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Musk veri merkezi borç riskine karşı uyardı",
+          "url": "https://x.com/WallStDiaries/status/2114541064300187917",
+          "published_at": "2026-10-26T02:14:10.000Z",
+          "summary": "Kuruluşlar yalnızca AI veri merkezi gelirine bağlı şirketlere kredi vermeyi neredeyse kesti; neocloud'larda birleşme ve iflas dalgası olabilir.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Burry: derin rotasyon bekleniyor",
+          "url": "https://x.com/WallStDiaries/status/2114386506898944092",
+          "published_at": "2026-10-25T16:00:01.000Z",
+          "summary": "S&P 500 hisselerinin %55'i 10 yıllık zirvelerinin en az %20 altında; Burry çöküş yerine liderlerin gerilediği bir rotasyon bekliyor.",
+          "assets": [
+            {
+              "symbol": "SPY",
+              "sentiment": "neutral",
+              "note": "Piyasa genişliği bozuk; rotasyon beklentisi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy SpaceX bilançosunu AI altyapı talebinin sürdüğünün işareti olarak okuyor: gelir 14,6 milyar dolar (+%161), AI geliri 7,6 milyar dolar. **NVDA** için eski GPU'ların bile primli kiralanması fiyatlama gücü sinyali, **CRWV** için ise talep var ama finansman riski sürüyor. ABD enflasyonunda petrolün Fed indirimlerini zorlaştırabileceğini de yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SpaceX bilançosu NVIDIA ve CoreWeave için ne diyor",
+          "url": "https://x.com/FinancewithIzzy/status/2114296239063732489",
+          "published_at": "2026-10-25T10:01:19.000Z",
+          "summary": "Gelir 14,6 milyar $ (+%161), AI geliri 7,6 milyar $, AI capex 16,4 milyar $; H100'ler bile daha yüksek fiyata kiralanıyor. NVDA için fiyatlama gücü sinyali, CRWV için talep güçlü ama borç ve finansman riskleri sürüyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Eski GPU'lar bile primli kiralanıyor; fiyatlama gücü sinyali."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Talep güçlü, finansman riski sürüyor."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Gelir 14,6 milyar $ (+%161)."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Enflasyon yavaşladı ama fiyatlar yüksek",
+          "url": "https://x.com/FinancewithIzzy/status/2114432406203609323",
+          "published_at": "2026-10-25T19:02:24.000Z",
+          "summary": "Trump döneminde fiyat artışı Biden dönemine göre yarı hızda; petrol yüksek kalırsa enflasyon baskısı sürer ve Fed indirimleri zorlaşır.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Buffett dersi: düşüşte satma",
+          "url": "https://x.com/FinancewithIzzy/status/2114326861006139710",
+          "published_at": "2026-10-25T12:03:00.000Z",
+          "summary": "JPMorgan verisine göre en iyi 10 günü kaçıran yatırımcı sürekli yatırımdakinin getirisinin ancak %60'ını elde etti; kaliteli şirketleri uzun tutma mesajı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine The Information'a dayanarak AI veri merkezi kiracılarının gecikme cezasını günde 5 milyon doların üzerine çıkardığını (yıl başında ~1 milyon dolar) duyurdu. Nvidia ve TCV, aylık 12 trilyon token işleyen ve yıllık 1 milyar dolar gelire ulaşan **Higgsfield**'in yatırım turuna katıldı. Günün takvimi de paylaşıldı: **Cadence**, **Amkor** ve **Rambus** bilanço açıklayacak.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Veri merkezi gecikme cezaları günde 5 milyon doları aştı",
+          "url": "https://x.com/wallstengine/status/2114382264679416154",
+          "published_at": "2026-10-25T15:43:09.000Z",
+          "summary": "Kiracılar, güç ve tesisler zamanında teslim edilmezse günde 5 milyon doların üzerinde ceza talep ediyor; yıl başında yaklaşık 1 milyon dolardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia Higgsfield'in yatırım turuna katıldı",
+          "url": "https://x.com/wallstengine/status/2114297852948091174",
+          "published_at": "2026-10-25T10:07:44.000Z",
+          "summary": "Nvidia ve TCV, Ağustos'ta 5,4 milyar dolar değerlemeyle 400 milyon dolar toplayan Higgsfield'in Seri B uzatmasına katıldı; yıllık gelir 1 milyar doları aştı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Higgsfield yatırım turuna katıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Günün bilanço ve veri takvimi",
+          "url": "https://x.com/wallstengine/status/2114591284438643135",
+          "published_at": "2026-10-26T05:33:44.000Z",
+          "summary": "Açılış öncesi Verizon; kapanış sonrası Cadence, Amkor, Rambus, Welltower, Whirlpool ve Public Storage bilanço açıklayacak; 13:00'te 2 yıllık tahvil ihalesi var.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz portföyünü güncelledi: bu yıl kazandıranlar yazılım (siber güvenlik) ve biyoteknoloji, kaybettirenler kuantum ve uzay; **PLTR**, **CRWD** ve **NET**'te kar realize ediyor ve enerji, malzeme ve robotik temalarına kaydırıyor. **Apple** portföyün %16'sı ve 2021'den beri ilk kez azaltmayı düşünüyor; Apple'ın F/K'sının 40 olmasını yatırımcıların nakit akışı öngörülebilirliğine verdiği prime bağlıyor. **Meta**'da serbest nakit akışı ilk kez negatife dönmüş. Düşen **EOSE** için 'ikinci tur' zamanı gelebilir diyor, **CAT**'e yeniden bakıyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Çeşitlendirilmiş uzun vadeli portföy güncellemesi",
+          "url": "https://x.com/jrouldz/status/2114366870497165796",
+          "published_at": "2026-10-25T14:41:59.000Z",
+          "summary": "Yazılım ve biyoteknoloji kazandırdı, kuantum ve uzay kaybettirdi; fintech azaltılıyor, PLTR/CRWD/NET'te kar alınıyor, enerji/malzeme/robotik'te pozisyon kuruluyor; Apple portföyün %16'sı ve azaltma düşünülüyor.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Portföyün %16'sı; 2021'den beri ilk azaltma düşünülüyor."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "negative",
+              "note": "Parabolik yükselen yazılım isimlerinde kar realizasyonu."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "negative",
+              "note": "Parabolik yükselen yazılım isimlerinde kar realizasyonu."
+            },
+            {
+              "symbol": "NET",
+              "sentiment": "negative",
+              "note": "Parabolik yükselen yazılım isimlerinde kar realizasyonu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yatırımcılar Apple'a neden prim ödüyor?",
+          "url": "https://x.com/jrouldz/status/2114407822439882868",
+          "published_at": "2026-10-25T17:24:43.000Z",
+          "summary": "F/K: AAPL 40, NVDA 27, META 22, GOOG 16; kaldıraçlı büyüme şirketleri ezilirken Apple'ın öne çıkması, yatırımcıların nakit akışı güvenine ödül verdiğini düşündürüyor.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "F/K 40; prim nakit akışı güvenine bağlanıyor."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "F/K 27."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "negative",
+              "note": "Serbest nakit akışı ilk kez negatife döndü."
+            },
+            {
+              "symbol": "GOOG",
+              "sentiment": "neutral",
+              "note": "F/K 16; yeterince var, tutuyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "EOSE için ikinci tur zamanı gelebilir",
+          "url": "https://x.com/jrouldz/status/2114448659806859395",
+          "published_at": "2026-10-25T20:06:59.000Z",
+          "summary": "2025'in en iyi işlemi EOSE'de erken kar aldığını, destek bölgesinin kırıldığını ama boğaların teslim olup sentiment dipteyken yeni bir tur için zamanın gelebileceğini yazdı.",
+          "assets": [
+            {
+              "symbol": "EOSE",
+              "sentiment": "positive",
+              "note": "Sentiment dipte; ikinci tur için zaman gelebilir."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "GEV ve CAT üzerine",
+          "url": "https://x.com/jrouldz/status/2114411412671856832",
+          "published_at": "2026-10-25T17:38:59.000Z",
+          "summary": "GEV'e düşüşte bile alım olarak bakamıyor (175 milyar dolarlık backlog var); CAT'e son düşüşte yeniden bakıyor.",
+          "assets": [
+            {
+              "symbol": "GEV",
+              "sentiment": "neutral",
+              "note": "Düşüşe rağmen alım olarak görmüyor; 175 milyar dolar backlog."
+            },
+            {
+              "symbol": "CAT",
+              "sentiment": "neutral",
+              "note": "Son düşüşte yeniden bakıyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance, Musk'ın paylaşımını **NBIS** için felaket yorumlayanların yanlış anladığını savunuyor: GPU'lar güç altyapısından hızlı kurulduğu için atıl kapasite olacak, bu da elektriği hazır neocloud'larda kiralama fiyatlarını yüksek tutar. Musk'ın kendisinin 40 milyar dolarlık Nvidia çipi aldığına dikkat çekiyor. Kısa şirket haberlerinde **Amazon**'un kapasitesinin neredeyse satıldığını, **Nebius**'un Suudi anlaşmasını ve **Nvidia** H200 kiralama fiyatlarındaki artışı özetledi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Musk'ın paylaşımı yanlış okunuyor",
+          "url": "https://x.com/cevikfinance/status/2114406718356566309",
+          "published_at": "2026-10-25T17:20:20.000Z",
+          "summary": "Musk'ın atıl kapasite uyarısının GPU'ların güçten hızlı kurulmasına işaret ettiğini, elektriği hazır neocloud'lar için olumlu olduğunu savunuyor.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Elektriği hazır sağlayıcılar için kiralama fiyatlarını yüksek tutan arz kısıtı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kısa şirket haberleri",
+          "url": "https://x.com/cevikfinance/status/2114278511611437338",
+          "published_at": "2026-10-25T08:50:53.000Z",
+          "summary": "Amazon kapasitesi 2026 için tükendi; Nebius NEOM'da 50 MW'a kadar ön anlaşma imzaladı; Meta Sundial'ı aldı; Nvidia H200 kiralama fiyatları ~%160, H100 ~%40 arttı; BofA veri merkezi harcamasını 2030'da 2,93 trilyon dolar görüyor.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "Kapasite taahhütleri 2026 için tükendi, 2027 büyük ölçüde satıldı."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "NEOM'da 50 MW'a kadar ön anlaşma; 2027 kapasitesi satılmış."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Sundial'ı satın aldı; Muse reklamsız gelir modeli."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "H200 kiralama fiyatları ~%160, H100 ~%40 arttı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Musk talep düşecek demiyor",
+          "url": "https://x.com/cevikfinance/status/2114408136006103364",
+          "published_at": "2026-10-25T17:25:58.000Z",
+          "summary": "Musk'ın elektriğin sonraki darboğaz olduğunu söylediğini; talep azalacak diye düşünse 40 milyar dolarlık Nvidia çipi almayacağını yazdı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Musk'ın 40 milyar dolarlık çip alımı talebin sürdüğünü gösteriyor."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Portföyün en büyük kalemi (%18,8) ve tek bir fintech hissesi; jrouldz'un fintech'i azaltması ve risk iştahının zayıflaması volatiliteyi artırabilir. Pozisyon boyutu başlıca risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Kaldıraçlı büyüme hisselerinde satış sonrası tepki potansiyeli var.",
+          "Aleyhte: Tek hisse portföyün yaklaşık beşte biri, risk yoğunlaşıyor."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [
+          {
+            "person": "Heisenberg",
+            "sentiment": "negative",
+            "quote": "Fiyat ne yapıyor? Beklediğim tepkiyi alıyor ama 200 haftalık hareketli ortalamayı geçemiyor. Orası direnç olarak çalışıyor.",
+            "source_url": "https://x.com/heisenbergtrx/status/2114313550868980009"
+          }
+        ],
+        "action": "hold",
+        "why": "Heisenberg'e göre BIST 200 haftalık ortalamada direnç görüyor ve 210-230 dolar bölgesine gerileme ihtimali var, ama yeni bir alım/satım gerekçesi vermedi.",
+        "opinion": "Türkiye ETF'i TL ve dolar riskini birlikte taşıyor; Heisenberg'in direnç uyarısı kısa vadeli temkin gerektiriyor. Ağırlık %12,9 ile makul ama yabancı satışı riski var.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Düşüş sonrası değerleme cazibesi artabilir.",
+          "Aleyhte: Heisenberg'e göre 200 haftalık ortalama direnç olarak çalışıyor."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "HBM4 hız şartının düşmesi ve AI harcamalarının sürmesi Broadcom'un özel çip iş modeli için dolaylı destek; asıl risk AI altyapısındaki finansman stresi.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Amazon ve diğer hiperölçekleyicilerin kapasite ve capex planları talebi destekliyor.",
+          "Aleyhte: AI veri merkezi finansman koşulları sıkılaşıyor."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "jrouldz",
+            "sentiment": "negative",
+            "quote": "$META by comparison just had FCF flip negative for the first time",
+            "source_url": "https://x.com/jrouldz/status/2114409665282937299"
+          },
+          {
+            "person": "cevikfinance",
+            "sentiment": "neutral",
+            "quote": "Satın alma küçük; asıl dikkat çeken Muse'un reklam dışı gelir modeli.",
+            "source_url": "https://x.com/cevikfinance/status/2114278511611437338"
+          }
+        ],
+        "action": "hold",
+        "why": "jrouldz'a göre Meta'nın serbest nakit akışı ilk kez negatife döndü, ancak net bir satış seviyesi yok.",
+        "opinion": "Negatif FCF, yüksek AI capex'inin getiri baskısını gösteriyor; reklam dışı gelir modeli uzun vadeli bir çeşitlendirme ama henüz sonuç vermedi.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Sundial alımı ve Muse ile gelir çeşitlendirme çabası var.",
+          "Aleyhte: jrouldz'a göre serbest nakit akışı ilk kez negatife döndü."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer ve enerji teması AI veri merkezlerinin elektrik ihtiyacından destek alıyor; kaynaklarda geçen elektrik darboğazı bu tezi güçlendiriyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Cevikfinance'ın aktardığı Musk görüşüne göre elektrik sonraki darboğaz.",
+          "Aleyhte: Veri merkezi projeleri finansman nedeniyle gecikirse talep zamanlaması kayabilir."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Reddit yüksek beta bir büyüme hissesi; risk iştahı zayıfladığında sert dalgalanır. Ağırlık %9,4 ile orta-yüksek.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Vadeli endeksler pozitif açıldı, risk iştahı toparlanabilir.",
+          "Aleyhte: Büyüme hisselerinde artan volatilite ve piyasa genişliği zayıflığı."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Netflix AI altyapı finansmanı hikâyesinden görece uzak ve nakit akışı öngörülebilir; jrouldz'un işaret ettiği nakit akışı güvenine verilen prim lehine olabilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Öngörülebilir nakit akışına yatırımcı primi var.",
+          "Aleyhte: Bugün hisseye özgü yeni katalizör yok."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "ABD Hazine tahvili getirileri, Asya seansında gerileme kaydetti.",
+            "source_url": "https://x.com/WallStDiaries/status/2114617303102820752"
+          }
+        ],
+        "action": "hold",
+        "why": "WallStDiaries'e göre Fed bu hafta faizi sabit bırakacak ve getiriler geriliyor, ama uzun vadeli tahvil için somut bir seviye yok.",
+        "opinion": "Uzun vadeli tahvil Fed mesajına ve petrol kaynaklı enflasyon baskısına duyarlı; portföyde dengeleyici rol oynuyor ama süre riski yüksek.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Fed'in sabit faiz beklentisi ve gerileyen getiriler.",
+          "Aleyhte: FinancewithIzzy'ye göre petrol yüksek kalırsa Fed indirimleri zorlaşır."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Güç altyapısı teması AI veri merkezi elektrik talebinden fayda sağlıyor; küçük ağırlık (%5,3) riski sınırlıyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Veri merkezi gecikme cezalarının artması enerji ve tesis hazırlığına verilen önemi gösteriyor.",
+          "Aleyhte: Tek bir küçük şirket, bugün hisseye özgü veri yok."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "NBIS",
+        "name": "Nebius",
+        "why": "ulkser, neocloud sektöründe güçlü mali yapısıyla öne çıkardığı Nebius'ta biraz daha düşüşte ilk kademeyi almayı düşünüyor; korkmazali08 de finansalı iyi olduğu için etkilenmemesini bekliyor.",
+        "source_url": "https://x.com/ulkser/status/2114456455986442675"
+      },
+      {
+        "symbol": "EOSE",
+        "name": "Eos Energy",
+        "why": "jrouldz, sentiment dipteyken ve destek bölgesi kırılmışken EOSE'de 'ikinci tur' zamanının gelebileceğini söylüyor.",
+        "source_url": "https://x.com/jrouldz/status/2114448659806859395"
+      },
+      {
+        "symbol": "CAT",
+        "name": "Caterpillar",
+        "why": "jrouldz, zirveden %35 düşen Caterpillar'a son düşüşte yeniden bakıyor.",
+        "source_url": "https://x.com/jrouldz/status/2114411412671856832"
+      }
+    ]
+  }
+}
