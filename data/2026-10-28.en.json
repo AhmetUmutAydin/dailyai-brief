@@ -1,0 +1,2100 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T08:24:55.711Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Anthropic's IPO numbers beat expectations and lifted AI and chip stocks",
+      "person": "Bora Özkent",
+      "why": "Losses came in below expectations and customer mix is strong; SMH rose 2.74%, AMD 2.80%, Nvidia 2.39%. Bora Özkent still finds the $1.52 trillion valuation debatable because of off-balance-sheet commitments.",
+      "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+    },
+    {
+      "title": "Fed announces its rate decision today: hold expected, focus on December",
+      "person": "WallStDiaries",
+      "why": "Markets price the policy rate holding at 3.75-4.00% with roughly 90% probability; the 10-year yield fell to 4.97%, below the 5% threshold.",
+      "source_url": "https://x.com/WallStDiaries/status/2115028231157866937"
+    },
+    {
+      "title": "SoFi beat earnings, raised guidance and said no new capital raise is needed",
+      "person": "wallstengine",
+      "why": "Shares rose 11%; the 2027 revenue guide of ~$6.4B beat the $6B estimate, and management said no additional capital raise is assumed or needed.",
+      "source_url": "https://x.com/wallstengine/status/2115081997735657486"
+    },
+    {
+      "title": "Meta's stock sale drew 5x demand, Nvidia takes $3 billion",
+      "person": "wallstengine",
+      "why": "The sale was priced at $625 and upsized to $25B; Meta's offerings now total $37.5B, with another potential $60B program planned for 2027.",
+      "source_url": "https://x.com/wallstengine/status/2115023544384143845"
+    },
+    {
+      "title": "SK Hynix beat Q3 estimates, plans ~₩100 trillion in shareholder returns",
+      "person": "wallstengine",
+      "why": "Operating profit was ₩83.33T (est. ₩77.5T); DRAM ASP rose in the high-20% range QoQ and gross margin was 85.7%.",
+      "source_url": "https://x.com/wallstengine/status/2115224842911838560"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Fed decision and rate expectations",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Markets price a Fed hold at ~90%, and the 10-year yield dropped below 5%.",
+          "quote": "Markets are pricing in roughly a 90% probability that the Fed will hold the policy rate in the 3.75-4.00% band at this week's meeting.",
+          "source_url": "https://x.com/WallStDiaries/status/2115028231157866937"
+        },
+        {
+          "person": "Bora Özkent",
+          "view": "No hike is expected at this meeting, but the odds of a December hike remain high.",
+          "quote": "The odds of a rate hike in December are still high.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Some analysts think the freeze in credit markets could make Warsh less hawkish than expected.",
+          "quote": "Some analysts think credit markets effectively shut down after the Fed's September meeting, so Chair Kevin Warsh may sound less hawkish than expected tomorrow.",
+          "source_url": "https://x.com/cevikfinance/status/2115016518379667752"
+        },
+        {
+          "person": "ulkser",
+          "view": "Expects a strong upside move in IWM if Warsh stays measured; holds a position.",
+          "quote": "If Warsh doesn't talk nonsense tomorrow, it could make a serious move up.",
+          "source_url": "https://x.com/ulkser/status/2115105902579626077"
+        }
+      ]
+    },
+    {
+      "topic": "Financing of AI spending and interest rates",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "AI news eased the financing squeeze, but money is still scarce.",
+          "quote": "So the fears on the financing side are not over.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "AI spending can keep rates higher for longer by lifting energy and equipment demand, with credit-dependent small businesses carrying the burden.",
+          "quote": "While growing the economy, AI may also contribute to rates staying high for longer.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2115050887400067181"
+        }
+      ]
+    },
+    {
+      "topic": "Geopolitics: Iran and oil",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Oil is still above $100; the report that Iran may agree to ship enriched uranium to Russia awaits confirmation.",
+          "quote": "Oil is still above 100, although it eased a bit yesterday.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Shared Trump's statement on the Iran war.",
+          "quote": "Trump on Iran: “The Iran war ends whenever I want it to.”",
+          "source_url": "https://x.com/korkmazali08/status/2115241232058429665"
+        }
+      ]
+    },
+    {
+      "topic": "Brazil's election and capital returning to the US",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Lula's win hit Brazilian assets hard; he still likes Mercado Libre and Nubank.",
+          "quote": "EWZ, the largest Brazil ETF, collapsed 19.82% yesterday.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "Thinks big capital that took losses in Brazil is starting to move back into US stocks.",
+          "quote": "The Anthropic news has an effect too, but I think the big capital that got beaten up in Brazil has started returning to US stocks.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2115168613854527649"
+        }
+      ]
+    },
+    {
+      "topic": "US data: consumer confidence and durable goods orders",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "October consumer confidence of 91.7 far exceeded the 81.0 estimate.",
+          "quote": "U.S. OCT. CONSUMER CONFIDENCE: 91.7 (Est. 81.0)",
+          "source_url": "https://x.com/wallstengine/status/2115082255991558602"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "September durable goods orders came in below expectations.",
+          "quote": "Total orders: up 1.8% — estimate: 2.0%",
+          "source_url": "https://x.com/korkmazali08/status/2115062394527367291"
+        }
+      ]
+    },
+    {
+      "topic": "Inflation and the BOJ in Japan",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Core inflation is at a 3-year high, strengthening expectations of further BOJ hikes.",
+          "quote": "In Japan, core inflation excluding fresh food and energy rose to 2.4%, a 3-year high.",
+          "source_url": "https://x.com/WallStDiaries/status/2115035787343327263"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "priority": "high",
+      "why": "Several people weighed in; jrouldz dropped a planned sale after earnings and ulkser pointed to a 40-45 band if rates fall.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "So if rates fall, it will rocket to the 40-45 band.",
+          "source_url": "https://x.com/ulkser/status/2115045619735695846"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I was mentally prepared to dump $SOFI this morning on a bad report and then they ended up delivering so I am going to keep holding",
+          "source_url": "https://x.com/jrouldz/status/2115247991934070921"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$SOFI says we won't dilute any more, we don't need to. Good news for investors.",
+          "source_url": "https://x.com/cevikfinance/status/2115092094817611953"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$SOFI +11% Following a Q3 earnings beat, raised 2026 guidance, and a 2027 outlook above Wall Street estimates.",
+          "source_url": "https://x.com/wallstengine/status/2115081997735657486"
+        }
+      ]
+    },
+    {
+      "symbol": "SKHY",
+      "name": "SK Hynix",
+      "priority": "high",
+      "why": "Several people commented on the results; Ahmet Sunelcan sees SK Hynix as safer than SanDisk.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "SK HYNIX $SKHY EARNINGS ARE OUT 3Q OPER PROFIT 83.33T WON, EST. 77.5T WON",
+          "source_url": "https://x.com/wallstengine/status/2115224468436209754"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$SKHY is safer, $SNDK has more potential.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2115114141988098093"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$KOSPI %7, $SKHY sagolsun.",
+          "source_url": "https://x.com/ulkser/status/2115343087333490706"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "But memory stocks are cyclical!",
+          "source_url": "https://x.com/cevikfinance/status/2115008895399715178"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "SK Hynix's Q3 results are out: Operating profit: 83.33 trillion won, Estimate: 77.5 trillion won. Here we go",
+          "source_url": "https://x.com/korkmazali08/status/2115232687833088200"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "Several people commented on the share sale and investor participation; Bora Özkent sees the stock as weak on the day.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "The reason Meta is negative is that it is looking for money.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$META's $25B stock sale draws 5x demand. The offering was priced at $625 per share.",
+          "source_url": "https://x.com/wallstengine/status/2115112986176278810"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "Others like $META definitely carry more risk but probably more upside potential to match.",
+          "source_url": "https://x.com/jrouldz/status/2115245540732456992"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Meta also raised the size of its common stock offering at $625 per share from $22.5 billion to $25 billion.",
+          "source_url": "https://x.com/korkmazali08/status/2115047179802878392"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "high",
+      "why": "A $63B Anthropic financing deal and a D.A. Davidson upgrade with a $400 target arrived together.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "D.A. Davidson upgraded Broadcom $AVGO to Buy from Neutral, raising its price target to $400 from $350.",
+          "source_url": "https://x.com/wallstengine/status/2115025494060277835"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Broadcom is seeking $63 billion of financing.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        }
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "name": "SanDisk",
+      "priority": "high",
+      "why": "Ahead of the Oct 29 earnings Wedbush kept its $2,000 target; Ahmet Sunelcan also sees higher potential.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "SanDisk $SNDK reports on Oct 29. Wedbush analyst Matt Bryson kept his Buy rating and $2,000 price target while raising estimates.",
+          "source_url": "https://x.com/korkmazali08/status/2115264274515841457"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$SKHY is safer, $SNDK has more potential.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2115114141988098093"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ",
+      "priority": "high",
+      "why": "korkmazali08 gave specific levels: the 700 reaction, holding above 725, and 680 and -20% from the peak.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$QQQ continues its upward move after reacting from the $700 level. The key zone here is $725 and staying above it.",
+          "source_url": "https://x.com/korkmazali08/status/2115140835239137395"
+        }
+      ]
+    },
+    {
+      "symbol": "SMH",
+      "name": "VanEck Semiconductor ETF",
+      "priority": "high",
+      "why": "ulkser expects a sharp move through the end of November, and Bora Özkent reported the 2.74% daily gain.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "the correction in the market is over, there is a rally-time feel, especially on the megacap AI side; $DRAM $SMH $MAGS could make a sharp move by the end of November",
+          "source_url": "https://x.com/ulkser/status/2115343087333490706"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "SMH is the largest chip ETF. It rose 2.74%.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        }
+      ]
+    },
+    {
+      "symbol": "V",
+      "name": "Visa",
+      "priority": "high",
+      "why": "jrouldz stated clearly he is ready to sell the position and rebalance after earnings.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "I think I'm finally ready to dump my $V position after this earnings report +150% in 6 years.",
+          "source_url": "https://x.com/jrouldz/status/2115234856586162414"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "VISA $V Q4’26 EARNINGS HIGHLIGHTS Revenue: $12.1B (Est. $12.08B); +13% YoY",
+          "source_url": "https://x.com/wallstengine/status/2115173403741016421"
+        }
+      ]
+    },
+    {
+      "symbol": "MELI",
+      "name": "MercadoLibre",
+      "priority": "high",
+      "why": "Bora Özkent sees the drop as an opportunity, and per wallstengine Citi upgraded to Buy with a $2,050 target.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "I really like Mercado Libre. It fell 7.81%.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Citi upgraded MercadoLibre $MELI to Buy from Neutral, with $2,050 PT.",
+          "source_url": "https://x.com/wallstengine/status/2115041449846931869"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "priority": "high",
+      "why": "jrouldz named Amazon the 'safest bet', ulkser flagged options flow, and wallstengine reported cost pressure.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "the company I consider to be the \"safest bet\" on the market is $AMZN",
+          "source_url": "https://x.com/jrouldz/status/2115245540732456992"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Heavy options also came in on $GOOGL $AAPL and $AMZN for 2-3 month expiries.",
+          "source_url": "https://x.com/ulkser/status/2115343087333490706"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Amazon $AMZN is internally forecasting a $612 million gross loss for its devices business in 2026, compared with its original target of $438 million, per Business Insider.",
+          "source_url": "https://x.com/wallstengine/status/2115044131546574865"
+        }
+      ]
+    },
+    {
+      "symbol": "TER",
+      "name": "Teradyne",
+      "priority": "high",
+      "why": "Ahmet Sunelcan laid out 33x/27x P/E and a ~$446 average target on the pre-earnings close; two sources reported the results.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "The stock trades at a premium to its sector, but after the past month's drop a 27x P/E against 24% annual earnings growth looks reasonable: not very expensive, not cheap.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2115182821438374031"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "TERADYNE $TER Q3’26 EARNINGS HIGHLIGHTS Revenue: $1,306M (Est. $1.26B) 🟢; +70% YoY",
+          "source_url": "https://x.com/wallstengine/status/2115179505065095446"
+        }
+      ]
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing",
+      "priority": "medium",
+      "why": "A 10% drop after the delivery outlook cut; two sources reported the results.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Boeing $BA -10% Following Boeing's cut to its 2026 aircraft delivery outlook",
+          "source_url": "https://x.com/wallstengine/status/2115102201635119569"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Boeing Q3 2026 Earnings: Boeing grew revenue in the third quarter, narrowed its net loss significantly and strengthened operating cash flow.",
+          "source_url": "https://x.com/WallStDiaries/status/2115120671738978647"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "priority": "medium",
+      "why": "korkmazali08 gave a clearly positive view; AMD's $1B investment in Meta was covered by wallstengine.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "AMD is becoming one of the lead players. It broke the 4-5 year cycle.",
+          "source_url": "https://x.com/korkmazali08/status/2115081825030967427"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$AMD TO INVEST $1 BILLION IN $META AS COMPANIES EXPAND AI INFRASTRUCTURE PARTNERSHIP",
+          "source_url": "https://x.com/wallstengine/status/2115073055831818394"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "No one gave a clear buy/sell view, but the $3B Meta investment and hyperscaler earnings featured across three sources.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "NVIDIA INVESTORS, ATTENTION! THIS WEEK IS ACTUALLY NVIDIA'S TEST TOO!",
+          "source_url": "https://x.com/FinancewithIzzy/status/2115065982444028229"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Nvidia $NVDA will invest $3 billion in Meta's $META new share offering.",
+          "source_url": "https://x.com/korkmazali08/status/2115047179802878392"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$NVDA will invest $3 billion in $META's equity offering.",
+          "source_url": "https://x.com/wallstengine/status/2115023544384143845"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "priority": "medium",
+      "why": "Ahead of the Oct 28 earnings Izzy listed concrete expectations (Azure ~45%, CapEx $50B+).",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "In Microsoft's earnings the real test is not revenue but the return on AI investments!",
+          "source_url": "https://x.com/FinancewithIzzy/status/2115125566776942920"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "Microsoft: On Oct 26 it offered voluntary departure to about 60,000 employees (about 27% of its workforce) in the US, Canada, India and the UK.",
+          "source_url": "https://x.com/cevikfinance/status/2115112646164836852"
+        }
+      ]
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood",
+      "priority": "medium",
+      "why": "Down ~5% after earnings; jrouldz holds reluctantly and ulkser noted SoFi outperforming HOOD.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "I am pretty jaded by the fintech sector in general I reluctantly continue to hold my $HOOD",
+          "source_url": "https://x.com/jrouldz/status/2115236090449707168"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Robinhood $HOOD reported record transaction-based revenue of $867 million in Q3, up 19% YoY & 12% QoQ.",
+          "source_url": "https://x.com/wallstengine/status/2115182455930179672"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "medium",
+      "why": "jrouldz said he is close to trimming because Apple is ~16% of his portfolio.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$AAPL has consumed too much of my portfolio for comfort now (~16%) and I am really close to trimming but I'd never consider selling the whole thing.",
+          "source_url": "https://x.com/jrouldz/status/2115236349468938587"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Apple $AAPL unveiled its new 14-inch MacBook Pro powered by the M6 chip. Starting at $1,999, with preorders opening October 28 and availability beginning November 6.",
+          "source_url": "https://x.com/wallstengine/status/2115067677513576768"
+        }
+      ]
+    },
+    {
+      "symbol": "INOD",
+      "name": "Innodata",
+      "priority": "medium",
+      "why": "Shares fell after 550 layoffs; jrouldz will watch the Nov 5 earnings.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "When you only have a few customers, losing one is a huge loss. I am obviously glad I avoided this one for now!",
+          "source_url": "https://x.com/jrouldz/status/2115091260595671203"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Innodata $INOD shares are trading lower amid reports of sudden layoffs across its India and Philippines operations.",
+          "source_url": "https://x.com/wallstengine/status/2115064553910489204"
+        }
+      ]
+    },
+    {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "priority": "medium",
+      "why": "Revenue and Q4 guidance missed (Q4 revenue guide $225-255M vs $300M estimate).",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "ENPHASE ENERGY $ENPH Q3’26 EARNINGS HIGHLIGHTS Revenue: $293.3M (Est. $304M) 🔴",
+          "source_url": "https://x.com/wallstengine/status/2115173488348610847"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Enphase Q3 2026 Earnings: Revenue at the low end of guidance, margin and profit fell. Q4 outlook is even weaker.",
+          "source_url": "https://x.com/WallStDiaries/status/2115175397675471335"
+        }
+      ]
+    },
+    {
+      "symbol": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "priority": "medium",
+      "why": "ulkser holds a position and gave an upside view for after the Fed speech.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$IWM is clearly breaking out. If Warsh doesn't talk nonsense tomorrow, it could make a serious move up. Not investment advice. I have a position",
+          "source_url": "https://x.com/ulkser/status/2115105902579626077"
+        }
+      ]
+    },
+    {
+      "symbol": "MAGS",
+      "name": "Roundhill Magnificent Seven ETF",
+      "priority": "medium",
+      "why": "ulkser repeated his expectation of a MAGS rally into year-end in two separate posts.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "They are gunning for a $MaGS rally to the year end",
+          "source_url": "https://x.com/ulkser/status/2115337578258026884"
+        }
+      ]
+    },
+    {
+      "symbol": "NU",
+      "name": "Nu Holdings",
+      "priority": "medium",
+      "why": "Bora Özkent said he likes the company after its 16.95% drop.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "I really like Nubank. The region's digital bank fell 16.95%.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "medium",
+      "why": "Bank of America's list and $275 target are a concrete view.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Bank of America Securities analysts added SpaceX to the firm's prestigious \"US 1\" list of top ideas. The bank keeps its Buy rating and $275 price target.",
+          "source_url": "https://x.com/WallStDiaries/status/2115160351520215478"
+        }
+      ]
+    },
+    {
+      "symbol": "EWZ",
+      "name": "iShares MSCI Brazil ETF",
+      "priority": "medium",
+      "why": "Sharp post-election collapse (19.82%); Bora Özkent thinks some stocks have become cheap.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Because of this, EWZ, the largest Brazil ETF, collapsed 19.82% yesterday.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        }
+      ]
+    },
+    {
+      "symbol": "BWXT",
+      "name": "BWX Technologies",
+      "priority": "low",
+      "why": "",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "BWX Technologies and Antares Sign a TRISO Nuclear Fuel Supply Agreement",
+          "source_url": "https://x.com/WallStDiaries/status/2115084662410293609"
+        }
+      ]
+    },
+    {
+      "symbol": "XAUUSD",
+      "name": "Gold",
+      "priority": "low",
+      "why": "",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "$XAUUSD $GLD Kritik yerlere geldik. Altin dikkat",
+          "source_url": "https://x.com/ulkser/status/2115014763755569202"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "low",
+      "why": "",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Bitcoin is having a somewhat unpleasant day.",
+          "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent's day centers on Anthropic's IPO filing: he says losses were below expectations, growth was in line and customer mix was strong, which lifted all AI stocks. **SMH** rose 2.74%, **AMD** 2.80% and **Nvidia** 2.39%, while **Meta** was negative because of its roughly $95 billion new share sale plan. **Broadcom** is seeking $63 billion of financing, so he thinks financing fears are not over.\n\nIn Brazil, Lula's election win sent **EWZ** down 19.82%, **MercadoLibre** down 7.81% and **Nubank** down 16.95%; Bora says he likes both companies. Oil is still above $100, the Fed decision arrives at 21:00 Turkey time and the odds of a December hike are high. He also said he will be quiet today and until tomorrow evening.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Anthropic Saved the Nasdaq",
+          "url": "https://www.youtube.com/watch?v=JSNjCSYGOvg",
+          "published_at": "2026-10-27T09:30:04+00:00",
+          "summary": "Anthropic's IPO filing came in better than expected: losses below expectations, growth in line and a strong customer mix. According to Bora Özkent, the first-half operating loss is $693 million and the ~$8.9 billion spent on compute equals 55% of revenue. The company holds roughly $140 billion in cash and is expected to raise another $100 billion in the IPO; the $1.52 trillion valuation is debatable because of off-balance-sheet commitments with companies like Amazon and Broadcom. The news lifted SMH 2.74%, AMD 2.80% and Nvidia 2.39%; Meta was negative because of its $95 billion share sale plan, and Nvidia, AMD and Broadcom said they may take up to $5 billion of shares in total. Broadcom is seeking $63 billion of financing, while SpaceX closed $40 billion with Apollo. After Lula's win in Brazil, EWZ fell 19.82%, MercadoLibre 7.81% and Nubank 16.95%, and Bora says he likes both companies. Oil is above $100; the report that Iran may agree to send enriched uranium to Russia awaits confirmation. The Fed decision comes at 21:00 Turkey time; no hike is expected but the odds for December are high.",
+          "assets": [
+            {
+              "symbol": "SMH",
+              "sentiment": "positive",
+              "note": "Rose 2.74% on the Anthropic news; it is the largest chip ETF."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Rose 2.80% on the news; expressed intent to join Meta's share sale."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Rose 2.39%; expressed intent to join Meta's share sale."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "negative",
+              "note": "Negative on the day because of the $95 billion share sale plan; the funding search was already known."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Seeking $63 billion of financing; may also join Meta's share sale."
+            },
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "SK Hynix and Samsung rose 4% or more in South Korea."
+            },
+            {
+              "symbol": "MELI",
+              "sentiment": "positive",
+              "note": "Fell 7.81%; Bora likes it a lot and finds it cheaper after the drop."
+            },
+            {
+              "symbol": "NU",
+              "sentiment": "positive",
+              "note": "Fell 16.95%; Bora says he likes Nubank a lot."
+            },
+            {
+              "symbol": "EWZ",
+              "sentiment": "negative",
+              "note": "Collapsed 19.82% after Lula won the election, at one point down 30%."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "Bitcoin is having an unpleasant day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg's finance content today is a long warning about dilution and valuation. He writes that a company that funds itself by constantly issuing new shares with no buyback policy carries a serious red flag, and that the stock had potential to fall from around $350 toward more reasonable valuation zones.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Dilution and valuation warning",
+          "url": "https://x.com/heisenbergtrx/status/2115078519025738135",
+          "published_at": "2026-10-27T13:49:49.000Z",
+          "summary": "Heisenberg wrote that a stock fell from the $350 area to the more reasonable valuation zone he marked on the chart and bounced, and that constant share issuance without buybacks is a serious red flag (the stock is not named in the text).",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser is net long **SoFi**: he calls the company's pledge to stop diluting shares \"very important\" and wrote the stock could head to a 40-45 band if rates fall. He thinks the correction is over and a sharp move is possible through the end of November, especially in megacap AI via **SMH**, **DRAM** and **MAGS**; he saw heavy 2-3 month options buying in **GOOGL**, **AAPL** and **AMZN**.\n\nHe holds a position in **IWM** ahead of the Fed speech and expects a strong upside move if Warsh \"doesn't talk nonsense\". He also warned that **gold** has reached \"critical levels\".",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SoFi: no more dilution",
+          "url": "https://x.com/ulkser/status/2115100780084801952",
+          "published_at": "2026-10-27T15:18:17.000Z",
+          "summary": "ulkser found SoFi's pledge not to dilute further very important and wrote that he is net long.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "Net long; positive because no capital raise is needed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SoFi rate scenario",
+          "url": "https://x.com/ulkser/status/2115045619735695846",
+          "published_at": "2026-10-27T11:39:06.000Z",
+          "summary": "ulkser wrote that if rates fall SoFi could go to the 40-45 band, reacting to CEO Noto's confidence in durable growth in a high-rate environment.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "40-45 band if rates fall."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SoFi outperforming HOOD",
+          "url": "https://x.com/ulkser/status/2115190302268956717",
+          "published_at": "2026-10-27T21:14:01.000Z",
+          "summary": "ulkser wrote that for the first time in a long while SoFi is showing stronger price action than HOOD.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "Stronger price action than HOOD."
+            },
+            {
+              "symbol": "HOOD",
+              "sentiment": "negative",
+              "note": "Fell ~5% after earnings, lagging SoFi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AI rally expectation",
+          "url": "https://x.com/ulkser/status/2115343087333490706",
+          "published_at": "2026-10-28T07:21:07.000Z",
+          "summary": "ulkser wrote that the correction is over, a sharp move through the end of November is possible in SMH, DRAM and MAGS, and that heavy 2-3 month options hit GOOGL, AAPL and AMZN.",
+          "assets": [
+            {
+              "symbol": "SMH",
+              "sentiment": "positive",
+              "note": "Sharp move possible through end of November."
+            },
+            {
+              "symbol": "MAGS",
+              "sentiment": "positive",
+              "note": "Year-end rally expectation."
+            },
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Credited SK Hynix as KOSPI rose 7%."
+            },
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "Heavy 2-3 month options buying."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MAGS rally",
+          "url": "https://x.com/ulkser/status/2115337578258026884",
+          "published_at": "2026-10-28T06:59:14.000Z",
+          "summary": "ulkser wrote that the market is gunning for a MAGS rally into year-end.",
+          "assets": [
+            {
+              "symbol": "MAGS",
+              "sentiment": "positive",
+              "note": "Rally into year-end."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IWM and Warsh",
+          "url": "https://x.com/ulkser/status/2115105902579626077",
+          "published_at": "2026-10-27T15:38:38.000Z",
+          "summary": "ulkser wrote that IWM is clearly breaking out, a strong upside move is possible if Warsh doesn't talk nonsense, and that he holds a position.",
+          "assets": [
+            {
+              "symbol": "IWM",
+              "sentiment": "positive",
+              "note": "Breaking out clearly; expects upside after the Fed speech; positioned."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Gold warning",
+          "url": "https://x.com/ulkser/status/2115014763755569202",
+          "published_at": "2026-10-27T09:36:29.000Z",
+          "summary": "ulkser wrote that gold has reached critical levels and warrants attention.",
+          "assets": [
+            {
+              "symbol": "XAUUSD",
+              "sentiment": "neutral",
+              "note": "Reached critical levels, caution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan closed all of his short positions yesterday: **KXIAY**, **QBTS**, **RGTI**, **MRLN**, **EOSE** and **KLAC** are closed, with a serious loss on **MRLN**. He wrote that he always bails early because short selling has unlimited loss potential. He says he accumulated **BE** at the lows and bought Bloom around 190.\n\nOn memory he called **SK Hynix**'s results \"incredibly good\" and wrote that memory is generally cheap but cycle fears can make the market lose its mind. He could not decide between **SKHY** and **SNDK**: SKHY is safer, SNDK has more potential. For **Teradyne** he worked out 33x/27x P/E on the pre-earnings close and an average analyst target of ~$446, calling it neither very expensive nor cheap; he thinks capital leaving Brazil is returning to US stocks.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SK Hynix results",
+          "url": "https://x.com/AhmetSunelcan1/status/2115307411351232688",
+          "published_at": "2026-10-28T04:59:22.000Z",
+          "summary": "Ahmet Sunelcan called SK Hynix's results \"incredibly good\"; revenue was $78.9B (est. $74.8B), operating margin 80%.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Results incredibly good."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Memory and cycle fears",
+          "url": "https://x.com/AhmetSunelcan1/status/2115311864653525400",
+          "published_at": "2026-10-28T05:17:03.000Z",
+          "summary": "He wrote that memory stocks are generally cheap but cycle fears can make the market lose its senses, and that prices are good if your nerves are strong.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Memory is cheap; cycle fear creates opportunity."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SKHY or SNDK",
+          "url": "https://x.com/AhmetSunelcan1/status/2115114141988098093",
+          "published_at": "2026-10-27T16:11:23.000Z",
+          "summary": "If undecided there is also the DRAM ETF; SKHY was much cheaper in Korea than in the US and the gap is closing. SKHY is safer, SNDK has more potential.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Safer; Korean price converging to US."
+            },
+            {
+              "symbol": "SNDK",
+              "sentiment": "positive",
+              "note": "More potential."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Teradyne valuation and results",
+          "url": "https://x.com/AhmetSunelcan1/status/2115182821438374031",
+          "published_at": "2026-10-27T20:44:17.000Z",
+          "summary": "On the $309 pre-earnings close the 2026 P/E is ~33x, 2027 ~27x, with an average analyst target of ~$446; he says the stock is at a sector premium but reasonable after the drop. Revenue was $1,306M and adjusted EPS $2.29, above estimates; the Q4 guide is flat.",
+          "assets": [
+            {
+              "symbol": "TER",
+              "sentiment": "neutral",
+              "note": "Not very expensive, not cheap; 27x P/E is reasonable."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Capital from Brazil to the US",
+          "url": "https://x.com/AhmetSunelcan1/status/2115168613854527649",
+          "published_at": "2026-10-27T19:47:50.000Z",
+          "summary": "He thinks that besides the Anthropic news, big capital that took losses in Brazil has started returning to US stocks.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Bloom position",
+          "url": "https://x.com/AhmetSunelcan1/status/2115167645037219894",
+          "published_at": "2026-10-27T19:43:59.000Z",
+          "summary": "He wrote he bought Bloom around 190, that profit was not the goal, and that hedging or turning stocks into leverage is not that simple.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "Bought around 190; accumulated on the dip."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Short positions closed",
+          "url": "https://x.com/AhmetSunelcan1/status/2115098167460913335",
+          "published_at": "2026-10-27T15:07:54.000Z",
+          "summary": "KXIAY was closed and the QBTS and RGTI shorts were closed near breakeven; MRLN, EOSE and KLAC positions were also closed.",
+          "assets": [
+            {
+              "symbol": "QBTS",
+              "sentiment": "neutral",
+              "note": "Short closed near breakeven."
+            },
+            {
+              "symbol": "RGTI",
+              "sentiment": "neutral",
+              "note": "Short closed near breakeven."
+            },
+            {
+              "symbol": "KLAC",
+              "sentiment": "neutral",
+              "note": "Position closed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 points to the reaction from the 700 level in QQQ: the key zone is 725 and holding above it, with a plan to add at 680 and then at -20% from the peak. He opened a first **Vertiv** position as QQQ approached 700. He said **AMD** has \"broken the cycle\", shared the **SK Hynix** and **SoFi** results and Nvidia's and AMD's participation in Meta's share sale. For **SanDisk** he relayed Wedbush's $2,000 target.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "QQQ levels",
+          "url": "https://x.com/korkmazali08/status/2115140835239137395",
+          "published_at": "2026-10-27T17:57:27.000Z",
+          "summary": "He wrote QQQ keeps rising after reacting from 700, with 725 and holding above it as the key zone.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Reaction from 700; key zone 725 and acceptance above it."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Vertiv entry and add plan",
+          "url": "https://x.com/korkmazali08/status/2115081431634280472",
+          "published_at": "2026-10-27T14:01:24.000Z",
+          "summary": "He wrote he opened a first Vertiv position as QQQ neared 700, will add one more tranche on trend-reversal confirmation, and will add at 680 and at -20% from the peak.",
+          "assets": [
+            {
+              "symbol": "VRT",
+              "sentiment": "positive",
+              "note": "First tranche opened; second on trend confirmation."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "Add levels at 680 and -20% from peak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AMD's rise",
+          "url": "https://x.com/korkmazali08/status/2115081825030967427",
+          "published_at": "2026-10-27T14:02:58.000Z",
+          "summary": "He wrote that AMD is becoming one of the lead players and has broken the 4-5 year cycle.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "One of the lead actors; broke the cycle."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SanDisk ahead of earnings",
+          "url": "https://x.com/korkmazali08/status/2115264274515841457",
+          "published_at": "2026-10-28T02:07:57.000Z",
+          "summary": "SanDisk reports on Oct 29; the stock is down 27% in a month but up ~450% YTD, and Wedbush kept its Buy and $2,000 target while preferring SK Hynix on valuation.",
+          "assets": [
+            {
+              "symbol": "SNDK",
+              "sentiment": "positive",
+              "note": "Wedbush Buy and $2,000 target."
+            },
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Wedbush's preferred pick on valuation."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SK Hynix Q3",
+          "url": "https://x.com/korkmazali08/status/2115232687833088200",
+          "published_at": "2026-10-28T00:02:26.000Z",
+          "summary": "SK Hynix's operating profit came in at ₩83.33T (est. 77.5) and revenue at ₩104.62T (est. 98.96).",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Operating profit and revenue above estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia's Meta investment",
+          "url": "https://x.com/korkmazali08/status/2115047179802878392",
+          "published_at": "2026-10-27T11:45:17.000Z",
+          "summary": "He relayed that Nvidia will invest $3B in Meta's share offering, which grew to $25B at $625 per share.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "$3B into Meta's offering."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Offering upsized to $25B at $625."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SoFi results",
+          "url": "https://x.com/korkmazali08/status/2115042528743325863",
+          "published_at": "2026-10-27T11:26:49.000Z",
+          "summary": "He shared SoFi's revenue of $1.4B (est. 1.25), adjusted EPS of $0.18 and 17.1 million members.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "Revenue and EPS above estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Durable goods orders",
+          "url": "https://x.com/korkmazali08/status/2115062394527367291",
+          "published_at": "2026-10-27T12:45:45.000Z",
+          "summary": "September durable goods orders rose 1.8%, below the 2.0% estimate.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump's Iran statement",
+          "url": "https://x.com/korkmazali08/status/2115241232058429665",
+          "published_at": "2026-10-28T00:36:23.000Z",
+          "summary": "He shared Trump's statement that the Iran war \"ends whenever I want it to\".",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries covered the earnings day and macro: Visa, Seagate, Teradyne, SoFi and Celestica beat while **Enphase** gave weak guidance and **Boeing** cut its delivery outlook. A Fed hold this week is priced at ~90% and the 10-year yield fell to 4.97%. The $450 billion compute commitment in Anthropic's IPO filing set off a chip rally and a trading halt in the Kospi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Fed expectations and bond yield",
+          "url": "https://x.com/WallStDiaries/status/2115028231157866937",
+          "published_at": "2026-10-27T10:30:00.000Z",
+          "summary": "Markets price a Fed hold at 3.75-4.00% at ~90%; the 10-year yield fell to 4.97%, below the 5% threshold, with eyes on December.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Japan inflation",
+          "url": "https://x.com/WallStDiaries/status/2115035787343327263",
+          "published_at": "2026-10-27T11:00:01.000Z",
+          "summary": "Japan's core inflation is at a 3-year high of 2.4%; the BOJ raised rates to 1.25% last month and expectations of further hikes are growing.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic chip rally",
+          "url": "https://x.com/WallStDiaries/status/2115020694048088236",
+          "published_at": "2026-10-27T10:00:03.000Z",
+          "summary": "The $450 billion compute commitment in Anthropic's IPO filing sparked sharp gains in Micron and SK Hynix and triggered a trading halt in the Kospi.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Sharp rally."
+            },
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Sharp rally."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SoFi earnings",
+          "url": "https://x.com/WallStDiaries/status/2115091896301162911",
+          "published_at": "2026-10-27T14:42:59.000Z",
+          "summary": "SoFi reported record net revenue ($1.385B, +44%) and net income ($241M), reached 17.1M members and raised full-year guidance.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "Record revenue and profit; guidance raised."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Teradyne earnings",
+          "url": "https://x.com/WallStDiaries/status/2115181759448965434",
+          "published_at": "2026-10-27T20:40:04.000Z",
+          "summary": "Teradyne revenue rose 70% to $1,306M with non-GAAP EPS of $2.29; demand was broad across memory, hard disk and robotics.",
+          "assets": [
+            {
+              "symbol": "TER",
+              "sentiment": "positive",
+              "note": "Revenue above guidance; EPS up 169%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Enphase earnings",
+          "url": "https://x.com/WallStDiaries/status/2115175397675471335",
+          "published_at": "2026-10-27T20:14:47.000Z",
+          "summary": "Enphase revenue fell 28.5% to $293.3M with free cash flow of -$11.4M; Q4 revenue guide is $225-255M.",
+          "assets": [
+            {
+              "symbol": "ENPH",
+              "sentiment": "negative",
+              "note": "Revenue, margin and cash weak; Q4 guide weaker."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Boeing earnings",
+          "url": "https://x.com/WallStDiaries/status/2115120671738978647",
+          "published_at": "2026-10-27T16:37:19.000Z",
+          "summary": "Boeing revenue rose 4% to $24.188B with a GAAP net loss of $116M; free cash flow was $464M.",
+          "assets": [
+            {
+              "symbol": "BA",
+              "sentiment": "neutral",
+              "note": "Loss narrowed, cash flow rose."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX on BofA's list",
+          "url": "https://x.com/WallStDiaries/status/2115160351520215478",
+          "published_at": "2026-10-27T19:15:00.000Z",
+          "summary": "Bank of America added SpaceX to its \"US 1\" top ideas list, keeping its Buy rating and $275 target.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "BofA US 1 list, $275 target."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "BWXT fuel agreement",
+          "url": "https://x.com/WallStDiaries/status/2115084662410293609",
+          "published_at": "2026-10-27T14:14:14.000Z",
+          "summary": "BWX Technologies signed a multi-year TRISO nuclear fuel supply framework with Antares, initially allocating 1 MTU of fuel.",
+          "assets": [
+            {
+              "symbol": "BWXT",
+              "sentiment": "positive",
+              "note": "Multi-year TRISO fuel agreement."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Chip firms in Meta's share sale",
+          "url": "https://x.com/WallStDiaries/status/2115090522045891022",
+          "published_at": "2026-10-27T14:37:31.000Z",
+          "summary": "Nvidia, AMD and Broadcom expressed non-binding interest in up to $5B of Meta's Class A share sale.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Chip firms interested in the $35B sale program."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Intent to participate."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "neutral",
+              "note": "Intent to participate."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Intent to participate."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Chinese clouds seek 10-year DRAM supply",
+          "url": "https://x.com/WallStDiaries/status/2115099954234671320",
+          "published_at": "2026-10-27T15:15:00.000Z",
+          "summary": "Alibaba, Tencent and ByteDance are discussing 10-year DRAM supply contracts through 2035 with Samsung and SK Hynix.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Long-term supply demand."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "US macro data",
+          "url": "https://x.com/WallStDiaries/status/2115083536491237473",
+          "published_at": "2026-10-27T14:09:46.000Z",
+          "summary": "September durable goods orders rose 1.8%, below expectations, while October consumer confidence rose to 91.7 against an 81.2 estimate.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Market recap",
+          "url": "https://x.com/WallStDiaries/status/2115010195340362208",
+          "published_at": "2026-10-27T09:18:20.000Z",
+          "summary": "US stocks started the week higher on Anthropic's IPO filing; the Nasdaq 100 rose 1.09%, Nvidia 2.6%, and Meta's up-to-$95B capital raise plan weighed on the stock.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Rose 2.6%."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "negative",
+              "note": "Capital raise plan weighed on the stock."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu shared a new video titled \"We See the Bottom This Week! Nasdaq Strategy After the Fed!\".",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Post-Fed Nasdaq strategy video",
+          "url": "https://x.com/TuncSatiroglu/status/2115070627765699000",
+          "published_at": "2026-10-27T13:18:28.000Z",
+          "summary": "Shared a link to a video arguing that the bottom is coming this week and laying out a post-Fed Nasdaq strategy (no content summary available).",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy reads earnings week through the lens of AI spending financing: he will watch cloud growth, CapEx and free cash flow in the **Microsoft**, **Alphabet** and **Amazon** reports. For **Microsoft**, Azure growth of ~45% and quarterly CapEx above $50B are expected. He wrote that AI spending may keep rates higher for longer.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Microsoft earnings preview",
+          "url": "https://x.com/FinancewithIzzy/status/2115125566776942920",
+          "published_at": "2026-10-27T16:56:46.000Z",
+          "summary": "Microsoft reports on Oct 28: estimates are revenue $90.6B, EPS $4.72, Azure ~45% and CapEx above $50B; the real test is the return on AI investment.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Commercial backlog is $678B; the CapEx impact on profitability is the key watch."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia's test",
+          "url": "https://x.com/FinancewithIzzy/status/2115065982444028229",
+          "published_at": "2026-10-27T13:00:00.000Z",
+          "summary": "Nvidia isn't reporting, but Microsoft, Alphabet and Amazon cloud earnings will show hyperscalers' AI spending appetite.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Customer earnings act as a test."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Azure growth to be watched."
+            },
+            {
+              "symbol": "AMZN",
+              "sentiment": "neutral",
+              "note": "AWS growth to be watched."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AI and the Fed",
+          "url": "https://x.com/FinancewithIzzy/status/2115050887400067181",
+          "published_at": "2026-10-27T12:00:01.000Z",
+          "summary": "AI investment can lift energy and equipment demand and help keep rates higher for longer, with credit-dependent small businesses bearing the cost.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Financing risk of AI infrastructure",
+          "url": "https://x.com/FinancewithIzzy/status/2115111530429841412",
+          "published_at": "2026-10-27T16:01:00.000Z",
+          "summary": "Capacity being leased does not remove financial risk; customer concentration, financing cost and GPU depreciation matter; he is watching NVDA, CRWV and ORCL.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Financing structure being watched."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Financing structure being watched."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "neutral",
+              "note": "Financing structure being watched."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic and memory stocks",
+          "url": "https://x.com/FinancewithIzzy/status/2115036033188602359",
+          "published_at": "2026-10-27T11:01:00.000Z",
+          "summary": "On Oct 26 NVDA rose 2.39%, MU 2.98%, SKHY 4.09%, AMD 2.80% and AVGO 2.33%; for MU and SKHY he is watching HBM capacity, pricing power and 2027 supply-demand balance.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "neutral",
+              "note": "Watching HBM capacity and 2027 supply-demand."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Watching pricing power."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine relayed the earnings flow: **SoFi** rose 11%, **Boeing** fell 10% on a delivery outlook cut, and **SK Hynix** beat estimates and announced ~₩100 trillion in shareholder returns. **Meta**'s $25B share sale drew 5x demand with **Nvidia** taking $3B; **Broadcom** rose 3.5% on a $63B Anthropic financing deal and D.A. Davidson raised its target to $400. October consumer confidence of 91.7 beat the 81.0 estimate.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SK Hynix Q3",
+          "url": "https://x.com/wallstengine/status/2115224842911838560",
+          "published_at": "2026-10-27T23:31:16.000Z",
+          "summary": "SK Hynix revenue was $78.9B (est. $74.8B), operating profit $62.8B at an 80% margin; Q4 DRAM bit growth guided mid-20%.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "Beat estimates, record margin."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SK Hynix shareholder returns",
+          "url": "https://x.com/wallstengine/status/2115226747985924356",
+          "published_at": "2026-10-27T23:38:50.000Z",
+          "summary": "SK Hynix plans ~₩100 trillion (~$75B) in shareholder returns for 2026.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "~₩100T shareholder returns."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SoFi +11%",
+          "url": "https://x.com/wallstengine/status/2115081997735657486",
+          "published_at": "2026-10-27T14:03:39.000Z",
+          "summary": "SoFi rose 11% after an earnings beat, raised 2026 guidance and a 2027 outlook above estimates; management said no additional capital is needed and targets 100 million products by 2030.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "Guidance raised; no capital raise needed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Boeing -10%",
+          "url": "https://x.com/wallstengine/status/2115102201635119569",
+          "published_at": "2026-10-27T15:23:56.000Z",
+          "summary": "Boeing cut its 2026 delivery outlook and will fall short of its 737 target; the commercial division posted a $697M operating loss.",
+          "assets": [
+            {
+              "symbol": "BA",
+              "sentiment": "negative",
+              "note": "Delivery outlook cut; fell 10%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta share sale draws 5x demand",
+          "url": "https://x.com/wallstengine/status/2115112986176278810",
+          "published_at": "2026-10-27T16:06:47.000Z",
+          "summary": "Meta's $25B stock sale priced at $625 and drew 5x demand; more than half the shares went to long-only investors.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Priced at $625 with 5x demand."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia puts $3B into Meta",
+          "url": "https://x.com/wallstengine/status/2115023544384143845",
+          "published_at": "2026-10-27T10:11:22.000Z",
+          "summary": "Nvidia will invest $3B in Meta's equity offering; Meta's offerings reached $37.5B with another potential $60B program in 2027.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "$3B into Meta's offering."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Total offerings $37.5B."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Broadcom +3.5%",
+          "url": "https://x.com/wallstengine/status/2115104530362970256",
+          "published_at": "2026-10-27T15:33:11.000Z",
+          "summary": "Broadcom rose 3.5% on a $63B financing deal covering ~1.7GW of Anthropic's planned capacity, with deliveries starting in 2027.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "$63B financing deal."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "D.A. Davidson upgrades Broadcom",
+          "url": "https://x.com/wallstengine/status/2115025494060277835",
+          "published_at": "2026-10-27T10:19:07.000Z",
+          "summary": "D.A. Davidson upgraded Broadcom to Buy and raised its target to $400 from $350; the stock trades at 16x 2027 EPS.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Buy, $400 target."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Citi upgrades MercadoLibre",
+          "url": "https://x.com/wallstengine/status/2115041449846931869",
+          "published_at": "2026-10-27T11:22:31.000Z",
+          "summary": "Citi upgraded MercadoLibre to Buy with a $2,050 target, seeing the recent weakness as an entry point.",
+          "assets": [
+            {
+              "symbol": "MELI",
+              "sentiment": "positive",
+              "note": "Buy, $2,050 target."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "US consumer confidence",
+          "url": "https://x.com/wallstengine/status/2115082255991558602",
+          "published_at": "2026-10-27T14:04:40.000Z",
+          "summary": "October consumer confidence came in at 91.7 (est. 81.0).",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Chinese clouds seek memory",
+          "url": "https://x.com/wallstengine/status/2115028684319142168",
+          "published_at": "2026-10-27T10:31:48.000Z",
+          "summary": "Alibaba, Tencent and ByteDance seek 10-year server memory contracts running to 2035 from Samsung and SK Hynix.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "positive",
+              "note": "10-year supply requests."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Amazon devices and Alexa+ costs",
+          "url": "https://x.com/wallstengine/status/2115046156946624925",
+          "published_at": "2026-10-27T11:41:14.000Z",
+          "summary": "Amazon reportedly forecasts a $612M gross loss in devices for 2026 (target $438M), with memory costs a major factor.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "negative",
+              "note": "Devices gross loss forecast above target."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Enphase weak guide",
+          "url": "https://x.com/wallstengine/status/2115173488348610847",
+          "published_at": "2026-10-27T20:07:12.000Z",
+          "summary": "Enphase guided Q4 revenue to $225-255M (est. $300M).",
+          "assets": [
+            {
+              "symbol": "ENPH",
+              "sentiment": "negative",
+              "note": "Q4 guide well below estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Innodata layoffs",
+          "url": "https://x.com/wallstengine/status/2115064553910489204",
+          "published_at": "2026-10-27T12:54:20.000Z",
+          "summary": "Innodata shares fell on reports of ~550 layoffs in India.",
+          "assets": [
+            {
+              "symbol": "INOD",
+              "sentiment": "negative",
+              "note": "Sudden layoff reports."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz is rebalancing after earnings: he was ready to sell **SoFi** on a bad report but keeps holding after the strong results. He is ready to sell **Visa** after a 150% gain over 6 years and is close to trimming **Apple** at ~16% of his portfolio. He sees **Amazon** as the market's \"safest bet\", holds **Robinhood** reluctantly and is glad he avoided **Innodata**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Keeping SoFi",
+          "url": "https://x.com/jrouldz/status/2115247991934070921",
+          "published_at": "2026-10-28T01:03:15.000Z",
+          "summary": "He was ready to dump SoFi this morning on a bad report, but the company delivered so he keeps holding; he is working to reduce total fintech exposure.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "Keeps holding after earnings."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Visa sale",
+          "url": "https://x.com/jrouldz/status/2115234856586162414",
+          "published_at": "2026-10-28T00:11:03.000Z",
+          "summary": "He is ready to sell his Visa position after earnings: it returned 150% in 6 years and at ~30x earnings and a $750B market cap the best case is another 2x in a few years.",
+          "assets": [
+            {
+              "symbol": "V",
+              "sentiment": "negative",
+              "note": "Ready to sell; sees more attractive opportunities."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Apple trim",
+          "url": "https://x.com/jrouldz/status/2115236349468938587",
+          "published_at": "2026-10-28T00:16:59.000Z",
+          "summary": "Apple has grown to ~16% of his portfolio so he is close to trimming but would never sell it all.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Close to trimming at ~16% weight."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Amazon the safest bet",
+          "url": "https://x.com/jrouldz/status/2115245540732456992",
+          "published_at": "2026-10-28T00:53:30.000Z",
+          "summary": "He calls Amazon the \"safest bet\" on the market and would pick it if he could own one stock; Meta carries more risk but more upside.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "Safest bet; high upside, limited downside."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Riskier but with more upside."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Reluctantly holding Robinhood",
+          "url": "https://x.com/jrouldz/status/2115236090449707168",
+          "published_at": "2026-10-28T00:15:57.000Z",
+          "summary": "He is jaded by the fintech sector, is exploring next-gen alternatives, but reluctantly holds HOOD.",
+          "assets": [
+            {
+              "symbol": "HOOD",
+              "sentiment": "negative",
+              "note": "Holds reluctantly, exploring replacements."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Innodata drop",
+          "url": "https://x.com/jrouldz/status/2115091260595671203",
+          "published_at": "2026-10-27T14:40:27.000Z",
+          "summary": "He wrote that Innodata's 550 layoffs highlight customer-concentration risk, the chart looks poor and he will watch the Nov 5 earnings.",
+          "assets": [
+            {
+              "symbol": "INOD",
+              "sentiment": "negative",
+              "note": "Customer concentration risk; glad to have avoided it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance reads **SoFi**'s pledge to stop diluting shares as good news for investors and calls the results \"terrific\". He listed six companies that beat on earnings and guidance since yesterday: **SOFI**, **CLS**, **CDNS**, **AGYS**, **UPS**, **CNC**. On Chinese clouds' memory contract requests running to 2035 he added a note that memory stocks are cyclical.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "SoFi won't dilute",
+          "url": "https://x.com/cevikfinance/status/2115092094817611953",
+          "published_at": "2026-10-27T14:43:46.000Z",
+          "summary": "He read SoFi's statement that it won't dilute further as good news for investors.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "No dilution; good news for investors."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Six companies beating estimates",
+          "url": "https://x.com/cevikfinance/status/2115080313177092348",
+          "published_at": "2026-10-27T13:56:57.000Z",
+          "summary": "Companies that beat on both profit and revenue and guided well since yesterday: SOFI, CLS, CDNS, AGYS, UPS, CNC; KO, ITRI, HCA and GLW guided close to estimates.",
+          "assets": [
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "Annual revenue guide ~$5.04B (est. 4.87)."
+            },
+            {
+              "symbol": "CLS",
+              "sentiment": "positive",
+              "note": "Annual revenue guide $21.0B (est. 20.61)."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Short company news",
+          "url": "https://x.com/cevikfinance/status/2115112646164836852",
+          "published_at": "2026-10-27T16:05:26.000Z",
+          "summary": "He summarized company news such as Microsoft's voluntary departure offer to 60,000 employees, Apple's M6 MacBook Pro and TSMC considering CoWoS price hikes.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Voluntary departure offer to 60,000 employees."
+            },
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Launched the M6 MacBook Pro; kept prices despite memory costs."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Warsh and Fed expectations",
+          "url": "https://x.com/cevikfinance/status/2115016518379667752",
+          "published_at": "2026-10-27T09:43:27.000Z",
+          "summary": "He relayed that some analysts think Warsh may sound less hawkish than expected because credit markets have shut, and asked for views.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Chinese clouds and the memory cycle",
+          "url": "https://x.com/cevikfinance/status/2115008895399715178",
+          "published_at": "2026-10-27T09:13:10.000Z",
+          "summary": "On Chinese clouds seeking memory contracts through 2035, he noted that memory stocks are cyclical and Chinese makers could overproduce.",
+          "assets": [
+            {
+              "symbol": "SKHY",
+              "sentiment": "neutral",
+              "note": "Long-term demand is positive but memory stocks are cyclical."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "So if rates fall, it will rocket to the 40-45 band.",
+            "source_url": "https://x.com/ulkser/status/2115045619735695846"
+          },
+          {
+            "person": "jrouldz",
+            "sentiment": "positive",
+            "quote": "I was mentally prepared to dump $SOFI this morning on a bad report and then they ended up delivering so I am going to keep holding",
+            "source_url": "https://x.com/jrouldz/status/2115247991934070921"
+          },
+          {
+            "person": "cevikfinance",
+            "sentiment": "positive",
+            "quote": "$SOFI says we won't dilute any more, we don't need to. Good news for investors.",
+            "source_url": "https://x.com/cevikfinance/status/2115092094817611953"
+          },
+          {
+            "person": "wallstengine",
+            "sentiment": "neutral",
+            "quote": "$SOFI +11% Following a Q3 earnings beat, raised 2026 guidance, and a 2027 outlook above Wall Street estimates.",
+            "source_url": "https://x.com/wallstengine/status/2115081997735657486"
+          }
+        ],
+        "action": "hold",
+        "why": "ulkser says the stock could reach a 40-45 band if rates fall and cevikfinance welcomes the end of dilution, but nobody gave a clear add level.",
+        "opinion": "The earnings and the no-new-capital message are positive, but at 18.8% this is the portfolio's biggest single-stock risk, and an 11% jump may have enlarged it further. Rate direction and credit quality are what to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: guidance was raised and the 2027 revenue guide beat estimates.",
+          "For: management said no capital raise is needed.",
+          "Against: the 18.8% weight creates single-stock concentration risk.",
+          "Against: ulkser's 40-45 scenario depends on rates falling."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The sources have no concrete data on Turkish assets today; at 12.9% the weight is high and carries currency and rate risk. Global risk appetite and lira developments are worth watching.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: global risk appetite is positive today.",
+          "Against: no concrete Turkey-specific rationale in today's sources."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [
+          {
+            "person": "wallstengine",
+            "sentiment": "positive",
+            "quote": "D.A. Davidson upgraded Broadcom $AVGO to Buy from Neutral, raising its price target to $400 from $350.",
+            "source_url": "https://x.com/wallstengine/status/2115025494060277835"
+          },
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "Broadcom is seeking $63 billion of financing.",
+            "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+          }
+        ],
+        "action": "hold",
+        "why": "wallstengine relayed D.A. Davidson's upgrade with a $400 target and the $63B Anthropic financing, but made no buy or sell call of its own.",
+        "opinion": "The Anthropic financing makes 2027 deliveries visible and, at 12.9%, Broadcom is the core of the portfolio's AI chip exposure. The key risk is that the financing depends on a debt structure and on Anthropic's IPO going ahead.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: the $63B financing supports 2027 deliveries.",
+          "For: D.A. Davidson raised its target to $400, seeing 16x 2027 EPS.",
+          "Against: banks had considered pulling out over AI debt and interest-rate concerns."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "negative",
+            "quote": "The reason Meta is negative is that it is looking for money.",
+            "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+          },
+          {
+            "person": "wallstengine",
+            "sentiment": "neutral",
+            "quote": "$META's $25B stock sale draws 5x demand. The offering was priced at $625 per share.",
+            "source_url": "https://x.com/wallstengine/status/2115112986176278810"
+          },
+          {
+            "person": "jrouldz",
+            "sentiment": "positive",
+            "quote": "Others like $META definitely carry more risk but probably more upside potential to match.",
+            "source_url": "https://x.com/jrouldz/status/2115245540732456992"
+          }
+        ],
+        "action": "hold",
+        "why": "Bora Özkent sees the stock as negative because of its funding search, while wallstengine reported the $625 sale drew 5x demand.",
+        "opinion": "The share sale dilutes, but 5x demand and Nvidia/AMD participation are signs of confidence. At 12.8%, the return on AI spending and the planned $60B sale program for 2027 are the main risks.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: the sale drew 5x demand, with over half going to long-only investors.",
+          "Against: per Bora Özkent, the funding search weighs on the stock.",
+          "Against: total offerings rose to $37.5B with a new program planned for 2027."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "BWX Technologies and Antares Sign a TRISO Nuclear Fuel Supply Agreement",
+            "source_url": "https://x.com/WallStDiaries/status/2115084662410293609"
+          }
+        ],
+        "action": "hold",
+        "why": "WallStDiaries relayed the multi-year TRISO fuel framework with Antares, but gave no valuation view.",
+        "opinion": "The deal is small (initially 1 MTU) but a positive signal for micro-reactor demand. At 10.5% the stock is tied to the nuclear and data-center power theme; new order flow is what to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: the multi-year fuel supply deal signals demand.",
+          "Against: the deal is initially small in volume."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The sources have nothing on Reddit today. At 9.4% it is sensitive to ad revenue and AI licensing deals; the next earnings report is the thing to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: general risk appetite around AI is positive.",
+          "Against: no concrete information on this holding in today's sources."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The sources have nothing on Netflix today. The 9.4% weight is moderate; subscriber growth and ad revenue will be decisive at the next earnings report.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: a moderate position size within the portfolio.",
+          "Against: no concrete information on this holding in today's sources."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "Ahead of the decision, the US 10-year yield fell to 4.97%, below the critical 5% threshold.",
+            "source_url": "https://x.com/WallStDiaries/status/2115028231157866937"
+          }
+        ],
+        "action": "hold",
+        "why": "WallStDiaries reported the 10-year yield dropping below 5% but gave no buy or sell case for the fund.",
+        "opinion": "A long-duration bond fund is highly sensitive to the rate decision and Warsh's tone; if December hike odds stay high, yields could rise again and weigh on the fund. At 8% it balances an equity-heavy portfolio, but no data today sets direction.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: the 10-year yield slipped below the 5% threshold.",
+          "Against: per Bora Özkent, the odds of a December hike are high.",
+          "Against: the Fed decision is today and long bonds are sensitive to its tone."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "This company isn't mentioned in the sources; the data-center electrical infrastructure theme is supported by sector news such as Hubbell's Electrical Solutions revenue rising 51%. At 5.3% the sizing risk is limited.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per wallstengine, Hubbell's Electrical Solutions revenue rose 51% on data-center demand.",
+          "Against: no concrete information on the company in today's sources."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "SNDK",
+        "name": "SanDisk",
+        "why": "korkmazali08 relayed that Wedbush kept its Buy and $2,000 target ahead of the Oct 29 earnings; the stock is down 27% in a month but up ~450% YTD.",
+        "source_url": "https://x.com/korkmazali08/status/2115264274515841457"
+      },
+      {
+        "symbol": "VRT",
+        "name": "Vertiv",
+        "why": "korkmazali08 opened a first Vertiv position as QQQ neared 700, with a plan to add on confirmation, at 680 and at -20% from the peak.",
+        "source_url": "https://x.com/korkmazali08/status/2115081431634280472"
+      },
+      {
+        "symbol": "MELI",
+        "name": "MercadoLibre",
+        "why": "Bora Özkent said he likes the company a lot after its 7.81% drop; per wallstengine Citi upgraded to Buy with a $2,050 target.",
+        "source_url": "https://www.youtube.com/watch?v=JSNjCSYGOvg"
+      }
+    ]
+  }
+}
