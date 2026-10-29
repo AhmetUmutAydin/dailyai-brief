@@ -1,0 +1,2111 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T09:33:35.000Z",
+  "errors": [
+    "Batched X fetch failed for 4 groups (Apify run failed); accounts were retried one by one",
+    "Bora Özkent: X data could not be fetched (Apify run failed)",
+    "Heisenberg: X data could not be fetched (Apify run failed)",
+    "ulkser: X data could not be fetched (Apify run failed)",
+    "jeoekonomiTR: X data could not be fetched (Apify run failed)",
+    "Ahmet Sunelcan: X data could not be fetched (Apify run failed)"
+  ],
+  "attention": [
+    {
+      "title": "Fed held rates at 3.75-4.00%, vote 10-2; next meeting is December 9",
+      "person": "WallStDiaries",
+      "why": "The drop in dissenters was read as positive, but a 25 bp hike is currently expected for December; per cevikfinance the two dissenters wanted a hike.",
+      "source_url": "https://x.com/WallStDiaries/status/2115505439601279415"
+    },
+    {
+      "title": "Alphabet Cloud grew 103% but EPS missed; shares fell ~8.5% after hours",
+      "person": "wallstengine",
+      "why": "EPS was $2.12 (est. $3.01); an $8.7B unrealized loss on the SpaceX stake cost $0.55 per share, Google Cloud revenue of $30.7B beat estimates, and FY capex guidance is $195-205B.",
+      "source_url": "https://x.com/wallstengine/status/2115550462611247517"
+    },
+    {
+      "title": "Microsoft Azure grew 48%, capex came in well below estimates, shares rose 4%",
+      "person": "wallstengine",
+      "why": "Capex was $39.4B (est. $46.6B); Q2 Azure guidance is +49-50% (est. +44.6%), while commercial RPO of $677B missed estimates.",
+      "source_url": "https://x.com/wallstengine/status/2115541224979595743"
+    },
+    {
+      "title": "Marvell reportedly in advanced talks to buy Lumentum",
+      "person": "wallstengine",
+      "why": "Per Bloomberg a deal could be announced as soon as next week; $LITE rose 10% while $MRVL fell 10%.",
+      "source_url": "https://x.com/wallstengine/status/2115557870746104226"
+    },
+    {
+      "title": "ServiceNow fell 18% and Fortinet 25% after hours",
+      "person": "wallstengine",
+      "why": "ServiceNow guided Q4 cRPO growth to 18.5% (est. 19.7%); Fortinet cut its service revenue guidance to $5.15-5.17B despite beating estimates.",
+      "source_url": "https://x.com/wallstengine/status/2115566482767880247"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Fed decision and December outlook",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Sees Warsh cutting meetings and data as a loss of transparency; the 10-2 vote with fewer dissenters is a positive in his view.",
+          "quote": "Whatever data flow there is, it is being reduced. I cannot welcome this.",
+          "source_url": "https://x.com/WallStDiaries/status/2115525967745569198"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "The Fed is firm on inflation but patient on a new hike; a December hike is still possible.",
+          "quote": "A hike in December is still possible; today's hold does not mean the hikes are over.",
+          "source_url": "https://x.com/cevikfinance/status/2115528292665377182"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "view": "Relayed that UBS expects two more hikes in December 2026 and March 2027, while the same bank targets 8,400 for the S&P 500 by June 2027.",
+          "quote": "The bank expects the Fed to hike by 25 bp twice more, in December 2026 and March 2027.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2115470428995027331"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Says the US cannot push its economy into recession given its $40 trillion debt, so the bar for cuts is much lower than for hikes.",
+          "quote": "The bar for cutting rates is, in my view, much lower than the bar for hiking.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ]
+    },
+    {
+      "topic": "Oil, Iran and energy",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Says there is no problem with oil flows, the price carries a risk premium, and it would fall quickly on even slight normalization.",
+          "quote": "Because there is no problem in oil flows.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Per Semafor the Trump administration is negotiating a temporary peace deal with Iran.",
+          "quote": "The Trump administration is negotiating a potential temporary peace deal with Iran, Semafor reports.",
+          "source_url": "https://x.com/wallstengine/status/2115730281126834239"
+        }
+      ]
+    },
+    {
+      "topic": "AI spending and cash flow",
+      "views": [
+        {
+          "person": "FinancewithIzzy",
+          "view": "Reads Microsoft's results as a sign AI infrastructure demand remains strong, but says the cash-flow impact of the spending needs watching.",
+          "quote": "But we also need to watch the effect of capex on cash flow.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2115552226538119190"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Sees the AI-bubble narrative as headlines taken out of context; says spending will reach $10 trillion by 2032, but investors should pick companies with strong free cash flow and no real rivals.",
+          "quote": "Now the headline and the content are completely different.",
+          "source_url": "https://www.youtube.com/watch?v=pw5g9OTAltY"
+        }
+      ]
+    },
+    {
+      "topic": "US midterms and sector rotation",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Says US strategy will not change whoever wins; a Democratic win may be preferred by markets and could trigger rotation into healthcare.",
+          "quote": "my expectation is that markets would prefer a Democratic win",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ]
+    },
+    {
+      "topic": "Brazil election",
+      "views": [
+        {
+          "person": "Berk Dinçtürk",
+          "view": "Says he closed his Brazil ETF position last week to avoid second-round risk, but the theme is not over and a pullback may offer a re-entry.",
+          "quote": "But if you ask whether the Brazil theme is over, I think it is not.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "The after-hours selling in the index following the $GOOGL report.",
+          "source_url": "https://x.com/korkmazali08/status/2115545005716554135"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "In my view the $GOOGL report did not deserve a 9% drop.",
+          "source_url": "https://x.com/cevikfinance/status/2115543753553498157"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "At 14x '28 EPS with slowing ads growth in '27, shares are still attractive, but may stay under pressure for a bit.",
+          "source_url": "https://x.com/wallstengine/status/2115718744639185406"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "negative",
+          "quote": "$GOOGL surprised many people but not me at all. It looks like it has reached the end of its allotted time.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2115549799823122576"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "$GOOG The drop approached 10%",
+          "source_url": "https://x.com/WallStDiaries/status/2115544293729607952"
+        }
+      ],
+      "priority": "high",
+      "why": "Five sources weighed in after the report and opinions diverge."
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Microsoft $MSFT +4% on a strong Azure beat and CapEx coming in well below expectations.",
+          "source_url": "https://x.com/wallstengine/status/2115541224979595743"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "📊 Microsoft $MSFT results beat expectations",
+          "source_url": "https://x.com/korkmazali08/status/2115537942261149989"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "I think these results show AI infrastructure demand remains strong.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2115552226538119190"
+        }
+      ],
+      "priority": "high",
+      "why": "Four sources read the results positively; Barclays raised its target to $610."
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$LITE +10% $MRVL -10% Bloomberg reports Marvell is in advanced talks to acquire Lumentum",
+          "source_url": "https://x.com/wallstengine/status/2115557870746104226"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "Wow! With what money? 😳 $MRVL $LITE",
+          "source_url": "https://x.com/cevikfinance/status/2115553233938907160"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Marvell ($MRVL) is said to be in advanced talks to buy Lumentum Holdings ($LITE).",
+          "source_url": "https://x.com/korkmazali08/status/2115551329254801833"
+        }
+      ],
+      "priority": "high",
+      "why": "Three sources reacted to the Lumentum report; a deal may be announced next week and financing is being questioned."
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$LITE +10% $MRVL -10%",
+          "source_url": "https://x.com/wallstengine/status/2115557870746104226"
+        }
+      ],
+      "priority": "medium",
+      "why": "Rose 10% on the takeover report; nobody gave a view of their own."
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "Wasn't it supposed to end $NVDA?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2115549799823122576"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "NVIDIA $NVDA WILL REPORT Q3 EARNINGS ON TUESDAY, NOV. 17",
+          "source_url": "https://x.com/wallstengine/status/2115555339869577377"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "The US Department of Justice is reviewing the effect on AI-sector competition of Nvidia's $12.93B deal to buy Hugging Face.",
+          "source_url": "https://x.com/WallStDiaries/status/2115521292875005984"
+        }
+      ],
+      "priority": "high",
+      "why": "Earnings date (Nov. 17) announced, FinancewithIzzy gave a view, and the Hugging Face deal is under review."
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Burry denied reports that he took a long position in $META. $META investors took a deep breath",
+          "source_url": "https://x.com/korkmazali08/status/2115662068158169553"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "Should I sell my $META position or what? 😂",
+          "source_url": "https://x.com/cevikfinance/status/2115502510962287052"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I'm tempted to make a separate portfolio with equal weighting across the hyperscaler buildout basket",
+          "source_url": "https://x.com/jrouldz/status/2115558541151146488"
+        }
+      ],
+      "priority": "high",
+      "why": "Three sources commented via the Burry report and analyst upside."
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "neutral",
+          "quote": "My profit-taking plan still stands: at $120 levels, sell at least 50% for profit",
+          "source_url": "https://x.com/sgundoganX/status/2115410864060645376"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$HOOD 48%",
+          "source_url": "https://x.com/cevikfinance/status/2115497773223051748"
+        }
+      ],
+      "priority": "high",
+      "why": "sgundoganX gave a concrete level: sell at least 50% for profit at $120, with price targets averaging $130."
+    },
+    {
+      "symbol": "AUR",
+      "name": "Aurora Innovation",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "positive",
+          "quote": "In particular the DaaS details and the fact the bottleneck is not Aurora's technology confirm my thesis is intact.",
+          "source_url": "https://x.com/sgundoganX/status/2115686263923560820"
+        }
+      ],
+      "priority": "high",
+      "why": "sgundoganX gave concrete watch points tied to December and February."
+    },
+    {
+      "symbol": "TEM",
+      "name": "Tempus AI",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "positive",
+          "quote": "$TEM is my first choice and I have been increasing my position for 1 year.",
+          "source_url": "https://x.com/sgundoganX/status/2115463654728503776"
+        }
+      ],
+      "priority": "medium",
+      "why": "One person stated a clear position: adding for a year."
+    },
+    {
+      "symbol": "NOW",
+      "name": "ServiceNow",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "$NOW -18% Following a slowdown in expected contract growth, despite accelerating AI adoption.",
+          "source_url": "https://x.com/wallstengine/status/2115566482767880247"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "$NOW and $FTNT got what they deserved.",
+          "source_url": "https://x.com/cevikfinance/status/2115543753553498157"
+        }
+      ],
+      "priority": "high",
+      "why": "Two sources covered the sharp drop and weak cRPO guidance."
+    },
+    {
+      "symbol": "FTNT",
+      "name": "Fortinet",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "$FTNT -25% after hours despite beating Q3 estimates and raising its FY26 revenue & EPS outlook.",
+          "source_url": "https://x.com/wallstengine/status/2115547059239719287"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "$NOW and $FTNT got what they deserved.",
+          "source_url": "https://x.com/cevikfinance/status/2115543753553498157"
+        }
+      ],
+      "priority": "high",
+      "why": "Two sources covered the 25% after-hours drop."
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "I've been hating on $NFLX for a while now but its become even worse than I anticipated!",
+          "source_url": "https://x.com/jrouldz/status/2115465774521266412"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Netflix too; ad revenues are falling, revenue growth is slowing",
+          "source_url": "https://x.com/WallStDiaries/status/2115546395071439045"
+        }
+      ],
+      "priority": "high",
+      "why": "Two sources gave negative views."
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$QQQ closed exactly around the $725 resistance.",
+          "source_url": "https://x.com/korkmazali08/status/2115600863825703068"
+        }
+      ],
+      "priority": "high",
+      "why": "korkmazali08 gave concrete levels: 725 resistance, 700 support."
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "SE and SOFI could work.",
+          "source_url": "https://x.com/cevikfinance/status/2115517087150149912"
+        }
+      ],
+      "priority": "medium",
+      "why": "cevikfinance listed SoFi twice, no level."
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "$AVGO 50%",
+          "source_url": "https://x.com/cevikfinance/status/2115497773223051748"
+        },
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "Now the headline and the content are completely different.",
+          "source_url": "https://www.youtube.com/watch?v=pw5g9OTAltY"
+        }
+      ],
+      "priority": "low",
+      "why": "A list entry and a CEO quote, not a view."
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "You can look at companies on the memory side like Micron.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "$MU 68%",
+          "source_url": "https://x.com/cevikfinance/status/2115497773223051748"
+        }
+      ],
+      "priority": "medium",
+      "why": "Berk Dinçtürk pointed to memory and it is the cheapest forward P/E on cevikfinance's list."
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "JPMorgan initiates $PLTR at Overweight with a $262 Dec. 2027 price target.",
+          "source_url": "https://x.com/wallstengine/status/2115709399461462482"
+        }
+      ],
+      "priority": "medium",
+      "why": "Single source: JPMorgan's Overweight initiation with a $262 target."
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PayPal",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Barclays downgrades PayPal $PYPL to Underweight, cuts PT to $53 from $56",
+          "source_url": "https://x.com/wallstengine/status/2115716221534691820"
+        }
+      ],
+      "priority": "medium",
+      "why": "Single source: Barclays Underweight, $53 target."
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "Oracle $ORCL expects about a $54B improvement in annual free cash flow over 3 years.",
+          "source_url": "https://x.com/korkmazali08/status/2115511873504231706"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Oracle Targets $225 Billion Revenue for 2030",
+          "source_url": "https://x.com/WallStDiaries/status/2115511760396657050"
+        }
+      ],
+      "priority": "medium",
+      "why": "Two sources relayed the company's 2029-2030 targets."
+    },
+    {
+      "symbol": "SIMO",
+      "name": "Silicon Motion",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$SIMO beat expectations!",
+          "source_url": "https://x.com/korkmazali08/status/2115661128906817937"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Q4 Guide: Revenue: $588M-$616M (Est. $550M)",
+          "source_url": "https://x.com/wallstengine/status/2115573694341025962"
+        }
+      ],
+      "priority": "medium",
+      "why": "Two sources relayed the Q3 beat and strong Q4 guidance."
+    },
+    {
+      "symbol": "XAU",
+      "name": "Gold",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "By the end of Trump's term, silver three digits, gold five digits.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "high",
+      "why": "Berk Dinçtürk gave a clear horizon and price magnitude."
+    },
+    {
+      "symbol": "XAG",
+      "name": "Silver",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "By the end of Trump's term, silver three digits, gold five digits.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "high",
+      "why": "Berk Dinçtürk is positive in both broadcasts and gave a clear horizon and price magnitude."
+    },
+    {
+      "symbol": "HG",
+      "name": "Copper",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Copper has been one of the best-performing instruments this year, quietly.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "medium",
+      "why": "One person with a concrete view: copper and US miners."
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "I think Bitcoin's path is clear in the coming years",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "medium",
+      "why": "Berk Dinçtürk gave a positive long-term view."
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Assets technologically suited to tokenization and the digital economy, like Ethereum and Solana, will gain an advantage.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "medium",
+      "why": "Berk Dinçtürk is positive via the tokenization theme."
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Assets technologically suited to tokenization and the digital economy, like Ethereum and Solana, will gain an advantage.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "medium",
+      "why": "Berk Dinçtürk is positive via the tokenization theme."
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent crude",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "negative",
+          "quote": "oil will fall quickly with even the slightest normalization",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "medium",
+      "why": "Berk Dinçtürk expects a quick drop on normalization and gave an ideal band ($75-85)."
+    },
+    {
+      "symbol": "GBP/JPY",
+      "name": "British pound/Japanese yen",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "negative",
+          "quote": "I expect a decline to begin within the next 2 months",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "medium",
+      "why": "Berk Dinçtürk gave a clear direction with a two-month horizon."
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Companies like Palo Alto and CrowdStrike will have a big advantage in the US in the coming period.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "medium",
+      "why": "Berk Dinçtürk gave a buy plan after a 2027 correction."
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "positive",
+          "quote": "Companies like Palo Alto and CrowdStrike will have a big advantage in the US in the coming period.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "medium",
+      "why": "Berk Dinçtürk gave a buy plan after a 2027 correction."
+    },
+    {
+      "symbol": "EWZ",
+      "name": "Brazil ETF",
+      "mentions": [
+        {
+          "person": "Berk Dinçtürk",
+          "sentiment": "neutral",
+          "quote": "Last week I closed the position because I did not want to take second-round election risk.",
+          "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+        }
+      ],
+      "priority": "medium",
+      "why": "Berk Dinçtürk closed the position but keeps the theme."
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$GOOGL says its SpaceX $SPCX stake lost value in Q3 as SpaceX shares fell.",
+          "source_url": "https://x.com/wallstengine/status/2115550462611247517"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "SpaceX's planned $100 billion Louisiana space base faces a legal challenge over its tax deal.",
+          "source_url": "https://x.com/WallStDiaries/status/2115417494676488202"
+        }
+      ],
+      "priority": "low",
+      "why": "Three sources mentioned it, no views."
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Vertiv posted strong growth in the third quarter.",
+          "source_url": "https://x.com/WallStDiaries/status/2115416408255320204"
+        }
+      ],
+      "priority": "low",
+      "why": "Earnings relay, no personal view."
+    },
+    {
+      "symbol": "FLEX",
+      "name": "Flex",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Flex Targets Axiom Spin-off in Q1 2027",
+          "source_url": "https://x.com/WallStDiaries/status/2115506778016219598"
+        }
+      ],
+      "priority": "low",
+      "why": "Spin-off news relay."
+    },
+    {
+      "symbol": "HIMS",
+      "name": "Hims & Hers",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Hims & Hers Could Benefit From New US Rule on 6 Peptides",
+          "source_url": "https://x.com/WallStDiaries/status/2115507877385232399"
+        }
+      ],
+      "priority": "low",
+      "why": "Regulation news relay."
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Shell",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "SHELL $SHEL Q3’26 EARNINGS HIGHLIGHTS Adj. Earnings: $10.81B (Est. $9.92B) 🟢",
+          "source_url": "https://x.com/wallstengine/status/2115700449441390918"
+        }
+      ],
+      "priority": "low",
+      "why": "Earnings relay."
+    },
+    {
+      "symbol": "VOW3",
+      "name": "Volkswagen",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Volkswagen's once-profitable Chinese joint ventures have swung into a loss.",
+          "source_url": "https://x.com/wallstengine/status/2115721287574462599"
+        }
+      ],
+      "priority": "low",
+      "why": "Earnings relay."
+    },
+    {
+      "symbol": "DJT",
+      "name": "Trump Media",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Trump Media $DJT has reportedly signed Bloomberg, Susquehanna and Jump Trading for faster access to President Trump’s Truth Social posts.",
+          "source_url": "https://x.com/wallstengine/status/2115600009534300363"
+        }
+      ],
+      "priority": "low",
+      "why": "News relay."
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": "In both broadcasts Berk Dinçtürk repeats his core thesis: whoever wins the US election, the US will keep pulling production back home and pursuing its critical-mineral and technology strategy, so **AI** spending and its hardware side (semiconductors, memory, energy, nuclear) keep standing out. He calls the bubble talk a distortion by headlines; he explains that the Broadcom CEO's remark reads differently in full and points to memory stocks such as **Micron**. In cybersecurity he likes **PANW** and **CRWD** but is not buying today because he expects an index correction in 2027, after which this is the first group he would buy.\n\nOn macro he says the Fed will skip at this meeting and the bar for cutting is far lower than the bar for hiking; for **Brent** he sees no problem with oil flows and expects a quick drop on normalization. He says he closed his Brazil ETF over second-round risk but the theme is not over. He says **Bitcoin** has a clear road ahead, **Ethereum** and **Solana** may benefit from tokenization, the **gold** and **silver** story has not changed, and that by the end of Trump's term silver could be three digits and gold five digits. If Japan hikes rates, he expects a decline in **GBP/JPY** over the next two months.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "I Think Bitcoin Has a Clear Road Ahead in the Coming Years! 🪙💵₿",
+          "url": "https://www.youtube.com/watch?v=grzgUTfaXkU",
+          "published_at": "2026-10-28T08:38:13.143Z",
+          "summary": "Berk Dinçtürk says that whoever wins the election, the US strategy of reshoring production and securing critical minerals and technology will not change; a Democratic win would suit markets more but could bring AI regulation and a rotation into healthcare. On oil he says flows are fine, the price carries a risk premium, the ideal Brent band for the US industrial shift is $75-85, and easing Russian sanctions and indirect Iranian supply could push it lower. He argues the Fed will skip at this meeting, the US cannot push its economy into recession with $40 trillion of debt, and the bar for cuts is much lower than for hikes. He is weak on Europe because of energy costs, bureaucracy and French bond yields, and thinks the problem will spread to Italy. On Brazil he notes CDS rose from 119 to 151 bp after Lula's win, says he closed his position last week over second-round risk, but the theme is not over. In cybersecurity he names Palo Alto and CrowdStrike as the first group he would buy after a 2027 correction. He says Bitcoin has a clear road ahead, the crypto market could multiply 3-5x from $4 trillion, and Ethereum and Solana may also benefit from tokenization. He notes gold fell from $5,000 to $4,000 but the uptrend is not over, and predicts silver at three digits and gold at five digits by the end of Trump's term. He likes healthcare, semiconductors and memory (Micron), nuclear/SMR and copper, and says he is done with the Russell. He adds that a Japanese rate hike could shake carry trades and that he expects GBP/JPY to fall within two months.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "positive",
+              "note": "Thinks the road ahead is clear; says crypto market cap could grow 3-5x from $4 trillion."
+            },
+            {
+              "symbol": "ETH",
+              "sentiment": "positive",
+              "note": "Expects it to benefit as an asset suited to tokenization."
+            },
+            {
+              "symbol": "SOL",
+              "sentiment": "positive",
+              "note": "Expects it to benefit as an asset suited to tokenization."
+            },
+            {
+              "symbol": "XAU",
+              "sentiment": "positive",
+              "note": "Despite the drop from $5,000 to $4,000 the uptrend is not over; expects five digits by the end of Trump's term."
+            },
+            {
+              "symbol": "XAG",
+              "sentiment": "positive",
+              "note": "A strategic and technological metal; expects three digits by the end of Trump's term."
+            },
+            {
+              "symbol": "HG",
+              "sentiment": "positive",
+              "note": "One of the quiet top performers this year; says to look at copper or US copper miners."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "negative",
+              "note": "Expects it to fall quickly on any normalization; says the ideal band for the US industrial shift is $75-85."
+            },
+            {
+              "symbol": "EWZ",
+              "sentiment": "neutral",
+              "note": "Closed the Brazil ETF position last week over second-round risk; the theme is not over and a pullback may offer a re-entry."
+            },
+            {
+              "symbol": "PANW",
+              "sentiment": "positive",
+              "note": "Not buying today; among the first he would buy after the 2027 correction."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "positive",
+              "note": "Not buying today; among the first he would buy after the 2027 correction."
+            },
+            {
+              "symbol": "GBP/JPY",
+              "sentiment": "negative",
+              "note": "Expects a decline within the next two months if Japan hikes rates."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Says memory names such as Micron are worth a look."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Described a scenario where Meta's AI agents make payments over blockchain/crypto."
+            }
+          ]
+        },
+        {
+          "platform": "youtube",
+          "title": "Is AI a Bubble? - Berk Dinçtürk",
+          "url": "https://www.youtube.com/watch?v=pw5g9OTAltY",
+          "published_at": "2026-10-28T08:38:13.143Z",
+          "summary": "Berk Dinçtürk says that for three years every three months someone has declared the AI bubble is bursting, and the latest case was a Broadcom CEO remark twisted in a headline. He says that in the full text the CEO said those who do not understand why $50 billion was reported when $70 billion of profit was expected from OpenAI do not know the accounting standard, and that the 'gambling' line was cherry-picked from it. He argues AI spending is $700 billion this year, $1.3 trillion next year and $10 trillion by 2032, and that calling a bubble with traditional gauges such as the Buffett indicator only breeds fear. With the shift from software to hardware he expects semiconductors, memory, energy, uranium, rare earths, copper and silver to stay in demand. He notes the US, Russia and China have declared these materials strategic reserves.",
+          "assets": [
+            {
+              "symbol": "AVGO",
+              "sentiment": "neutral",
+              "note": "Explains that the Broadcom CEO's 'gambling' remark was cherry-picked in the headline and the full text differs."
+            },
+            {
+              "symbol": "XAG",
+              "sentiment": "positive",
+              "note": "Says silver will keep seeing demand from AI and strategic-reserve buying."
+            },
+            {
+              "symbol": "HG",
+              "sentiment": "positive",
+              "note": "Says copper will keep seeing demand from AI and strategic-reserve buying."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ulkser",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "sgundoganX finds the **Aurora** (**AUR**) results disappointing but acceptable: the 200 driverless trucks target slipped to end-February because of supply issues, which in his view is not a technology problem; dilution will continue though, and he will review his position if 20 trucks per week in December, 200 trucks in February and the first DaaS contract do not happen. For **Tempus AI** (**TEM**) he says healthcare will be one of the most profitable sectors over the next 2-3 years and that he has been adding to his position for a year. At **Robinhood** (**HOOD**) he sees weak net customer additions as the main risk and says his plan to sell at least 50% for profit at $120 still stands.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Aurora results: disappointing but acceptable",
+          "url": "https://x.com/sgundoganX/status/2115686263923560820",
+          "published_at": "2026-10-29T06:04:47.000Z",
+          "summary": "sgundoganX wrote that Aurora's 200-truck target slipped to end-February on supply issues, his thesis is intact but dilution will continue; he will review the position if 20 trucks/week in December, 200 trucks in February and the first DaaS contract do not happen.",
+          "assets": [
+            {
+              "symbol": "AUR",
+              "sentiment": "positive",
+              "note": "The delay is supply-driven, not technology; thesis intact. Watching 20 trucks/week in December, 200 trucks in February and the first DaaS contract."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Healthcare sector and TEM",
+          "url": "https://x.com/sgundoganX/status/2115463654728503776",
+          "published_at": "2026-10-28T15:20:13.000Z",
+          "summary": "sgundoganX wrote that healthcare should be one of the most profitable sectors over the next 2-3 years, that Tempus AI (TEM) is his first pick and that he has been adding to his position for a year.",
+          "assets": [
+            {
+              "symbol": "TEM",
+              "sentiment": "positive",
+              "note": "His top pick; has been adding for a year, arguing it could become the Palantir of healthcare."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "HOOD: net customer addition risk",
+          "url": "https://x.com/sgundoganX/status/2115410864060645376",
+          "published_at": "2026-10-28T11:50:27.000Z",
+          "summary": "sgundoganX called Robinhood's Q3 organic net customer gain of only +0.3M and 7% annual funded-customer growth the main risk; price targets average $130 and his plan to sell at least 50% for profit at $120 still stands.",
+          "assets": [
+            {
+              "symbol": "HOOD",
+              "sentiment": "neutral",
+              "note": "Sees net customer additions as the main risk; plan to sell at least 50% for profit at $120 still valid."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "HOOD sells off on earnings days",
+          "url": "https://x.com/sgundoganX/status/2115389951252500577",
+          "published_at": "2026-10-28T10:27:21.000Z",
+          "summary": "sgundoganX wrote that Robinhood sold off after 8 of its last 9 earnings, and that despite crypto revenue falling 55% it reported $1.42B in revenue while the tough comparison base was overlooked.",
+          "assets": [
+            {
+              "symbol": "HOOD",
+              "sentiment": "neutral",
+              "note": "Calls the results good; says the selling came from high expectations and the drop in crypto revenue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 relayed the earnings flow: **Microsoft** and **Silicon Motion** beat estimates while **Alphabet**'s EPS missed and its after-hours drop erased the index's intraday gain. He noted **QQQ** closed right around the $725 resistance, that **Oracle** expects free cash flow to turn positive in the second half of fiscal 2028, and that **Marvell** is in talks to buy **Lumentum**. On **Meta** he wrote that Burry denied the report he is long.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Burry denies being long Meta",
+          "url": "https://x.com/korkmazali08/status/2115662068158169553",
+          "published_at": "2026-10-29T04:28:38.000Z",
+          "summary": "korkmazali08 wrote that Burry denying reports he is long Meta gave Meta investors some relief.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Burry's long report was denied; says 'Meta investors took a deep breath'."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Silicon Motion beats estimates",
+          "url": "https://x.com/korkmazali08/status/2115661128906817937",
+          "published_at": "2026-10-29T04:24:54.000Z",
+          "summary": "korkmazali08 relayed that SIMO's Q3 revenue of $560.2M (+131%) and adjusted EPS of $4.35 beat estimates, with Q4 revenue guidance of $588-616M.",
+          "assets": [
+            {
+              "symbol": "SIMO",
+              "sentiment": "positive",
+              "note": "Revenue and EPS beat; Q4 guidance above the $550M estimate."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "QQQ closes at the 725 resistance",
+          "url": "https://x.com/korkmazali08/status/2115600863825703068",
+          "published_at": "2026-10-29T00:25:26.000Z",
+          "summary": "korkmazali08 wrote that QQQ closed right around the $725 resistance and gave back its intraday gain after hours on Alphabet's results, calling it index engineering.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "Close was around the $725 resistance; holding above 725 matters after the bounce from 700."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Index sells off after Alphabet",
+          "url": "https://x.com/korkmazali08/status/2115545005716554135",
+          "published_at": "2026-10-28T20:43:28.000Z",
+          "summary": "korkmazali08 wrote that the after-hours selling in the index following Alphabet's results reversed the day's gain.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "negative",
+              "note": "Sold off after hours following the report."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Marvell in talks for Lumentum",
+          "url": "https://x.com/korkmazali08/status/2115551329254801833",
+          "published_at": "2026-10-28T21:08:36.000Z",
+          "summary": "korkmazali08 relayed the report that Marvell is in advanced talks to buy Lumentum.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "neutral",
+              "note": "In advanced talks to buy Lumentum."
+            },
+            {
+              "symbol": "LITE",
+              "sentiment": "neutral",
+              "note": "Being discussed as a Marvell acquisition target."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft results beat estimates",
+          "url": "https://x.com/korkmazali08/status/2115537942261149989",
+          "published_at": "2026-10-28T20:15:24.000Z",
+          "summary": "korkmazali08 relayed that Microsoft beat with $92.3B revenue, $4.89 adjusted EPS and +48% Azure growth, while commercial RPO of $677B missed estimates.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "positive",
+              "note": "Revenue, EPS and Azure beat; capex of $39.4B was below estimates and commercial RPO missed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Alphabet EPS misses estimates",
+          "url": "https://x.com/korkmazali08/status/2115537357256458373",
+          "published_at": "2026-10-28T20:13:05.000Z",
+          "summary": "korkmazali08 relayed that Alphabet's EPS of $2.12 came in 30% below the $3.01 estimate while revenue of $127.6B grew 25% year over year.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "negative",
+              "note": "EPS 30% below estimates; revenue up 25% y/y."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oracle free cash flow target",
+          "url": "https://x.com/korkmazali08/status/2115511873504231706",
+          "published_at": "2026-10-28T18:31:49.000Z",
+          "summary": "korkmazali08 relayed that Oracle expects free cash flow to turn positive in the second half of fiscal 2028 and reach at least $30B in fiscal 2029.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "positive",
+              "note": "Guides to a ~$54B free cash flow improvement over three years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries covered Fed day and earnings: the Fed held at 3.75-4.00%, the vote was 10-2 and the next meeting is December 9; he criticized Warsh's plan to cut meetings as a move away from transparency. On earnings he reported **Alphabet** down ~8.5% after hours, **Oracle** targeting $225B revenue for 2030, and **Vertiv** revenue up 61% y/y with raised full-year guidance. **Nvidia**'s $12.9B Hugging Face deal is under US DOJ review, and a new peptide rule could help **Hims & Hers**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Fed held rates, next decision December 9",
+          "url": "https://x.com/WallStDiaries/status/2115505439601279415",
+          "published_at": "2026-10-28T18:06:15.000Z",
+          "summary": "WallStDiaries wrote that the Fed held rates in line with expectations, the next decision is on December 9 and a 25 bp hike is currently expected.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Warsh's meeting cuts a step away from transparency",
+          "url": "https://x.com/WallStDiaries/status/2115525967745569198",
+          "published_at": "2026-10-28T19:27:49.000Z",
+          "summary": "WallStDiaries wrote that he does not welcome Warsh cutting the eight annual rate meetings toward six, nor the idea of semiannual earnings reports, seeing both as a loss of transparency.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Google falls nearly 10% after hours",
+          "url": "https://x.com/WallStDiaries/status/2115544293729607952",
+          "published_at": "2026-10-28T20:40:39.000Z",
+          "summary": "WallStDiaries reported that Google lost ~$275B in market value within half an hour and the drop approached 10%.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "negative",
+              "note": "Fell ~8.5-10% after hours, losing ~$275B in market value."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia's Hugging Face deal under review",
+          "url": "https://x.com/WallStDiaries/status/2115521292875005984",
+          "published_at": "2026-10-28T19:09:15.000Z",
+          "summary": "WallStDiaries reported that the US DOJ is reviewing Nvidia's $12.93B Hugging Face acquisition for competition effects, with closing expected in the first half of 2027.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Hugging Face acquisition is under DOJ review."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oracle's 2030 targets",
+          "url": "https://x.com/WallStDiaries/status/2115511760396657050",
+          "published_at": "2026-10-28T18:31:22.000Z",
+          "summary": "WallStDiaries reported that Oracle targets at least $225B revenue, an operating margin above 40% and EPS above $21 for fiscal 2030.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "positive",
+              "note": "Targets at least $225B revenue for 2030."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Peptide rule for Hims & Hers",
+          "url": "https://x.com/WallStDiaries/status/2115507877385232399",
+          "published_at": "2026-10-28T18:15:56.000Z",
+          "summary": "WallStDiaries wrote that the US temporarily allowing pharmacies to compound six peptides could support Hims & Hers' entry into the peptide market.",
+          "assets": [
+            {
+              "symbol": "HIMS",
+              "sentiment": "positive",
+              "note": "The new rule could support its entry into peptides; the substances are not FDA-approved."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Flex to spin off Axiom",
+          "url": "https://x.com/WallStDiaries/status/2115506778016219598",
+          "published_at": "2026-10-28T18:11:34.000Z",
+          "summary": "WallStDiaries reported that Flex plans to spin off its AI-infrastructure-focused Axiom unit in Q1 2027 and raised its FY27 adjusted EPS outlook to $4.84-5.16.",
+          "assets": [
+            {
+              "symbol": "FLEX",
+              "sentiment": "positive",
+              "note": "Axiom spin-off targeted for Q1 2027; EPS and revenue outlook raised."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Vertiv Q3 results",
+          "url": "https://x.com/WallStDiaries/status/2115416408255320204",
+          "published_at": "2026-10-28T12:12:28.000Z",
+          "summary": "WallStDiaries reported that Vertiv's Q3 revenue of $4.313B rose 61% y/y, adjusted EPS of $2.21 rose 78%, and it raised its 2026 outlook.",
+          "assets": [
+            {
+              "symbol": "VRT",
+              "sentiment": "positive",
+              "note": "Revenue +61%, adjusted EPS +78%; 2026 outlook raised."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Netflix struggling",
+          "url": "https://x.com/WallStDiaries/status/2115546395071439045",
+          "published_at": "2026-10-28T20:49:00.000Z",
+          "summary": "WallStDiaries wrote that Netflix's ad revenue is falling, revenue growth is slowing, viewer engagement growth is being questioned and analysts keep pushing the stock lower.",
+          "assets": [
+            {
+              "symbol": "NFLX",
+              "sentiment": "negative",
+              "note": "Ad revenue falling, growth slowing; trouble continues for now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu shared a video titled 'Fed, Warsh, PCE: When Exactly Should You Buy This Week?'; the post contains no view or level.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Fed, Warsh, PCE video shared",
+          "url": "https://x.com/TuncSatiroglu/status/2115423858316750931",
+          "published_at": "2026-10-28T12:42:05.000Z",
+          "summary": "Tunç Şatıroğlu shared the video 'Fed, Warsh, PCE: When Exactly Should You Buy This Week?' without comment.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy covered the Fed and earnings overnight: he called **Microsoft**'s results a sign that AI infrastructure demand stays strong, while saying the cash-flow effect of the $39.4B quarterly spend needs watching. On **Alphabet** he said it did not surprise him, a jab at those who had called the end of **Nvidia**. Earlier he relayed that UBS expects two hikes in December and March while targeting 8,400 for the S&P 500.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Strong Microsoft results",
+          "url": "https://x.com/FinancewithIzzy/status/2115552226538119190",
+          "published_at": "2026-10-28T21:12:10.000Z",
+          "summary": "FinancewithIzzy wrote that Microsoft's results show AI infrastructure demand remains strong, but the cash-flow impact of the $39.4B quarterly capex needs monitoring.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "positive",
+              "note": "Azure +48%, AI infrastructure demand strong; capex impact on cash flow needs watching."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Tagged as a beneficiary of Microsoft's infrastructure spending."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Tagged as a beneficiary of Microsoft's infrastructure spending."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Alphabet did not surprise me",
+          "url": "https://x.com/FinancewithIzzy/status/2115549799823122576",
+          "published_at": "2026-10-28T21:02:31.000Z",
+          "summary": "FinancewithIzzy wrote that Alphabet surprised many but not him and asked what those who called the end of Nvidia will say now.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "negative",
+              "note": "Says the results did not surprise him and it 'looks like it has reached the end of its allotted time'."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Implies those who predicted Nvidia's demise will have to backtrack."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fed and earnings tonight",
+          "url": "https://x.com/FinancewithIzzy/status/2115487255624356177",
+          "published_at": "2026-10-28T16:54:00.000Z",
+          "summary": "FinancewithIzzy wrote that the Fed decision and the Alphabet and Microsoft results were two big tests tonight, that UBS expects two hikes by the end of Q1 2027 and that the Fed was expected to hold at 3.75-4.00%.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Watching cloud growth, AI revenue and infrastructure spending."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Watching Azure growth, Copilot revenue and the return on data-center spend."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "UBS: two hikes but S&P 500 target of 8,400",
+          "url": "https://x.com/FinancewithIzzy/status/2115470428995027331",
+          "published_at": "2026-10-28T15:47:08.000Z",
+          "summary": "FinancewithIzzy relayed that UBS expects the Fed to hike 25 bp in December 2026 and again in March 2027, targets 8,400 for the S&P 500 by June 2027 and expects 14% earnings growth in 2027.",
+          "assets": [
+            {
+              "symbol": "SPX",
+              "sentiment": "positive",
+              "note": "UBS's June 2027 target is 8,400; stresses that a hike does not necessarily mean stocks fall."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine relayed the earnings flow along with analyst notes: at **Alphabet** Cloud grew 103% while EPS missed, and Barclays said the stock is still attractive at 14x 2028 EPS but may stay under pressure for a while; at **Microsoft** Azure grew 48%, capex came in below estimates and Barclays raised its target to $610. It reported that **Marvell** is in advanced talks to buy **Lumentum**, **ServiceNow** and **Fortinet** fell sharply on guidance, **PayPal** was downgraded by Barclays and JPMorgan initiated **Palantir** with a $262 target. On macro it noted the Trump administration is negotiating a temporary peace deal with Iran, that PCE, GDP and jobless claims are due today and that **Nvidia** reports on November 17.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Alphabet Q3: SpaceX stake loss weighs on EPS",
+          "url": "https://x.com/wallstengine/status/2115550462611247517",
+          "published_at": "2026-10-28T21:05:09.000Z",
+          "summary": "wallstengine reported that Alphabet's SpaceX stake losing value drove $8.2B in net other expenses, with revenue of $127.6B, Cloud of $30.7B and operating income up 30%.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Cloud beat while Search and YouTube missed; EPS fell on the SpaceX stake loss."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Alphabet's SpaceX stake lost value in Q3."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Barclays: Alphabet Cloud stands out but pressure may persist",
+          "url": "https://x.com/wallstengine/status/2115718744639185406",
+          "published_at": "2026-10-29T08:13:51.000Z",
+          "summary": "wallstengine relayed that Barclays said Alphabet's Cloud stood out, flagged an investor 'code yellow', and that the shares remain attractive at 14x 2028 EPS but may stay under pressure for a bit.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Barclays: attractive at 14x 2028 EPS but near-term pressure possible; blue-link query growth lags."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft Azure beats, shares up 4%",
+          "url": "https://x.com/wallstengine/status/2115541224979595743",
+          "published_at": "2026-10-28T20:28:27.000Z",
+          "summary": "wallstengine reported Microsoft's Azure growth of 48% (est. 44.7%) and capex of $39.4B (est. $46.6B), with the shares up 4%.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "positive",
+              "note": "Azure and revenue beat, capex well below estimates; stock up 4%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft outlook: Azure +49-50%, capex ~$170B",
+          "url": "https://x.com/wallstengine/status/2115566078462148625",
+          "published_at": "2026-10-28T22:07:13.000Z",
+          "summary": "wallstengine reported Microsoft guided Q2 Azure growth of +49-50% in constant currency (est. 44.6%), said demand exceeds supply and lowered CY26 capex to ~$170B from ~$175B on third-party capacity delays.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "positive",
+              "note": "Q2 revenue guide of $96.0-97.1B (est. $95.62B); demand exceeds supply."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Barclays lifts Microsoft target to $610",
+          "url": "https://x.com/wallstengine/status/2115715825550467333",
+          "published_at": "2026-10-29T08:02:15.000Z",
+          "summary": "wallstengine relayed that Barclays raised its Microsoft price target to $610 from $600 and kept Overweight, citing Azure growth near 50% and M365 accelerating to 19%.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "positive",
+              "note": "Barclays Overweight, $610 target; 'better growth from AI without the high debt burden risk'."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Barclays downgrades PayPal",
+          "url": "https://x.com/wallstengine/status/2115716221534691820",
+          "published_at": "2026-10-29T08:03:49.000Z",
+          "summary": "wallstengine relayed that Barclays cut PayPal to Underweight and its target to $53 from $56, noting branded checkout grew just 1% and Q4 growth guidance is 1-2%.",
+          "assets": [
+            {
+              "symbol": "PYPL",
+              "sentiment": "negative",
+              "note": "Barclays Underweight, $53 target; market-share loss concerns."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "JPMorgan initiates Palantir at Overweight",
+          "url": "https://x.com/wallstengine/status/2115709399461462482",
+          "published_at": "2026-10-29T07:36:43.000Z",
+          "summary": "wallstengine relayed that JPMorgan initiated Palantir at Overweight with a $262 December 2027 target and put it on Positive Catalyst Watch ahead of the Nov. 2 earnings.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "JPMorgan Overweight, $262 target; 93% revenue growth and 62% operating margin last quarter."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Marvell–Lumentum report: LITE +10%, MRVL -10%",
+          "url": "https://x.com/wallstengine/status/2115557870746104226",
+          "published_at": "2026-10-28T21:34:36.000Z",
+          "summary": "wallstengine reported, per Bloomberg, that Marvell is in advanced talks to buy Lumentum with a deal possibly announced as soon as next week, with LITE up 10% and MRVL down 10%.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "negative",
+              "note": "Fell 10% as the prospective acquirer."
+            },
+            {
+              "symbol": "LITE",
+              "sentiment": "positive",
+              "note": "Rose 10% on the takeover talks."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ServiceNow falls 18%",
+          "url": "https://x.com/wallstengine/status/2115566482767880247",
+          "published_at": "2026-10-28T22:08:49.000Z",
+          "summary": "wallstengine reported ServiceNow guided Q4 cRPO growth of 18.5% (est. 19.7%), sending the stock down 18%.",
+          "assets": [
+            {
+              "symbol": "NOW",
+              "sentiment": "negative",
+              "note": "cRPO guidance below estimates; stock down 18%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fortinet beats but falls 25%",
+          "url": "https://x.com/wallstengine/status/2115547059239719287",
+          "published_at": "2026-10-28T20:51:38.000Z",
+          "summary": "wallstengine reported that despite beating Q3 and raising guidance, Fortinet cut its service revenue guide to $5.15-5.17B and the stock fell 25% after hours.",
+          "assets": [
+            {
+              "symbol": "FTNT",
+              "sentiment": "negative",
+              "note": "Service revenue guide cut; fell 25% after hours."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "US–Iran temporary peace talks",
+          "url": "https://x.com/wallstengine/status/2115730281126834239",
+          "published_at": "2026-10-29T08:59:42.000Z",
+          "summary": "wallstengine reported, per Semafor, that the Trump administration is negotiating a temporary peace deal with Iran.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Volkswagen's China joint ventures swing to a loss",
+          "url": "https://x.com/wallstengine/status/2115721287574462599",
+          "published_at": "2026-10-29T08:23:57.000Z",
+          "summary": "wallstengine reported Volkswagen's China joint ventures posted a €113M operating loss in nine months, China deliveries fell 38.5% in Q3 and the group posted a €5.86B Q3 operating loss.",
+          "assets": [
+            {
+              "symbol": "VOW3",
+              "sentiment": "negative",
+              "note": "China JVs swung to a loss; €5.86B operating loss in Q3."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia to report on November 17",
+          "url": "https://x.com/wallstengine/status/2115555339869577377",
+          "published_at": "2026-10-28T21:24:32.000Z",
+          "summary": "wallstengine announced that Nvidia will report Q3 earnings on Tuesday, Nov. 17.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Q3 earnings due Nov. 17."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Silicon Motion Q3",
+          "url": "https://x.com/wallstengine/status/2115573694341025962",
+          "published_at": "2026-10-28T22:37:28.000Z",
+          "summary": "wallstengine reported Silicon Motion's Q3 revenue of $560.2M (+131%) and adjusted EPS of $4.35, with Q4 revenue guidance of $588-616M (est. $550M).",
+          "assets": [
+            {
+              "symbol": "SIMO",
+              "sentiment": "positive",
+              "note": "Revenue and EPS beat; Q4 guide above estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Shell Q3 beats",
+          "url": "https://x.com/wallstengine/status/2115700449441390918",
+          "published_at": "2026-10-29T07:01:09.000Z",
+          "summary": "wallstengine reported Shell's Q3 adjusted earnings of $10.81B beat the $9.92B estimate with free cash flow of $16.3B.",
+          "assets": [
+            {
+              "symbol": "SHEL",
+              "sentiment": "positive",
+              "note": "Adjusted earnings and cash flow beat estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump Media sells faster Truth Social access",
+          "url": "https://x.com/wallstengine/status/2115600009534300363",
+          "published_at": "2026-10-29T00:22:02.000Z",
+          "summary": "wallstengine reported Trump Media signed Bloomberg, Susquehanna and Jump Trading for faster access to Trump's Truth Social posts.",
+          "assets": [
+            {
+              "symbol": "DJT",
+              "sentiment": "neutral",
+              "note": "The fast-access service costs $70-100K+ per month."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Today's data calendar",
+          "url": "https://x.com/wallstengine/status/2115685129880289565",
+          "published_at": "2026-10-29T06:00:17.000Z",
+          "summary": "wallstengine listed today's key events: US PCE price index, jobless claims and advance GDP, plus earnings from Caterpillar, Eli Lilly and Mastercard among others.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz is tempted to build a separate equal-weighted portfolio of the hyperscaler AI-buildout basket: **Amazon**, **SpaceX**, **Meta**, **Alphabet**, **Microsoft** and **Oracle**. He wrote that he has been bearish on **Netflix** for a while and it has gotten worse than he expected. He calls **Visa** at 30x earnings a 'great business but mediocre investment' and prefers the higher upside in the MAG7; on **TXG** he sees no buy after a 10x move.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Hyperscaler AI buildout basket",
+          "url": "https://x.com/jrouldz/status/2115558541151146488",
+          "published_at": "2026-10-28T21:37:16.000Z",
+          "summary": "jrouldz wrote he is tempted to make a separate equal-weighted portfolio of AMZN, SPCX, META, GOOG, MSFT and ORCL and check back in five years.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Included in the equal-weighted hyperscaler basket."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "positive",
+              "note": "Included in the basket."
+            },
+            {
+              "symbol": "GOOG",
+              "sentiment": "positive",
+              "note": "Included in the basket."
+            },
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "Included in the basket."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "positive",
+              "note": "Included in the basket."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Included in the basket."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Netflix worse than expected",
+          "url": "https://x.com/jrouldz/status/2115465774521266412",
+          "published_at": "2026-10-28T15:28:38.000Z",
+          "summary": "jrouldz wrote he has been bearish on Netflix for a while and it is worse than expected: hits and live TV are expensive, and he cannot get excited even at this level.",
+          "assets": [
+            {
+              "symbol": "NFLX",
+              "sentiment": "negative",
+              "note": "Hits and live TV are costly; no excitement even at this level."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Visa: great business, mediocre investment",
+          "url": "https://x.com/jrouldz/status/2115402085646922008",
+          "published_at": "2026-10-28T11:15:34.000Z",
+          "summary": "jrouldz wrote that at 30x earnings and a decade-plus of compounding Visa is a 'great business but mediocre investment' and that larger-cap names at lower multiples have more upside.",
+          "assets": [
+            {
+              "symbol": "V",
+              "sentiment": "negative",
+              "note": "30x earnings, priced for perfection; sees better opportunity elsewhere."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TXG: not a buy after a 10x move",
+          "url": "https://x.com/jrouldz/status/2115460440721334439",
+          "published_at": "2026-10-28T15:07:27.000Z",
+          "summary": "jrouldz wrote that he does not see 10x Genomics (TXG) as a buy after a 10x move off the lows, that it is now ARKG's largest holding and the fund may start trimming it.",
+          "assets": [
+            {
+              "symbol": "TXG",
+              "sentiment": "negative",
+              "note": "Already up 10x; not a buy at this price."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance reads the Fed decision as 'firm on inflation, patient on a new hike' and says a December hike is still possible. He wrote that **Alphabet** did not deserve a 9% drop while **ServiceNow** and **Fortinet** got what they deserved, and questioned how **Marvell** would finance **Lumentum**. Answering requests for picks he would skip **GRAB** and **UUUU** for now, wait for earnings on **APP**, and said **SE** and **SoFi** could work; he also ranked tech stocks at least 20% off their highs by analyst upside.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Fed: firm on inflation, patient on a new hike",
+          "url": "https://x.com/cevikfinance/status/2115528292665377182",
+          "published_at": "2026-10-28T19:37:04.000Z",
+          "summary": "cevikfinance wrote that the Fed held at 3.75-4.00% on a 10-2 vote with two members wanting a hike, a December hike is still possible, and that while short-term relief is possible a strong rally needs inflation data and earnings support.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Fed Day Dead Day: what to expect from Warsh",
+          "url": "https://x.com/cevikfinance/status/2115463220202807660",
+          "published_at": "2026-10-28T15:18:29.000Z",
+          "summary": "cevikfinance wrote that the Fed was 95% likely to hold and that he expected Warsh to keep a hard line on inflation without committing to a new hike today.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Market reaction to earnings",
+          "url": "https://x.com/cevikfinance/status/2115543753553498157",
+          "published_at": "2026-10-28T20:38:30.000Z",
+          "summary": "cevikfinance wrote that ServiceNow and Fortinet got what they deserved while Alphabet did not deserve a 9% drop.",
+          "assets": [
+            {
+              "symbol": "NOW",
+              "sentiment": "negative",
+              "note": "Deserved the drop."
+            },
+            {
+              "symbol": "FTNT",
+              "sentiment": "negative",
+              "note": "Deserved the drop."
+            },
+            {
+              "symbol": "GOOGL",
+              "sentiment": "positive",
+              "note": "Not a report that deserved a 9% drop."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Marvell–Lumentum: with what money?",
+          "url": "https://x.com/cevikfinance/status/2115553233938907160",
+          "published_at": "2026-10-28T21:16:10.000Z",
+          "summary": "cevikfinance reacted to the Marvell–Lumentum talks report by asking 'With what money?'.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "negative",
+              "note": "Questions how the acquisition would be financed."
+            },
+            {
+              "symbol": "LITE",
+              "sentiment": "neutral",
+              "note": "Reacted with surprise to the takeover report."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Cybersecurity stocks sell off",
+          "url": "https://x.com/cevikfinance/status/2115548606413275433",
+          "published_at": "2026-10-28T20:57:47.000Z",
+          "summary": "cevikfinance quoted a post on CRWD, PANW, FTNT and ZS selling off with 'Finally!'.",
+          "assets": [
+            {
+              "symbol": "CRWD",
+              "sentiment": "neutral",
+              "note": "Commented 'Finally!' on the selloff post."
+            },
+            {
+              "symbol": "PANW",
+              "sentiment": "neutral",
+              "note": "Commented 'Finally!' on the selloff post."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Stock picks for a follower",
+          "url": "https://x.com/cevikfinance/status/2115517087150149912",
+          "published_at": "2026-10-28T18:52:32.000Z",
+          "summary": "cevikfinance answered a question saying he would skip GRAB and UUUU for now, wait for earnings on APP, and that SE and SOFI could work.",
+          "assets": [
+            {
+              "symbol": "GRAB",
+              "sentiment": "negative",
+              "note": "Would skip for now."
+            },
+            {
+              "symbol": "UUUU",
+              "sentiment": "negative",
+              "note": "Would skip for now."
+            },
+            {
+              "symbol": "APP",
+              "sentiment": "neutral",
+              "note": "Would wait for earnings."
+            },
+            {
+              "symbol": "SE",
+              "sentiment": "positive",
+              "note": "Says it could work."
+            },
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "Says it could work."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "UUUU is hard in this environment",
+          "url": "https://x.com/cevikfinance/status/2115505781990895616",
+          "published_at": "2026-10-28T18:07:37.000Z",
+          "summary": "cevikfinance wrote that UUUU is difficult in the current environment, a rally needs lower rates and more liquidity, but prices look good for the long term.",
+          "assets": [
+            {
+              "symbol": "UUUU",
+              "sentiment": "neutral",
+              "note": "Hard without lower rates; could be considered long term at good prices."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tech stocks to buy on a dip list",
+          "url": "https://x.com/cevikfinance/status/2115497773223051748",
+          "published_at": "2026-10-28T17:35:47.000Z",
+          "summary": "cevikfinance ranked growing, profitable tech stocks at least 20% off their highs by forward P/E with analyst upside: MU 68%, SNDK 60%, ORCL 87%, META 49%, AVGO 50%, SOFI 24%, HOOD 48% among others.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Cheapest forward P/E on the list; average analyst upside 68%."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Analyst upside 49%."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Analyst upside 50%."
+            },
+            {
+              "symbol": "SOFI",
+              "sentiment": "positive",
+              "note": "Analyst upside 24%."
+            },
+            {
+              "symbol": "HOOD",
+              "sentiment": "positive",
+              "note": "Analyst upside 48%."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "positive",
+              "note": "Analyst upside 87%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Is Burry long Meta?",
+          "url": "https://x.com/cevikfinance/status/2115502510962287052",
+          "published_at": "2026-10-28T17:54:37.000Z",
+          "summary": "cevikfinance joked in response to the report that Burry is long Meta: 'If he is buying, it will surely fall; should I sell my Meta position?'.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Took the report with a joke and says he holds a position."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [
+          {
+            "person": "cevikfinance",
+            "sentiment": "positive",
+            "quote": "SE and SOFI could work.",
+            "source_url": "https://x.com/cevikfinance/status/2115517087150149912"
+          }
+        ],
+        "action": "hold",
+        "why": "cevikfinance lists SoFi as one that 'could work' but gave no level or date; no other source.",
+        "opinion": "At an 18.8% weight this is the portfolio's largest single-stock risk; there is no new information today, so the issue is position size and the direction of rates.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: cevikfinance counts SoFi among names worth considering.",
+          "Against: on cevikfinance's list the analyst upside is 24%, among the lowest.",
+          "Against: the Fed leaving a December hike open is a risk for a rate-sensitive financial."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [
+          {
+            "person": "Berk Dinçtürk",
+            "sentiment": "positive",
+            "quote": "I expect our country to become an investment attraction center in the coming years",
+            "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+          }
+        ],
+        "action": "hold",
+        "why": "Per Berk Dinçtürk the defense industry could make Turkey an investment hub, but he gave no level or date.",
+        "opinion": "The thesis is long-term and has no Turkey-specific trigger; at a 12.9% weight the main risks are the currency and global rate direction.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per Berk Dinçtürk regional tension is an advantage for Turkey with its strong defense industry.",
+          "Against: sources gave no concrete data or level on Turkish assets today.",
+          "Against: a possible December Fed hike is a source of pressure for emerging markets."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [
+          {
+            "person": "FinancewithIzzy",
+            "sentiment": "positive",
+            "quote": "$NVDA $AVGO $MSFT",
+            "source_url": "https://x.com/FinancewithIzzy/status/2115552226538119190"
+          },
+          {
+            "person": "cevikfinance",
+            "sentiment": "neutral",
+            "quote": "$AVGO 50%",
+            "source_url": "https://x.com/cevikfinance/status/2115497773223051748"
+          },
+          {
+            "person": "Berk Dinçtürk",
+            "sentiment": "neutral",
+            "quote": "Now the headline and the content are completely different.",
+            "source_url": "https://www.youtube.com/watch?v=pw5g9OTAltY"
+          }
+        ],
+        "action": "hold",
+        "why": "Sources treat Broadcom as a beneficiary of AI infrastructure spending but nobody gave a level or date.",
+        "opinion": "At a 12.9% weight you are heavily exposed to the AI spending cycle; Microsoft's capex coming in below estimates is a reminder of timing risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per FinancewithIzzy Microsoft's infrastructure spending shows AI hardware demand stays strong.",
+          "For: average analyst upside on cevikfinance's list is 50%.",
+          "Against: the Broadcom CEO remark Berk Dinçtürk described triggered a sharp tech selloff recently."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "positive",
+            "quote": "Burry denied reports that he took a long position in $META. $META investors took a deep breath",
+            "source_url": "https://x.com/korkmazali08/status/2115662068158169553"
+          },
+          {
+            "person": "cevikfinance",
+            "sentiment": "neutral",
+            "quote": "Should I sell my $META position or what? 😂",
+            "source_url": "https://x.com/cevikfinance/status/2115502510962287052"
+          },
+          {
+            "person": "jrouldz",
+            "sentiment": "positive",
+            "quote": "I'm tempted to make a separate portfolio with equal weighting across the hyperscaler buildout basket",
+            "source_url": "https://x.com/jrouldz/status/2115558541151146488"
+          },
+          {
+            "person": "Berk Dinçtürk",
+            "sentiment": "neutral",
+            "quote": "Meta has developed its technology, you know.",
+            "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+          }
+        ],
+        "action": "hold",
+        "why": "jrouldz puts Meta in the hyperscaler basket and the Burry report was denied, but nobody gave a level or date.",
+        "opinion": "The denial of the Burry report reduces noise but does not change the thesis; at 12.8% the main question is the return on AI spending.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: average analyst upside on cevikfinance's list is 49%.",
+          "For: jrouldz considers holding Meta in a five-year hyperscaler basket.",
+          "Against: Alphabet's CFO said capex will rise significantly in 2027; cost pressure across the sector is growing."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The nuclear/SMR theme is one Berk Dinçtürk likes, but he did not name BWXT; at 10.5% the position needs company-specific news flow.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per Berk Dinçtürk the need for uninterrupted power will push nuclear forward.",
+          "Against: no concrete source on the company or sector today.",
+          "Against: a 10.5% weight adds concentration in a single theme."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "At a 9.4% weight this is a high-volatility ad stock; Alphabet expanding AI Mode ads shows digital ad competition is intensifying.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per wallstengine Google is expanding AI Mode ads, so digital ad demand continues.",
+          "Against: no source on Reddit today.",
+          "Against: the sharp drops in ServiceNow and Fortinet show the market is unforgiving of guidance disappointments."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [
+          {
+            "person": "jrouldz",
+            "sentiment": "negative",
+            "quote": "I've been hating on $NFLX for a while now but its become even worse than I anticipated!",
+            "source_url": "https://x.com/jrouldz/status/2115465774521266412"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "negative",
+            "quote": "Netflix too; ad revenues are falling, revenue growth is slowing",
+            "source_url": "https://x.com/WallStDiaries/status/2115546395071439045"
+          }
+        ],
+        "action": "hold",
+        "why": "jrouldz and WallStDiaries are negative on Netflix, but neither gave a level or date.",
+        "opinion": "Two independent sources turning negative on the same day is notable; at 9.4% ad revenue and engagement need watching.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: per jrouldz producing hits and live TV is expensive and competitive.",
+          "Against: WallStDiaries writes ad revenue is falling and growth is slowing.",
+          "For: jrouldz says it is still 'a good business' and that at some point the price will find support."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "Berk Dinçtürk",
+            "sentiment": "positive",
+            "quote": "if energy eases, that is oil goes to 75-85, do not be surprised to see 4.75 as well",
+            "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+          }
+        ],
+        "action": "hold",
+        "why": "Per Berk Dinçtürk bond yields could fall to 4.75% if oil normalizes, but a December hike is also on the table the same day.",
+        "opinion": "Long bonds gain when yields fall, but a December hike and yields near 5% keep this ETF volatile; being long-duration, the call depends on Fed communication.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per Berk Dinçtürk yields could move toward 4.75 if oil falls to $75-85.",
+          "Against: cevikfinance says a December hike is still possible.",
+          "Against: Berk Dinçtürk pointing to 5% as the ceiling shows yields are near that level."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The data-center power infrastructure theme is supported by Vertiv's strong results, but there is no Forgent-specific source; a 5.3% weight is relatively small.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per WallStDiaries Vertiv's revenue rose 61% y/y and it raised its outlook.",
+          "Against: Microsoft lowering capex on third-party capacity delays could shift spending timing.",
+          "Against: no source on Forgent today."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "TEM",
+        "name": "Tempus AI",
+        "why": "sgundoganX says healthcare will be one of the most profitable sectors of the next 2-3 years and has been adding Tempus AI, his first pick, for a year.",
+        "source_url": "https://x.com/sgundoganX/status/2115463654728503776"
+      },
+      {
+        "symbol": "PLTR",
+        "name": "Palantir",
+        "why": "wallstengine relayed JPMorgan initiating at Overweight with a $262 December 2027 target, with a Positive Catalyst Watch ahead of the Nov. 2 earnings.",
+        "source_url": "https://x.com/wallstengine/status/2115709399461462482"
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron Technology",
+        "why": "Berk Dinçtürk says memory names like Micron are worth a look; on cevikfinance's list it has 68% analyst upside and the cheapest forward P/E.",
+        "source_url": "https://www.youtube.com/watch?v=grzgUTfaXkU"
+      }
+    ]
+  }
+}
