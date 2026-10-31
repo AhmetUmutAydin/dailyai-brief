@@ -1,0 +1,1192 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T08:11:40Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "About $6.3B in unauthorized outflows from Binance; Binance says it will cover all losses",
+      "person": "WallStDiaries",
+      "why": "According to WallStDiaries the attack began with a compromised DevOps engineer's laptop, about $3B was frozen by Tether and Circle, and Chainalysis and TRM Labs trace it to the North Korea-linked TraderTraitor group.",
+      "source_url": "https://x.com/WallStDiaries/status/2116101417605746964"
+    },
+    {
+      "title": "Nasdaq 100 fell 3% in a day, is down 10% from its peak and has reached its 200-day EMA",
+      "person": "cevikfinance",
+      "why": "According to cevikfinance, if the index cannot hold this level as support next week, further declines may follow.",
+      "source_url": "https://x.com/cevikfinance/status/2116235565053993065"
+    },
+    {
+      "title": "Alphabet fell about 12.6% in one day; Bora Özkent sees it as an overreaction",
+      "person": "Bora Özkent",
+      "why": "According to Bora Özkent, cloud growth reached 103% while ad growth slowed to 12% and free cash flow turned negative; he sees a buying opportunity near the 200-day average but does not himself invest in Alphabet.",
+      "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+    },
+    {
+      "title": "ulkser made a first-tranche purchase in gold and silver",
+      "person": "ulkser",
+      "why": "ulkser wrote that there is no bottom formation or reversal signal, that he bought to add precious metals to his portfolio, and that he plans small additional tranches lower.",
+      "source_url": "https://x.com/ulkser/status/2116261378822439004"
+    },
+    {
+      "title": "OpenAI cut its fundraising target from $30B to $20B",
+      "person": "wallstengine",
+      "why": "Per an FT-based report, the target valuation fell from $1.4T to $1.25T, and some investors reduced commitments amid the AI selloff.",
+      "source_url": "https://x.com/wallstengine/status/2116322857617908141"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Tech selloff, rotation and index levels",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Reads the drop as rotation from tech into defensive sectors; the equal-weight S&P 500 was positive and earnings served as a pretext.",
+          "quote": "Eşit ağırlıklı S&P 500 dün aslında pozitifti. Yani arkadaşlar yaşanan hala bir rotasyon.",
+          "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Nasdaq 100 is 10% off its peak and at its 200-day EMA; if it does not hold, the drop could deepen.",
+          "quote": "$NDX bugünkü %3'lük düşüş ile son zirvesinden %10 düşmüş oldu. Şu an 200 günlük üssel hareketli ortalama seviyesinde.",
+          "source_url": "https://x.com/cevikfinance/status/2116235565053993065"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "For QQQ, flags a drop toward 676 if it cannot close back above 702.",
+          "quote": "Tekrar $702 seviyesinin üstünde kapanış yapamaz isek $676 ya kadar bir düşüş yaşayabiliriz.",
+          "source_url": "https://x.com/korkmazali08/status/2116173481020727614"
+        },
+        {
+          "person": "ulkser",
+          "view": "Says repeating the last 2-3 years' gains is hard, longs should be tactical with a small aggressive share, and bonds provided balance.",
+          "quote": "Longlar taktiksel olmali. Agresif kisim total portfoyde kucuk olmali.",
+          "source_url": "https://x.com/ulkser/status/2116244746368655698"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Per Morgan Stanley prime brokerage data, hedge funds made their largest risk cut on record, a 7.8% de-grossing from the peak.",
+          "quote": "Hedge funds just made their biggest risk cut on record: a 7.8% de-grossing from the peak, the largest in Morgan Stanley prime brokerage data going back to 2016.",
+          "source_url": "https://x.com/wallstengine/status/2116251753977094247"
+        }
+      ]
+    },
+    {
+      "topic": "US growth and inflation",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Q3 growth rose from 2.2% to 3.4%; the September PCE price index at 3.6% is high but in line with expectations, so its impact was limited.",
+          "quote": "Büyüme %2.2'den %3.4'e çıkmış durumda.",
+          "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+        }
+      ]
+    },
+    {
+      "topic": "Geopolitics, oil and US elections",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Brent is above $100-110; tanker reports near Hormuz and the November 3 elections are weighing on markets, with about a 64% chance priced for Democrats taking both chambers.",
+          "quote": "%64 oranında Demokratların iki meclisi birden alma ihtimalinden bahsediliyor.",
+          "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+        },
+        {
+          "person": "jrouldz",
+          "view": "Suggests the selloff cannot be explained by Intel alone and that insiders may be front-running a war announcement due after markets close.",
+          "quote": "Maybe we’re going to war again and insiders are frontrunning an announcement that normies will receive after markets close",
+          "source_url": "https://x.com/jrouldz/status/2116212629798605172"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "priority": "high",
+      "why": "Several people commented on the post-earnings drop and Bora Özkent described a clear buying zone (the 200-day average).",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Ben Google'a alfabet hayran değilim. Yatırım yapmayı yine düşünmem ama hani buralarda fırsat yaratmaya başladı mı bence fırsat da yaratıyor.",
+          "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "$GOoGL ve $AMZN bilanço kumarlarim da tutmadi, stoplandik yapacak birsey yok.",
+          "source_url": "https://x.com/ulkser/status/2116125386262143423"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Google Gemini 4 Carbon ile Yapay Zekâ Liderliğini Ele Geçirdi, Hisse Düşmeye Devam Ediyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2116249459612930225"
+        }
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "priority": "high",
+      "why": "Two people described their position after earnings; Bora Özkent keeps his long-term thesis while ulkser was stopped out.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "benim yatırım tezlerinde bir değişiklik olmadığı için acılara katlanarak şu anda uzun vade bir yatırımcı olarak kalmaya devam ediyorum.",
+          "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "$GOoGL ve $AMZN bilanço kumarlarim da tutmadi, stoplandik yapacak birsey yok.",
+          "source_url": "https://x.com/ulkser/status/2116125386262143423"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Mesela amazon tarafında da terste kaldım ama intel getirisi çok iyi olduğu için kazanç sağladı.",
+          "source_url": "https://x.com/korkmazali08/status/2116187902958797284"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "priority": "high",
+      "why": "The stock fell roughly 25-30%; Ali Korkmaz said he profited from the drop via puts, and Bora Özkent sees a management problem.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Ben İtel'in kötü yönetilen bir şirket olduğunu hep iddia ettim.",
+          "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "$INTC açılışın ardından -%30 düşmüş durumda. Düşüşü bekliyordum bunun için put işlemide açmıştım",
+          "source_url": "https://x.com/korkmazali08/status/2116168138161279338"
+        }
+      ]
+    },
+    {
+      "symbol": "RDDT",
+      "name": "Reddit",
+      "priority": "medium",
+      "why": "Only one person gave a view, but the stock fell 18% and it is in the portfolio.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Ben Redit'e yatırım yapmayı çok çok istiyorum. Şu düşme trendi ama beni de ürkütüyor.",
+          "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "high",
+      "why": "Two people gave views and MrTradeer gave clear levels.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Bitcoin çok da sert bir tepki vermedi açıkçası. 80.000'i kaybetti ama 78.534'te tutunmuş durumda.",
+          "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+        },
+        {
+          "person": "MrTradeer",
+          "sentiment": "negative",
+          "quote": "Üst bölgenin dağıtım olduğunu anlayıp düşüş yönlü işlemleri aldık; 76 ilk hedefimiz dedik ve geldi.",
+          "source_url": "https://x.com/MrTradeer/status/2116176288805265762"
+        }
+      ]
+    },
+    {
+      "symbol": "XAUUSD",
+      "name": "Gold",
+      "priority": "medium",
+      "why": "ulkser disclosed a concrete purchase and planned further tranches lower.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Portfoyume degerli metal eklemek icin aldim. Ufak kademe asagilarda farkli sekilde alimlarim olacak.",
+          "source_url": "https://x.com/ulkser/status/2116261378822439004"
+        }
+      ]
+    },
+    {
+      "symbol": "XAGUSD",
+      "name": "Silver",
+      "priority": "medium",
+      "why": "ulkser disclosed a concrete purchase and planned further tranches lower.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$XAGUSD $XAUUSD altin ve gumus icin ben ilk kademe aldim.",
+          "source_url": "https://x.com/ulkser/status/2116261378822439004"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ / Nasdaq 100",
+      "priority": "high",
+      "why": "Several people gave support and resistance levels.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "$725 seviyesinin üstünde tutunamayan $QQQ için önümüzdeki senaryolar bugün kapanışı ile birlikte şekillenecektir.",
+          "source_url": "https://x.com/korkmazali08/status/2116173481020727614"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "$NDX bugünkü %3'lük düşüş ile son zirvesinden %10 düşmüş oldu.",
+          "source_url": "https://x.com/cevikfinance/status/2116235565053993065"
+        },
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "200 günlükteyken endeks riski alacaksaniz orada alin.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2116203691804110854"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "WallStDiaries gave the day's options levels.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "220 dolarda call wall, 200 dolarda put wall.",
+          "source_url": "https://x.com/WallStDiaries/status/2116129795448656239"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "medium",
+      "why": "Two people spoke about expectations ahead of the November 2 earnings.",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "negative",
+          "quote": "pazartesi $PLTR ve $TEM bilançosu nasıl gelirse gelsin yine kırmızıyı göreceğiz belli oldu.",
+          "source_url": "https://x.com/sgundoganX/status/2116246150151893380"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$PLTR, 2026 üçüncü çeyrek bilançosunu 2 Kasım’da açıklayacak. Beklentiler yüksek, analistler hedef fiyatlarını artırıyor.",
+          "source_url": "https://x.com/korkmazali08/status/2116221871867970031"
+        }
+      ]
+    },
+    {
+      "symbol": "NOW",
+      "name": "ServiceNow",
+      "priority": "medium",
+      "why": "Bora Özkent gave a clear thesis on software-as-a-service companies.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "ben yazılım software service işlerinin ölü işler olduğunu düşünüyorum.",
+          "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+        }
+      ]
+    },
+    {
+      "symbol": "FTNT",
+      "name": "Fortinet",
+      "priority": "medium",
+      "why": "Bora Özkent expects a correction in cybersecurity.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "O yüzden burada biraz rasyonalizasyon bekliyorum.",
+          "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+        }
+      ]
+    },
+    {
+      "symbol": "TLT",
+      "name": "US long-term Treasuries (TLT)",
+      "priority": "medium",
+      "why": "ulkser said his bond position helped protect the portfolio.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Bono/tahvil yatirimini cok iyi yerde yapmis olmak total portfoye arti yazdirmasi guzel oluyor.",
+          "source_url": "https://x.com/ulkser/status/2116131372960010597"
+        }
+      ]
+    },
+    {
+      "symbol": "RGTI",
+      "name": "Rigetti Computing",
+      "priority": "medium",
+      "why": "jrouldz disclosed realized gains and the remaining position size.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "More than 30x on both $RGTI and $QBTS. Will likely be the best trades of my life!",
+          "source_url": "https://x.com/jrouldz/status/2116306317304328590"
+        }
+      ]
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "negative",
+          "quote": "Bleeding on $IONQ but I took absurd profits on the others a while ago",
+          "source_url": "https://x.com/jrouldz/status/2116306317304328590"
+        }
+      ]
+    },
+    {
+      "symbol": "GPN",
+      "name": "Global Payments",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Global Payments $GPN is being targeted in a potential $40B+ buyout by private equity firm Clayton, Dubilier & Rice",
+          "source_url": "https://x.com/wallstengine/status/2116206317149061478"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$TSLA EXPECTED TO OPEN OPTIMUS ROBOT RESERVATIONS IN EARLY DECEMBER: REPORT",
+          "source_url": "https://x.com/wallstengine/status/2116247100342284688"
+        }
+      ]
+    },
+    {
+      "symbol": "OKTA",
+      "name": "Okta",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$OKTA TO JOIN S&P 500",
+          "source_url": "https://x.com/wallstengine/status/2116312360512291279"
+        }
+      ]
+    },
+    {
+      "symbol": "SHAK",
+      "name": "Shake Shack",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "$SHAK holding a pretty stable uptrend over the long term... earnings next week",
+          "source_url": "https://x.com/jrouldz/status/2116253867058909469"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "In this video Bora Özkent sums up the selloff as \"growth without patience\": AI infrastructure growth news keeps coming while the market is impatient about negative cash flow. **Alphabet** fell about 12.6% in a day; cloud growth hit 103% but ad growth slowed to 12%. Bora finds the reaction excessive and sees buying near the 200-day average as sensible, though he does not invest in it himself. At **Amazon**, AWS grew 39.3% and free cash flow was -$42.4B; Bora remains a long-term Amazon investor. He sees a management problem at **Intel**, expects a correction in software and cybersecurity via **ServiceNow** and **Fortinet**, and likes **Reddit** but does not want to catch a falling knife. **Bitcoin** held at 78,534 despite the Binance attack. On macro, Q3 growth was 3.4% and PCE 3.6%; oil and the November 3 elections stand out as risks.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "Piyasalar Derin Panikte !",
+          "url": "https://www.youtube.com/watch?v=V8HK2KdT0zo",
+          "published_at": "2026-10-30T09:30:09+00:00",
+          "summary": "According to Bora Özkent the main theme is \"growth without patience\": strong AI infrastructure growth continues but the market will not tolerate negative cash flow and is using earnings as a pretext for rotation. Alphabet fell 12.64% in a day, losing about $500B of value; cloud growth was 103%, ad growth slowed from 19.1% and 16.8% in earlier quarters to 12%, and free cash flow is negative. Bora finds the reaction excessive and says buying when it touches the 200-day average usually pays off, but says he does not plan to invest in Alphabet and argues the CEO should go. At Amazon, AWS grew 39.3%, management expects roughly 40% growth for the next two years, free cash flow was -$42.4B and 2026 capex is about $200B; Bora stays in because his thesis has not changed. Intel's earnings were in line but Q4 guidance was about $1B weak; Bora reads this as a management and supply problem, not weak demand. Reddit fell 18% (revenue growth 53%); users are declining because of Google traffic, and Bora wants to buy but the falling trend scares him. ServiceNow fell about 27% and Fortinet 20%; Bora calls software services \"dead business\" and expects rationalization in cybersecurity. Binance suffered an attack of about $6.36B, and Bitcoin lost 80,000 but held at 78,534. On macro, Q3 growth rose from 2.2% to 3.4%, September PCE was 3.6%; Brent is above $100-110, and the November 3 elections and the Apple earnings are the things to watch.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "positive",
+              "note": "Cloud grew 103% while ad growth slowed to 12%; Bora thinks the reaction is excessive and buying at the 200-day average is sensible, but he does not invest."
+            },
+            {
+              "symbol": "AMZN",
+              "sentiment": "positive",
+              "note": "AWS grew 39.3% and free cash flow was -$42.4B; Bora stays a long-term investor."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "negative",
+              "note": "Q4 guidance was weak; Bora reads it as a management problem more than weak demand and calls the company badly managed."
+            },
+            {
+              "symbol": "RDDT",
+              "sentiment": "neutral",
+              "note": "Revenue rose 53% but users fell and the stock dropped 18%; he wants to buy but does not want to catch a falling knife."
+            },
+            {
+              "symbol": "NOW",
+              "sentiment": "negative",
+              "note": "Fell about 27%; Bora considers software-service businesses dead."
+            },
+            {
+              "symbol": "FTNT",
+              "sentiment": "negative",
+              "note": "Fell 20% despite a good report; Bora expects rationalization in cybersecurity."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "Lost 80,000 but held at 78,534 despite the Binance attack; the reaction was not sharp."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "For ulkser the day was one of defense and one small purchase. His **Alphabet** and **Amazon** earnings positions were stopped out, and he says he closed his Nasdaq longs earlier. Avoiding AI and holding bonds protected him in this drop; he sees bonds like **TLT** as a balancing asset that adds to the portfolio. He says repeating the last 2-3 years' gains is hard and longs should be tactical. In the evening he wrote that he made a first-tranche purchase of **gold** and **silver**, sees no bottom signal, and plans small additional tranches lower.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Altın ve gümüşte ilk kademe alım",
+          "url": "https://x.com/ulkser/status/2116261378822439004",
+          "published_at": "2026-10-30T20:10:05.000Z",
+          "summary": "ulkser wrote that he bought a first tranche of gold and silver as a portfolio addition rather than a trade, sees no bottom signal, and will add small amounts lower.",
+          "assets": [
+            {
+              "symbol": "XAUUSD",
+              "sentiment": "positive",
+              "note": "No bottom or reversal signal; first tranche bought to add to the portfolio, with small additional tranches lower."
+            },
+            {
+              "symbol": "XAGUSD",
+              "sentiment": "positive",
+              "note": "First tranche bought for the same reason as gold."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Savunma ve taktiksel long",
+          "url": "https://x.com/ulkser/status/2116244746368655698",
+          "published_at": "2026-10-30T19:04:00.000Z",
+          "summary": "ulkser wrote that avoiding AI and holding bonds protected him today, that repeating recent years' gains is hard, and that longs should be tactical with a small aggressive share.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "Recommends tactical longs and a small aggressive share."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tahvil pozisyonu",
+          "url": "https://x.com/ulkser/status/2116131372960010597",
+          "published_at": "2026-10-30T11:33:29.000Z",
+          "summary": "ulkser wrote that his bond investment added to the total portfolio and that bonds do not make anyone rich but are good at preserving capital.",
+          "assets": [
+            {
+              "symbol": "TLT",
+              "sentiment": "positive",
+              "note": "Bonds act as a balancer and capital preserver."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Alphabet ve Amazon bilanço pozisyonları",
+          "url": "https://x.com/ulkser/status/2116125386262143423",
+          "published_at": "2026-10-30T11:09:42.000Z",
+          "summary": "ulkser wrote that his Alphabet and Amazon earnings bets failed and he was stopped out, though he exited his Nasdaq longs at a good point.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "negative",
+              "note": "Earnings position was stopped out."
+            },
+            {
+              "symbol": "AMZN",
+              "sentiment": "negative",
+              "note": "Earnings position was stopped out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan had a hard day: he said he made 52 trades and 49 were profitable, yet his portfolio fell sharply, and he wrote that this market currently cannot be traded purely as an investor. He says the **Nasdaq 100** could go back to its 200-day average, and index risk should be taken there if at all.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nasdaq 100 ve 200 günlük ortalama",
+          "url": "https://x.com/AhmetSunelcan1/status/2116203691804110854",
+          "published_at": "2026-10-30T16:20:51.000Z",
+          "summary": "Ahmet Sunelcan wrote that the Nasdaq 100 would normally revert to its 200-day average on this fear, nobody knows the timing, and index risk should be taken at the 200-day if at all.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "The 200-day average is the reference zone for taking index risk."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "52 işlem, portföy düşüşte",
+          "url": "https://x.com/AhmetSunelcan1/status/2116210759424495697",
+          "published_at": "2026-10-30T16:48:56.000Z",
+          "summary": "Ahmet Sunelcan wrote that he made 52 trades and 49 were profitable, yet the portfolio still fell enormously.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "Wrote that however the **Palantir** and **Tempus AI** earnings come out on Monday we will see red, and that patience and psychology are being tested.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Pazartesi PLTR ve TEM bilançosu",
+          "url": "https://x.com/sgundoganX/status/2116246150151893380",
+          "published_at": "2026-10-30T19:09:34.000Z",
+          "summary": "sgundoganX thinks the market will be red on Monday however the PLTR and TEM earnings turn out.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "negative",
+              "note": "Expects red regardless of the earnings outcome."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz sees the drop as extraordinary but a healthy correction: he wrote that **QQQ** could drop to 676 if it fails to close above 702, and he sees no problem in the AI theme. He said he caught the **Intel** drop with a put and was on the wrong side of **Amazon**, but the Intel gain offset it. He shared the high expectations ahead of **Palantir**'s November 2 earnings. He cautioned against rushing into growth stocks and said the day cost him about 4%.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "QQQ için 702 ve 676 seviyeleri",
+          "url": "https://x.com/korkmazali08/status/2116173481020727614",
+          "published_at": "2026-10-30T14:20:49.000Z",
+          "summary": "Ali Korkmaz wrote that with QQQ failing to hold above 725, a failure to close above 702 could mean a drop to 676.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Target 676 if there is no close above 702."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Zirvede maliyetlenmedim",
+          "url": "https://x.com/korkmazali08/status/2116216502730789167",
+          "published_at": "2026-10-30T17:11:46.000Z",
+          "summary": "Ali Korkmaz wrote that he warned repeatedly about risk in growth stocks, does not think the upcycle of his holdings has ended, but did not average in at the peak.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Acele etmemek önemli",
+          "url": "https://x.com/korkmazali08/status/2116223966335647947",
+          "published_at": "2026-10-30T17:41:25.000Z",
+          "summary": "Ali Korkmaz re-shared his earlier post saying he sees no problem in the AI theme but one must be selective, and that one should not rush into markets that have not yet fallen 10%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Intel -%30, put kazancı",
+          "url": "https://x.com/korkmazali08/status/2116168138161279338",
+          "published_at": "2026-10-30T13:59:35.000Z",
+          "summary": "Ali Korkmaz wrote that Intel dropped about 30% after the open and that he had opened a put because he expected the drop.",
+          "assets": [
+            {
+              "symbol": "INTC",
+              "sentiment": "negative",
+              "note": "Expected the drop and opened a put."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Amazon ve Intel pozisyonu",
+          "url": "https://x.com/korkmazali08/status/2116187902958797284",
+          "published_at": "2026-10-30T15:18:07.000Z",
+          "summary": "Ali Korkmaz wrote that he was on the wrong side of Amazon but made a net gain because of his strong Intel return.",
+          "assets": [
+            {
+              "symbol": "AMZN",
+              "sentiment": "negative",
+              "note": "Was caught on the wrong side of Amazon."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "negative",
+              "note": "His Intel position returned very well."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Palantir bilanço beklentisi",
+          "url": "https://x.com/korkmazali08/status/2116221871867970031",
+          "published_at": "2026-10-30T17:33:06.000Z",
+          "summary": "Ali Korkmaz shared that Palantir reports on November 2 with expectations of $2.18B revenue and $0.41 EPS, and that Oppenheimer raised its target to $235.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "Expectations are high and Oppenheimer raised its target to $235."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "digest": "WallStDiaries framed the day around the Binance attack and the tech selloff: about $6.3B in outflows, a North Korea-linked group claim and Binance's promise to cover losses. **Alphabet** kept falling despite launching Gemini 4 Carbon, and **QQQ** suffered an earnings shock. For **Nvidia** it gave a 220 call wall and a 200 put wall; it reported the China AI rally fading with main indices down more than 20%.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Binance hack'inde hasar 6,3 milyar $",
+          "url": "https://x.com/WallStDiaries/status/2116101417605746964",
+          "published_at": "2026-10-30T09:34:27.000Z",
+          "summary": "WallStDiaries wrote that Binance put the impact at $6.3B and said it would cover all losses; the attack ran through a compromised DevOps laptop and the EIP-7702 mechanism, and about $3B was frozen.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Binance saldırısı Kuzey Kore'ye uzanıyor",
+          "url": "https://x.com/WallStDiaries/status/2116201528331526377",
+          "published_at": "2026-10-30T16:12:16.000Z",
+          "summary": "WallStDiaries wrote that TRM Labs and Chainalysis report the stolen funds overlap with the operations of the TraderTraitor group.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Alphabet Gemini 4 Carbon",
+          "url": "https://x.com/WallStDiaries/status/2116249459612930225",
+          "published_at": "2026-10-30T19:22:43.000Z",
+          "summary": "WallStDiaries wrote that Google launched Gemini 4 Carbon two weeks after Gemini 4 Argon and that the stock kept falling anyway.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "A new model was announced but the stock keeps falling."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Teknoloji hisselerinde bilanço şoku",
+          "url": "https://x.com/WallStDiaries/status/2116176479633764499",
+          "published_at": "2026-10-30T14:32:44.000Z",
+          "summary": "WallStDiaries wrote that Amazon's rising AI spending and Intel's cash burn warning hit the tech rally, with Intel down over 25% and Amazon down 6%.",
+          "assets": [
+            {
+              "symbol": "INTC",
+              "sentiment": "negative",
+              "note": "Historic drop of more than 25%."
+            },
+            {
+              "symbol": "AMZN",
+              "sentiment": "negative",
+              "note": "Fell 6% on rising AI spending."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "The tech rally hit a hard wall."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NVDA opsiyon duvarı 220/200",
+          "url": "https://x.com/WallStDiaries/status/2116129795448656239",
+          "published_at": "2026-10-30T11:27:13.000Z",
+          "summary": "WallStDiaries wrote that NVDA has a call wall at $220 and a put wall at $200, and the range narrows if price is squeezed between them.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "$220 call wall, $200 put wall."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Çin borsasında AI rallisi sönüyor",
+          "url": "https://x.com/WallStDiaries/status/2116107143027851293",
+          "published_at": "2026-10-30T09:57:12.000Z",
+          "summary": "WallStDiaries wrote that China's main indices have fallen more than 20% from the June peak into a bear market, Beijing channeled $19B into ETFs, and the STAR50 lost over 40% from its peak.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "MrTradeer said his short trades on **Bitcoin** are profitable and the 76 target was reached; the 76,200 area is the first higher-timeframe support, but he is not considering spot buying, and the 80-87 band is no-trade for him. He reacted to Binance halting withdrawals with distrust.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bitcoin: 76 hedefi geldi",
+          "url": "https://x.com/MrTradeer/status/2116176288805265762",
+          "published_at": "2026-10-30T14:31:58.000Z",
+          "summary": "MrTradeer wrote that he recognized distribution at the top and went short, the 76 target was hit, he wants the 76,100-77,500 zone for a scalp long, and that Halloween thin volume and the midterms could leave the weekend open to manipulation.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "negative",
+              "note": "His main short view continues; 76,200 is first HTF support, 80-87 is no-trade."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Binance çekimleri",
+          "url": "https://x.com/MrTradeer/status/2116337192394002844",
+          "published_at": "2026-10-31T01:11:20.000Z",
+          "summary": "MrTradeer questioned Binance halting withdrawals and wrote that he has never trusted the exchange.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "Summarized the tech selloff: **Intel** fell more than 28%, **AMD** about 10% and **Nvidia** 3%; the Nasdaq 100 dropped about 3% intraday and KOSPI closed -3.48%. AI infrastructure spending and negative free cash flow are adding pressure.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Wall Street'te teknoloji satışı",
+          "url": "https://x.com/FinancewithIzzy/status/2116203791963852873",
+          "published_at": "2026-10-30T16:21:15.000Z",
+          "summary": "FinancewithIzzy wrote that Intel fell over 28%, AMD about 10%, Nvidia about 3%, the Nasdaq 100 dropped about 3% intraday and the selloff spread to Asia (KOSPI -3.48%, Nikkei -2.12%), while energy stocks diverged positively.",
+          "assets": [
+            {
+              "symbol": "INTC",
+              "sentiment": "negative",
+              "note": "Drop of more than 28%."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "negative",
+              "note": "Roughly 3% decline."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Nasdaq 100 fell about 3% intraday."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine's top stories: **OpenAI** cut its fundraising target from $30B to $20B and its valuation target from $1.4T to $1.25T; hedge funds made their biggest risk cut on record. Per Blackstone, Anthropic may receive a \"high\" junk rating after its IPO, **Global Payments** faces a $40B+ LBO approach, **Okta** joins the S&P 500, and Tesla may open Optimus reservations in early December.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "OpenAI fon toplama hedefini düşürdü",
+          "url": "https://x.com/wallstengine/status/2116322857617908141",
+          "published_at": "2026-10-31T00:14:23.000Z",
+          "summary": "wallstengine, citing the FT, wrote that OpenAI cut its target from $30B to $20B and its valuation target from $1.4T to $1.25T, with some investors reducing commitments.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Hedge fonlardan rekor risk azaltımı",
+          "url": "https://x.com/wallstengine/status/2116251753977094247",
+          "published_at": "2026-10-30T19:31:50.000Z",
+          "summary": "wallstengine wrote that hedge funds cut risk by 7.8% from the peak, the largest in Morgan Stanley prime brokerage data.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic için çöp not beklentisi",
+          "url": "https://x.com/wallstengine/status/2116210992992694426",
+          "published_at": "2026-10-30T16:49:52.000Z",
+          "summary": "wallstengine, citing the FT, wrote that Blackstone told investors Anthropic is likely to get a BB-range credit rating after its IPO.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Global Payments için LBO",
+          "url": "https://x.com/wallstengine/status/2116206317149061478",
+          "published_at": "2026-10-30T16:31:17.000Z",
+          "summary": "wallstengine wrote that Global Payments is being targeted by CD&R and GTCR in a buyout above $40B.",
+          "assets": [
+            {
+              "symbol": "GPN",
+              "sentiment": "neutral",
+              "note": "Market value about $23B and net debt above $17B; talks are ongoing."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Okta S&P 500'e giriyor",
+          "url": "https://x.com/wallstengine/status/2116312360512291279",
+          "published_at": "2026-10-30T23:32:40.000Z",
+          "summary": "wallstengine wrote that Okta will join the S&P 500.",
+          "assets": [
+            {
+              "symbol": "OKTA",
+              "sentiment": "positive",
+              "note": "Set to join the S&P 500."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla Optimus rezervasyonları",
+          "url": "https://x.com/wallstengine/status/2116247100342284688",
+          "published_at": "2026-10-30T19:13:21.000Z",
+          "summary": "wallstengine wrote that Tesla is expected to open consumer Optimus reservations in early December.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Optimus V3 demo and reservations expected in early December."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz said he is bleeding on **IonQ** but took 30x+ profits on **Rigetti** and D-Wave; he is buying the dip in small steps and plans to buy more next week. He suggested the selloff cannot be explained by Intel alone and that a war announcement may be being front-run. He sees a stable long-term uptrend in **Shake Shack** but no excitement ahead of earnings.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Kuantum hisselerinde kâr alımları",
+          "url": "https://x.com/jrouldz/status/2116306317304328590",
+          "published_at": "2026-10-30T23:08:39.000Z",
+          "summary": "jrouldz shared that he is losing on IonQ but took more than 30x on RGTI and QBTS and kept about 10% of his RGTI position.",
+          "assets": [
+            {
+              "symbol": "RGTI",
+              "sentiment": "positive",
+              "note": "About 35x realized gain, will hold the small remainder."
+            },
+            {
+              "symbol": "IONQ",
+              "sentiment": "negative",
+              "note": "Taking losses."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Düşüşte kademeli alım",
+          "url": "https://x.com/jrouldz/status/2116254448372809852",
+          "published_at": "2026-10-30T19:42:33.000Z",
+          "summary": "jrouldz wrote that he waited until noon to buy, which is why he only buys a little at a time, and he will look to buy more next week.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Shake Shack bilançosu",
+          "url": "https://x.com/jrouldz/status/2116253867058909469",
+          "published_at": "2026-10-30T19:40:14.000Z",
+          "summary": "jrouldz wrote that SHAK holds a stable long-term uptrend with earnings next week, but with so many tech opportunities he cannot get excited about fast food.",
+          "assets": [
+            {
+              "symbol": "SHAK",
+              "sentiment": "neutral",
+              "note": "Stable long-term uptrend, earnings next week."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Satış savaş haberinin habercisi mi?",
+          "url": "https://x.com/jrouldz/status/2116212629798605172",
+          "published_at": "2026-10-30T16:56:22.000Z",
+          "summary": "jrouldz wrote that it is hard to explain this price action with Intel's PC sales, and that insiders may be front-running a war announcement due after markets close.",
+          "assets": [
+            {
+              "symbol": "INTC",
+              "sentiment": "neutral",
+              "note": "Thinks the drop cannot be explained by Intel's PC sales alone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance shared that the day involved roughly $30B of stock selling expected from leveraged ETF rebalancing; he wrote that the **Nasdaq 100** fell 10% from its peak to the 200-day EMA and that without support there next week more declines could follow.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Kaldıraçlı ETF'lerden rekor satış tahmini",
+          "url": "https://x.com/cevikfinance/status/2116251929760444725",
+          "published_at": "2026-10-30T19:32:32.000Z",
+          "summary": "cevikfinance shared an estimate of roughly $32B of stock selling into the close from leveraged ETF daily rebalancing (tech $29.2B, semis $17.8B).",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Selling pressure in tech that may be a record."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NDX 200 günlük üssel ortalamada",
+          "url": "https://x.com/cevikfinance/status/2116235565053993065",
+          "published_at": "2026-10-30T18:27:31.000Z",
+          "summary": "cevikfinance wrote that the Nasdaq 100 fell 3% to be 10% off its peak, sitting at its 200-day EMA, and that without support there next week more declines would follow.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "The 200-day EMA is key support."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The portfolio's largest holding (18.8%); as a fintech sensitive to rates and risk appetite, the main risk during a sharp Nasdaq selloff is single-name concentration.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Its large weight and growth-stock profile pass volatility to the portfolio in a falling market.",
+          "Today's sources contain no negative news on this holding.",
+          "According to Ali Korkmaz there is no rush; there is no trigger to add weight."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A dollar-based Turkey index exposure; it is little tied to today's US tech selloff, but global risk appetite and currency risk drive it.",
+        "ai_action": "hold",
+        "ai_points": [
+          "It provides diversification relatively independent of the US tech selloff.",
+          "Sources contain no concrete signal on Turkey."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "AI semiconductors were at the center of today's leveraged ETF selling (semis -$17.8B per cevikfinance); Bora Özkent's AI infrastructure demand thesis supports the company, but selling pressure may continue short term.",
+        "ai_action": "hold",
+        "ai_points": [
+          "According to Bora Özkent AI infrastructure demand is strong and 2027 is sold out.",
+          "There is short-term forced selling in semiconductors."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The key debate in big-tech earnings is AI spending and negative cash flow; there is no concrete source on Meta today, but the same theme affects pricing.",
+        "ai_action": "hold",
+        "ai_points": [
+          "The Alphabet and Amazon reactions show spending increases are being punished.",
+          "The ad-growth slowdown may be AI-driven; Meta also depends on ad revenue."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A nuclear-focused defense supplier; no news stood out in today's selloff, and it may trade with the AI power-demand theme.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Today's sources contain no negative development on the company.",
+          "The AI power-demand theme stays on the agenda even in market panic."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "Ben Redit'e yatırım yapmayı çok çok istiyorum. Şu düşme trendi ama beni de ürkütüyor.",
+            "source_url": "https://www.youtube.com/watch?v=V8HK2KdT0zo"
+          }
+        ],
+        "action": "hold",
+        "why": "Bora Özkent does not want to catch a falling knife given the falling trend; no concrete level or date.",
+        "opinion": "The Q3 report was good (revenue +53%) but users are falling due to Google traffic; the main risk is Google dependence, the opportunity is human-content value coming back.",
+        "ai_action": "hold",
+        "ai_points": [
+          "According to Bora Özkent revenue grew 53% and profit growth is good.",
+          "Users are declining and the stock fell 18%.",
+          "According to Bora Özkent the technical picture is very poor; there is no need to rush to add."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A subscription-revenue stock relatively removed from the AI spending debate; it may play a defensive role in a falling market.",
+        "ai_action": "hold",
+        "ai_points": [
+          "It has a different risk profile from AI spenders with negative cash flow.",
+          "There is no source on the company today."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "Bono/tahvil yatirimini cok iyi yerde yapmis olmak total portfoye arti yazdirmasi guzel oluyor.",
+            "source_url": "https://x.com/ulkser/status/2116131372960010597"
+          }
+        ],
+        "action": "hold",
+        "why": "According to ulkser, bonds do not make anyone rich but are good at preserving capital; no concrete level or date.",
+        "opinion": "Long-term bonds balanced the tech drop, but inflation (PCE 3.6%) and a 10-year yield near 5% keep duration risk alive.",
+        "ai_action": "hold",
+        "ai_points": [
+          "According to ulkser bonds protected the portfolio today.",
+          "According to Bora Özkent PCE at 3.6% is high; rate risk persists."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A small-weight (5.3%) power-infrastructure stock; its high beta can swing sharply in market drops, and there is no source today.",
+        "ai_action": "hold",
+        "ai_points": [
+          "The AI power-infrastructure theme is supportive long term.",
+          "As a small, high-beta position it can lag in selloffs."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "XAUUSD",
+        "name": "Gold / Silver",
+        "why": "ulkser made a first-tranche purchase in gold and silver and plans small additional tranches lower.",
+        "source_url": "https://x.com/ulkser/status/2116261378822439004"
+      },
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "why": "MrTradeer keeps his main short view and wants the 76,100-77,500 zone for a scalp long.",
+        "source_url": "https://x.com/MrTradeer/status/2116176288805265762"
+      }
+    ]
+  }
+}
