@@ -1,0 +1,1553 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T08:17:24+00:00",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Demokratlar Kongre'yi aldı, Nasdaq vadelileri sert düştü",
+      "person": "WallStDiaries",
+      "why": "Piyasa veri merkezlerine sıkı düzenleme, yapay zekâ yatırımlarında yavaşlama ve borç tavanı tartışmasını fiyatlıyor; Nasdaq 100 vadelisi %2, Nikkei üç ayın dibinde.",
+      "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+    },
+    {
+      "title": "Texas ve Ohio valilikleri veri merkezi moratoryum riski doğurdu",
+      "person": "Bora Özkent",
+      "why": "Bora Özkent'e göre satışın asıl nedeni Senatodan çok valilik sonuçları; vali moratoryum ilan edebiliyor, kısa vadede veri merkezleri dışında etki görmüyor.",
+      "source_url": "https://www.youtube.com/watch?v=IHiDWIGcx2U"
+    },
+    {
+      "title": "AMD 2027 gelir büyümesini %80'in üzerine çıkardı",
+      "person": "wallstengine",
+      "why": "Lisa Su, uzun vadeli hedefin iki katından fazla büyüme bekliyor; sunucu CPU gelirinin 2027'de ikiye katlanmasını ve veri merkezi yapay zekâsının daha hızlı büyümesini öngörüyor.",
+      "source_url": "https://x.com/wallstengine/status/2117744421261431135"
+    },
+    {
+      "title": "Palantir gelir %96 artsa da %9 düştü",
+      "person": "wallstengine",
+      "why": "ABD ticari TCV rezervasyonu yalnızca %11 artarak 1,46 milyar dolar oldu (2. çeyrekte %153), RPO çeyreklik neredeyse sabit.",
+      "source_url": "https://x.com/wallstengine/status/2117587773607825510"
+    },
+    {
+      "title": "Oracle, Tencent ile 7 milyar dolarlık çip kiralama anlaşmasını iptal etti",
+      "person": "wallstengine",
+      "why": "FT'ye göre ABD yönetiminin baskısıyla iptal edildi; anlaşma Tencent'e 100.000'e varan gelişmiş çipe erişim sağlayacaktı.",
+      "source_url": "https://x.com/wallstengine/status/2117847084640727436"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "ABD ara seçimleri ve piyasa etkisi",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Kısa vadede veri merkezleri dışında seçimin etkisi yok; satışın nedeni Texas ve Ohio valilikleri.",
+          "quote": "Yani şu anda kısa vadede veri merkezleri dışında hiçbir şey etkisi yok. Gerisi bir sıkıntı değil.",
+          "source_url": "https://www.youtube.com/watch?v=IHiDWIGcx2U"
+        },
+        {
+          "person": "Heisenberg",
+          "view": "Asıl risk 2027'de bütçe, vergi, ticaret savaşları ve siyasi kilitlenmelerden gelen volatilite.",
+          "quote": "Özellikle 2027'de bütçe, vergi politikaları, ticaret savaşları ve siyasi kilitlenmeler üzerinden ciddi volatilite dönemleri görebiliriz.",
+          "source_url": "https://x.com/heisenbergtrx/status/2117860581659062364"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Bir iki hafta içinde yarı iletkenlerin öncülüğünde Nasdaq rallisi bekliyor.",
+          "quote": "Bir iki haftaya yine yarı iletkenlerin önderliğinde Nasdaq'ta bir ralli görebileceğimize inanıyorum.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2117874034654453805"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Vadeliler sert geriledi; piyasa veri merkezi düzenlemesi, yapay zekâ yavaşlaması ve borç tavanı tartışmasını fiyatlıyor.",
+          "quote": "Piyasa, veri merkezlerine sıkı düzenleme, yapay zekâ yatırımlarında yavaşlama ve borç tavanı tartışmasını fiyatlıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Net sonuç satışı birkaç seans hafifletir, sonra odak tahvil faizlerine ve yapay zekâ nakit akışına döner.",
+          "quote": "Baz senaryom: Net bir sonuç satış baskısını birkaç seans hafifletir, sonra odak yeniden tahvil faizlerine ve YZ nakit akışına döner.",
+          "source_url": "https://x.com/cevikfinance/status/2117651464298381463"
+        },
+        {
+          "person": "wallstengine",
+          "view": "State Street'ten Michael Arone'a göre asıl risk mavi dalgaya aşırı tepki.",
+          "quote": "STATE STREET'S MICHAEL ARONE: \"I DON'T THINK THE BIG RISK TO MARKETS IS FROM THE BLUE WAVE; IT'S INVESTORS OVERREACTING TO A BLUE WAVE\"",
+          "source_url": "https://x.com/wallstengine/status/2117815376193233021"
+        }
+      ]
+    },
+    {
+      "topic": "İran, Hürmüz Boğazı ve petrol",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "İran'daki yumuşamayla Brent 116,72'den 104,77'ye indi; bunu olumlu buluyor.",
+          "quote": "Dün petrol fiyatları ciddi şekilde geriye doğru çekildiler. 116.72'den 104.77'ye kaldı geldi brend. Yani bu olumlu bir haber.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "wallstengine",
+          "view": "WSJ'ye göre İran Hürmüz'de gemi saldırılarını tırmandırıyor; petrol akışı savaş öncesinin %45'inde.",
+          "quote": "Iran is escalating attacks on ships in the Strait of Hormuz using underwater drones and limpet mines, WSJ reports.",
+          "source_url": "https://x.com/wallstengine/status/2117785959433683252"
+        }
+      ]
+    },
+    {
+      "topic": "Fed faiz beklentisi ve tahvil faizleri",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Piyasa Aralık'ta faiz artışı bekliyor ama ihtimal %85'ten %73-76'ya geriledi.",
+          "quote": "Faiz yükselişi bekliyor. Fakat ihtimal biraz azaldı.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Seçim sonrası vadeli piyasada tahvil faizleri ve dolar geriledi; ABD 10 yıllık kapanışta %4,95.",
+          "quote": "Tahvil faizleri ve dolar geriledi.",
+          "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+        }
+      ]
+    },
+    {
+      "topic": "Yapay zekâ harcamalarının finansmanı",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Meta ve Oracle yaklaşık 20'şer milyar dolar arıyor, Anthropic halka arzı da para çekecek; yapay zekâ piyasadan para emiyor.",
+          "quote": "Yani yapay zeka para emmeye devam ediyor piyasalardan.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Meta 15 milyar dolarlık tahvilini 30 yılda %7,5'e varan faizle sattı; emirler satılan tutarın yaklaşık 4 katı.",
+          "quote": "$META PRICED ITS $15 BILLION BOND SALE, PAYING UP TO 7.5% ON 30-YEAR DEBT",
+          "source_url": "https://x.com/wallstengine/status/2117746521076863434"
+        },
+        {
+          "person": "jrouldz",
+          "view": "Hiperölçekleyicileri 90'ların fiber şirketleriyle kıyaslamak yanlış; riski kaldırabilirler.",
+          "quote": "Anyone comparing these to fiber-buildout companies in the 90s is clueless.",
+          "source_url": "https://x.com/jrouldz/status/2117623001227125019"
+        }
+      ]
+    },
+    {
+      "topic": "Yapay zekâ donanımı ve enerji darboğazı",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "TrendForce'a göre DRAM, CPU, GPU ve ABF teslim süreleri uzadı; para kadar ürün de kıt.",
+          "quote": "Yani yapay zeka dünyasında ne oluyor derseniz inanılmaz ürün kıtlığı var. Para kıt ürün de kıt.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Citi 2027'de de bellek arz açığı bekliyor: DRAM talebi %28, arzı %24 büyüyecek.",
+          "quote": "Citi still expects memory undersupply in 2027.",
+          "source_url": "https://x.com/wallstengine/status/2117649174665838604"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Elon Musk'a göre önümüzdeki yılın darboğazı çip değil elektrik.",
+          "quote": "Elon Musk'a göre YZ yarışında önümüzdeki yılın darboğazı çip değil elektrik olacak.",
+          "source_url": "https://x.com/cevikfinance/status/2117679950987768246"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "priority": "high",
+      "why": "Birden fazla kişi güçlü 3. çeyrek ve 2027'de %80'in üzerinde büyüme beklentisini aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Gelir: 13,4 milyar dolar, yıllık yüzde 45 artış — rekor seviye ve rehberliğin üst bandını aştı",
+          "source_url": "https://x.com/WallStDiaries/status/2117728196971893031"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$AMD CEO Lisa Su: \"We now expect revenue to grow more than 80% in 2027,\"",
+          "source_url": "https://x.com/wallstengine/status/2117744421261431135"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$AMD, $ANET, $SMCI, $ALAB ve $OUST hepsi de güzel bilanço açıkladı.",
+          "source_url": "https://x.com/cevikfinance/status/2117741564659401209"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Öte yandan $NVDA ve $AMD yükseliyor. AI rallisi geri mi dönüyor, yoksa geçici bir toparlanma mı?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2117706377770488212"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "name": "Arista Networks",
+      "priority": "high",
+      "why": "Dört kişi rekor büyüme ve 2027 beklentisinin analist tahminlerinin çok üzerinde olduğunu aktardı.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$ANET +18% JUST POSTED ITS FASTEST REVENUE GROWTH SINCE GOING PUBLIC IN 2014, UP 58.5% YOY.",
+          "source_url": "https://x.com/wallstengine/status/2117739567323443483"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Gelir: 3,66 milyar dolar — yıllık %58,5 artış, çeyreklik %20,5 artış, kendi rehberliğini aştı",
+          "source_url": "https://x.com/WallStDiaries/status/2117727125016821985"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "what an insane run with $ANET since 2022 and even more after hours!!!",
+          "source_url": "https://x.com/jrouldz/status/2117755973108437090"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$AMD, $ANET, $SMCI, $ALAB ve $OUST hepsi de güzel bilanço açıkladı.",
+          "source_url": "https://x.com/cevikfinance/status/2117741564659401209"
+        }
+      ]
+    },
+    {
+      "symbol": "SMCI",
+      "name": "Super Micro Computer",
+      "priority": "high",
+      "why": "İki kişi rekor satış ve beklentinin çok üzerinde rehberliği aktardı.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Net Satışlar: 19,9 milyar dolar, bir önceki çeyreğe göre %79, bir önceki yıla göre %298 artış — rekor seviye",
+          "source_url": "https://x.com/WallStDiaries/status/2117725798333603964"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$SMCI +8% after hours after issuing stronger-than-expected revenue guidance.",
+          "source_url": "https://x.com/wallstengine/status/2117735711168471438"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "high",
+      "why": "Üç kişi, güçlü bilançoya rağmen hissenin satıldığına ve nedenine değindi.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Parant ucuz bir hisse değil. Yani parant değerlemesi yüksek bir şirket biraz.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Palantir $PLTR -9% following Q3 earnings, despite revenue growing 96% YoY & another raise to FY26 guidance.",
+          "source_url": "https://x.com/wallstengine/status/2117587773607825510"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$PLTR beklentileri aştı, $AAPL rekor bilanço açıkladı. Peki hisseler neden satış baskısı altında?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2117706377770488212"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "high",
+      "why": "İki kişi bilanço sonrası düşüşü ve büyümeyi yorumladı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$AAPL -2% on this print after the run it’s had recently…I call it a win 😂",
+          "source_url": "https://x.com/jrouldz/status/2117698235175219557"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Gelirler 114,5 geldi. Yıllık %12'lik bir büyüme var. Hala büyüyor şirket.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$AAPL rekor bilanço açıkladı. Peki hisseler neden satış baskısı altında?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2117706377770488212"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "Üç kişi Meta'nın tahvil ihracını ve pozisyon duruşunu aktardı.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Dün yeni gelen haberler Meta'nın bir 20 milyar dolar civarında paraya ihtiyaç duyduğu, bununla ilgili yeni tahviller çıkaracağı",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I've been in $META for years personally I am just holding no buys or sells.",
+          "source_url": "https://x.com/jrouldz/status/2117633258548539576"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$META attracted as much as $58B in investor orders for its $15B U.S. dollar bond offering, nearly 4x the amount being sold, even as borrowing costs rise.",
+          "source_url": "https://x.com/wallstengine/status/2117694142436589711"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "high",
+      "why": "İki kişi finansman arayışı ve Tencent iptaliyle hisse üzerindeki baskıyı aktardı.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Bunlar dün Oracle'ı aşağı doğru aldılar.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Oracle $ORCL has reportedly canceled a $7B AI chip leasing deal with Tencent following pressure from the Trump administration, according to the FT.",
+          "source_url": "https://x.com/wallstengine/status/2117847084640727436"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "Bora Özkent net görüş verdi, wallstengine Çin siparişini aktardı.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Nvidia falan kesinlikle balon değil.",
+          "source_url": "https://www.youtube.com/watch?v=IHiDWIGcx2U"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "NVIDIA $NVDA CHINA 🇨🇳 CLIENTS TO GET 1% OF $70 BILLION RTX CHIP ORDERED: BBG",
+          "source_url": "https://x.com/wallstengine/status/2117818095376937405"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Nasdaq 100 (QQQ)",
+      "priority": "high",
+      "why": "Seçim sonrası düşüş hakkında birden fazla kişi ve karşıt beklentiler var.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "$QQQ de düşüş derinleşerek -%2 seviyelerine ulaştı 🔴🔴",
+          "source_url": "https://x.com/korkmazali08/status/2117813972154085700"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Şu anda %2 civarında endeks aşağıda. Nazarak 100 aşağıda.",
+          "source_url": "https://www.youtube.com/watch?v=IHiDWIGcx2U"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "🔴 Nasdaq100 Ft: 27.710,00 (%2,00)",
+          "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "positive",
+          "quote": "Bir iki haftaya yine yarı iletkenlerin önderliğinde Nasdaq'ta bir ralli görebileceğimize inanıyorum.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2117874034654453805"
+        }
+      ]
+    },
+    {
+      "symbol": "SOX",
+      "name": "Philadelphia Yarı İletken Endeksi (SOX)",
+      "priority": "high",
+      "why": "Bora Özkent sert düşüşü aktardı, Tunç Şatıroğlu ters yönde ralli bekliyor.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "SOX yarı iletik endeks dün yine %3.37 geriledi.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "positive",
+          "quote": "Bir iki haftaya yine yarı iletkenlerin önderliğinde Nasdaq'ta bir ralli görebileceğimize inanıyorum.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2117874034654453805"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "high",
+      "why": "Heisenberg opsiyon pozisyonlarını eleştirdi, cevikfinance SK Hynix haberini olumlu buldu.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "negative",
+          "quote": "Şuanda 2000$ bile olsa aldıkları kontratın zaman erimesi, IV erimesi yüzünden kar etmiyor artık.",
+          "source_url": "https://x.com/heisenbergtrx/status/2117558572812747196"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$MU için güzel haber. 😎",
+          "source_url": "https://x.com/cevikfinance/status/2117700235220955293"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "priority": "medium",
+      "why": "Bora Özkent'in somut görüşü: birleşme belirsizliği nedeniyle sert satış.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Piyasada bunları sevmiyor böyle. O yüzden ikisini de sert satmayı tercih ediyor.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Marvell-Lumentum Satın Alması Ciena ve Cisco’yu Alternatif Tedarikçi Arayışına İtebilir",
+          "source_url": "https://x.com/WallStDiaries/status/2117715941362737588"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "priority": "medium",
+      "why": "Bora Özkent ve Bank of America aktarımıyla birleşmenin etkileri tartışıldı.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Dün en sert düşenler arasında Lentum ve Marvel var.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Marvell-Lumentum Satın Alması Ciena ve Cisco’yu Alternatif Tedarikçi Arayışına İtebilir",
+          "source_url": "https://x.com/WallStDiaries/status/2117715941362737588"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "priority": "medium",
+      "why": "Bora Özkent somut görüş bildirdi: çöp değil ama yönetim kötü.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Kötü yönetiliyor hala şirket.",
+          "source_url": "https://www.youtube.com/watch?v=IHiDWIGcx2U"
+        }
+      ]
+    },
+    {
+      "symbol": "GLRMK",
+      "name": "GLRMK (BIST)",
+      "priority": "medium",
+      "why": "ulkser seviye vererek kademe sattı ve yeniden alım planı açıkladı.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "99.15 ten yaptigim kademeyi 118.1 den sattim. Geri cekilmede bu kademeyi yerine koyacagim.",
+          "source_url": "https://x.com/ulkser/status/2117885869218799720"
+        }
+      ]
+    },
+    {
+      "symbol": "GARAN",
+      "name": "Garanti BBVA",
+      "priority": "medium",
+      "why": "ulkser geri alım programı ve ucuzluk görüşüyle seviye verdi.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "#GARAN 3 yil sonra geri alim programi acikladi. Pozum var.",
+          "source_url": "https://x.com/ulkser/status/2117688782941995079"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "🔴 Bitcoin : 76.700 (%1,35)",
+          "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+        }
+      ]
+    },
+    {
+      "symbol": "NVO",
+      "name": "Novo Nordisk",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "NOVO NORDISK $NVO: U.S. WEGOVY PILL PRESCRIPTIONS HIT 3.6 MILLION IN Q3 AND MORE THAN 8 MILLION SINCE LAUNCH",
+          "source_url": "https://x.com/wallstengine/status/2117872373131284621"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent'in günü ABD ara seçimleri etrafında geçti. Seçimden önce piyasanın Demokrat zaferini çip ve yapay zeka altyapısı için tehlikeli fiyatladığını, kendisinin buna katılmadığını söyledi; **Nasdaq** bir önceki gün %1,07, **SOX** yarı iletken endeksi %3,37 düşmüştü ve **Meta** ile **Oracle**'ın yaklaşık 20'şer milyar dolarlık yeni borç arayışı, Marvell-Lumentum birleşmesi ve yaklaşan **Anthropic** halka arzı yapay zeka hisselerini baskılıyordu. Yine de Anthropic'in 3. çeyrek cirosunun 17 milyar dolar olmasını ve TrendForce'a göre bellek, CPU ve ABF teslim sürelerinin uzamasını talebin güçlü olduğunun işareti sayıyor; **Brent** İran'daki yumuşamayla 116,72'den 104,77'ye inerken Aralık faiz artışı ihtimali de %85'ten %73-76'ya gevşedi.\n\nCanlı yayında sonuçlar gelince piyasa sert satışa geçti ve Nasdaq 100 yaklaşık %2 düştü. Ona göre asıl darbe Senatodan çok Texas ve Ohio valilikleri: çok sayıda veri merkezinin kurulacağı bu eyaletlerde vali moratoryum ilan edebiliyor. Kısa vadede veri merkezleri dışında bir etki görmüyor, yeni Texas valisinin uzlaşmaya yatkın olabileceğini düşünüyor, ama bütçe kilitlenmesi ve karışıklık beklediğini söylüyor. Yayında ayrıca **Intel** için artık 'çöp' demediğini ama yönetimin hâlâ kötü olduğunu, **Nvidia**'nın ise 'kesinlikle balon' olmadığını belirtti.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "ABD Seçimleri Yapay Zekaya Karşı",
+          "url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc",
+          "published_at": "2026-11-03T09:30:19+00:00",
+          "summary": "Seçim öncesi bahis piyasaları ve anketler Demokratları açık ara önde gösteriyor; piyasa bunu çip ve yapay zeka altyapısı için tehlikeli fiyatlıyor, Özkent ise katılmıyor. Nasdaq bir önceki gün %1,07, SOX %3,37 geriledi; para teknoloji ve enerjiden zorunlu tüketim ve finansa kayıyor. Marvell'in Lumentum'u hisse takasıyla alması iki hisseyi sert düşürdü; Meta ve Oracle'ın yaklaşık 20'şer milyar dolarlık yeni borç ve hisse ihracı arayışı ile yaklaşan Anthropic halka arzı (1,5-1,6 trilyon dolar değerleme, 80-100 milyar dolar çekebilir) yapay zeka hisselerini baskılıyor. TrendForce'a göre DRAM teslimat süresi 19 hafta, CPU 25-30 hafta, ABF 48-56 hafta; yani para kadar ürün de kıt ama piyasa bunu görmek istemiyor. Anthropic'in 3. çeyrek cirosu 17 milyar dolar, compute maliyeti cirodan hızlı büyümüş ve 895 milyar dolarlık ileriye dönük taahhüdü var; kasada 130 milyar dolar bulunduğu için Özkent korkuyu abartılı buluyor. Brent İran'daki yumuşamayla 116,72'den 104,77'ye indi, Aralık faiz artışı ihtimali %85'ten %73-76'ya geriledi. Palantir (gelir 2,31 milyar dolar, %96 büyüme) ve Apple (EPS 2,05 dolar) beklentiyi aştı ama hisseler satıldı. Senatoda Cumhuriyetçilerin 51-49 ile kalabileceğini, Meclisi ise kesin Demokratların alacağını düşünüyor; temel görüşü değişmedi, yapay zeka altyapısında bekliyor.",
+          "assets": [
+            {
+              "symbol": "SOX",
+              "sentiment": "negative",
+              "note": "SOX yarı iletken endeksi bir önceki gün %3,37 geriledi; piyasa seçimin çipler üzerinde baskı yaratacağını fiyatlıyor."
+            },
+            {
+              "symbol": "MRVL",
+              "sentiment": "negative",
+              "note": "Lumentum'u hisse takasıyla alacak; belirsizlik nedeniyle piyasa sert sattı."
+            },
+            {
+              "symbol": "LITE",
+              "sentiment": "negative",
+              "note": "Marvell ile birleşme belirsizliği nedeniyle dün en sert düşenler arasındaydı."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Yaklaşık 20 milyar dolarlık yeni tahvil ihracına hazırlanıyor; City ve Morgan Stanley yardımcı oluyor."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "20 milyar dolar arayışında: 10 milyar dolar hisse ihracı ve yatırım yapılabilir tahvil; hisse bu haberle düştü."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Bilanço çok güçlüydü ama değerleme yüksek olduğu için kâr satışı geldi."
+            },
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "EPS 2,05 dolar (beklenti 1,99), gelir 114,5 milyar dolar, yıllık %12 büyüme; hizmetlerde hafif yavaşlama var."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Nasdaq bir önceki gün %1,07 geriledi, seçim baskısı sürüyor."
+            }
+          ]
+        },
+        {
+          "platform": "youtube",
+          "title": "ABD Ara Seçimleri CANLI: Sonuçlar ve Piyasalar | Bora Özkent",
+          "url": "https://www.youtube.com/watch?v=IHiDWIGcx2U",
+          "published_at": "2026-11-04T05:24:54+00:00",
+          "summary": "Canlı yayında seçim sonuçları geldikçe piyasa sert satışta; Nasdaq 100 yaklaşık %2 aşağıda. Özkent'e göre satışın asıl nedeni Senatodan çok valilik sonuçları: Texas ve Ohio çok sayıda veri merkezinin kurulacağı eyaletler ve vali moratoryum ilan edebiliyor. Texas'ta Demokratların bu kadar önde olması kimsenin hesabında yoktu; Oracle'ın Texas'ta enerji alamadığı için force majeure ilan ettiğini hatırlatıyor. Kısa vadede veri merkezleri dışında hiçbir şeyin etkisi olmadığını söylüyor ve yeni Texas valisinin istihdam ve bağış karşılığı uzlaşabileceğini düşünüyor. Meclis ve Senato Demokratlara geçerse bütçenin çıkmayıp kilitleneceğini, ortalığın karışacağını ama Trump'ın pratik biri olduğu için yumuşayabileceğini ekliyor. Borsanın Cumhuriyetçiler için bu kadar ağır bir tabloyu beklemediğini, kendilerinin de dün hafif pozisyon kapattığını belirtiyor. Intel için daha önce yaptığı 'çöp' yorumunu geri alıyor ama yönetimin hâlâ kötü olduğunu, bellek bulamadığı için hem PC hem veri merkezi tarafında zayıf kaldığını söylüyor. Bir solar şirketinin dün %9, bugün %3,5 yükseldiğini ama iş modelinin sıkıntılı olduğunu, Nvidia'nın ise kesinlikle balon olmadığını ekliyor.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Nasdaq 100 yaklaşık %2 aşağıda; satışın nedeni Texas ve Ohio'daki veri merkezi riski."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Texas'ta enerji alamadığı için force majeure ilan ettiğini ve hissenin sert düştüğünü hatırlattı; moratoryum riskinde yine görünür."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "negative",
+              "note": "Artık 'çöp' değil ama yönetim kötü; bellek bulamadığı için PC ve veri merkezinde zayıf kaldı."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "'Kesinlikle balon değil' dedi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg'in günü ABD ara seçimleri sonrası siyasi risk üzerineydi: Trump'ın Senato ve Meclisi birlikte kaybetmesini ağır yenilgi sayıyor ve Demokratların kazanmasını Türkiye açısından olumlu görmüyor. Piyasa için asıl riskin 2027 bütçe, vergi ve ticaret savaşı sürecinde olduğunu, 2026 için sorun beklemediğini defalarca açıkladı; 2026'da iki kanatta da Cumhuriyetçi çoğunluk varken bile hükümetin yaklaşık 1,5 ay kapalı kaldığını hatırlattı.\n\nBir önceki günden süren **Micron** tartışmasında, 1.200 dolardan opsiyon alanlara yazdığı uyarının yüksek IV'e rağmen alım yapanlar için geçerli olduğunu, zaman ve IV erimesi yüzünden bazı kontratların hisse 2.000 dolar olsa bile kâr etmeyebileceğini savundu. Ayrıca TEFAS fon yöneticilerine verilen cezaların başkalarına da gelebileceğini, bu yüzden artık fon önermediğini yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Demokratların Kongre zaferi ve 2027 riski",
+          "url": "https://x.com/heisenbergtrx/status/2117860581659062364",
+          "published_at": "2026-11-04T06:04:45.000Z",
+          "summary": "Trump'ın Senato ve Temsilciler Meclisi'ni birlikte kaybetmesini ağır yenilgi olarak niteledi; ikinci dönemde siyasi hareket alanının ciddi daralacağını yazdı. Demokratların kazanmasını Türkiye açısından olumlu görmediğini, geçmişte pek fayda görmediklerini söyledi. Piyasalar için 2027'de bütçe, vergi politikaları, ticaret savaşları ve siyasi kilitlenmeler üzerinden ciddi volatilite dönemleri görebileceğini ama belirsizliğin doğrudan düşüş anlamına gelmediğini ekledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "2027 bütçe riski açıklaması",
+          "url": "https://x.com/heisenbergtrx/status/2117888366649766020",
+          "published_at": "2026-11-04T07:55:09.000Z",
+          "summary": "2026 için sorun olmadığını, bütçenin geçtiğini; riskin 2027 bütçe sürecinde olduğunu tekrar yazdı. 2026'da iki kanatta da Cumhuriyetçi çoğunluk varken hükümetin yaklaşık 1,5 ay kapalı kaldığını hatırlattı. Piyasaların siyasi belirsizlik ve bütçe krizlerini sevmediğini, volatilitenin artabileceğini söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Micron opsiyonları ve fiyat disiplini",
+          "url": "https://x.com/heisenbergtrx/status/2117561750350389314",
+          "published_at": "2026-11-03T10:17:18.000Z",
+          "summary": "1.200 dolardan opsiyon alanlara yazdığı uyarıyı savundu: fiyat range dibinden %1675 yükselmişti ve %98 IV varken opsiyon almak rasyonel değildi. Spot alım için daha iyi fiyatların destek bölgelerinde oluşabileceğini yazdığını, bir kullanıcının aynı şirketi %40 daha ucuza aldığını söyledi. Şirket mükemmel olsa da her fiyatta iyi yatırım olmadığını, zaman ve IV erimesi yüzünden bazı kontratların hisse 2.000 dolara çıksa bile kâr etmeyebileceğini anlattı.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "1.200 dolardan alınan opsiyonlar zaman ve IV erimesi yüzünden kâr etmiyor; hisse range dibinden %1200'ün üzerinde yukarıda. (Önceki gün paylaşımındaki şirket Micron.)"
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TEFAS fon yöneticisi cezaları",
+          "url": "https://x.com/heisenbergtrx/status/2117564546646737010",
+          "published_at": "2026-11-03T10:28:25.000Z",
+          "summary": "Aynı cezaları diğer fon yöneticilerinin de görmesinin yakın vadede muhtemel olduğunu yazdı. TEFAS fonlarını ilk anlatanlardan olmasına rağmen artık kimseye fon önermediğini, yatırımcıların kendilerini geliştirmesi gerektiğini söyledi.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "Serkan Uelker bugün **GLRMK** pozisyonunda 99,15'ten yaptığı kademeyi 118,1'den sattığını, geri çekilmede bu kademeyi yerine koyacağını yazdı; bir gün önce aynı hissede ortalamasını 118,5'e getiren eklemeyi duyurmuştu. **GARAN**'ın 3 yıl sonra geri alım programı açıkladığını, pozisyonu olduğunu ve özellikle 215 civarı ve altını ucuz bulduğunu, ama ucuzluğun kesin getiri anlamına gelmediğini belirtti.\n\nABD tarafında bu sefer hisseden çok endeksler üzerinden, **QQQ** ve **IWM** gibi ve kaldıraçlı yüklenmeyi planladığını, portföyünün Kasım başında tek günlük kazanç rekoru kırdığını (**QXO**, **RKT**, **AMZN**, **SLV**, **GLD**, **IWM**) paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "GLRMK kademe satışı",
+          "url": "https://x.com/ulkser/status/2117885869218799720",
+          "published_at": "2026-11-04T07:45:14.000Z",
+          "summary": "GLRMK'da 99,15'ten yaptığı kademeyi 118,1'den sattığını, geri çekilmede bu kademeyi yerine koyacağını yazdı.",
+          "assets": [
+            {
+              "symbol": "GLRMK",
+              "sentiment": "neutral",
+              "note": "99,15'ten alınan kademe 118,1'den satıldı; geri çekilmede yeniden alınacak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "GLRMK pozisyonuna ekleme",
+          "url": "https://x.com/ulkser/status/2117616676296609931",
+          "published_at": "2026-11-03T13:55:33.000Z",
+          "summary": "GLRMK pozisyonuna 99,15'ten ekleme yaptığını, bir kademe daha yapıp tam alokasyona ulaşacağını ve ortalamasının 118,5 olduğunu yazdı.",
+          "assets": [
+            {
+              "symbol": "GLRMK",
+              "sentiment": "positive",
+              "note": "Bir kademe daha ekleyip tam alokasyona ulaşacak; ortalama 118,5."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "GARAN geri alım programı",
+          "url": "https://x.com/ulkser/status/2117688782941995079",
+          "published_at": "2026-11-03T18:42:05.000Z",
+          "summary": "Garanti'nin 3 yıl sonra geri alım programı açıkladığını ve pozisyonu olduğunu yazdı. Borsayı özellikle 215 civarı ve altında ucuz bulduğunu, ancak ucuzluğun kesin getiri sunmadığını, ucuz olanın yıllarca ucuz kalabileceğini söyledi.",
+          "assets": [
+            {
+              "symbol": "GARAN",
+              "sentiment": "positive",
+              "note": "Geri alım programı açıkladı; pozisyonu var, 215 civarı ve altını ucuz buluyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "ABD'de endeks üzerinden kaldıraçlı alım",
+          "url": "https://x.com/ulkser/status/2117880977489793449",
+          "published_at": "2026-11-04T07:25:48.000Z",
+          "summary": "Endeks üzerinden başladığını, QQQ ve IWM gibi düşünülebileceğini ve sadece kaldıraçlı ortamda yapacağını yazdı.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Endeks üzerinden alım yapmaya başladı, kaldıraçlı."
+            },
+            {
+              "symbol": "IWM",
+              "sentiment": "positive",
+              "note": "QQQ ile birlikte endeks alımı kapsamında."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "%100 toplama, hisseden çok endeks",
+          "url": "https://x.com/ulkser/status/2117609907868627383",
+          "published_at": "2026-11-03T13:28:39.000Z",
+          "summary": "%100 topladığını ama bu sefer hisseden ziyade endeksler üzerinden yüklü gideceğini yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Portföyde tek günlük kazanç rekoru",
+          "url": "https://x.com/ulkser/status/2117645047168639373",
+          "published_at": "2026-11-03T15:48:17.000Z",
+          "summary": "Kasım'a fırtına gibi başladıklarını, portföyün tek günlük kazanç rekoru kırdığını paylaştı; öne çıkanlar QXO, RKT, AMZN, SLV, GLD ve IWM.",
+          "assets": [
+            {
+              "symbol": "QXO",
+              "sentiment": "positive",
+              "note": "Portföyün rekor kazanç günündeki hisselerden."
+            },
+            {
+              "symbol": "RKT",
+              "sentiment": "positive",
+              "note": "Portföyün rekor kazanç günündeki hisselerden."
+            },
+            {
+              "symbol": "IWM",
+              "sentiment": "positive",
+              "note": "Portföyün rekor kazanç günündeki varlıklardan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08'in finans tarafındaki tek paylaşımı, seçim gecesi **QQQ** düşüşünün derinleşerek %2 seviyelerine ulaşması oldu.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "QQQ seçim gecesi düşüşü",
+          "url": "https://x.com/korkmazali08/status/2117813972154085700",
+          "published_at": "2026-11-04T02:59:32.000Z",
+          "summary": "QQQ'daki düşüşün derinleşerek %2 seviyelerine ulaştığını paylaştı.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Düşüş derinleşerek -%2 seviyelerine ulaştı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries seçim sonrası vadelilerin sert geri çekildiğini, piyasanın veri merkezlerine sıkı düzenleme, yapay zekâ yatırımlarında yavaşlama ve borç tavanı tartışmasını fiyatladığını yazdı. Nikkei üç ayın en düşüğüne indi, Kospi %3,2 geriledi, Nasdaq 100 vadelisi %2 düştü. Bilançolarda **AMD**, **Arista** ve **Super Micro** rekor gelir açıkladı; Bank of America'ya göre **Marvell**'in **Lumentum**'u alması Ciena ve Cisco'yu alternatif tedarikçiye itebilir.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Seçim sonrası piyasa özeti",
+          "url": "https://x.com/WallStDiaries/status/2117850125879914736",
+          "published_at": "2026-11-04T05:23:12.000Z",
+          "summary": "Demokratların Meclis'i aldığı ve Senato'da önde olduğu görülünce vadelilerin sert geri çekildiğini; piyasanın veri merkezlerine sıkı düzenleme, yapay zekâ yatırımlarında yavaşlama ve borç tavanı tartışmasını fiyatladığını yazdı. Tahvil faizleri ve dolar geriledi; Nikkei üç ayın en düşüğünde, Kospi %3,22 aşağıda. Nasdaq 100 vadelisi %2, S&P 500 vadelisi %1,14 düşüşte; Bitcoin 76.700, Altın 3.940, Brent 103,14.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Nasdaq 100 vadelisi %2 düşüşte."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "76.700 dolarda, %1,35 aşağıda."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AMD 3. çeyrek bilançosu",
+          "url": "https://x.com/WallStDiaries/status/2117728196971893031",
+          "published_at": "2026-11-03T21:18:42.000Z",
+          "summary": "Gelir 13,4 milyar dolar (yıllık %45 artış, rehberliğin üst bandının üzerinde); GAAP işletme geliri 2,8 milyar dolar (+%123), GAAP EPS 1,46 dolar (+%95), GAAP dışı EPS 2,09 dolar (+%74). Veri merkezi satışlarının neredeyse ikiye katlandığını belirtti.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Rekor gelir; veri merkezi satışları neredeyse iki katına çıktı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Arista 3. çeyrek bilançosu",
+          "url": "https://x.com/WallStDiaries/status/2117727125016821985",
+          "published_at": "2026-11-03T21:14:26.000Z",
+          "summary": "Gelir 3,66 milyar dolar (yıllık %58,5, çeyreklik %20,5 artış), GAAP faaliyet marjı %44,9, GAAP dışı EPS 1,20 dolar (yıl önce 0,77); şirket kendi rehberliğini aştı.",
+          "assets": [
+            {
+              "symbol": "ANET",
+              "sentiment": "positive",
+              "note": "Rehberliğini aşan rekor büyüme ve yüksek marj."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Super Micro 1. çeyrek bilançosu",
+          "url": "https://x.com/WallStDiaries/status/2117725798333603964",
+          "published_at": "2026-11-03T21:09:10.000Z",
+          "summary": "Net satışlar 19,9 milyar dolar (çeyreklik %79, yıllık %298 artış), net gelir 1.594 milyon dolar; brüt marj %12,7 ile çeyreklik 4,8 puan düştü, faaliyet nakit akışı negatif kaldı.",
+          "assets": [
+            {
+              "symbol": "SMCI",
+              "sentiment": "positive",
+              "note": "Rekor satış ve güçlü net gelir; marj düşüşü ve negatif nakit akışı karışık işaret."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Marvell-Lumentum ve optik tedarik zinciri",
+          "url": "https://x.com/WallStDiaries/status/2117715941362737588",
+          "published_at": "2026-11-03T20:30:00.000Z",
+          "summary": "Bank of America analistlerine göre Marvell'in Lumentum'u alması, Ciena ve Cisco'yu optik tedarik zincirlerini çeşitlendirmeye itebilir; ana lazer tedarikçisinin rakibin mülkiyetine geçmesi fiyatlama ve kapasite tahsisi riski doğuruyor.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "neutral",
+              "note": "Lumentum'u alması rakipler için tedarik riski yaratıyor."
+            },
+            {
+              "symbol": "LITE",
+              "sentiment": "neutral",
+              "note": "Marvell mülkiyetine geçmesi Ciena ve Cisco'yu alternatif aramaya itebilir."
+            },
+            {
+              "symbol": "CIEN",
+              "sentiment": "neutral",
+              "note": "Lazer tedarikinde alternatif arayabilir."
+            },
+            {
+              "symbol": "CSCO",
+              "sentiment": "neutral",
+              "note": "Lazer tedarikinde alternatif arayabilir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu, yapay zekâ ve veri merkezi karşıtlarının siyasi zaferiyle uzayda veri merkezi fikrinin daha önemli hale geldiğini yazdı. Bir iki hafta içinde yarı iletkenlerin önderliğinde **Nasdaq**'ta ralli beklediğini, karşıtlar 2028'i kazanırsa bellek başta olmak üzere yarı iletkenlerde sıkıntı çıkabileceğini ama bunun şimdinin sorunu olmadığını söyledi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Seçim sonrası yarı iletkenler ve uzayda veri merkezi",
+          "url": "https://x.com/TuncSatiroglu/status/2117874034654453805",
+          "published_at": "2026-11-04T06:58:12.000Z",
+          "summary": "Yapay zekâ karşıtlarının zaferiyle uzayda veri merkezi kurulması daha da önemli hale geldi. Yapay zekâ karşıtları 2028'de başkanlık seçimini kazanırsa bellek başta olmak üzere yarı iletkenlerde büyük sıkıntı olabilir, ama bu şimdinin sorunu değil. Bir iki hafta içinde yarı iletkenlerin önderliğinde Nasdaq'ta ralli bekliyor; ABD'nin yapay zekâdaki liderliğinin önümüzdeki 2 yıl sürmesini bekliyor.",
+          "assets": [
+            {
+              "symbol": "SOX",
+              "sentiment": "positive",
+              "note": "Bir iki hafta içinde yarı iletkenlerin önderliğinde ralli bekliyor; 2028 sonrası bellek riski var."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Nasdaq'ta bir iki hafta içinde ralli bekliyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy, **Palantir** ve **Apple** bilançoları beklentiyi aşmasına rağmen hisselerin satış baskısı altında olduğunu, **Nvidia** ve **AMD**'nin yükseldiğini ve yapay zekâ rallisinin geri dönüp dönmediğini sorgulayan bir video paylaştı. Tahmin piyasalarının Meclis'i Demokratlara %94,1, Senato'yu %73,1 ihtimalle verdiğini aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Piyasa yükseliyor ama tehlike geçti mi?",
+          "url": "https://x.com/FinancewithIzzy/status/2117706377770488212",
+          "published_at": "2026-11-03T19:52:00.000Z",
+          "summary": "PLTR beklentileri aştı, AAPL rekor bilanço açıkladı, ama hisselerin neden satış baskısı altında olduğunu soruyor. NVDA ve AMD yükselirken yapay zekâ rallisinin geri dönüp dönmediğini ve gece seçim riskini ele alan bir video paylaştı.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Beklentileri aştı ama satış baskısı altında."
+            },
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Rekor bilanço açıkladı ama satış baskısı altında."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Yükseliyor; AI rallisi dönüyor mu sorusu açık."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "neutral",
+              "note": "Yükseliyor; AI rallisi dönüyor mu sorusu açık."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tahmin piyasaları mı anketler mi?",
+          "url": "https://x.com/FinancewithIzzy/status/2117655637031104820",
+          "published_at": "2026-11-03T16:30:22.000Z",
+          "summary": "Yahoo Finance analizine göre 2 Kasım itibarıyla Meclis için tahmin piyasaları %94,1, anket modelleri %96,7; Senato için tahmin piyasaları %73,1, anket modelleri %80,3 Demokrat kontrol olasılığı gösteriyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "Wall St Engine seçim gecesini canlı aktardı: Demokratlar Meclis'i ve Senato'yu aldı, Nasdaq 100 vadelisi %1,8 düştü ve Jefferies'e göre Texas'taki 13,3 GW'lık veri merkezi projesi risk altında. Bilançolarda **AMD** 2027 geliri için %80'in üzerinde büyüme öngördü, **Arista** ve **Super Micro** güçlü rehberlik verdi; **Palantir** ise gelir %96 artmasına rağmen zayıf yeni sözleşme verisi nedeniyle %9 düştü. **Oracle**'ın Tencent ile 7 milyar dolarlık çip kiralama anlaşmasını iptal ettiği, **Meta**'nın 15 milyar dolarlık tahvilini 30 yılda %7,5'e varan faizle sattığı ve Çinli firmaların 70 milyar dolarlık **Nvidia** RTX siparişinin dört ayda yalnızca %1'inin teslim edileceği bildirildi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Vadeliler Demokrat süpürmesiyle düştü",
+          "url": "https://x.com/wallstengine/status/2117793786348863807",
+          "published_at": "2026-11-04T01:39:20.000Z",
+          "summary": "Kalshi'de Demokrat süpürme ihtimali %98'e, 'mavi tsunami' (Meclis'te 235+, Senato'da 51+) ihtimali %93'e çıkarken ABD vadelileri düştü; Nasdaq 100 %1,8 aşağıda.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Nasdaq 100 vadelisi %1,8 aşağıda."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Texas veri merkezi moratoryum riski",
+          "url": "https://x.com/wallstengine/status/2117798971313918098",
+          "published_at": "2026-11-04T01:59:56.000Z",
+          "summary": "Demokrat Gina Hinojosa, Abbott'u yenerse daha geniş bir veri merkezi moratoryumu istiyor. Jefferies'e göre Texas'taki 13,3 GW'lık projeler risk altında; eyalet 2030'a kadar planlanan ABD kapasitesinin yaklaşık %25'ini oluşturuyor ve ERCOT'un 474 GW'lık talep kuyruğunun yaklaşık %90'ı veri merkezi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "State Street: asıl risk aşırı tepki",
+          "url": "https://x.com/wallstengine/status/2117815376193233021",
+          "published_at": "2026-11-04T03:05:07.000Z",
+          "summary": "State Street'ten Michael Arone, piyasalar için asıl riskin mavi dalgadan değil, yatırımcıların mavi dalgaya aşırı tepki vermesinden geleceğini söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Oracle, Tencent çip kiralama anlaşmasını iptal etti",
+          "url": "https://x.com/wallstengine/status/2117847084640727436",
+          "published_at": "2026-11-04T05:11:07.000Z",
+          "summary": "FT'ye göre Oracle, Trump yönetiminin baskısıyla Tencent'le 7 milyar dolarlık yapay zekâ çipi kiralama anlaşmasını iptal etti. Beş yıllık anlaşma Tencent'e Güneydoğu Asya'daki veri merkezlerinde 100.000'e varan gelişmiş çipe erişim sağlayacaktı; Çinli yetkililer de Tencent'i yerli çip üreticilerini desteklemeye çağırmıştı.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "7 milyar dolarlık Tencent anlaşması ABD baskısıyla iptal edildi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AMD 2027 gelir beklentisini yükseltti",
+          "url": "https://x.com/wallstengine/status/2117744421261431135",
+          "published_at": "2026-11-03T22:23:10.000Z",
+          "summary": "Lisa Su, 2027'de gelirin %80'in üzerinde büyümesini beklediklerini söyledi; bu, uzun vadeli büyüme hedefinin iki katından fazla. Veri merkezi 2027 gelirinin %80'inden fazlasını oluşturacak (3. çeyrekte %64), sunucu CPU geliri ikiye katlanacak ve veri merkezi yapay zekâ geliri daha da hızlı büyüyecek. Müşteriler EPYC ve Instinct dağıtım planlarını genişletti, AMD ek arz sağladı.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "2027 gelirinin %80'in üzerinde büyümesi bekleniyor; talep arzın üzerinde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Arista: en hızlı büyüme ve 2027 görünümü",
+          "url": "https://x.com/wallstengine/status/2117739567323443483",
+          "published_at": "2026-11-03T22:03:53.000Z",
+          "summary": "Arista, 2014'teki halka arzdan beri en hızlı gelir büyümesini (%58,5) açıkladı, 4. çeyrek rehberliğini beklentinin üzerinde verdi; 2026 gelir rehberliğini yılın dördüncü kez 13,3 milyar dolara (%48 büyüme) yükseltti. 2027 için yaklaşık 18,5 milyar dolar (%38-40 büyüme) bekliyor; analist beklentisi yaklaşık 16,4 milyar dolardı. Hisse %18 yükseldi.",
+          "assets": [
+            {
+              "symbol": "ANET",
+              "sentiment": "positive",
+              "note": "2027 için 18,5 milyar dolar beklentisi analist tahmininin çok üzerinde."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Super Micro rehberliği",
+          "url": "https://x.com/wallstengine/status/2117735711168471438",
+          "published_at": "2026-11-03T21:48:33.000Z",
+          "summary": "Super Micro, beklentiyi aşan gelir rehberliği sonrası mesai dışında %8 yükseldi. 2. çeyrek gelir rehberliği 19,5-21,5 milyar dolar (beklenti 17,5 milyar), FY27 gelir rehberliği 72-82 milyar dolara yükseldi (beklenti 70,3 milyar).",
+          "assets": [
+            {
+              "symbol": "SMCI",
+              "sentiment": "positive",
+              "note": "Rehberlik beklentinin çok üzerinde, mesai dışında %8 yükseldi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Palantir bilanço sonrası düştü",
+          "url": "https://x.com/wallstengine/status/2117587773607825510",
+          "published_at": "2026-11-03T12:00:42.000Z",
+          "summary": "Palantir, gelirin %96 artmasına ve yıllık rehberliğin yeniden yükseltilmesine rağmen %9 düştü. ABD ticari geliri ilk kez devlet gelirini geçti (+%148), ama ABD ticari TCV rezervasyonları yalnızca %11 artarak 1,46 milyar dolar oldu (2. çeyrekte %153); şirket genelinde TCV %6 artışla 2,92 milyar dolar, RPO çeyreklik neredeyse sabit, 10 milyon dolar üzeri anlaşma sayısı 73'ten 64'e düştü.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "negative",
+              "note": "Gelir artışına rağmen yeni sözleşme verisi zayıf; hisse %9 düştü."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta 15 milyar dolarlık tahvil sattı",
+          "url": "https://x.com/wallstengine/status/2117746521076863434",
+          "published_at": "2026-11-03T22:31:31.000Z",
+          "summary": "Meta 15 milyar dolarlık tahvilini fiyatladı; 30 yıllık borç için %7,5'e varan faiz ödüyor (5 yıl %5,85, 7 yıl %6,25, 10 yıl %6,55, 20 yıl %7,35). İhraç için yaklaşık 58 milyar dolarlık emir geldi, yani satılan tutarın neredeyse 4 katı.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "15 milyar dolarlık tahvilde emirler 4 katı geldi, ama faiz maliyeti yükseliyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Çinli firmaların Nvidia RTX siparişi",
+          "url": "https://x.com/wallstengine/status/2117824419607482865",
+          "published_at": "2026-11-04T03:41:03.000Z",
+          "summary": "Bloomberg'e göre Alibaba, Tencent, ByteDance ve diğer Çinli yapay zekâ firmaları yaklaşık 70 milyar dolar değerinde 6 milyon RTX Pro 5500 çipi sipariş etti, ama dört ayda yalnızca yaklaşık %1'ini, yani yıl sonuna kadar birkaç bin çip almayı bekliyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Çinli müşteriler 70 milyar dolarlık siparişin yalnızca %1'ini alacak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hürmüz Boğazı'nda gemi saldırıları",
+          "url": "https://x.com/wallstengine/status/2117785959433683252",
+          "published_at": "2026-11-04T01:08:13.000Z",
+          "summary": "WSJ'ye göre İran, Hürmüz Boğazı'nda su altı dronları ve mıknatıslı mayınlarla gemilere yönelik saldırıları tırmandırıyor. Kpler'in ön verilerine göre geçen hafta petrol akışı günde ortalama 7,8 milyon varil, yani savaş öncesinin yalnızca %45'i.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Novo Nordisk 3. çeyrek bilançosu",
+          "url": "https://x.com/wallstengine/status/2117869203793346970",
+          "published_at": "2026-11-04T06:39:00.000Z",
+          "summary": "Satışlar 79,195 milyar DKK (beklenti 73,83 milyar), yıllık %6 artış; EPS 3,79 DKK ile beklentinin (5,09) altında ve yıllık %16 düşük, işletme kârı 23,011 milyar DKK (beklenti 27,89 milyar). FY26 rehberliğini yükseltti; Wegovy hap reçeteleri 3. çeyrekte 3,6 milyona ulaştı.",
+          "assets": [
+            {
+              "symbol": "NVO",
+              "sentiment": "neutral",
+              "note": "Satış beklentiyi aştı, EPS ve işletme kârı beklentinin altında kaldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Citi: 2027'de bellek arz açığı sürüyor",
+          "url": "https://x.com/wallstengine/status/2117649174665838604",
+          "published_at": "2026-11-03T16:04:41.000Z",
+          "summary": "Citi, 2027'de bellek arzının talebin gerisinde kalmaya devam edeceğini bekliyor: DRAM talebi %28, arzı %24 büyüyecek ve açık %8,7'den %3,8'e inecek; NAND talebi %26, arzı %22 büyüyecek.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Ara seçimlerden sonra S&P 500 tarihsel olarak",
+          "url": "https://x.com/wallstengine/status/2117659342543700001",
+          "published_at": "2026-11-03T16:45:06.000Z",
+          "summary": "Kalshi'de Demokratların Meclis'i alma ihtimali %93, Senato'yu alma ihtimali %74. 1950'den beri 19 ara seçimin hepsinde S&P 500 12 ay sonra daha yüksekti (ortalama %15,4). Demokratların Cumhuriyetçi başkanla Kongre'yi aldığı 1986, 1990 ve 2006'da ertesi gün ortalama %0,5 düşüş, 1 ayda %3,4, 1 yılda %10,9 artış görüldü.",
+          "assets": [
+            {
+              "symbol": "SPX",
+              "sentiment": "positive",
+              "note": "1950'den beri tüm ara seçimlerden 12 ay sonra daha yüksek, ortalama %15,4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz, **Apple**'ın bilanço sonrası günü %2'den az düşüşle kapatmasını yükseliş sonrası olumlu buluyor ve **Meta**'da yıllardır pozisyon taşıyıp sadece tuttuğunu yazdı. Hiperölçekleyicilerin brüt kâr/işletme gideri oranının 90'ların fiber yatırımcılarıyla kıyaslanamayacağını savundu ve **Arista**'nın 2022'den beri koşusunu övdü.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Apple bilanço sonrası düşüş",
+          "url": "https://x.com/jrouldz/status/2117735799924080997",
+          "published_at": "2026-11-03T21:48:54.000Z",
+          "summary": "Apple'ın bilanço sonrası ve büyük yükselişin ardından günü %2'den az düşüşle kapatmasını olumlu bulduğunu yazdı.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "positive",
+              "note": "Bilanço sonrası %2'den az düşüş, önceki yükselişe göre olumlu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hiperölçekleyiciler ve 90'ların fiber yatırımları",
+          "url": "https://x.com/jrouldz/status/2117623001227125019",
+          "published_at": "2026-11-03T14:20:41.000Z",
+          "summary": "MSFT, GOOGL, AMZN ve META'nın brüt kâr ile işletme gideri oranına bakarak bunları 90'ların fiber yatırımı şirketleriyle kıyaslayanların yanıldığını yazdı. Bu şirketlerin aldıkları hesaplı riskleri kaldırabileceğini, Meta'nın Metaverse'te milyarlarca dolar boşa harcayıp iyi durumda olduğunu söyledi.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Metaverse'te milyarlar harcayıp iyi durumda; AI riskini kaldırabilir."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta'da tutmaya devam",
+          "url": "https://x.com/jrouldz/status/2117633258548539576",
+          "published_at": "2026-11-03T15:01:27.000Z",
+          "summary": "Yıllardır Meta'da olduğunu, sadece tuttuğunu, alım ya da satım yapmadığını yazdı; 500 dolar cazip olabilir ama ayıların buna gücü olup olmadığından emin değil.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Yıllardır pozisyonda; sadece tutuyor, 500 dolar cazip olurdu."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Arista koşusu",
+          "url": "https://x.com/jrouldz/status/2117755973108437090",
+          "published_at": "2026-11-03T23:09:04.000Z",
+          "summary": "Arista'nın 2022'den beri ve bilanço sonrası mesai dışında daha da hızlı yükselişini 'çılgın' olarak niteledi.",
+          "assets": [
+            {
+              "symbol": "ANET",
+              "sentiment": "positive",
+              "note": "2022'den beri ve bilanço sonrası çok güçlü yükseliş."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance, **AMD**, **Arista**, **Super Micro**, **Astera Labs** ve **Ouster**'ın güzel bilanço açıkladığını yazdı ve Nasdaq'ın 6 Ekim zirvesinden bu yana düşüşte iyi haber veren şirketlerin listesini paylaştı. Seçim öncesi tahmini Demokratların Meclis'i, Cumhuriyetçilerin Senato'yu alması ve bunun **Nasdaq** için en olumlu senaryo olmasıydı. Elon Musk'a atıfla önümüzdeki yılın darboğazının çip değil elektrik olduğunu ve **Micron** için SK Hynix'in Çin genişlemesinin onay beklemesini iyi haber olarak aktardı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AMD, ANET, SMCI, ALAB ve OUST bilançoları",
+          "url": "https://x.com/cevikfinance/status/2117741564659401209",
+          "published_at": "2026-11-03T22:11:49.000Z",
+          "summary": "AMD, ANET, SMCI, ALAB ve OUST'un hepsinin güzel bilanço açıkladığını yazdı.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Güzel bilanço."
+            },
+            {
+              "symbol": "ANET",
+              "sentiment": "positive",
+              "note": "Güzel bilanço."
+            },
+            {
+              "symbol": "SMCI",
+              "sentiment": "positive",
+              "note": "Güzel bilanço."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Ara seçim tahmini ve borsa",
+          "url": "https://x.com/cevikfinance/status/2117651464298381463",
+          "published_at": "2026-11-03T16:13:47.000Z",
+          "summary": "Demokratların Meclis'i alıp Senato'nun Cumhuriyetçilerde kalacağını tahmin etti; Nasdaq için en olumlu kısa vadeli senaryonun bu olduğunu, çünkü yeni vergi ve harcama paketlerinin Meclis'te duracağını yazdı. Baz senaryosu: net bir sonuç satış baskısını birkaç seans hafifletir, sonra odak tahvil faizlerine ve yapay zekâ nakit akışına döner. Tahmin piyasaları iki kanadın da Demokratlara geçmesini %74, UBS %50 olasılıkla fiyatlıyor.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "Demokrat Meclis + Cumhuriyetçi Senato en olumlu senaryo; baz senaryo birkaç seans rahatlama."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Musk: darboğaz çip değil elektrik",
+          "url": "https://x.com/cevikfinance/status/2117679950987768246",
+          "published_at": "2026-11-03T18:06:59.000Z",
+          "summary": "Elon Musk'a göre yapay zekâ yarışında önümüzdeki yılın darboğazı çip değil elektrik olacak; Çin dışında elektrik üretimi neredeyse yerinde sayarken çip üretimi hızla artıyor ve 2026 sonunda çalıştırılabilecek olandan fazla çip üretilmiş olacak. Elektrik ekipmanı, soğutma, ağ altyapısı ve batarya da darboğaz. Elektrik üretiminde öne çıkan şirketler olarak CEG, VST ve NRG'yi listeledi.",
+          "assets": [
+            {
+              "symbol": "CEG",
+              "sentiment": "positive",
+              "note": "ABD'nin en büyük nükleer işletmecisi; elektrik darboğazı temasında öne çıkardığı şirket."
+            },
+            {
+              "symbol": "VST",
+              "sentiment": "positive",
+              "note": "Veri merkezlerine elektrik satan büyük üretici; elektrik darboğazı temasında."
+            },
+            {
+              "symbol": "NRG",
+              "sentiment": "positive",
+              "note": "Veri merkezi elektriği temasında listelendi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SK Hynix Çin genişlemesi ve Micron",
+          "url": "https://x.com/cevikfinance/status/2117700235220955293",
+          "published_at": "2026-11-03T19:27:35.000Z",
+          "summary": "Reuters'a göre ABD yetkilileri SK Hynix'in Çin'de üretimi genişletmek için ihtiyaç duyduğu ekipman onayını bekletiyor; bunu $MU için güzel haber olarak yorumladı.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "SK Hynix'in Çin genişlemesinin onay beklemesi $MU için iyi haber."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Düşüşte iyi haber veren şirketler",
+          "url": "https://x.com/cevikfinance/status/2117628065777901858",
+          "published_at": "2026-11-03T14:40:49.000Z",
+          "summary": "6 Ekim Nasdaq zirvesinden bu yana düşüşte iyi bilanço, rehberlik ya da haber getiren şirketleri listeledi: SNDK (gelir +%378), BE, SKHY, VRT, TSM, ASML, PLTR (+%96), LRCX, GOOGL (Cloud +%103), AMD ve diğerleri. Kötü makro ortamda iyi haberlerin fiyata tam yansımadığını, risk-on dönünce bu hisselerin en sert yükselenler olacağını yazdı.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Meta ile Helios anlaşması genişledi."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "Gelir +%96 ve rehberlik yükseldi."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "%18,8 ile en büyük pozisyon; faiz beklentisi ve kredi kalitesi asıl risk, tek hisse yoğunluğu bunu büyütüyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Tek hisse yoğunluğu portföy riskini artırıyor.",
+          "Bora Özkent'e göre Aralık'ta faiz artışı ihtimali hâlâ %73-76, bu fintech çarpanlarını baskılayabilir.",
+          "Bugün kaynaklarda şirkete özel olumsuz bir gelişme yok."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [
+          {
+            "person": "Heisenberg",
+            "sentiment": "negative",
+            "quote": "Demokratların kazanmasını Türkiye açısından olumlu bir gelişme olarak değerlendirmiyorum.",
+            "source_url": "https://x.com/heisenbergtrx/status/2117860581659062364"
+          },
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "ben ucuz buluyorum ozellikle 215 civari ve altinda bence borsamiz ucuz ama ucuzluk kesin bir getiri sunmuyor",
+            "source_url": "https://x.com/ulkser/status/2117688782941995079"
+          }
+        ],
+        "action": "hold",
+        "why": "Heisenberg Demokrat zaferini Türkiye için olumlu görmüyor, ulkser ise borsayı ucuz buluyor; sinyal karışık.",
+        "opinion": "Türkiye riski ve ucuz değerleme birlikte duruyor; tek bir kaynak yönü belirlemiyor, %12,9 ağırlık makul.",
+        "ai_action": "hold",
+        "ai_points": [
+          "ulkser'e göre borsa ucuz, geri alım programları destek olabilir.",
+          "Heisenberg'e göre Demokrat zafer Türkiye için olumlu değil.",
+          "Ucuzluk tek başına getiri garantisi vermiyor (ulkser)."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Yapay zekâ ağ ve özel çip talebi güçlü, ama yarı iletken endeksindeki sert satışa ve veri merkezi siyasi riskine açık.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Arista'nın 2027 beklentisi ve AMD'nin %80 büyüme hedefi yapay zekâ altyapı talebinin sürdüğünü gösteriyor.",
+          "Bora Özkent'e göre SOX bir günde %3,37 düştü, Texas ve Ohio sonuçları veri merkezi inşaatı riskini artırdı."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "Dün yeni gelen haberler Meta'nın bir 20 milyar dolar civarında paraya ihtiyaç duyduğu, bununla ilgili yeni tahviller çıkaracağı",
+            "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+          },
+          {
+            "person": "jrouldz",
+            "sentiment": "neutral",
+            "quote": "I've been in $META for years personally I am just holding no buys or sells.",
+            "source_url": "https://x.com/jrouldz/status/2117633258548539576"
+          },
+          {
+            "person": "wallstengine",
+            "sentiment": "neutral",
+            "quote": "$META PRICED ITS $15 BILLION BOND SALE, PAYING UP TO 7.5% ON 30-YEAR DEBT",
+            "source_url": "https://x.com/wallstengine/status/2117746521076863434"
+          }
+        ],
+        "action": "hold",
+        "why": "Meta 15 milyar dolarlık tahvil sattı (wallstengine), jrouldz tutuyor; al ya da sat için somut tetikleyici yok.",
+        "opinion": "Yapay zekâ harcamalarının borçla finansmanı maliyetli hale geliyor; talep güçlü ama sermaye maliyeti asıl izlenecek konu.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Tahvile yaklaşık 58 milyar dolarlık emir geldi, finansman erişimi güçlü (wallstengine).",
+          "30 yıllık borç %7,5'e varan faizle satıldı, finansman maliyeti yükseliyor.",
+          "%12,8 ağırlık ve portföydeki diğer yapay zekâ pozisyonlarıyla korelasyon riski."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer bileşen üreticisi olarak veri merkezi moratoryum siyasetinden görece korunaklı; bugün kaynaklarda şirketle ilgili veri yok.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Cevikfinance'ın aktardığı Musk görüşüne göre elektrik üretimi yapay zekânın darboğazı, bu nükleer temaya destek.",
+          "%10,5 ağırlık için bugün şirkete özel bir katalizör görünmüyor."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Reklam gelirine bağlı büyüme hisseleri riskten kaçışta sert dalgalanır; %9,4 ağırlık bunu hissettirir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Nasdaq 100 seçim gecesi yaklaşık %2 düştü (Bora Özkent), büyüme hisseleri baskıda.",
+          "Bugün şirkete özel bir gelişme yok."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Yapay zekâ altyapısına bağımlı olmayan, daha savunmacı bir büyüme hikâyesi; bugün kaynaklarda yer almadı.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Yarı iletken ve veri merkezi satışından görece uzak duruyor.",
+          "Bugün şirkete özel bir veri yok."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "ama hala şu anda aralıkta faiz artışı öngörülüyor",
+            "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "positive",
+            "quote": "Tahvil faizleri ve dolar geriledi.",
+            "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+          }
+        ],
+        "action": "hold",
+        "why": "Bora Özkent'e göre Aralık'ta faiz artışı hâlâ fiyatlanıyor ama ihtimal %85'ten %73-76'ya geriledi; seçim sonrası faizler de geriledi.",
+        "opinion": "Uzun vadeli tahvil faizlere çok duyarlı; faizlerdeki gevşeme destek olur ama ABD 10 yıllık %4,95 seviyesi ve faiz artışı beklentisi riski sürüyor.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Seçim sonrası vadeli piyasada tahvil faizleri geriledi (WallStDiaries).",
+          "ABD 10 yıllık kapanışta %4,95 ile yüksek, Aralık artışı ihtimali hâlâ %73-76 (Bora Özkent)."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Elektrik ekipmanı teması güçlü, ama Texas veri merkezi moratoryum riski talebi etkileyebilir; %5,3 ağırlık makul.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Musk'a göre (cevikfinance aktarımıyla) elektrik ekipmanı ve üretimi yapay zekânın darboğazı.",
+          "Jefferies'e göre Texas'taki 13,3 GW'lık veri merkezi projesi risk altında."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "ANET",
+        "name": "Arista Networks",
+        "why": "wallstengine: 2027 için yaklaşık 18,5 milyar dolar gelir beklentisi analist tahmini olan 16,4 milyar doların çok üzerinde; hisse %18 yükseldi.",
+        "source_url": "https://x.com/wallstengine/status/2117739567323443483"
+      },
+      {
+        "symbol": "AMD",
+        "name": "AMD",
+        "why": "WallStDiaries: rekor gelir, veri merkezi satışları neredeyse ikiye katlandı; wallstengine'e göre 2027 geliri %80'in üzerinde büyüyecek.",
+        "source_url": "https://x.com/WallStDiaries/status/2117728196971893031"
+      },
+      {
+        "symbol": "SMCI",
+        "name": "Super Micro Computer",
+        "why": "wallstengine: FY27 gelir rehberliği 72-82 milyar dolar (beklenti 70,3 milyar), mesai dışında %8 yükseldi.",
+        "source_url": "https://x.com/wallstengine/status/2117735711168471438"
+      }
+    ]
+  }
+}

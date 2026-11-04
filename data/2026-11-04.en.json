@@ -1,0 +1,1553 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T08:17:24+00:00",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Democrats take Congress, Nasdaq futures drop sharply",
+      "person": "WallStDiaries",
+      "why": "The market is pricing tighter data center regulation, slower AI investment and a debt ceiling debate; Nasdaq 100 futures are down 2% and the Nikkei is at a three-month low.",
+      "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+    },
+    {
+      "title": "Texas and Ohio governor races create data center moratorium risk",
+      "person": "Bora Özkent",
+      "why": "Per Bora Özkent the selling is driven by the governor results more than the Senate; a governor can declare a moratorium, and he sees no short-term impact beyond data centers.",
+      "source_url": "https://www.youtube.com/watch?v=IHiDWIGcx2U"
+    },
+    {
+      "title": "AMD lifts 2027 revenue growth outlook above 80%",
+      "person": "wallstengine",
+      "why": "Lisa Su expects growth of more than twice the long-term target, with server CPU revenue doubling in 2027 and data center AI growing faster.",
+      "source_url": "https://x.com/wallstengine/status/2117744421261431135"
+    },
+    {
+      "title": "Palantir falls 9% despite 96% revenue growth",
+      "person": "wallstengine",
+      "why": "US commercial TCV bookings grew just 11% to $1.46 billion (153% in Q2) and RPO was nearly flat QoQ.",
+      "source_url": "https://x.com/wallstengine/status/2117587773607825510"
+    },
+    {
+      "title": "Oracle cancels $7 billion chip-leasing deal with Tencent",
+      "person": "wallstengine",
+      "why": "Per the FT it was canceled under US administration pressure; the deal would have given Tencent access to up to 100,000 advanced chips.",
+      "source_url": "https://x.com/wallstengine/status/2117847084640727436"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US midterms and market impact",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "No short-term election impact beyond data centers; the selling comes from the Texas and Ohio governor races.",
+          "quote": "Yani şu anda kısa vadede veri merkezleri dışında hiçbir şey etkisi yok. Gerisi bir sıkıntı değil.",
+          "source_url": "https://www.youtube.com/watch?v=IHiDWIGcx2U"
+        },
+        {
+          "person": "Heisenberg",
+          "view": "The real risk is volatility in 2027 from the budget, taxes, trade wars and political deadlock.",
+          "quote": "Özellikle 2027'de bütçe, vergi politikaları, ticaret savaşları ve siyasi kilitlenmeler üzerinden ciddi volatilite dönemleri görebiliriz.",
+          "source_url": "https://x.com/heisenbergtrx/status/2117860581659062364"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Expects a semiconductor-led Nasdaq rally within a week or two.",
+          "quote": "Bir iki haftaya yine yarı iletkenlerin önderliğinde Nasdaq'ta bir ralli görebileceğimize inanıyorum.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2117874034654453805"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Futures fell sharply; the market is pricing data center regulation, an AI slowdown and a debt ceiling debate.",
+          "quote": "Piyasa, veri merkezlerine sıkı düzenleme, yapay zekâ yatırımlarında yavaşlama ve borç tavanı tartışmasını fiyatlıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "A clear result eases selling for a few sessions, then focus returns to yields and AI cash flow.",
+          "quote": "Baz senaryom: Net bir sonuç satış baskısını birkaç seans hafifletir, sonra odak yeniden tahvil faizlerine ve YZ nakit akışına döner.",
+          "source_url": "https://x.com/cevikfinance/status/2117651464298381463"
+        },
+        {
+          "person": "wallstengine",
+          "view": "State Street's Michael Arone says the real risk is overreacting to the blue wave.",
+          "quote": "STATE STREET'S MICHAEL ARONE: \"I DON'T THINK THE BIG RISK TO MARKETS IS FROM THE BLUE WAVE; IT'S INVESTORS OVERREACTING TO A BLUE WAVE\"",
+          "source_url": "https://x.com/wallstengine/status/2117815376193233021"
+        }
+      ]
+    },
+    {
+      "topic": "Iran, the Strait of Hormuz and oil",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Brent fell from 116.72 to 104.77 on easing in Iran; he sees this as positive.",
+          "quote": "Dün petrol fiyatları ciddi şekilde geriye doğru çekildiler. 116.72'den 104.77'ye kaldı geldi brend. Yani bu olumlu bir haber.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Per the WSJ Iran is escalating ship attacks in Hormuz; oil flows are at 45% of prewar levels.",
+          "quote": "Iran is escalating attacks on ships in the Strait of Hormuz using underwater drones and limpet mines, WSJ reports.",
+          "source_url": "https://x.com/wallstengine/status/2117785959433683252"
+        }
+      ]
+    },
+    {
+      "topic": "Fed rate expectations and bond yields",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "The market still expects a December hike but the odds dropped from 85% to 73-76%.",
+          "quote": "Faiz yükselişi bekliyor. Fakat ihtimal biraz azaldı.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "After the election bond yields and the dollar fell in futures trading; the US 10-year closed at 4.95%.",
+          "quote": "Tahvil faizleri ve dolar geriledi.",
+          "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+        }
+      ]
+    },
+    {
+      "topic": "Financing AI spending",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Meta and Oracle are each seeking about $20 billion and the Anthropic IPO will draw cash; AI keeps absorbing money from the market.",
+          "quote": "Yani yapay zeka para emmeye devam ediyor piyasalardan.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Meta sold a $15 billion bond at up to 7.5% on 30-year debt; orders were about 4x the amount sold.",
+          "quote": "$META PRICED ITS $15 BILLION BOND SALE, PAYING UP TO 7.5% ON 30-YEAR DEBT",
+          "source_url": "https://x.com/wallstengine/status/2117746521076863434"
+        },
+        {
+          "person": "jrouldz",
+          "view": "Comparing hyperscalers to 1990s fiber builders is wrong; they can afford the risk.",
+          "quote": "Anyone comparing these to fiber-buildout companies in the 90s is clueless.",
+          "source_url": "https://x.com/jrouldz/status/2117623001227125019"
+        }
+      ]
+    },
+    {
+      "topic": "AI hardware and energy bottlenecks",
+      "views": [
+        {
+          "person": "Bora Özkent",
+          "view": "Per TrendForce lead times for DRAM, CPUs, GPUs and ABF have lengthened; products are as scarce as money.",
+          "quote": "Yani yapay zeka dünyasında ne oluyor derseniz inanılmaz ürün kıtlığı var. Para kıt ürün de kıt.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Citi still expects memory undersupply in 2027: DRAM demand +28% vs supply +24%.",
+          "quote": "Citi still expects memory undersupply in 2027.",
+          "source_url": "https://x.com/wallstengine/status/2117649174665838604"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "According to Elon Musk next year's bottleneck is electricity, not chips.",
+          "quote": "Elon Musk'a göre YZ yarışında önümüzdeki yılın darboğazı çip değil elektrik olacak.",
+          "source_url": "https://x.com/cevikfinance/status/2117679950987768246"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "priority": "high",
+      "why": "Several people relayed the strong Q3 and the 2027 outlook of more than 80% growth.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Gelir: 13,4 milyar dolar, yıllık yüzde 45 artış — rekor seviye ve rehberliğin üst bandını aştı",
+          "source_url": "https://x.com/WallStDiaries/status/2117728196971893031"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$AMD CEO Lisa Su: \"We now expect revenue to grow more than 80% in 2027,\"",
+          "source_url": "https://x.com/wallstengine/status/2117744421261431135"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$AMD, $ANET, $SMCI, $ALAB ve $OUST hepsi de güzel bilanço açıkladı.",
+          "source_url": "https://x.com/cevikfinance/status/2117741564659401209"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "Öte yandan $NVDA ve $AMD yükseliyor. AI rallisi geri mi dönüyor, yoksa geçici bir toparlanma mı?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2117706377770488212"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "name": "Arista Networks",
+      "priority": "high",
+      "why": "Four people relayed record growth and a 2027 outlook far above analyst estimates.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$ANET +18% JUST POSTED ITS FASTEST REVENUE GROWTH SINCE GOING PUBLIC IN 2014, UP 58.5% YOY.",
+          "source_url": "https://x.com/wallstengine/status/2117739567323443483"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Gelir: 3,66 milyar dolar — yıllık %58,5 artış, çeyreklik %20,5 artış, kendi rehberliğini aştı",
+          "source_url": "https://x.com/WallStDiaries/status/2117727125016821985"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "what an insane run with $ANET since 2022 and even more after hours!!!",
+          "source_url": "https://x.com/jrouldz/status/2117755973108437090"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$AMD, $ANET, $SMCI, $ALAB ve $OUST hepsi de güzel bilanço açıkladı.",
+          "source_url": "https://x.com/cevikfinance/status/2117741564659401209"
+        }
+      ]
+    },
+    {
+      "symbol": "SMCI",
+      "name": "Super Micro Computer",
+      "priority": "high",
+      "why": "Two people relayed record sales and guidance well above expectations.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Net Satışlar: 19,9 milyar dolar, bir önceki çeyreğe göre %79, bir önceki yıla göre %298 artış — rekor seviye",
+          "source_url": "https://x.com/WallStDiaries/status/2117725798333603964"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$SMCI +8% after hours after issuing stronger-than-expected revenue guidance.",
+          "source_url": "https://x.com/wallstengine/status/2117735711168471438"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "high",
+      "why": "Three people addressed the stock being sold despite strong earnings and why.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Parant ucuz bir hisse değil. Yani parant değerlemesi yüksek bir şirket biraz.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Palantir $PLTR -9% following Q3 earnings, despite revenue growing 96% YoY & another raise to FY26 guidance.",
+          "source_url": "https://x.com/wallstengine/status/2117587773607825510"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$PLTR beklentileri aştı, $AAPL rekor bilanço açıkladı. Peki hisseler neden satış baskısı altında?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2117706377770488212"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "high",
+      "why": "Two people commented on the post-earnings drop and growth.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "$AAPL -2% on this print after the run it’s had recently…I call it a win 😂",
+          "source_url": "https://x.com/jrouldz/status/2117698235175219557"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Gelirler 114,5 geldi. Yıllık %12'lik bir büyüme var. Hala büyüyor şirket.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$AAPL rekor bilanço açıkladı. Peki hisseler neden satış baskısı altında?",
+          "source_url": "https://x.com/FinancewithIzzy/status/2117706377770488212"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "high",
+      "why": "Three people covered Meta's bond issue and holding stance.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "neutral",
+          "quote": "Dün yeni gelen haberler Meta'nın bir 20 milyar dolar civarında paraya ihtiyaç duyduğu, bununla ilgili yeni tahviller çıkaracağı",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I've been in $META for years personally I am just holding no buys or sells.",
+          "source_url": "https://x.com/jrouldz/status/2117633258548539576"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$META attracted as much as $58B in investor orders for its $15B U.S. dollar bond offering, nearly 4x the amount being sold, even as borrowing costs rise.",
+          "source_url": "https://x.com/wallstengine/status/2117694142436589711"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "high",
+      "why": "Two people described pressure on the stock from financing needs and the Tencent cancellation.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Bunlar dün Oracle'ı aşağı doğru aldılar.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Oracle $ORCL has reportedly canceled a $7B AI chip leasing deal with Tencent following pressure from the Trump administration, according to the FT.",
+          "source_url": "https://x.com/wallstengine/status/2117847084640727436"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "Bora Özkent gave a clear view and wallstengine relayed the China order.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "positive",
+          "quote": "Nvidia falan kesinlikle balon değil.",
+          "source_url": "https://www.youtube.com/watch?v=IHiDWIGcx2U"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "NVIDIA $NVDA CHINA 🇨🇳 CLIENTS TO GET 1% OF $70 BILLION RTX CHIP ORDERED: BBG",
+          "source_url": "https://x.com/wallstengine/status/2117818095376937405"
+        }
+      ]
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Nasdaq 100 (QQQ)",
+      "priority": "high",
+      "why": "Several people addressed the post-election drop, with opposing expectations.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "$QQQ de düşüş derinleşerek -%2 seviyelerine ulaştı 🔴🔴",
+          "source_url": "https://x.com/korkmazali08/status/2117813972154085700"
+        },
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Şu anda %2 civarında endeks aşağıda. Nazarak 100 aşağıda.",
+          "source_url": "https://www.youtube.com/watch?v=IHiDWIGcx2U"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "🔴 Nasdaq100 Ft: 27.710,00 (%2,00)",
+          "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "positive",
+          "quote": "Bir iki haftaya yine yarı iletkenlerin önderliğinde Nasdaq'ta bir ralli görebileceğimize inanıyorum.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2117874034654453805"
+        }
+      ]
+    },
+    {
+      "symbol": "SOX",
+      "name": "Philadelphia Semiconductor Index (SOX)",
+      "priority": "high",
+      "why": "Bora Özkent relayed the sharp drop while Tunç Şatıroğlu expects a rally the other way.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "SOX yarı iletik endeks dün yine %3.37 geriledi.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "sentiment": "positive",
+          "quote": "Bir iki haftaya yine yarı iletkenlerin önderliğinde Nasdaq'ta bir ralli görebileceğimize inanıyorum.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2117874034654453805"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "high",
+      "why": "Heisenberg criticized option positioning while cevikfinance saw the SK Hynix news as positive.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "negative",
+          "quote": "Şuanda 2000$ bile olsa aldıkları kontratın zaman erimesi, IV erimesi yüzünden kar etmiyor artık.",
+          "source_url": "https://x.com/heisenbergtrx/status/2117558572812747196"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$MU için güzel haber. 😎",
+          "source_url": "https://x.com/cevikfinance/status/2117700235220955293"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "priority": "medium",
+      "why": "Bora Özkent's concrete view: hard selling on merger uncertainty.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Piyasada bunları sevmiyor böyle. O yüzden ikisini de sert satmayı tercih ediyor.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Marvell-Lumentum Satın Alması Ciena ve Cisco’yu Alternatif Tedarikçi Arayışına İtebilir",
+          "source_url": "https://x.com/WallStDiaries/status/2117715941362737588"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "priority": "medium",
+      "why": "Bora Özkent and a Bank of America note discussed the merger's effects.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Dün en sert düşenler arasında Lentum ve Marvel var.",
+          "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Marvell-Lumentum Satın Alması Ciena ve Cisco’yu Alternatif Tedarikçi Arayışına İtebilir",
+          "source_url": "https://x.com/WallStDiaries/status/2117715941362737588"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "priority": "medium",
+      "why": "Bora Özkent gave a concrete view: not junk but poorly managed.",
+      "mentions": [
+        {
+          "person": "Bora Özkent",
+          "sentiment": "negative",
+          "quote": "Kötü yönetiliyor hala şirket.",
+          "source_url": "https://www.youtube.com/watch?v=IHiDWIGcx2U"
+        }
+      ]
+    },
+    {
+      "symbol": "GLRMK",
+      "name": "GLRMK (BIST)",
+      "priority": "medium",
+      "why": "ulkser gave levels, sold a tier and outlined a rebuy plan.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "99.15 ten yaptigim kademeyi 118.1 den sattim. Geri cekilmede bu kademeyi yerine koyacagim.",
+          "source_url": "https://x.com/ulkser/status/2117885869218799720"
+        }
+      ]
+    },
+    {
+      "symbol": "GARAN",
+      "name": "Garanti BBVA",
+      "priority": "medium",
+      "why": "ulkser gave a level with his buyback and cheapness view.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "#GARAN 3 yil sonra geri alim programi acikladi. Pozum var.",
+          "source_url": "https://x.com/ulkser/status/2117688782941995079"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "🔴 Bitcoin : 76.700 (%1,35)",
+          "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+        }
+      ]
+    },
+    {
+      "symbol": "NVO",
+      "name": "Novo Nordisk",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "NOVO NORDISK $NVO: U.S. WEGOVY PILL PRESCRIPTIONS HIT 3.6 MILLION IN Q3 AND MORE THAN 8 MILLION SINCE LAUNCH",
+          "source_url": "https://x.com/wallstengine/status/2117872373131284621"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": "Bora Özkent's day centered on the US midterms. Before the vote he said the market was pricing a Democratic win as dangerous for chips and AI infrastructure and that he disagreed; the **Nasdaq** had fallen 1.07% and the **SOX** semiconductor index 3.37% the day before, while new debt-raising by **Meta** and **Oracle** of about $20 billion each, the Marvell-Lumentum merger and the upcoming **Anthropic** IPO weighed on AI stocks. He still reads Anthropic's $17 billion Q3 revenue and the longer TrendForce lead times for memory, CPUs and ABF substrates as signs of strong demand; **Brent** fell from 116.72 to 104.77 on easing in Iran and the odds of a December rate hike eased from 85% to 73-76%.\n\nOnce results came in on the livestream, the market sold off hard and the Nasdaq 100 fell about 2%. In his view the real blow was the Texas and Ohio governor races rather than the Senate: governors in those data-center-heavy states can declare a moratorium. He sees no short-term impact beyond data centers, thinks the new Texas governor may be open to a compromise, but expects budget gridlock and a messy period. On the stream he also said he no longer calls **Intel** 'junk' but that management is still bad, and that **Nvidia** is 'definitely not a bubble'.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "ABD Seçimleri Yapay Zekaya Karşı",
+          "url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc",
+          "published_at": "2026-11-03T09:30:19+00:00",
+          "summary": "Ahead of the vote, betting markets and polls show Democrats well ahead; the market prices that as dangerous for chips and AI infrastructure, while Özkent disagrees. The Nasdaq fell 1.07% and the SOX 3.37% the previous day, with money rotating out of tech and energy into staples and financials. Marvell's stock-swap acquisition of Lumentum hit both shares hard; Meta and Oracle each seeking about $20 billion in new debt and equity and the upcoming Anthropic IPO ($1.5-1.6 trillion valuation, possibly absorbing $80-100 billion) are weighing on AI stocks. Per TrendForce, DRAM lead times are 19 weeks, CPUs 25-30 weeks and ABF 48-56 weeks, so products are as scarce as money, yet the market does not want to see it. Anthropic's Q3 revenue is $17 billion, compute costs grew faster than revenue and it has $895 billion of forward commitments; with $130 billion in cash Özkent finds the fear exaggerated. Brent fell from 116.72 to 104.77 on easing in Iran and the odds of a December rate hike dropped from 85% to 73-76%. Palantir (revenue $2.31 billion, up 96%) and Apple (EPS $2.05) beat expectations but the shares were sold. He thinks Republicans may keep the Senate 51-49 and Democrats will certainly take the House; his core view is unchanged and he is holding on AI infrastructure.",
+          "assets": [
+            {
+              "symbol": "SOX",
+              "sentiment": "negative",
+              "note": "The SOX semiconductor index fell 3.37% the previous day; the market is pricing election pressure on chips."
+            },
+            {
+              "symbol": "MRVL",
+              "sentiment": "negative",
+              "note": "It will buy Lumentum in a stock swap; the market sold hard on the uncertainty."
+            },
+            {
+              "symbol": "LITE",
+              "sentiment": "negative",
+              "note": "Among the sharpest decliners the previous day on uncertainty over the Marvell merger."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Preparing a new bond issue of about $20 billion, with Citi and Morgan Stanley helping."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Seeking $20 billion: a $10 billion share sale plus investment-grade bonds; the stock fell on the news."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Earnings were very strong but the high valuation brought profit-taking."
+            },
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "EPS $2.05 (est. $1.99), revenue $114.5 billion, up 12% YoY; services show a slight slowdown."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "The Nasdaq fell 1.07% the previous day and election pressure continues."
+            }
+          ]
+        },
+        {
+          "platform": "youtube",
+          "title": "ABD Ara Seçimleri CANLI: Sonuçlar ve Piyasalar | Bora Özkent",
+          "url": "https://www.youtube.com/watch?v=IHiDWIGcx2U",
+          "published_at": "2026-11-04T05:24:54+00:00",
+          "summary": "As results arrive on the livestream the market is selling hard, with the Nasdaq 100 down about 2%. Özkent says the real cause is the governor races rather than the Senate: Texas and Ohio are states where many data centers will be built, and a governor can declare a moratorium. Nobody had Democrats this far ahead in Texas in their numbers; he recalls Oracle declaring force majeure in Texas because it could not get power. He says nothing matters short-term except data centers and thinks the new Texas governor could compromise in return for jobs and local donations. If Democrats take both chambers he expects the budget to stall and things to get messy, though Trump is practical and may soften. He says the market did not expect a result this heavy against Republicans and that they trimmed positions yesterday. He retracts his earlier 'junk' call on Intel but says management is still poor and that, lacking memory, it is weak in both PCs and data centers. He adds that a solar company rose 9% yesterday and 3.5% today though its business model is troubled, and that Nvidia is definitely not a bubble.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "The Nasdaq 100 is down about 2%; the selling is driven by data center risk in Texas and Ohio."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Recalled that Oracle declared force majeure in Texas over power and the stock fell sharply; it is exposed again to moratorium risk."
+            },
+            {
+              "symbol": "INTC",
+              "sentiment": "negative",
+              "note": "No longer 'junk' but poorly managed; lacking memory it stayed weak in PCs and data centers."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Said it is 'definitely not a bubble'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg's day was about political risk after the US midterms: he calls Trump losing both the Senate and House a heavy defeat and does not see a Democratic win as positive for Turkey. He repeatedly explained that the real market risk lies in the 2027 budget, tax and trade-war process and that he expects no problem for 2026; he reminded readers that even with Republican majorities in both chambers the government stayed shut for about 1.5 months in 2026.\n\nIn the ongoing **Micron** debate from the day before, he defended his warning to those who bought options at $1,200, saying it holds despite the high IV and that, because of time and IV decay, some contracts would not profit even if the stock hit $2,000. He also wrote that similar penalties may hit other fund managers and that he no longer recommends TEFAS funds.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Democratic Congress win and the 2027 risk",
+          "url": "https://x.com/heisenbergtrx/status/2117860581659062364",
+          "published_at": "2026-11-04T06:04:45.000Z",
+          "summary": "He called Trump losing both the Senate and the House a heavy defeat and wrote that his political room to maneuver will narrow sharply in the rest of his second term. He does not see a Democratic win as positive for Turkey, saying they have not helped it much in the past. For markets he sees possible periods of serious volatility in 2027 over the budget, tax policy, trade wars and political deadlock, but adds that uncertainty does not mean prices will fall outright.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Clarification on the 2027 budget risk",
+          "url": "https://x.com/heisenbergtrx/status/2117888366649766020",
+          "published_at": "2026-11-04T07:55:09.000Z",
+          "summary": "He repeated that there is no problem for 2026 because the budget has passed and that the risk lies in the 2027 budget process. He recalled that the government stayed shut for about 1.5 months in 2026 even with Republican majorities in both chambers. He said markets dislike political uncertainty and budget crises and that volatility may rise.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Micron options and price discipline",
+          "url": "https://x.com/heisenbergtrx/status/2117561750350389314",
+          "published_at": "2026-11-03T10:17:18.000Z",
+          "summary": "He defended his warning to those who bought $1,200 options: the price was already up 1,675% from the bottom of its range and buying options at 98% IV was not rational. He said he had written that better prices for spot buyers could appear at support zones and that one user bought the same company 40% cheaper. He argued a great company is not a good investment at every price and that, because of time and IV decay, some contracts would not profit even if the stock reached $2,000.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Options bought at $1,200 are not profiting because of time and IV decay; the stock is still more than 1,200% above its range bottom. (The company in the previous day's post is Micron.)"
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TEFAS fund manager penalties",
+          "url": "https://x.com/heisenbergtrx/status/2117564546646737010",
+          "published_at": "2026-11-03T10:28:25.000Z",
+          "summary": "He wrote that other fund managers are likely to receive the same penalties in the near term. Although he was among the first to explain TEFAS funds, he no longer recommends them to anyone and says investors must educate themselves.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "Serkan Uelker wrote that today he sold the tier he built in **GLRMK** at 99.15 for 118.1 and will replace it on a pullback; the day before he had announced an add that put his average at 118.5. He said **GARAN** announced a buyback program after 3 years, that he holds it and finds it cheap especially around 215 and below, while cheapness does not guarantee returns.\n\nOn the US side he plans to load up this time via indices such as **QQQ** and **IWM** and in a leveraged setup rather than via single stocks, and shared that his portfolio set a single-day gain record at the start of November (**QXO**, **RKT**, **AMZN**, **SLV**, **GLD**, **IWM**).",
+      "items": [
+        {
+          "platform": "x",
+          "title": "GLRMK tier sale",
+          "url": "https://x.com/ulkser/status/2117885869218799720",
+          "published_at": "2026-11-04T07:45:14.000Z",
+          "summary": "He wrote that he sold the GLRMK tier built at 99.15 for 118.1 and will replace it on a pullback.",
+          "assets": [
+            {
+              "symbol": "GLRMK",
+              "sentiment": "neutral",
+              "note": "The tier bought at 99.15 was sold at 118.1; he will rebuy on a pullback."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Adding to the GLRMK position",
+          "url": "https://x.com/ulkser/status/2117616676296609931",
+          "published_at": "2026-11-03T13:55:33.000Z",
+          "summary": "He wrote that he added to his GLRMK position at 99.15, will add one more tier to reach full allocation, and that his average is 118.5.",
+          "assets": [
+            {
+              "symbol": "GLRMK",
+              "sentiment": "positive",
+              "note": "He will add one more tier to reach full allocation; average 118.5."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "GARAN buyback program",
+          "url": "https://x.com/ulkser/status/2117688782941995079",
+          "published_at": "2026-11-03T18:42:05.000Z",
+          "summary": "He wrote that Garanti announced a buyback program after 3 years and that he holds a position. He finds the market cheap especially around 215 and below, but says cheapness offers no sure return and cheap can stay cheap for years.",
+          "assets": [
+            {
+              "symbol": "GARAN",
+              "sentiment": "positive",
+              "note": "It announced a buyback; he holds it and finds 215 and below cheap."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Leveraged index buying in the US",
+          "url": "https://x.com/ulkser/status/2117880977489793449",
+          "published_at": "2026-11-04T07:25:48.000Z",
+          "summary": "He wrote that he has already started via indices, that it can be thought of as QQQ and IWM, and that he will do it only in a leveraged setup.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Started buying via the index, leveraged."
+            },
+            {
+              "symbol": "IWM",
+              "sentiment": "positive",
+              "note": "Included in the index buying alongside QQQ."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Accumulating 100%, indices over stocks",
+          "url": "https://x.com/ulkser/status/2117609907868627383",
+          "published_at": "2026-11-03T13:28:39.000Z",
+          "summary": "He wrote that he is accumulating 100% but this time will go heavy via indices rather than stocks.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Record single-day portfolio gain",
+          "url": "https://x.com/ulkser/status/2117645047168639373",
+          "published_at": "2026-11-03T15:48:17.000Z",
+          "summary": "He said November began like a storm and shared that the portfolio set a single-day gain record, led by QXO, RKT, AMZN, SLV, GLD and IWM.",
+          "assets": [
+            {
+              "symbol": "QXO",
+              "sentiment": "positive",
+              "note": "Among the stocks on the portfolio's record gain day."
+            },
+            {
+              "symbol": "RKT",
+              "sentiment": "positive",
+              "note": "Among the stocks on the portfolio's record gain day."
+            },
+            {
+              "symbol": "IWM",
+              "sentiment": "positive",
+              "note": "Among the assets on the portfolio's record gain day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08's only finance post was that the **QQQ** decline deepened to about -2% on election night.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "QQQ election-night decline",
+          "url": "https://x.com/korkmazali08/status/2117813972154085700",
+          "published_at": "2026-11-04T02:59:32.000Z",
+          "summary": "He shared that the decline in QQQ deepened to about -2%.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "The decline deepened to about -2%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries wrote that futures retreated sharply after the election, with the market pricing tighter data center regulation, a slowdown in AI investment and a debt ceiling debate. The Nikkei fell to a three-month low, the Kospi dropped 3.2% and Nasdaq 100 futures fell 2%. In earnings, **AMD**, **Arista** and **Super Micro** reported record revenue; per Bank of America, **Marvell** buying **Lumentum** could push Ciena and Cisco toward alternative suppliers.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Post-election market wrap",
+          "url": "https://x.com/WallStDiaries/status/2117850125879914736",
+          "published_at": "2026-11-04T05:23:12.000Z",
+          "summary": "He wrote that futures retreated sharply once Democrats were seen taking the House and leading in the Senate, with the market pricing tighter data center regulation, a slowdown in AI investment and a debt ceiling debate. Bond yields and the dollar fell; the Nikkei is at a three-month low and the Kospi is down 3.22%. Nasdaq 100 futures are down 2% and S&P 500 futures 1.14%; Bitcoin 76,700, Gold 3,940, Brent 103.14.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Nasdaq 100 futures down 2%."
+            },
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "At $76,700, down 1.35%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AMD Q3 earnings",
+          "url": "https://x.com/WallStDiaries/status/2117728196971893031",
+          "published_at": "2026-11-03T21:18:42.000Z",
+          "summary": "Revenue $13.4 billion (up 45% YoY, above the top of guidance); GAAP operating income $2.8 billion (+123%), GAAP EPS $1.46 (+95%), non-GAAP EPS $2.09 (+74%). He noted data center sales nearly doubled.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Record revenue; data center sales nearly doubled."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Arista Q3 earnings",
+          "url": "https://x.com/WallStDiaries/status/2117727125016821985",
+          "published_at": "2026-11-03T21:14:26.000Z",
+          "summary": "Revenue $3.66 billion (up 58.5% YoY, 20.5% QoQ), GAAP operating margin 44.9%, non-GAAP EPS $1.20 (vs $0.77 a year ago); the company beat its own guidance.",
+          "assets": [
+            {
+              "symbol": "ANET",
+              "sentiment": "positive",
+              "note": "Record growth above its own guidance with high margins."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Super Micro Q1 earnings",
+          "url": "https://x.com/WallStDiaries/status/2117725798333603964",
+          "published_at": "2026-11-03T21:09:10.000Z",
+          "summary": "Net sales $19.9 billion (up 79% QoQ, 298% YoY), net income $1,594 million; gross margin 12.7%, down 4.8 points QoQ, and operating cash flow stayed negative.",
+          "assets": [
+            {
+              "symbol": "SMCI",
+              "sentiment": "positive",
+              "note": "Record sales and strong net income; the margin drop and negative cash flow are mixed signals."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Marvell-Lumentum and the optical supply chain",
+          "url": "https://x.com/WallStDiaries/status/2117715941362737588",
+          "published_at": "2026-11-03T20:30:00.000Z",
+          "summary": "According to Bank of America analysts, Marvell's purchase of Lumentum could push Ciena and Cisco to diversify their optical supply chains; a key laser supplier passing into a competitor's ownership creates pricing and capacity allocation risk.",
+          "assets": [
+            {
+              "symbol": "MRVL",
+              "sentiment": "neutral",
+              "note": "Its Lumentum purchase creates supply risk for rivals."
+            },
+            {
+              "symbol": "LITE",
+              "sentiment": "neutral",
+              "note": "Passing into Marvell's ownership may push Ciena and Cisco to seek alternatives."
+            },
+            {
+              "symbol": "CIEN",
+              "sentiment": "neutral",
+              "note": "May seek alternative laser suppliers."
+            },
+            {
+              "symbol": "CSCO",
+              "sentiment": "neutral",
+              "note": "May seek alternative laser suppliers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu wrote that the political win of AI and data center opponents makes the idea of data centers in space more important. He expects a semiconductor-led rally on the **Nasdaq** within a week or two and says that if opponents win in 2028, semiconductors, especially memory, could face trouble, though that is not today's problem.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Post-election semiconductors and space data centers",
+          "url": "https://x.com/TuncSatiroglu/status/2117874034654453805",
+          "published_at": "2026-11-04T06:58:12.000Z",
+          "summary": "With the win of AI opponents, building data centers in space becomes even more important. If AI opponents win the 2028 presidential election, semiconductors, especially memory, could face big problems, but that is not today's issue. He expects a semiconductor-led Nasdaq rally within a week or two and expects US leadership in AI to continue for the next 2 years.",
+          "assets": [
+            {
+              "symbol": "SOX",
+              "sentiment": "positive",
+              "note": "Expects a semiconductor-led rally within a week or two; memory risk after 2028."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Expects a Nasdaq rally within a week or two."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy shared a video asking why **Palantir** and **Apple** are under selling pressure despite earnings beats while **Nvidia** and **AMD** rise, and whether the AI rally is returning. It reported that prediction markets give Democrats a 94.1% chance of the House and 73.1% of the Senate.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Market is rising, but is the danger over?",
+          "url": "https://x.com/FinancewithIzzy/status/2117706377770488212",
+          "published_at": "2026-11-03T19:52:00.000Z",
+          "summary": "He asks why PLTR, which beat expectations, and AAPL, which posted record earnings, are under selling pressure. He shared a video on whether the AI rally is returning as NVDA and AMD rise, and on the election risk that night.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Beat expectations but is under selling pressure."
+            },
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Posted record earnings but is under selling pressure."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Rising; whether the AI rally is returning is an open question."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "neutral",
+              "note": "Rising; whether the AI rally is returning is an open question."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Prediction markets or polls?",
+          "url": "https://x.com/FinancewithIzzy/status/2117655637031104820",
+          "published_at": "2026-11-03T16:30:22.000Z",
+          "summary": "Per a Yahoo Finance analysis as of November 2, prediction markets put Democratic control of the House at 94.1% and polling models at 96.7%; for the Senate, prediction markets show 73.1% and polling models 80.3%.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "Wall St Engine covered election night live: Democrats won the House and Senate, Nasdaq 100 futures fell 1.8%, and per Jefferies 13.3 GW of Texas data center projects are at risk. In earnings, **AMD** now expects more than 80% revenue growth in 2027 and **Arista** and **Super Micro** gave strong guidance, while **Palantir** fell 9% despite a 96% revenue rise because of weak new contract data. It reported that **Oracle** canceled a $7 billion chip-leasing deal with Tencent, that **Meta** sold a $15 billion bond paying up to 7.5% on 30-year debt, and that Chinese firms expect to receive only 1% of a $70 billion **Nvidia** RTX order within four months.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Futures slide on a Democratic sweep",
+          "url": "https://x.com/wallstengine/status/2117793786348863807",
+          "published_at": "2026-11-04T01:39:20.000Z",
+          "summary": "US futures slid as Kalshi odds of a Democratic sweep hit 98% and of a 'blue tsunami' (235+ House seats, 51+ Senate) hit 93%; the Nasdaq 100 is down 1.8%.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Nasdaq 100 futures down 1.8%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Texas data center moratorium risk",
+          "url": "https://x.com/wallstengine/status/2117798971313918098",
+          "published_at": "2026-11-04T01:59:56.000Z",
+          "summary": "Democrat Gina Hinojosa wants a broader data center moratorium if she beats Abbott. Per Jefferies, 13.3 GW of Texas projects could be at risk; the state accounts for about 25% of planned US capacity by 2030 and about 90% of ERCOT's 474 GW request queue is data centers.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "State Street: the real risk is overreaction",
+          "url": "https://x.com/wallstengine/status/2117815376193233021",
+          "published_at": "2026-11-04T03:05:07.000Z",
+          "summary": "State Street's Michael Arone said the big risk to markets is not the blue wave itself but investors overreacting to it.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Oracle cancels Tencent chip-leasing deal",
+          "url": "https://x.com/wallstengine/status/2117847084640727436",
+          "published_at": "2026-11-04T05:11:07.000Z",
+          "summary": "Per the FT, Oracle canceled a $7 billion AI chip leasing deal with Tencent after pressure from the Trump administration. The five-year deal would have given Tencent access to up to 100,000 advanced chips in Southeast Asian data centers; Chinese officials also urged Tencent to support domestic chipmakers.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "The $7 billion Tencent deal was canceled under US pressure."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AMD raises 2027 revenue outlook",
+          "url": "https://x.com/wallstengine/status/2117744421261431135",
+          "published_at": "2026-11-03T22:23:10.000Z",
+          "summary": "Lisa Su said they now expect revenue to grow more than 80% in 2027, more than twice the long-term growth target. Data center is expected to be over 80% of 2027 revenue (64% in Q3), server CPU revenue will double and data center AI revenue will grow even faster. Customers have expanded their EPYC and Instinct deployment plans and AMD has secured additional supply.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "2027 revenue expected to grow more than 80%; demand exceeds supply."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Arista: fastest growth and 2027 outlook",
+          "url": "https://x.com/wallstengine/status/2117739567323443483",
+          "published_at": "2026-11-03T22:03:53.000Z",
+          "summary": "Arista posted its fastest revenue growth since its 2014 IPO (58.5%), guided Q4 above estimates and raised 2026 revenue guidance for the fourth time this year to $13.3 billion (48% growth). It expects about $18.5 billion in 2027 (38-40% growth) versus roughly $16.4 billion modeled by analysts. The stock rose 18%.",
+          "assets": [
+            {
+              "symbol": "ANET",
+              "sentiment": "positive",
+              "note": "The $18.5 billion 2027 outlook is far above analyst estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Super Micro guidance",
+          "url": "https://x.com/wallstengine/status/2117735711168471438",
+          "published_at": "2026-11-03T21:48:33.000Z",
+          "summary": "Super Micro rose 8% after hours on above-consensus revenue guidance. Q2 revenue guidance is $19.5-21.5 billion (vs $17.5 billion expected) and FY27 revenue guidance rose to $72-82 billion (vs $70.3 billion expected).",
+          "assets": [
+            {
+              "symbol": "SMCI",
+              "sentiment": "positive",
+              "note": "Guidance far above expectations; up 8% after hours."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Palantir falls after earnings",
+          "url": "https://x.com/wallstengine/status/2117587773607825510",
+          "published_at": "2026-11-03T12:00:42.000Z",
+          "summary": "Palantir fell 9% despite revenue growing 96% and another guidance raise. US commercial revenue overtook government revenue for the first time (+148%), but US commercial TCV bookings grew just 11% to $1.46 billion (153% in Q2); company-wide TCV rose 6% to $2.92 billion, RPO was nearly flat QoQ and the number of $10M+ deals fell from 73 to 64.",
+          "assets": [
+            {
+              "symbol": "PLTR",
+              "sentiment": "negative",
+              "note": "New contract data is weak despite revenue growth; the stock fell 9%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta sells $15 billion bond",
+          "url": "https://x.com/wallstengine/status/2117746521076863434",
+          "published_at": "2026-11-03T22:31:31.000Z",
+          "summary": "Meta priced its $15 billion bond sale, paying up to 7.5% on 30-year debt (5-year 5.85%, 7-year 6.25%, 10-year 6.55%, 20-year 7.35%). The offering drew about $58 billion in orders, nearly 4x the amount sold.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Orders were 4x the $15 billion bond, but borrowing costs are rising."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Chinese firms' Nvidia RTX order",
+          "url": "https://x.com/wallstengine/status/2117824419607482865",
+          "published_at": "2026-11-04T03:41:03.000Z",
+          "summary": "Per Bloomberg, Alibaba, Tencent, ByteDance and other Chinese AI firms ordered 6 million RTX Pro 5500 chips worth about $70 billion but expect only about 1% in four months, several thousand chips by year-end.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Chinese clients will receive only 1% of the $70 billion order."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Attacks on ships in the Strait of Hormuz",
+          "url": "https://x.com/wallstengine/status/2117785959433683252",
+          "published_at": "2026-11-04T01:08:13.000Z",
+          "summary": "Per the WSJ, Iran is escalating attacks on ships in the Strait of Hormuz using underwater drones and limpet mines. Preliminary Kpler data show oil flows averaged 7.8 million bpd last week, just 45% of the prewar level.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Novo Nordisk Q3 earnings",
+          "url": "https://x.com/wallstengine/status/2117869203793346970",
+          "published_at": "2026-11-04T06:39:00.000Z",
+          "summary": "Sales DKK 79.195 billion (est. 73.83 billion), up 6% YoY; EPS DKK 3.79 missed estimates (5.09) and is down 16% YoY, operating profit DKK 23.011 billion (est. 27.89 billion). It raised FY26 guidance; Wegovy pill prescriptions reached 3.6 million in Q3.",
+          "assets": [
+            {
+              "symbol": "NVO",
+              "sentiment": "neutral",
+              "note": "Sales beat, EPS and operating profit missed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Citi: memory undersupply persists in 2027",
+          "url": "https://x.com/wallstengine/status/2117649174665838604",
+          "published_at": "2026-11-03T16:04:41.000Z",
+          "summary": "Citi still expects memory undersupply in 2027: DRAM demand is expected to grow 28% vs 24% supply, narrowing the deficit to 3.8% from 8.7%; NAND demand is projected to grow 26% vs 22% supply.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "S&P 500 historically after midterms",
+          "url": "https://x.com/wallstengine/status/2117659342543700001",
+          "published_at": "2026-11-03T16:45:06.000Z",
+          "summary": "Kalshi gives Democrats a 93% chance of the House and 74% of the Senate. The S&P 500 finished higher 12 months after all 19 midterms since 1950 (average gain 15.4%). In 1986, 1990 and 2006, when Democrats took Congress under a Republican president, it averaged -0.5% the next day, +3.4% after 1 month and +10.9% after 1 year.",
+          "assets": [
+            {
+              "symbol": "SPX",
+              "sentiment": "positive",
+              "note": "Higher 12 months after every midterm since 1950, averaging 15.4%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz finds **Apple** closing the day down less than 2% after earnings, following its big run, bullish, and wrote that he has held **Meta** for years with no buys or sells. He argued hyperscalers' gross profit versus operating expense cannot be compared to 1990s fiber builders and praised **Arista**'s run since 2022.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Apple's post-earnings drop",
+          "url": "https://x.com/jrouldz/status/2117735799924080997",
+          "published_at": "2026-11-03T21:48:54.000Z",
+          "summary": "He wrote that Apple ending the day down less than 2% after earnings and a huge run feels bullish.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "positive",
+              "note": "A drop of under 2% after earnings and a big prior run feels bullish."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Hyperscalers vs 90s fiber builders",
+          "url": "https://x.com/jrouldz/status/2117623001227125019",
+          "published_at": "2026-11-03T14:20:41.000Z",
+          "summary": "He wrote that anyone comparing MSFT, GOOGL, AMZN and META to 1990s fiber builders based on gross profit versus operating expense is wrong. He said these companies can afford the calculated risks they take and that Meta wasted billions on the Metaverse and is doing fine.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Wasted billions on the Metaverse and is fine; can afford its AI risk."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Still holding Meta",
+          "url": "https://x.com/jrouldz/status/2117633258548539576",
+          "published_at": "2026-11-03T15:01:27.000Z",
+          "summary": "He wrote that he has been in Meta for years, is just holding with no buys or sells; $500 would be tempting but he is not sure bears have it in them again.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Long-time holder just holding; $500 would be tempting."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Arista's run",
+          "url": "https://x.com/jrouldz/status/2117755973108437090",
+          "published_at": "2026-11-03T23:09:04.000Z",
+          "summary": "He called Arista's run since 2022, and even more after hours post-earnings, insane.",
+          "assets": [
+            {
+              "symbol": "ANET",
+              "sentiment": "positive",
+              "note": "Very strong run since 2022 and after earnings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance wrote that **AMD**, **Arista**, **Super Micro**, **Astera Labs** and **Ouster** posted good earnings and shared a list of companies with good news during the decline since the October 6 Nasdaq peak. His pre-election call was Democrats taking the House and Republicans the Senate, which he saw as the best case for the **Nasdaq**. Citing Elon Musk he said next year's bottleneck is electricity, not chips, and flagged SK Hynix's China expansion awaiting approval as good news for **Micron**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AMD, ANET, SMCI, ALAB and OUST earnings",
+          "url": "https://x.com/cevikfinance/status/2117741564659401209",
+          "published_at": "2026-11-03T22:11:49.000Z",
+          "summary": "He wrote that AMD, ANET, SMCI, ALAB and OUST all reported good earnings.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Good earnings."
+            },
+            {
+              "symbol": "ANET",
+              "sentiment": "positive",
+              "note": "Good earnings."
+            },
+            {
+              "symbol": "SMCI",
+              "sentiment": "positive",
+              "note": "Good earnings."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Midterm forecast and the market",
+          "url": "https://x.com/cevikfinance/status/2117651464298381463",
+          "published_at": "2026-11-03T16:13:47.000Z",
+          "summary": "He predicted Democrats take the House while Republicans keep the Senate, calling that the best short-term scenario for the Nasdaq because new tax and spending packages would stall in the House. His base case: a clear result eases selling for a few sessions, then focus returns to bond yields and AI cash flow. Prediction markets price a Democratic sweep at 74% and UBS at 50%.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "neutral",
+              "note": "Democratic House + Republican Senate is the best case; base case is a few sessions of relief."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Musk: the bottleneck is electricity, not chips",
+          "url": "https://x.com/cevikfinance/status/2117679950987768246",
+          "published_at": "2026-11-03T18:06:59.000Z",
+          "summary": "According to Elon Musk, next year's AI bottleneck will be electricity, not chips; outside China power generation is nearly flat while chip output surges, and by end-2026 more chips will be made than can be powered. Electrical equipment, cooling, networking and batteries will also be bottlenecks. For power generation he listed CEG, VST and NRG.",
+          "assets": [
+            {
+              "symbol": "CEG",
+              "sentiment": "positive",
+              "note": "The largest US nuclear operator; highlighted under the electricity bottleneck theme."
+            },
+            {
+              "symbol": "VST",
+              "sentiment": "positive",
+              "note": "A large generator selling power to data centers; under the electricity bottleneck theme."
+            },
+            {
+              "symbol": "NRG",
+              "sentiment": "positive",
+              "note": "Listed under the data center power theme."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SK Hynix China expansion and Micron",
+          "url": "https://x.com/cevikfinance/status/2117700235220955293",
+          "published_at": "2026-11-03T19:27:35.000Z",
+          "summary": "Per Reuters, US officials have held up approval for equipment SK Hynix needs to expand production in China; he called this good news for $MU.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "SK Hynix's China expansion being held up is good news for $MU."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Companies with good news during the decline",
+          "url": "https://x.com/cevikfinance/status/2117628065777901858",
+          "published_at": "2026-11-03T14:40:49.000Z",
+          "summary": "He listed companies that delivered good earnings, guidance or news during the decline since the October 6 Nasdaq peak: SNDK (revenue +378%), BE, SKHY, VRT, TSM, ASML, PLTR (+96%), LRCX, GOOGL (Cloud +103%), AMD and others. He wrote that good news is not fully priced in a bad macro setting and that when risk-on returns these stocks should rise the hardest.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Its Helios deal with Meta expanded."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "Revenue +96% and guidance raised."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The largest position at 18.8%; rate expectations and credit quality are the main risks and single-stock concentration magnifies them.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Single-stock concentration raises portfolio risk.",
+          "Per Bora Özkent the odds of a December hike are still 73-76%, which can weigh on fintech multiples.",
+          "There is no company-specific negative news in the sources today."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [
+          {
+            "person": "Heisenberg",
+            "sentiment": "negative",
+            "quote": "Demokratların kazanmasını Türkiye açısından olumlu bir gelişme olarak değerlendirmiyorum.",
+            "source_url": "https://x.com/heisenbergtrx/status/2117860581659062364"
+          },
+          {
+            "person": "ulkser",
+            "sentiment": "positive",
+            "quote": "ben ucuz buluyorum ozellikle 215 civari ve altinda bence borsamiz ucuz ama ucuzluk kesin bir getiri sunmuyor",
+            "source_url": "https://x.com/ulkser/status/2117688782941995079"
+          }
+        ],
+        "action": "hold",
+        "why": "Heisenberg does not see the Democratic win as positive for Turkey while ulkser finds the market cheap; the signal is mixed.",
+        "opinion": "Turkey risk and cheap valuations coexist; no single source sets the direction and the 12.9% weight is reasonable.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Per ulkser the market is cheap and buybacks may help.",
+          "Per Heisenberg the Democratic win is not positive for Turkey.",
+          "Cheapness alone does not guarantee returns (ulkser)."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "AI networking and custom chip demand is strong, but it is exposed to the sharp semiconductor selloff and data center political risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Arista's 2027 outlook and AMD's 80% growth target show AI infrastructure demand continuing.",
+          "Per Bora Özkent the SOX fell 3.37% in a day and the Texas and Ohio results raised data center construction risk."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "Dün yeni gelen haberler Meta'nın bir 20 milyar dolar civarında paraya ihtiyaç duyduğu, bununla ilgili yeni tahviller çıkaracağı",
+            "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+          },
+          {
+            "person": "jrouldz",
+            "sentiment": "neutral",
+            "quote": "I've been in $META for years personally I am just holding no buys or sells.",
+            "source_url": "https://x.com/jrouldz/status/2117633258548539576"
+          },
+          {
+            "person": "wallstengine",
+            "sentiment": "neutral",
+            "quote": "$META PRICED ITS $15 BILLION BOND SALE, PAYING UP TO 7.5% ON 30-YEAR DEBT",
+            "source_url": "https://x.com/wallstengine/status/2117746521076863434"
+          }
+        ],
+        "action": "hold",
+        "why": "Meta sold a $15 billion bond (wallstengine) and jrouldz is holding; there is no concrete trigger to buy or sell.",
+        "opinion": "Funding AI spending with debt is getting costly; demand is strong but the cost of capital is the key item to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "The bond drew about $58 billion in orders, so financing access is strong (wallstengine).",
+          "30-year debt was sold at up to 7.5%, so funding costs are rising.",
+          "The 12.8% weight and correlation with other AI positions are a risk."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "As a nuclear component maker it is relatively shielded from data center moratorium politics; there is no company data in today's sources.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Per the Musk view relayed by cevikfinance, power generation is AI's bottleneck, which supports the nuclear theme.",
+          "No company-specific catalyst is visible today for a 10.5% weight."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Ad-driven growth stocks swing sharply when risk appetite falls; the 9.4% weight makes that felt.",
+        "ai_action": "hold",
+        "ai_points": [
+          "The Nasdaq 100 fell about 2% on election night (Bora Özkent), pressuring growth stocks.",
+          "There is no company-specific news today."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A more defensive growth story not dependent on AI infrastructure; it did not appear in today's sources.",
+        "ai_action": "hold",
+        "ai_points": [
+          "It sits relatively apart from the semiconductor and data center selloff.",
+          "There is no company-specific data today."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "Bora Özkent",
+            "sentiment": "neutral",
+            "quote": "ama hala şu anda aralıkta faiz artışı öngörülüyor",
+            "source_url": "https://www.youtube.com/watch?v=mo5XAOqx9Oc"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "positive",
+            "quote": "Tahvil faizleri ve dolar geriledi.",
+            "source_url": "https://x.com/WallStDiaries/status/2117850125879914736"
+          }
+        ],
+        "action": "hold",
+        "why": "Per Bora Özkent a December hike is still priced but the odds fell from 85% to 73-76%; yields also fell after the election.",
+        "opinion": "Long bonds are very rate-sensitive; easing yields help but the elevated US 10-year level and rate-hike expectations remain a risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Bond yields fell in futures trading after the election (WallStDiaries).",
+          "The US 10-year closed at a high 4.95% and the December hike odds are still 73-76% (Bora Özkent)."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The electrical equipment theme is strong, but Texas data center moratorium risk could affect demand; the 5.3% weight is reasonable.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Per Musk (relayed by cevikfinance), electrical equipment and generation are AI's bottleneck.",
+          "Per Jefferies, 13.3 GW of Texas data center projects are at risk."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "ANET",
+        "name": "Arista Networks",
+        "why": "wallstengine: the roughly $18.5 billion 2027 revenue outlook is well above the $16.4 billion analysts modeled; the stock rose 18%.",
+        "source_url": "https://x.com/wallstengine/status/2117739567323443483"
+      },
+      {
+        "symbol": "AMD",
+        "name": "AMD",
+        "why": "WallStDiaries: record revenue with data center sales nearly doubling; per wallstengine 2027 revenue will grow more than 80%.",
+        "source_url": "https://x.com/WallStDiaries/status/2117728196971893031"
+      },
+      {
+        "symbol": "SMCI",
+        "name": "Super Micro Computer",
+        "why": "wallstengine: FY27 revenue guidance of $72-82 billion (vs $70.3 billion expected), up 8% after hours.",
+        "source_url": "https://x.com/wallstengine/status/2117735711168471438"
+      }
+    ]
+  }
+}
