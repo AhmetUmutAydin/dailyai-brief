@@ -1,0 +1,1224 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T08:16:13.846Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Post-election AI selloff: \"everything AI-related is being sold\"",
+      "person": "cevikfinance",
+      "why": "Cuma Cevik says AI-related stocks, including power and hardware names, are being sold on the assumption Democrats will shut AI down, while everything else is being bought.",
+      "source_url": "https://x.com/cevikfinance/status/2118075310906265760"
+    },
+    {
+      "title": "First-tranche buy in gold and silver",
+      "person": "ulkser",
+      "why": "Serkan Uelker wrote that there is no bottoming signal in gold or silver, but he bought a first tranche to add precious metals to his portfolio and will buy more lower down.",
+      "source_url": "https://x.com/ulkser/status/2118064501408899242"
+    },
+    {
+      "title": "AppLovin beats estimates with strong guidance",
+      "person": "wallstengine",
+      "why": "Revenue was $2.18B (est. $2.08B) and Q4 revenue guide is $2.37-2.40B (est. $2.25B); the stock rose about 19% after hours.",
+      "source_url": "https://x.com/wallstengine/status/2118087387267944952"
+    },
+    {
+      "title": "Coherent: $20B five-year deal with a single customer",
+      "person": "korkmazali08",
+      "why": "Ali Korkmaz highlighted that 2027 capacity is fully sold and 2028 orders are being taken; the stock rose about 8% after hours.",
+      "source_url": "https://x.com/korkmazali08/status/2118203578015998361"
+    },
+    {
+      "title": "Job openings at 7.5M: supports the Fed's hawkish stance",
+      "person": "WallStDiaries",
+      "why": "September JOLTS openings rose to 7.5M and private payrolls rose 86K in October versus the 67K expected.",
+      "source_url": "https://x.com/WallStDiaries/status/2118049884725293558"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US midterms and market reaction",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Per RBC's Calvasina, rotation from growth to small caps is accelerating; Russell 2000 futures outpaced Nasdaq and S&P 500.",
+          "quote": "Calvasina, büyüme hisselerinden küçük ölçeklilere rotasyonun hızlandığını söyledi; Russell 2000 vadelileri Nasdaq ve S&P 500'ü geçti.",
+          "source_url": "https://x.com/WallStDiaries/status/2117964557654126742"
+        },
+        {
+          "person": "sgundoganX",
+          "view": "Historically, when Democrats won both chambers in a midterm under a Republican president, markets reacted positively.",
+          "quote": "Tarih boyunca, cumhuriyetçi başkan yönetimindeki ara seçimlerde demokratlar hem meclisi hem de senatoyu kazandığında piyasalar pozitif tepki vermiş.",
+          "source_url": "https://x.com/sgundoganX/status/2117993966755058130"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Election uncertainty is behind us; yields, oil and VIX fall while indices and gold rise, but Iran and data centers remain uncertain.",
+          "quote": "Piyasa seçim belirsizliğini geride bırakmayı kutluyor. Tahvil faizleri, petrol ve volatilite endeksi düşüyor. Hisse endeksleri ve altın yükseliyor.",
+          "source_url": "https://x.com/cevikfinance/status/2117999128797917682"
+        },
+        {
+          "person": "Heisenberg",
+          "view": "Today's election reaction is not the same as pricing 2027 budget crises; higher volatility does not mean a falling market, but hedging needs may rise.",
+          "quote": "2027 yılında bütçe görüşmelerinde ve siyasi uzlaşma süreçlerinde yaşanabilecek tıkanmaların volatiliteyi artırma riskinden bahsediyorum.",
+          "source_url": "https://x.com/heisenbergtrx/status/2117955651947176277"
+        }
+      ]
+    },
+    {
+      "topic": "AI / data center selloff",
+      "views": [
+        {
+          "person": "Ahmet Sunelcan",
+          "view": "The market is pricing that new data centers can't be built and capex will fall; he sees an AI-specific bear market.",
+          "quote": "Yeni data center kuramayacaksiniz bu yüzden capexleriniz azalacak $MSFT $AMZN $META aliyoruz bu durumda diyor piyasa.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2118005136476004805"
+        },
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Attributes the semiconductor selloff, especially memory, to anti-AI sentiment in the US; says data centers will move to other countries and space.",
+          "quote": "ABD'de yapay zeka düşmanlığı ve gericilik güçlendi. Başta bellek olmak üzere yarı iletkenlerdeki satış bu yüzden maalesef.",
+          "source_url": "https://x.com/TuncSatiroglu/status/2118181112363270213"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Doesn't think Democrats will be against AI; we're 10% off the peak, and another 10% would make most names on his list very cheap.",
+          "quote": "Ben demokratların ai a karşı olacağnı düşünmüyorum çünkü politika sermayeyi takip ediyor abd de.",
+          "source_url": "https://x.com/korkmazali08/status/2118137479202996355"
+        },
+        {
+          "person": "ulkser",
+          "view": "Says $DRAM, $SMH and $NCLD are still not cheap but are nearing levels for a bounce, and won't lead this period.",
+          "quote": "$DRAM $SMH $NCLD bence hala ucuz degiller ama tepkilik yerlere yaklasiyorlar.",
+          "source_url": "https://x.com/ulkser/status/2118117947579277472"
+        }
+      ]
+    },
+    {
+      "topic": "Oil, Iran and geopolitics",
+      "views": [
+        {
+          "person": "MrTradeer",
+          "view": "The TP2 on his oil shorts was hit; he had expected a drop from the resistance zone.",
+          "quote": "Petrolde düşüş devam ediyor ;) Tp2 alalım.",
+          "source_url": "https://x.com/MrTradeer/status/2118019571911385479"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Even after losing the election Trump may still act on Iran; Democrats can at most block new war funding.",
+          "quote": "Trump seçimi ağır kaybetti ama “artık İran’a saldıramaz” demek için çok erken.",
+          "source_url": "https://x.com/cevikfinance/status/2117985372009324815"
+        },
+        {
+          "person": "Heisenberg",
+          "view": "Targets of $30-40 were given at the bottom; now, in what he sees as a distribution phase, $200 targets are given. He calls it a similar pattern.",
+          "quote": "Dipte de Venezuella'yı fetih edip ortalığı petrole boğuyorlardı 😂 30-40$ hedefler veriliyordu. Şimdi de büyük ihtimalle dağıtım evresindeyiz. 200$ hedefler veriliyor.",
+          "source_url": "https://x.com/heisenbergtrx/status/2117909921375412311"
+        }
+      ]
+    },
+    {
+      "topic": "US labor market and the Fed",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "The strong rise in job openings supports the Fed's hawkish stance.",
+          "quote": "ABD'de açıklanan açık iş sayısı verilerindeki güçlü artış, Fed'in şahin para politikası duruşunu doğrudan destekliyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2118049104991240226"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "XAUUSD",
+      "name": "Gold",
+      "priority": "high",
+      "why": "Multiple people mentioned it and ulkser disclosed a concrete position.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "altin ve gumus icin ben ilk kademe aldim",
+          "source_url": "https://x.com/ulkser/status/2118064501408899242"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "Hisse endeksleri ve altın yükseliyor.",
+          "source_url": "https://x.com/cevikfinance/status/2117999128797917682"
+        }
+      ]
+    },
+    {
+      "symbol": "XAGUSD",
+      "name": "Silver",
+      "priority": "medium",
+      "why": "One person disclosed a position and plans further buys lower.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Portfoyume degerli metal eklemek icin aldim. Ufak kademe asagilarda farkli sekilde alimlarim olacak.",
+          "source_url": "https://x.com/ulkser/status/2118064501408899242"
+        }
+      ]
+    },
+    {
+      "symbol": "OIL",
+      "name": "Oil",
+      "priority": "high",
+      "why": "Three people gave views; MrTradeer said his short target was hit.",
+      "mentions": [
+        {
+          "person": "MrTradeer",
+          "sentiment": "negative",
+          "quote": "Petrolde düşüş devam ediyor ;) Tp2 alalım.",
+          "source_url": "https://x.com/MrTradeer/status/2118019571911385479"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "İyi tarafından bakacak olursak brent petrol sert düşüyor.",
+          "source_url": "https://x.com/cevikfinance/status/2118026848990789956"
+        },
+        {
+          "person": "Heisenberg",
+          "sentiment": "negative",
+          "quote": "Şimdi de büyük ihtimalle dağıtım evresindeyiz. 200$ hedefler veriliyor.",
+          "source_url": "https://x.com/heisenbergtrx/status/2117909921375412311"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "priority": "medium",
+      "why": "MrTradeer gave concrete levels.",
+      "mentions": [
+        {
+          "person": "MrTradeer",
+          "sentiment": "neutral",
+          "quote": "76 ilk hedefimiz dedik ve geldi. Bu 76200 bölgesi aslında htf ilk destek hattı ancak spot almayı henüz hala düşünmüyorum.",
+          "source_url": "https://x.com/MrTradeer/status/2117997896117137747"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Bitcoin ise $78.000 seviyelerinde dengelenmeye çalışıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2117966566654382180"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "Cevik gave a concrete level (below $100) and an unchanged view; ulkser also noted the selling.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "Daha önce $SPCX 100 dolar altını bekliyorum demiştim. Görüşümde bir değişiklik yok.",
+          "source_url": "https://x.com/cevikfinance/status/2117946047896920448"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "Musk’in sirketlerinin $TSLA $SPCX satilmasi hatta piyasalar cosarken dayak yemesi",
+          "source_url": "https://x.com/ulkser/status/2118117947579277472"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "medium",
+      "why": "Cevik gave a concrete negative view.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "Elon Musk taraf değiştirmediği sürece $SPCX ve $TSLA işi zor görünüyor.",
+          "source_url": "https://x.com/cevikfinance/status/2118056391764304266"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "priority": "high",
+      "why": "Two people covered the strong earnings; Wedbush reiterated a $600 target.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "AMD'den AI tarafında güçlü bilanço! Veri merkezi geliri: 8,55 milyar $ (+%97)",
+          "source_url": "https://x.com/FinancewithIzzy/status/2117956639433097652"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Wedbush analisti Matt Bryson da 600 dolar hedefle \"Outperform\" notunu yineledi.",
+          "source_url": "https://x.com/WallStDiaries/status/2117966443408961746"
+        }
+      ]
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent",
+      "priority": "high",
+      "why": "Two people covered earnings: 2027 capacity sold out, FY27 growth above 60%.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "2027 kapasitesi tamamen satılmış, 2028 siparişleri alınıyor.",
+          "source_url": "https://x.com/korkmazali08/status/2118203578015998361"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "COHERENT $COHR EXPECTS FISCAL 2027 PRO FORMA REVENUE GROWTH ABOVE 60%",
+          "source_url": "https://x.com/wallstengine/status/2118093784399626664"
+        }
+      ]
+    },
+    {
+      "symbol": "APP",
+      "name": "AppLovin",
+      "priority": "high",
+      "why": "Two people covered the strong earnings and guidance.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$APP şahane bilanço. 😎",
+          "source_url": "https://x.com/cevikfinance/status/2118087699559027010"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$APP +15% Following a strong Q3 earnings beat, Q4 guidance well above Wall Street expectations",
+          "source_url": "https://x.com/wallstengine/status/2118090022159372344"
+        }
+      ]
+    },
+    {
+      "symbol": "SMH",
+      "name": "VanEck Semiconductor ETF",
+      "priority": "medium",
+      "why": "ulkser said it is still not cheap; wallstengine reported the daily drop.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "$DRAM $SMH $NCLD bence hala ucuz degiller ama tepkilik yerlere yaklasiyorlar.",
+          "source_url": "https://x.com/ulkser/status/2118117947579277472"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "data centers & neoclouds are getting sold: $SMH -2%",
+          "source_url": "https://x.com/wallstengine/status/2118052618128028131"
+        }
+      ]
+    },
+    {
+      "symbol": "AUR",
+      "name": "Aurora Innovation",
+      "priority": "medium",
+      "why": "Serkan Gündoğan gave strike, expiry and cost.",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "positive",
+          "quote": "$AUR en güvendiğim şirketlerden biri, o nedenle spotta tek bir hisse bile satmadan devam.",
+          "source_url": "https://x.com/sgundoganX/status/2118033419485565047"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "priority": "medium",
+      "why": "The CEO's $9.7M share purchase is a concrete datapoint.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$INTC CEO’su Lip-Bu Tan, hisse başına ortalama 64,70 dolar fiyattan toplam 150.000 adet Intel hissesi satın aldığını resmi bildirimle açıkladı.",
+          "source_url": "https://x.com/korkmazali08/status/2118033834100789700"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "low",
+      "why": "Only a positive remark, no rationale.",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "UZAY konusunda tanıdığım çok iyi bir firma var $RKLB",
+          "source_url": "https://x.com/korkmazali08/status/2117957469217374624"
+        }
+      ]
+    },
+    {
+      "symbol": "IWM",
+      "name": "Russell 2000 ETF",
+      "priority": "medium",
+      "why": "ulkser said he took profits.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "Su durumdayiz bugun o nedenle kar aliyorum. Herkese iyi haftalar $RKT $IWM $QXO",
+          "source_url": "https://x.com/ulkser/status/2118061993265705319"
+        }
+      ]
+    },
+    {
+      "symbol": "UBER",
+      "name": "Uber",
+      "priority": "medium",
+      "why": "jrouldz explained why he is keeping the position.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I’ve been in $UBER for years and I was mentally prepared to let it go after this earnings release",
+          "source_url": "https://x.com/jrouldz/status/2118064034121433464"
+        }
+      ]
+    },
+    {
+      "symbol": "JOBY",
+      "name": "Joby Aviation",
+      "priority": "medium",
+      "why": "jrouldz described his position and satisfaction with earnings.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I’m happy with the earnings report from $JOBY But full transparency: this has been my worst stock pick in years.",
+          "source_url": "https://x.com/jrouldz/status/2118104291810361345"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "low",
+      "why": "Only mentioned.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$META DRAWS A RECORD €53 BILLION OF ORDERS FOR ITS DEBUT EURO 🇪🇺 BOND SALE, BLOOMBERG REPORTS",
+          "source_url": "https://x.com/wallstengine/status/2117971587869679873"
+        }
+      ]
+    },
+    {
+      "symbol": "FPS",
+      "name": "Forgent Power Solutions",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan said he increased the position.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$FPS arttırıldı.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2117996258262708641"
+        }
+      ]
+    },
+    {
+      "symbol": "BIST100",
+      "name": "BIST 100",
+      "priority": "low",
+      "why": "Heisenberg wrote it fell to support, gave no level.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "Düştü işte desteğe.",
+          "source_url": "https://x.com/heisenbergtrx/status/2117934805455430094"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg mostly walked through the post-election picture and his earlier calls. He said possible deadlocks in 2027 budget talks could raise volatility, which does not mean a falling market but may create a need for hedges such as option spreads.\n\nHe pointed out that **BIST 100** fell to the support he flagged in September and that **oil** saw $30-40 targets at the bottom and now $200 targets in what he sees as a distribution phase, so he is leaning against the crowd on both. The rest of his posts were about the X environment, subscriptions and arguments, so I left them out.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "2027 budget risk and hedging need",
+          "url": "https://x.com/heisenbergtrx/status/2117955651947176277",
+          "published_at": "2026-11-04T12:22:31.000Z",
+          "summary": "Today's reaction to the election is not the same as pricing 2027 budget crises; higher volatility does not mean a falling market, but the need for hedges such as option spreads may grow.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "BIST fell to support",
+          "url": "https://x.com/heisenbergtrx/status/2117934805455430094",
+          "published_at": "2026-11-04T10:59:41.000Z",
+          "summary": "Said BIST fell to the support from his September analysis and that events are irrelevant.",
+          "assets": [
+            {
+              "symbol": "BIST100",
+              "sentiment": "neutral",
+              "note": "Fell to the support from his September analysis; no level given."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oil: bottom and top comparison",
+          "url": "https://x.com/heisenbergtrx/status/2117909921375412311",
+          "published_at": "2026-11-04T09:20:48.000Z",
+          "summary": "Wrote that $30-40 targets were given at the bottom, and that now, likely in a distribution phase, $200 targets are being given.",
+          "assets": [
+            {
+              "symbol": "OIL",
+              "sentiment": "negative",
+              "note": "Thinks we're in a distribution phase; skeptical of $200 targets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "Serkan Uelker said outright that he bought a first tranche of gold and silver; he sees no bottoming signal, added **gold** and **silver** as precious metals to his portfolio and will buy separately lower down. He also described doubling money in 4 days on option-heavy **QXO** and **RKT** and leveraged **QQQ**/**IWM** trades, and said he is taking profits.\n\nHe finds the post-election selloff in AI and Musk companies overdone: he calls the selling of **TSLA** and **SPCX** and the crushing of chip and memory names curious, and says **DRAM**, **SMH** and **NCLD** are still not cheap but are nearing bounce levels. In his view these will not lead this period; he expects the reaction to fade within a week.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Gold and silver first tranche",
+          "url": "https://x.com/ulkser/status/2118064501408899242",
+          "published_at": "2026-11-04T19:35:03.000Z",
+          "summary": "Said he bought a first tranche of gold and silver; it is not a trade but adding precious metals to his portfolio, he sees no bottoming sign and will buy separately lower.",
+          "assets": [
+            {
+              "symbol": "XAUUSD",
+              "sentiment": "positive",
+              "note": "First tranche bought, more buys planned lower."
+            },
+            {
+              "symbol": "XAGUSD",
+              "sentiment": "positive",
+              "note": "First tranche bought, more buys planned lower."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Profit taking: QXO, RKT, IWM",
+          "url": "https://x.com/ulkser/status/2118061993265705319",
+          "published_at": "2026-11-04T19:25:05.000Z",
+          "summary": "Announced profit taking in $RKT, $IWM and $QXO, saying that if a position looks good enough to screenshot, it is time to take profits.",
+          "assets": [
+            {
+              "symbol": "IWM",
+              "sentiment": "negative",
+              "note": "Taking profits."
+            },
+            {
+              "symbol": "RKT",
+              "sentiment": "negative",
+              "note": "Taking profits."
+            },
+            {
+              "symbol": "QXO",
+              "sentiment": "negative",
+              "note": "Taking profits."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "2x in 4 days: options and leveraged positions",
+          "url": "https://x.com/ulkser/status/2118015536097288242",
+          "published_at": "2026-11-04T16:20:29.000Z",
+          "summary": "Wrote that option-heavy $QXO and $RKT and leveraged $QQQ and $IWM futures doubled in 4 days, that they are extremely risky and luck played a part.",
+          "assets": [
+            {
+              "symbol": "QXO",
+              "sentiment": "positive",
+              "note": "2x in 4 days via options."
+            },
+            {
+              "symbol": "RKT",
+              "sentiment": "positive",
+              "note": "2x in 4 days via options."
+            },
+            {
+              "symbol": "QQQ",
+              "sentiment": "positive",
+              "note": "Leveraged futures."
+            },
+            {
+              "symbol": "IWM",
+              "sentiment": "positive",
+              "note": "Leveraged futures."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Post-election selloff in AI and Musk stocks",
+          "url": "https://x.com/ulkser/status/2118117947579277472",
+          "published_at": "2026-11-04T23:07:26.000Z",
+          "summary": "Said a Democratic win was obvious, but finds the selling of $TSLA and $SPCX and the crushing of chip/memory stocks curious; $DRAM, $SMH, $NCLD are still not cheap but nearing bounce levels and won't lead this period.",
+          "assets": [
+            {
+              "symbol": "SMH",
+              "sentiment": "negative",
+              "note": "Still not cheap, won't lead."
+            },
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Finds the selling curious."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Finds the selling curious."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan reads today's post-election drop almost entirely as an AI selloff: he writes that the market is pricing that no new data centers can be built so **MSFT**, **AMZN** and **META** capex will fall, calling it a once-in-40-years kind of confusion. In his view it is an AI bear market with other areas in a bull market, and bulls should stay away from AI.\n\nIn his own portfolio he said he increased **FPS** and that he will publish the portfolio after the close.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Market is betting against data center growth",
+          "url": "https://x.com/AhmetSunelcan1/status/2118005136476004805",
+          "published_at": "2026-11-04T15:39:09.000Z",
+          "summary": "Wrote that the market is buying $MSFT $AMZN $META on the premise that new data centers can't be built and capex will fall, a kind of confusion seen once in 40 years.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Described the market buying on the assumption capex will fall."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Described the market buying on the assumption capex will fall."
+            },
+            {
+              "symbol": "AMZN",
+              "sentiment": "neutral",
+              "note": "Described the market buying on the assumption capex will fall."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AI bear market",
+          "url": "https://x.com/AhmetSunelcan1/status/2118009399608558008",
+          "published_at": "2026-11-04T15:56:06.000Z",
+          "summary": "Wrote that other areas are in a bull market within an AI bear market and that bulls should stay away from AI.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "FPS increased",
+          "url": "https://x.com/AhmetSunelcan1/status/2117996258262708641",
+          "published_at": "2026-11-04T15:03:53.000Z",
+          "summary": "Wrote that he increased his $FPS position.",
+          "assets": [
+            {
+              "symbol": "FPS",
+              "sentiment": "positive",
+              "note": "Increased the position."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "Serkan Gündoğan wrote that after today's investor conference he bought a January 2028 $10-strike LEAPS call on **AUR** (the contract fell from $1.30 to $0.40, about 70% down) but is not selling his spot position at a $4.90 cost. He also noted that in past midterms where Democrats took both chambers under a Republican president, markets reacted positively.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AUR LEAPS option underwater",
+          "url": "https://x.com/sgundoganX/status/2118033419485565047",
+          "published_at": "2026-11-04T17:31:33.000Z",
+          "summary": "Bought a $AUR LEAPS call (21 Jan 2028, $10 strike) at $1.30, now around $0.40 (70% loss); not selling the spot position at a $4.90 cost.",
+          "assets": [
+            {
+              "symbol": "AUR",
+              "sentiment": "positive",
+              "note": "Not selling spot; one of the companies he trusts most."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Midterm statistic",
+          "url": "https://x.com/sgundoganX/status/2117993966755058130",
+          "published_at": "2026-11-04T14:54:46.000Z",
+          "summary": "Wrote that markets reacted positively historically when Democrats won both chambers under a Republican president.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "Ali Korkmaz wrote that if the post-election AI selloff continues, most names on his list would become very cheap, and that he doesn't think Democrats will be against AI. He highlighted the **COHR** earnings with a 5-year $20B deal from a single customer, the **INTC** CEO's $9.7M share purchase, and **RKLB**. He also noted the Trump token fell 20% after the election.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "COHR earnings",
+          "url": "https://x.com/korkmazali08/status/2118203578015998361",
+          "published_at": "2026-11-05T04:47:41.000Z",
+          "summary": "Highlights: a 5-year $20B deal from a single customer, 2027 capacity fully sold, 2028 orders being taken and no laser oversupply expected in 2028.",
+          "assets": [
+            {
+              "symbol": "COHR",
+              "sentiment": "positive",
+              "note": "Capacity sold out; pricing power and margins rising."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AI selloff and Democrats",
+          "url": "https://x.com/korkmazali08/status/2118137479202996355",
+          "published_at": "2026-11-05T00:25:02.000Z",
+          "summary": "We are 10% off the peak and another 10% drop would make most names on the list very cheap; he doesn't think Democrats will be against AI because US policy follows capital.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Intel CEO share purchase",
+          "url": "https://x.com/korkmazali08/status/2118033834100789700",
+          "published_at": "2026-11-04T17:33:11.000Z",
+          "summary": "Shared that Intel CEO Lip-Bu Tan bought 150,000 shares at an average $64.70, $9.7M in total.",
+          "assets": [
+            {
+              "symbol": "INTC",
+              "sentiment": "positive",
+              "note": "CEO purchase at $64.70."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "Wall Street Diaries detailed the post-election picture: VIX fell over 11% to below 19, rotation from growth to small caps began, and for **IBIT** pro-crypto legislation was said to be getting harder. September JOLTS openings rose to 7.5M and October private payrolls added 86K, supporting the Fed's hawkish stance, while euro area PMI slipped from 53.1 to 51.7. It also covered the **AMD** (revenue $13.4B, +45%) and **ARM** earnings and that **GEV** was hit by the election outcome.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "US JOLTS openings 7.5M",
+          "url": "https://x.com/WallStDiaries/status/2118049884725293558",
+          "published_at": "2026-11-04T18:36:58.000Z",
+          "summary": "September JOLTS openings rose to 7.5M and voluntary quits rose to 3.4M.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Wall Street rotation in the blue wave",
+          "url": "https://x.com/WallStDiaries/status/2117964557654126742",
+          "published_at": "2026-11-04T12:57:55.000Z",
+          "summary": "RBC's Calvasina said rotation from growth to small caps is accelerating; Russell 2000 futures outpaced Nasdaq and S&P 500, and Evercore recommended Apple, Cisco and Arista as defensives.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "positive",
+              "note": "Evercore recommended it as a defensive."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tougher period for crypto",
+          "url": "https://x.com/WallStDiaries/status/2117966566654382180",
+          "published_at": "2026-11-04T13:05:54.000Z",
+          "summary": "Reported that pro-crypto legislation will be harder with a Democratic Congress and that Bitcoin is trying to stabilize around $78,000.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "Stabilizing around $78,000."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AMD record quarter",
+          "url": "https://x.com/WallStDiaries/status/2117966443408961746",
+          "published_at": "2026-11-04T13:05:24.000Z",
+          "summary": "AMD revenue $13.4B (+45%), data center revenue $8.5B (+97%); Lisa Su expects another doubling in 2027, Wedbush reiterated Outperform with a $600 target.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Wedbush $600 target, Outperform."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "Tunç Şatıroğlu attributes the selloff in semiconductors, especially memory, to anti-AI sentiment in the US and says it will help China close the gap. He wrote that data centers will move to other countries and ultimately into space, with the US losing the added value.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Semiconductor selloff",
+          "url": "https://x.com/TuncSatiroglu/status/2118181112363270213",
+          "published_at": "2026-11-05T03:18:25.000Z",
+          "summary": "Attributes the selloff in semiconductors, especially memory, to US anti-AI sentiment and says China will close the gap as a result.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "Mr. Trader wrote that TP2 was hit on his oil shorts, while his pre-election swing oil accumulation remained in the red. On **Bitcoin** he said his short reached the 76,000 target, that the 76,200 zone is the first support, but he is not yet considering spot buying.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bitcoin 76,000 target",
+          "url": "https://x.com/MrTradeer/status/2117997896117137747",
+          "published_at": "2026-11-04T15:10:23.000Z",
+          "summary": "Wrote that they shorted seeing distribution at the top, the 76,000 first target was hit, 76,200 is an HTF support, but he isn't considering spot buying.",
+          "assets": [
+            {
+              "symbol": "BTC",
+              "sentiment": "neutral",
+              "note": "76,200 support, no spot buy."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oil short TP2",
+          "url": "https://x.com/MrTradeer/status/2118019571911385479",
+          "published_at": "2026-11-04T16:36:31.000Z",
+          "summary": "Wrote that oil continues to drop and TP2 was taken.",
+          "assets": [
+            {
+              "symbol": "OIL",
+              "sentiment": "negative",
+              "note": "Short target TP2 hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "Izzy shared **AMD**'s strong earnings; data center revenue rose to $8.55B (+97%) and he wrote that the real question is how much share it can win from Nvidia.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AMD earnings",
+          "url": "https://x.com/FinancewithIzzy/status/2117956639433097652",
+          "published_at": "2026-11-04T12:26:27.000Z",
+          "summary": "Total revenue $13.4B (+45%), data center revenue $8.55B (+97%), Q4 revenue outlook $17B; the key question is market share against Nvidia.",
+          "assets": [
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Data center revenue nearly doubled."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Question of share gains from Nvidia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "Wall St Engine ran the earnings feed: **APP** revenue was $2.18B, Q4 guidance was well above estimates and the stock rose about 19% after hours; **COHR** said FY27 growth will exceed 60%. Big Tech added over $900B on election day while data center and neocloud stocks were sold (**SMH** -2%). **META** drew €53B of orders for its debut euro bond and Goldman and Apollo began marketing **SPCX**'s $40B AI chip financing.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "AppLovin Q3 earnings",
+          "url": "https://x.com/wallstengine/status/2118087387267944952",
+          "published_at": "2026-11-04T21:05:59.000Z",
+          "summary": "Revenue $2.18B (+55%), adj. EBITDA $1.84B, Q4 guide $2.37-2.40B; buyback authorization raised to $3.6B.",
+          "assets": [
+            {
+              "symbol": "APP",
+              "sentiment": "positive",
+              "note": "Beat and strong guidance."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Coherent Q1 FY27 earnings",
+          "url": "https://x.com/wallstengine/status/2118088134315438150",
+          "published_at": "2026-11-04T21:08:58.000Z",
+          "summary": "Revenue $2.37B (+50%), adj. EPS $2.09; FY27 growth expected above 60%.",
+          "assets": [
+            {
+              "symbol": "COHR",
+              "sentiment": "positive",
+              "note": "Beat; FY27 growth >60%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Big Tech vs data center divergence on election day",
+          "url": "https://x.com/wallstengine/status/2118052618128028131",
+          "published_at": "2026-11-04T18:47:50.000Z",
+          "summary": "Big Tech added over $900B while $SMH fell 2%, $CIFR 20%, $IREN 10% and $CRWV 9%.",
+          "assets": [
+            {
+              "symbol": "SMH",
+              "sentiment": "neutral",
+              "note": "-2% on the day."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Meta euro bond demand",
+          "url": "https://x.com/wallstengine/status/2117971587869679873",
+          "published_at": "2026-11-04T13:25:51.000Z",
+          "summary": "$META drew a record €53B in orders for its debut euro bond sale.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Record bond demand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz said he is happy with **JOBY**'s earnings but admits it has been his worst stock pick in years. He was ready to let **UBER** go after earnings but wrote that the company keeps proving itself fundamentally; the position is up about 130% from entry.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "JOBY earnings and position",
+          "url": "https://x.com/jrouldz/status/2118104291810361345",
+          "published_at": "2026-11-04T22:13:10.000Z",
+          "summary": "Happy with the earnings but it has been his worst pick in years; started small and averaged down.",
+          "assets": [
+            {
+              "symbol": "JOBY",
+              "sentiment": "positive",
+              "note": "Happy with earnings."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "UBER position",
+          "url": "https://x.com/jrouldz/status/2118064034121433464",
+          "published_at": "2026-11-04T19:33:12.000Z",
+          "summary": "Was ready to drop UBER post-earnings as part of rebalancing, but the company continues to prove itself fundamentally.",
+          "assets": [
+            {
+              "symbol": "UBER",
+              "sentiment": "positive",
+              "note": "Fundamental trajectory strong; keeping the position."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "Cuma Cevik wrote that the market is selling everything AI-related and buying the rest, which he finds absurd; after the election uncertainty, yields, oil and VIX are falling while indices and **gold** rise. He said his view on **SPCX** and **TSLA** is unchanged and SpaceX below $100 is still possible. He called the **APP** earnings \"great\".",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Everything AI-related is being sold",
+          "url": "https://x.com/cevikfinance/status/2118075310906265760",
+          "published_at": "2026-11-04T20:18:00.000Z",
+          "summary": "Said the market is selling everything AI and buying the rest, pricing as if power and hardware were not needed.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SPCX and TSLA",
+          "url": "https://x.com/cevikfinance/status/2117946047896920448",
+          "published_at": "2026-11-04T11:44:22.000Z",
+          "summary": "While most stocks rise, Musk's companies fall; no change to his expectation of SPCX below $100.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "negative",
+              "note": "Still expects below $100."
+            },
+            {
+              "symbol": "TSLA",
+              "sentiment": "negative",
+              "note": "Falling; tough unless Musk switches sides."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Post-election market picture",
+          "url": "https://x.com/cevikfinance/status/2117999128797917682",
+          "published_at": "2026-11-04T15:15:17.000Z",
+          "summary": "Yields, oil and VIX are down, indices and gold up; Iran and data centers remain uncertain.",
+          "assets": [
+            {
+              "symbol": "XAUUSD",
+              "sentiment": "positive",
+              "note": "Rising."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Largest position (18.8%) carrying single-stock risk; the post-election small-cap rotation could help fintech, but the rate path stays decisive.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: rotation into small caps could support fintech.",
+          "Against: an 18.8% weight in one stock creates concentration risk."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [
+          {
+            "person": "Heisenberg",
+            "sentiment": "neutral",
+            "quote": "Düştü işte desteğe.",
+            "source_url": "https://x.com/heisenbergtrx/status/2117934805455430094"
+          }
+        ],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Although BIST 100 appears to have dropped to support, Heisenberg gave no level; as a TL-linked position it carries currency and rate risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per Heisenberg, BIST fell to support.",
+          "Against: sources gave no clear level or catalyst."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The AI selloff hit semiconductors; AMD and COHR earnings show demand persisting, a supportive backdrop for Broadcom.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: AMD and COHR earnings show AI demand continuing.",
+          "Against: per ulkser, semiconductors will not lead this period."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "wallstengine",
+            "sentiment": "positive",
+            "quote": "$META DRAWS A RECORD €53 BILLION OF ORDERS FOR ITS DEBUT EURO 🇪🇺 BOND SALE, BLOOMBERG REPORTS",
+            "source_url": "https://x.com/wallstengine/status/2117971587869679873"
+          },
+          {
+            "person": "Ahmet Sunelcan",
+            "sentiment": "neutral",
+            "quote": "Yeni data center kuramayacaksiniz bu yüzden capexleriniz azalacak $MSFT $AMZN $META aliyoruz bu durumda diyor piyasa.",
+            "source_url": "https://x.com/AhmetSunelcan1/status/2118005136476004805"
+          }
+        ],
+        "action": "hold",
+        "why": "No new analyst view today; wallstengine reported record euro bond demand.",
+        "opinion": "Big Tech did well on election day and the bond demand shows financing access; the main risk is the return on capex.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: the debut euro bond drew record €53B in orders.",
+          "Against: the return on AI capex is being questioned."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The nuclear theme may not be hurt by Democrats' friendliness to clean energy; still, a 10.5% weight carries single-stock risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per sgundoganX, Democrats support clean energy.",
+          "Against: data center regulation could affect power demand."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Tied to ad revenue; AppLovin's strong ad numbers are a positive sector signal, but there is nothing Reddit-specific.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: AppLovin grew 55%, ad demand is strong.",
+          "Against: small-cap growth stocks are volatile."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "No Netflix-specific data today; MercadoLibre's Netflix partnership is just a side note.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: defensive consumer story, relatively insulated from the AI selloff.",
+          "Against: no new catalyst today."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "cevikfinance",
+            "sentiment": "positive",
+            "quote": "Tahvil faizleri, petrol ve volatilite endeksi düşüyor.",
+            "source_url": "https://x.com/cevikfinance/status/2117999128797917682"
+          }
+        ],
+        "action": "hold",
+        "why": "Per Cuma Cevik bond yields are falling, but no concrete level was given.",
+        "opinion": "Falling yields support long bonds; strong data like JOLTS keeps hawkish Fed risk alive.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: per Cevik, bond yields are falling.",
+          "Against: strong labor data may keep the Fed hawkish."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [
+          {
+            "person": "Ahmet Sunelcan",
+            "sentiment": "positive",
+            "quote": "$FPS arttırıldı.",
+            "source_url": "https://x.com/AhmetSunelcan1/status/2117996258262708641"
+          }
+        ],
+        "action": "hold",
+        "why": "Ahmet Sunelcan said he increased his position but gave no rationale, level or date.",
+        "opinion": "The power-infrastructure theme can be hit by the data center selloff; with no rationale given, one note is not enough to add.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Ahmet Sunelcan increased his position.",
+          "Against: data center capex worries can weigh on this theme."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "XAUUSD / XAGUSD",
+        "name": "Gold and silver",
+        "why": "ulkser said he bought a first tranche for a precious-metals allocation without a bottom signal and will add lower.",
+        "source_url": "https://x.com/ulkser/status/2118064501408899242"
+      },
+      {
+        "symbol": "COHR",
+        "name": "Coherent",
+        "why": "Ali Korkmaz highlighted a 5-year $20B deal with a single customer and sold-out 2027 capacity.",
+        "source_url": "https://x.com/korkmazali08/status/2118203578015998361"
+      },
+      {
+        "symbol": "AUR",
+        "name": "Aurora Innovation",
+        "why": "Serkan Gündoğan bought a Jan 2028 $10-strike LEAPS and is holding spot at a $4.90 cost.",
+        "source_url": "https://x.com/sgundoganX/status/2118033419485565047"
+      }
+    ]
+  }
+}
