@@ -1,0 +1,1072 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T08:11:12.502Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Over $3 trillion erased from US stocks in a single day",
+      "person": "cevikfinance",
+      "why": "cevikfinance shared a report that the loss is the largest one-day loss since the 2020 Covid drop.",
+      "source_url": "https://x.com/cevikfinance/status/2118470212312002596"
+    },
+    {
+      "title": "Nikkei plunges 6.2% into bear-market territory",
+      "person": "wallstengine",
+      "why": "Wall St Engine says the Nikkei is down 20% from its June record high; it also posted that South Korea's market has lost nearly half its value in four months.",
+      "source_url": "https://x.com/wallstengine/status/2118502088447762741"
+    },
+    {
+      "title": "Investors push back on Anthropic's $1.5 trillion IPO valuation",
+      "person": "korkmazali08",
+      "why": "Citing WSJ, three large investors reportedly want the valuation cut and a delay or downsizing of the IPO is on the table.",
+      "source_url": "https://x.com/korkmazali08/status/2118528220622462983"
+    },
+    {
+      "title": "China has not approved import of 600,000 Nvidia H200 chips",
+      "person": "WallStDiaries",
+      "why": "Citing Reuters, the chips are waiting in Hong Kong warehouses while Beijing delays large-scale import permits.",
+      "source_url": "https://x.com/WallStDiaries/status/2118428586059391098"
+    },
+    {
+      "title": "Bloom Energy position increased",
+      "person": "Ahmet Sunelcan",
+      "why": "Ahmet Sunelcan wrote that he increased $BE using cash from overnight margin scalps.",
+      "source_url": "https://x.com/AhmetSunelcan1/status/2118581775135855057"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "US equity selloff and global spillover",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "More than $3 trillion was erased from US stocks in a day, the biggest one-day loss since the 2020 Covid drop; he also noted Kospi opened -9% and hit a circuit breaker within 5 minutes.",
+          "quote": "More than $3 trillion was erased from the US stock market today. The largest one-day loss since the 2020 Covid drop.",
+          "source_url": "https://x.com/cevikfinance/status/2118470212312002596"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Nikkei fell 6.2% and is down 20% from its June high.",
+          "quote": "JAPAN'S 🇯🇵 NIKKEI PLUNGES 6.2%, ENTERS BEAR-MARKET TERRITORY, DOWN 20% FROM ITS JUNE RECORD HIGH",
+          "source_url": "https://x.com/wallstengine/status/2118502088447762741"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Nasdaq 100 decline reached 5.6%; the circuit breaker kicks in if the S&P 500 falls 7%.",
+          "quote": "The Nasdaq 100 decline reached 5.6%. If the S&P 500 falls 7%, the circuit breaker kicks in.",
+          "source_url": "https://x.com/WallStDiaries/status/2118372212516565233"
+        }
+      ]
+    },
+    {
+      "topic": "AI valuations",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "According to George Noble, Nvidia boosting its own chip demand by investing in AI startups resembles the strategy Cisco followed in the dot-com era.",
+          "quote": "He warned that Nvidia's current business model closely resembles the strategy Cisco Systems followed during the late-1990s dot-com bubble.",
+          "source_url": "https://x.com/WallStDiaries/status/2118416693198270845"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Said AI stocks are now half as expensive as toothpaste stocks.",
+          "quote": "AI stocks are half as cheap as toothpaste stocks right now, but it's up to you.",
+          "source_url": "https://x.com/cevikfinance/status/2118507319172772127"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "Per WSJ, three large investors want Anthropic's $1.5 trillion IPO valuation lowered; one says $1 trillion is more realistic.",
+          "quote": "One investor said a $1 trillion level was more realistic.",
+          "source_url": "https://x.com/korkmazali08/status/2118528220622462983"
+        }
+      ]
+    },
+    {
+      "topic": "US labor market",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Weekly jobless claims fell by 6,000 to 189,000, the lowest since 1969.",
+          "quote": "US weekly jobless claims fell by 6,000 to 189,000, renewing the lowest level seen since 1969.",
+          "source_url": "https://x.com/WallStDiaries/status/2118378337215140208"
+        }
+      ]
+    },
+    {
+      "topic": "Oil and Iran",
+      "views": [
+        {
+          "person": "WallStDiaries",
+          "view": "Per Benzinga the Trump administration revived military options on Iran; oil fell sharply over three days on expectations the war ends, and a new military move could reverse that.",
+          "quote": "Oil has fallen sharply for the last three days; the drop was priced on expectations the war will end.",
+          "source_url": "https://x.com/WallStDiaries/status/2118255295776399488"
+        }
+      ]
+    },
+    {
+      "topic": "Turkey: central bank credibility",
+      "views": [
+        {
+          "person": "Tunç Şatıroğlu",
+          "view": "Naci Ağbal's dismissal and the MSCI episode shook foreign confidence; it won't return through rhetoric and patch-level reforms are not enough.",
+          "quote": "Lost trust is not something that can be regained with statements like \"we are fighting inflation\".",
+          "source_url": "https://x.com/TuncSatiroglu/status/2118256488062050454"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "priority": "high",
+      "why": "Two positive sources: Ahmet Sunelcan added to his position and WallStDiaries reported a 900 MW deal with NTT DATA.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "$BE arttirildi.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2118581775135855057"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "positive",
+          "quote": "Bloom Energy secured a deal with Japan-based NTT DATA to supply a total of 900 megawatts of on-site power generation for global data centers.",
+          "source_url": "https://x.com/WallStDiaries/status/2118410517572182334"
+        }
+      ]
+    },
+    {
+      "symbol": "USOIL",
+      "name": "Crude oil",
+      "priority": "high",
+      "why": "MrTradeer described a leveled oil short while WallStDiaries flagged an Iran-driven reversal risk.",
+      "mentions": [
+        {
+          "person": "MrTradeer",
+          "sentiment": "negative",
+          "quote": "We shorted oil from 115 and brought it to 97.",
+          "source_url": "https://x.com/MrTradeer/status/2118421677243859250"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "If a new military move comes, this picture could quickly reverse.",
+          "source_url": "https://x.com/WallStDiaries/status/2118255295776399488"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "medium",
+      "why": "WallStDiaries relayed a concrete warning (Cisco analogy) and the China import block; FinancewithIzzy only mentioned the ticker.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "He warned that Nvidia's current business model closely resembles the strategy Cisco Systems followed during the late-1990s dot-com bubble.",
+          "source_url": "https://x.com/WallStDiaries/status/2118416693198270845"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$NVDA $AMD $PLTR $NBIS $IREN Not investment advice.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2118449470568632346"
+        }
+      ]
+    },
+    {
+      "symbol": "KOSPI",
+      "name": "KOSPI (South Korea)",
+      "priority": "medium",
+      "why": "Two people reported the sharp drop; the circuit breaker and near-halving in four months are concrete data.",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "Kospi opened at -9% and hit the circuit breaker within 5 minutes.",
+          "source_url": "https://x.com/cevikfinance/status/2118497082784841987"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "SOUTH KOREA'S 🇰🇷 STOCK MARKET HAS LOST NEARLY HALF ITS VALUE IN JUST OVER 4 MONTHS",
+          "source_url": "https://x.com/wallstengine/status/2118503258633490837"
+        }
+      ]
+    },
+    {
+      "symbol": "NDX",
+      "name": "Nasdaq 100",
+      "priority": "medium",
+      "why": "WallStDiaries gave concrete decline levels (5.6%, $2 trillion in lost market value).",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "The Nasdaq 100 decline reached 5.6%.",
+          "source_url": "https://x.com/WallStDiaries/status/2118372212516565233"
+        }
+      ]
+    },
+    {
+      "symbol": "N225",
+      "name": "Nikkei 225",
+      "priority": "medium",
+      "why": "Wall St Engine gave the 6.2% drop and 20% decline from the peak.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "JAPAN'S 🇯🇵 NIKKEI PLUNGES 6.2%, ENTERS BEAR-MARKET TERRITORY, DOWN 20% FROM ITS JUNE RECORD HIGH",
+          "source_url": "https://x.com/wallstengine/status/2118502088447762741"
+        }
+      ]
+    },
+    {
+      "symbol": "AAOI",
+      "name": "Applied Optoelectronics",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan wrote he scalps AAOI; Wall St Engine posted earnings (Q4 revenue guide below estimates).",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "neutral",
+          "quote": "cash brought in from overnight margin scalps on AAOI and CRWV",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2118581775135855057"
+        }
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "priority": "medium",
+      "why": "Dr J Rould said Apple is carrying his portfolio and he may start trimming again soon.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "I might start trimming again soon",
+          "source_url": "https://x.com/jrouldz/status/2118451735589167327"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "medium",
+      "why": "Dr J Rould said he still holds and trimmed a little around ~130.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "Still holding $RKLB it's just further down the list because I averaged up a lot from the early days I trimmed a little in ~130 range but not nearly enough in hindsight of course",
+          "source_url": "https://x.com/jrouldz/status/2118464663801262197"
+        }
+      ]
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase",
+      "priority": "medium",
+      "why": "WallStDiaries wrote the stock fell 3% on the Epstein-investigation headlines.",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "The stock that fell 1% that day fell 3% today.",
+          "source_url": "https://x.com/WallStDiaries/status/2118381828512133426"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Micron's drawdown from its peak is nearing 50%.",
+          "source_url": "https://x.com/WallStDiaries/status/2118405952689058298"
+        }
+      ]
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$IREN Q1’27 EARNINGS HIGHLIGHTS 🔹 Revenue: $228M (Est. $221M) 🟢; -5% YoY",
+          "source_url": "https://x.com/wallstengine/status/2118449843060281524"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$NVDA $AMD $PLTR $NBIS $IREN Not investment advice.",
+          "source_url": "https://x.com/FinancewithIzzy/status/2118449470568632346"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Elon Musk says Tesla will wind down Cybertruck production at Gigafactory Texas around the middle of next year to make room for increased Cybercab production",
+          "source_url": "https://x.com/wallstengine/status/2118614361136889953"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "items": [],
+      "digest": []
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "items": [],
+      "digest": []
+    },
+    {
+      "name": "Barbarians Trading",
+      "items": [],
+      "digest": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "items": [],
+      "digest": []
+    },
+    {
+      "name": "ulkser",
+      "items": [],
+      "digest": []
+    },
+    {
+      "name": "jeoekonomiTR",
+      "items": [],
+      "digest": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan wrote that he increased his **Bloom Energy** position, funding it with cash from overnight margin scalps on **AAOI** and **CoreWeave**. He says his priority right now is profitable, safer companies and that the energy side is safer. His other posts were chat about leverage and trading method, which I left out.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Bloom Energy increased",
+          "url": "https://x.com/AhmetSunelcan1/status/2118581775135855057",
+          "published_at": "2026-11-06T05:50:31.000Z",
+          "summary": "$BE was increased; the cash came from overnight margin scalps on AAOI and CRWV.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "Increased the position."
+            },
+            {
+              "symbol": "AAOI",
+              "sentiment": "neutral",
+              "note": "Did overnight margin scalps."
+            },
+            {
+              "symbol": "CRWV",
+              "sentiment": "neutral",
+              "note": "Did overnight margin scalps."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Priority: profitable, safer companies",
+          "url": "https://x.com/AhmetSunelcan1/status/2118582882155544936",
+          "published_at": "2026-11-06T05:54:55.000Z",
+          "summary": "Said his priority now is profitable and safer companies.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Energy side is safer",
+          "url": "https://x.com/AhmetSunelcan1/status/2118585387937620381",
+          "published_at": "2026-11-06T06:04:52.000Z",
+          "summary": "Wrote that the energy side is safer.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "items": [],
+      "digest": []
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "**Anthropic** IPO news: per WSJ three large investors want the $1.5 trillion valuation lowered and the IPO could be delayed or downsized. He also shared Trump's message blaming Democrats for the market drop, without comment.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Pushback on Anthropic IPO valuation",
+          "url": "https://x.com/korkmazali08/status/2118528220622462983",
+          "published_at": "2026-11-06T02:17:42.000Z",
+          "summary": "Per WSJ three large investors want the $1.5 trillion valuation cut; Anthropic aimed to raise up to $100 billion the week of Nov 16 and will reassess.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump's market message shared",
+          "url": "https://x.com/korkmazali08/status/2118486550472200195",
+          "published_at": "2026-11-05T23:32:07.000Z",
+          "summary": "Shared Trump's message saying the market had one of its worst days and blaming Democrats, without adding comment.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "items": [],
+      "digest": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "items": [],
+      "digest": []
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "Wall Street Diaries tracked the selloff that erased the post-election rally: Nasdaq 100 down as much as 5.6%, roughly $2 trillion lost in tech. On **Nvidia** it relayed that China has not approved import of 600,000 H200 chips and George Noble's Cisco analogy. It also posted **Bloom Energy**'s 900 MW NTT DATA deal, **Micron** suspending its $4.5 billion Taiwan fab, **Oracle** cancelling a $7 billion Tencent deal and **JPMorgan** falling on the Epstein agenda. On macro, US jobless claims fell to 189,000 and Iran risk stood out for oil.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nvidia H200s stuck in Hong Kong",
+          "url": "https://x.com/WallStDiaries/status/2118428586059391098",
+          "published_at": "2026-11-05T19:41:48.000Z",
+          "summary": "Per Reuters about 600,000 H200 chips sit in Hong Kong warehouses as Beijing delays large-scale import permits.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "negative",
+              "note": "China's import-permit delay blocks shipments."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Noble: Nvidia–Cisco comparison",
+          "url": "https://x.com/WallStDiaries/status/2118416693198270845",
+          "published_at": "2026-11-05T18:54:32.000Z",
+          "summary": "George Noble compared Nvidia boosting chip demand through AI startup investments to Cisco in the dot-com era.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "negative",
+              "note": "Circular-demand warning."
+            },
+            {
+              "symbol": "CSCO",
+              "sentiment": "neutral",
+              "note": "Reference company in the analogy."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bloom Energy – NTT DATA 900 MW",
+          "url": "https://x.com/WallStDiaries/status/2118410517572182334",
+          "published_at": "2026-11-05T18:30:00.000Z",
+          "summary": "Bloom Energy's largest international deal: 900 MW of on-site power for NTT DATA, deliveries start in 2027.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "Largest international project in company history, deliveries in 2027."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Micron drawdown nears 50% from peak",
+          "url": "https://x.com/WallStDiaries/status/2118405952689058298",
+          "published_at": "2026-11-05T18:11:51.000Z",
+          "summary": "Micron, whose 2026 and 2027 HBM and DRAM capacity is fully booked, is nearly 50% off its peak.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Capacity sold out yet the stock is about 50% below its peak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Micron suspends Taiwan fab",
+          "url": "https://x.com/WallStDiaries/status/2118311331883282583",
+          "published_at": "2026-11-05T11:55:52.000Z",
+          "summary": "Micron suspended construction of its $4.5 billion Taiwan fab over an unresolved labor dispute; shares fell pre-market.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Investment suspended."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oracle cancels Tencent deal",
+          "url": "https://x.com/WallStDiaries/status/2118376544322425105",
+          "published_at": "2026-11-05T16:15:00.000Z",
+          "summary": "Oracle reportedly cancelled its 5-year $7 billion AI chip rental deal with Tencent under pressure from US officials; Wedbush calls the cause geopolitical.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "$7 billion deal cancelled."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "JPMorgan falls on Epstein agenda",
+          "url": "https://x.com/WallStDiaries/status/2118381828512133426",
+          "published_at": "2026-11-05T16:36:00.000Z",
+          "summary": "Wrote that after Trump, Democrats are preparing a probe of JPM over Epstein and the stock fell 3% today.",
+          "assets": [
+            {
+              "symbol": "JPM",
+              "sentiment": "negative",
+              "note": "Stock fell 3%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "US jobless claims lowest since 1969",
+          "url": "https://x.com/WallStDiaries/status/2118378337215140208",
+          "published_at": "2026-11-05T16:22:07.000Z",
+          "summary": "Weekly jobless claims fell 6,000 to 189,000.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "$2 trillion lost in tech",
+          "url": "https://x.com/WallStDiaries/status/2118377951125262675",
+          "published_at": "2026-11-05T16:20:35.000Z",
+          "summary": "The post-midterm rally was short-lived; about $2 trillion was wiped from tech stocks.",
+          "assets": [
+            {
+              "symbol": "QQQ",
+              "sentiment": "negative",
+              "note": "Sharp tech selloff, rotation to defensives."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nasdaq 100 down 5.6%",
+          "url": "https://x.com/WallStDiaries/status/2118372212516565233",
+          "published_at": "2026-11-05T15:57:47.000Z",
+          "summary": "Nasdaq 100 decline reached 5.6%; the circuit breaker triggers if the S&P 500 falls 7%, and it is down 3.20%.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "negative",
+              "note": "Down 5.6%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oil and Iran risk",
+          "url": "https://x.com/WallStDiaries/status/2118255295776399488",
+          "published_at": "2026-11-05T08:13:12.000Z",
+          "summary": "The Trump administration revived military options on Iran; oil fell on expectations the war ends and a new move could reverse that.",
+          "assets": [
+            {
+              "symbol": "USOIL",
+              "sentiment": "neutral",
+              "note": "Fell sharply over three days; a new military move could quickly reverse it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": "On finance, Tunç Şatıroğlu thinks central bank credibility in Turkey is lost: after Naci Ağbal's dismissal and the MSCI episode, rhetoric won't suffice and serious legal changes are needed. He also shared a video about the Nasdaq selloff. His other posts were AI politics and arguments, which I left out.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Central bank credibility lost",
+          "url": "https://x.com/TuncSatiroglu/status/2118256488062050454",
+          "published_at": "2026-11-05T08:17:56.000Z",
+          "summary": "Ağbal's dismissal and the MSCI episode shook foreign confidence; serious rules such as requiring a final court ruling to remove the central bank governor are needed.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Video: Hostility to AI deepens Nasdaq selloff",
+          "url": "https://x.com/TuncSatiroglu/status/2118357711956152816",
+          "published_at": "2026-11-05T15:00:10.000Z",
+          "summary": "Shared his video on the Nasdaq selloff deepening on hostility toward AI.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": "While replying in an argument MrTradeer recalled past trades: he wrote that they shorted **oil** from 115 and brought it to 97. His other posts were personal disputes, which I left out.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Oil short from 115 to 97",
+          "url": "https://x.com/MrTradeer/status/2118421677243859250",
+          "published_at": "2026-11-05T19:14:20.000Z",
+          "summary": "Wrote about a trade opened at 75800 and closed at 79500 and an oil short from 115 that brought 97.",
+          "assets": [
+            {
+              "symbol": "USOIL",
+              "sentiment": "negative",
+              "note": "Short from 115, profit at 97."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy announced a new podcast episode asking whether the AI bubble is bursting; **Nvidia**, **AMD**, **Palantir**, **Nebius** and **IREN** were tagged.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Podcast: is the AI bubble bursting?",
+          "url": "https://x.com/FinancewithIzzy/status/2118449470568632346",
+          "published_at": "2026-11-05T21:04:47.000Z",
+          "summary": "Announced a podcast on whether the AI-stock selloff is the start of a crash or a buying opportunity.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "IREN",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "Wall St Engine relayed the global selloff in numbers: Nikkei fell 6.2% into a bear market and South Korea's market lost nearly half its value in four months. Per WSJ **Anthropic**'s annualized revenue run rate topped $80 billion in October but its IPO raise may shrink from $100 billion to about $80 billion. In after-hours moves **Cloudflare** rose 18% and **Airbnb** 11% while **DraftKings** fell 19% and **Atlassian** 17%; **Sony** beat estimates and raised guidance. It also shared that **Tesla** will wind down Cybertruck production in the middle of next year.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Anthropic run rate tops $80B",
+          "url": "https://x.com/wallstengine/status/2118588727090102402",
+          "published_at": "2026-11-06T06:18:08.000Z",
+          "summary": "Per WSJ Anthropic's annualized revenue run rate topped $80 billion at the end of October; its IPO raise could drop from $100 billion to about $80 billion and the IPO may be delayed.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tesla to wind down Cybertruck",
+          "url": "https://x.com/wallstengine/status/2118614361136889953",
+          "published_at": "2026-11-06T08:00:00.000Z",
+          "summary": "Elon Musk said Tesla will wind down Cybertruck production at Gigafactory Texas around the middle of next year to make room for Cybercab.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Cybertruck down, Cybercab up."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nikkei in a bear market",
+          "url": "https://x.com/wallstengine/status/2118502088447762741",
+          "published_at": "2026-11-06T00:33:52.000Z",
+          "summary": "Nikkei fell 6.2%, now 20% below its June record.",
+          "assets": [
+            {
+              "symbol": "N225",
+              "sentiment": "negative",
+              "note": "Down 6.2%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "South Korea's market down nearly half",
+          "url": "https://x.com/wallstengine/status/2118503258633490837",
+          "published_at": "2026-11-06T00:38:31.000Z",
+          "summary": "South Korea's market has lost nearly half its value in just over four months.",
+          "assets": [
+            {
+              "symbol": "KOSPI",
+              "sentiment": "negative",
+              "note": "Nearly halved in four months."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "After-hours movers",
+          "url": "https://x.com/wallstengine/status/2118469954945384742",
+          "published_at": "2026-11-05T22:26:11.000Z",
+          "summary": "FROG +22%, NET +18%, ABNB +11%, IREN +6%; NTRA -24%, DKNG -19%, TEAM -17%, AXON -13%.",
+          "assets": [
+            {
+              "symbol": "NET",
+              "sentiment": "positive",
+              "note": "Q4 guide well above Street, +18%."
+            },
+            {
+              "symbol": "DKNG",
+              "sentiment": "negative",
+              "note": "Prediction-markets push dragged Q3 and guide was below Street, -19%."
+            },
+            {
+              "symbol": "TEAM",
+              "sentiment": "negative",
+              "note": "Fell 17% on weaker subscription growth outlook."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Sony earnings",
+          "url": "https://x.com/wallstengine/status/2118457734672630171",
+          "published_at": "2026-11-05T21:37:37.000Z",
+          "summary": "Sony reported revenue of ¥3,429.4B above estimates, EPS ¥76.49 (est. ¥62.25) and raised full-year guidance.",
+          "assets": [
+            {
+              "symbol": "SONY",
+              "sentiment": "positive",
+              "note": "Beat estimates and raised guidance."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kalshi launches stock perpetual futures",
+          "url": "https://x.com/wallstengine/status/2118456426695885291",
+          "published_at": "2026-11-05T21:32:25.000Z",
+          "summary": "Kalshi launched CFTC-regulated single-stock perpetual futures in the US with up to 5x leverage; users traded over $300 million since the stealth launch.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Among listed perps."
+            },
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Among listed perps."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Among listed perps."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IREN earnings",
+          "url": "https://x.com/wallstengine/status/2118449843060281524",
+          "published_at": "2026-11-05T21:06:16.000Z",
+          "summary": "IREN revenue $228M (est. $221M), AI Cloud $200M, ARR target above $4B for January 2027 and a $20.3B backlog.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "neutral",
+              "note": "Revenue beat but -5% YoY; $20.3B backlog."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "Dr J Rould is patient through the sharp drop: he says nearly all his gains came from never selling, and he trims winners to add to beaten-down names. **Apple** is his first investment and still largest holding, and he might trim again soon; he partly sold **Rocket Lab** around ~130 and still holds.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Trimming winners to add to losers",
+          "url": "https://x.com/jrouldz/status/2118476899278094649",
+          "published_at": "2026-11-05T22:53:46.000Z",
+          "summary": "Trims winners to add to beaten-down names; it stings on taxes but he thinks it will be worth it.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Still holding RKLB",
+          "url": "https://x.com/jrouldz/status/2118464663801262197",
+          "published_at": "2026-11-05T22:05:09.000Z",
+          "summary": "Still holds Rocket Lab; averaged up a lot early so it sits lower on the list, trimmed a little around ~130.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "positive",
+              "note": "Holding; trimmed around ~130."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Apple is largest holding",
+          "url": "https://x.com/jrouldz/status/2118451735589167327",
+          "published_at": "2026-11-05T21:13:47.000Z",
+          "summary": "Wrote that his 2008 Apple position, partly sold in 2021-22, is again his largest holding as speculative names collapsed, and he may start trimming soon.",
+          "assets": [
+            {
+              "symbol": "AAPL",
+              "sentiment": "positive",
+              "note": "Largest holding, may trim soon."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Turmoil creates opportunity",
+          "url": "https://x.com/jrouldz/status/2118484441387368584",
+          "published_at": "2026-11-05T23:23:45.000Z",
+          "summary": "Said to use turmoil to clarify top and lowest convictions, timeframes and risk appetite; panic periods are almost always the best opportunities in hindsight.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "Cuma Çevik summed up the global selloff in three posts: over $3 trillion erased from US stocks (largest one-day loss since the 2020 Covid drop) and **Kospi** opening -9% and halting within 5 minutes. Even so he says AI stocks are now half as expensive as toothpaste stocks.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "$3 trillion erased from US stocks",
+          "url": "https://x.com/cevikfinance/status/2118470212312002596",
+          "published_at": "2026-11-05T22:27:12.000Z",
+          "summary": "Via a Watcher.Guru post, over $3 trillion was erased from US stocks today, the largest one-day loss since Covid.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Kospi circuit breaker",
+          "url": "https://x.com/cevikfinance/status/2118497082784841987",
+          "published_at": "2026-11-06T00:13:58.000Z",
+          "summary": "Kospi opened -9% and hit a circuit breaker within 5 minutes.",
+          "assets": [
+            {
+              "symbol": "KOSPI",
+              "sentiment": "negative",
+              "note": "-9% open, circuit breaker in 5 minutes."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AI stocks are cheap",
+          "url": "https://x.com/cevikfinance/status/2118507319172772127",
+          "published_at": "2026-11-06T00:54:39.000Z",
+          "summary": "Said AI stocks are currently half as expensive as toothpaste stocks.",
+          "assets": []
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "At 18.8% it is the largest position; as a high-beta fintech it may swing the most in a sharp selloff, and single-stock concentration is the main risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: US jobless claims at the lowest since 1969 support consumer credit.",
+          "Against: the Nasdaq drop and fading risk appetite hit high-beta stocks harder.",
+          "Against: 18.8% weight in a single stock."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [
+          {
+            "person": "Tunç Şatıroğlu",
+            "sentiment": "negative",
+            "quote": "Lost trust is not something that can be regained with statements like \"we are fighting inflation\".",
+            "source_url": "https://x.com/TuncSatiroglu/status/2118256488062050454"
+          }
+        ],
+        "action": "hold",
+        "why": "According to Tunç Şatıroğlu central bank credibility is lost, but he gave no concrete level or date.",
+        "opinion": "The institutional-trust view is a long-term risk for Turkey; emerging-market ETFs usually take extra pressure on global risk-off days, so currency and foreign flows are worth watching.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: Tunç Şatıroğlu says central bank credibility is lost.",
+          "Against: the sharp Kospi and Nikkei drops can bring risk-off pressure to emerging markets.",
+          "For: 12.9% weight and the ETF structure spread single-company risk."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Tied to the AI infrastructure story; today's AI selloff and China chip-export headlines are sentiment risks, and earnings and guidance are what to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: selling pressure in AI stocks continues.",
+          "Against: George Noble's circular-demand warning can hurt sector sentiment.",
+          "For: according to Cuma Çevik AI stocks have become cheap."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The balance of AI spending and ad revenue needs watching; Fitch's data-center investment risk warning matters for capex.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: Fitch flagged regulatory and power-delay risk for data-center investments.",
+          "Against: heavy selling in the Nasdaq.",
+          "For: a reasonable 12.8% weight in the portfolio."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Nuclear and defense focused; it also benefits from the AI power-demand theme, so it may be more defensive in a tech selloff.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: Ahmet Sunelcan sees the energy side as safer.",
+          "For: it benefits from the data-center power-shortage theme.",
+          "Against: in a broad risk-off the stock can also be sold."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Ad-driven and highly volatile; AI data-licensing revenue and ad-spend resilience are what to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Against: growth-stock selloff, high beta.",
+          "Against: AI bubble worries.",
+          "For: weight limited to 9.4%."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A subscription-revenue model relatively far from the AI selloff; it can act as a defensive balance in a sharp drop.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: revenue structure is not tied to the AI investment cycle.",
+          "Against: as a growth stock it is hit by the broad Nasdaq selloff."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "It can offset equity drops, but jobless claims at the lowest since 1969 make the long-end rate direction uncertain.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: on risk-off days long bonds can offset equity declines.",
+          "Against: strong labor data can limit the fall in yields."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "An electrical-infrastructure theme; Bloom Energy's 900 MW NTT DATA deal shows data-center power demand continues, yet it is a small, volatile position.",
+        "ai_action": "hold",
+        "ai_points": [
+          "For: data-center power demand is strong, as the Bloom Energy deal shows.",
+          "Against: Fitch flagged power-delay risk for data-center investments.",
+          "Against: a small, volatile stock."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "BE",
+        "name": "Bloom Energy",
+        "why": "Ahmet Sunelcan increased his position and finds the energy side safer; WallStDiaries relayed the 900 MW NTT DATA deal starting in 2027.",
+        "source_url": "https://x.com/AhmetSunelcan1/status/2118581775135855057"
+      }
+    ]
+  }
+}
