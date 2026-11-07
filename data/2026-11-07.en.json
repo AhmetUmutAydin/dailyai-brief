@@ -1,0 +1,2487 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T08:17:56.000Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Semiconductor index fell 12% on the week, December rate hike odds back near 80%",
+      "person": "Defiant Gatekeeper",
+      "why": "According to the video, Thursday was the S&P 500's worst day since April 2025; the damage was concentrated in chipmakers (Micron and AMD down about 17%, Nvidia about 9%), and after Friday's jobs data the odds of a December rate hike returned to roughly 80%.",
+      "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+    },
+    {
+      "title": "October nonfarm payrolls came in at 165K versus a 65K estimate",
+      "person": "wallstengine",
+      "why": "The unemployment rate was 4.1% (est. 4.2%) and hourly earnings rose 3.1% YoY (est. 2.9%); factory jobs also added 19K, nearly four times the 5K expected.",
+      "source_url": "https://x.com/wallstengine/status/2118697437061685731"
+    },
+    {
+      "title": "41% of planned data center capacity sits in states whose governors back a pause",
+      "person": "WallStDiaries",
+      "why": "Per Cleanview data this is 158.6 GW across nine states, led by Texas at 88.4 GW, and new governors' pledges to halt construction could affect roughly 40% of pending capacity.",
+      "source_url": "https://x.com/WallStDiaries/status/2118738058954641473"
+    },
+    {
+      "title": "Anthropic reportedly plans to start its IPO roadshow next week",
+      "person": "wallstengine",
+      "why": "Citing The Information, the company is still targeting a listing the week of November 16, ahead of Thanksgiving; per Bloomberg some investors are discussing a $1.2T-$1.3T valuation, about 40% below the early-October estimates of up to $2T.",
+      "source_url": "https://x.com/wallstengine/status/2118831182192464098"
+    },
+    {
+      "title": "Micron's gross margin expansion is fading; Heisenberg wants a hold above $800-850",
+      "person": "Heisenberg",
+      "why": "Per Heisenberg, margin gains slowed to +18.4, +10.2 and +2.2 points per quarter and the company's own Q1'27 guidance shows -0.8 points for the first time; without a sustained hold above $800-850 the next zone is $450-500.",
+      "source_url": "https://x.com/heisenbergtrx/status/2118650282355634185"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Fed, jobs data and rate expectations",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "A December hike is the base case; despite hawkish remarks from Hammack and Daly, the hike odds that dipped Thursday went back to about 80% after Friday's data, and unless next week's CPI is weak that may not change.",
+          "quote": "Unless next week's CPI data comes in weak, I think a December rate hike will remain the main decision, barring another big stock market crash.",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "wallstengine",
+          "view": "The October jobs report beat expectations by a wide margin; UMich consumer sentiment also rose to 51.0 versus 48.0 expected and 1-year inflation expectations came in at 4.3%, below the 4.6% estimate.",
+          "quote": "OCTOBER U.S. JOBS REPORT 👇 NONFARM PAYROLLS +165K, (Est. +65K) UNEMPLOYMENT RATE 4.1%, (Est. 4.2%)",
+          "source_url": "https://x.com/wallstengine/status/2118697437061685731"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Strong jobs and wage growth point to lingering inflationary pressure and raise the expectation that the Fed may act more cautiously.",
+          "quote": "Strong job growth and wage momentum point to persistent inflationary pressure and bring forward the expectation that the Fed may be more cautious in its rate-cut cycle.",
+          "source_url": "https://x.com/WallStDiaries/status/2118698268599173603"
+        }
+      ]
+    },
+    {
+      "topic": "Post-election risk to AI data centers",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Thursday's selloff was partly fear that a Democratic Congress will slow data center approvals (one analyst puts about 30% of expected 2028 capacity at risk) and partly year-end positioning; the figure is an estimate and no bill exists yet.",
+          "quote": "The 30% figure is just one analyst's estimate; there is no actual bill to stop data center construction, so it is still a question mark.",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Per Cleanview data, new governors' pledges to halt construction could directly affect about 40% of pending U.S. data center capacity.",
+          "quote": "According to Cleanview data, new governors' pledges to halt data center construction could directly affect about 40% of pending capacity in the U.S.",
+          "source_url": "https://x.com/WallStDiaries/status/2118738058954641473"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Hassett said there is plenty of room for data center growth to continue; Susquehanna estimates 8% of planned capacity could be canceled in a worst case.",
+          "quote": "White House economic director Kevin Hassett says there is plenty of room for data center growth to continue, and that Trump respects localities that don't want data centers, per CNBC",
+          "source_url": "https://x.com/wallstengine/status/2118709205821718970"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Relayed Trump's superintelligence backing and his plan to work with states that want to get rich from AI; compared the protesters who stormed Microsoft's Netherlands data center to anti-nuclear activism.",
+          "quote": "Trump says he is 100% in favor of superintelligence. If Democrats try to block it, we'll work with Republican states or the \"want-to-get-rich\" states that are friendly to AI.",
+          "source_url": "https://x.com/cevikfinance/status/2118679022976782611"
+        }
+      ]
+    },
+    {
+      "topic": "Is the correction over: recovery or relief bounce",
+      "views": [
+        {
+          "person": "Yatirim101",
+          "view": "The Nasdaq 100 has fallen more than 10% from a record 35 times since 1985; sharp rebound days are not bottom signals, and for them the safe zone starts above 28,900.",
+          "quote": "For Nasdaq, the safe zone for me starts above 28,900.",
+          "source_url": "https://x.com/Yatirim101/status/2118733928521400618"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Thinks the pain is not over yet; said he was surprised that the NDX tested its 2025 high from 26,000 on the same day.",
+          "quote": "Nice analysis. I mentioned it in today's video too. Our troubles aren't over yet, as you can see.",
+          "source_url": "https://x.com/cevikfinance/status/2118793891985904120"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "QQQ is down 15% from its peak; buying at -10% and -20% levels makes sense during sharp drops, and some cheap companies could be bought yesterday or today.",
+          "quote": "you know I said buying at -10 and -20 levels makes sense. Of course there are some good, cheap companies that are an exception here; they could be bought yesterday and can be bought today.",
+          "source_url": "https://x.com/korkmazali08/status/2118753832435888159"
+        },
+        {
+          "person": "ulkser",
+          "view": "His plan if the Nasdaq weekly RSI hits 30 is clear; he made a small purchase Friday with scaled bids below, and he read the $230M SPY put purchase as a hedge.",
+          "quote": "Personally I made a small purchase on Friday, I have scaled bids below, but what I'll do if weekly RSI sees 30 is very clear",
+          "source_url": "https://x.com/ulkser/status/2118585682817843329"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "According to Katie Stockton, if indexes close November at these fragile levels, technical damage could deepen and make Q1 2027 difficult.",
+          "quote": "A November close could make the first quarter of 2027 difficult",
+          "source_url": "https://x.com/WallStDiaries/status/2118731515433570599"
+        }
+      ]
+    },
+    {
+      "topic": "Iran tensions and oil",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "Relayed talk of a possible strike on Iranian nuclear sites and rumors that neighboring countries are preparing; also shared Trump saying the U.S. is talking to Iran.",
+          "quote": "I don't easily think negatively, but frankly this Iran attack scares me. Nuclear use would be a catastrophe.",
+          "source_url": "https://x.com/cevikfinance/status/2118802295290782026"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Oil fell about 13% on the week, its biggest weekly drop since 2022, with Brent near $95 on the Wednesday after the election; he links it to expectations of an exit from the war, and 10-year yields fell too.",
+          "quote": "Oil prices fell 13% this week.",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "Heisenberg",
+          "view": "Shared Paradotor's claim that Brent will reach $225 within 21 days, without comment.",
+          "quote": "I think Brent crude will reach $225 within 21 days.",
+          "source_url": "https://x.com/heisenbergtrx/status/2118581425481924993"
+        }
+      ]
+    },
+    {
+      "topic": "AI financing and IPOs",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "SoftBank's 5-year CDS spread widened to 466 bps, the widest since 2022; SoftBank is discussing putting in only hundreds of millions in OpenAI's round; Anthropic's IPO roadshow is next week.",
+          "quote": "SOFTBANK'S 5-YEAR CREDIT DEFAULT SWAP SPREAD WIDENS TO 466 BPS, THE WIDEST SINCE 2022",
+          "source_url": "https://x.com/wallstengine/status/2118657064579043353"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Per Bloomberg, discussion of Anthropic's IPO valuation fell from $1.5-2T to $1.3T and the amount to be raised from $100B to $80B.",
+          "quote": "led to the IPO target being pulled down to $1.3 trillion and the planned proceeds to around $80 billion",
+          "source_url": "https://x.com/WallStDiaries/status/2118698664860221644"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "high",
+      "why": "Four sources weighed in; Heisenberg gave concrete levels (a hold above $800-850, otherwise $450-500).",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "negative",
+          "quote": "if it can't hold above $800-850 the next zone is $450-500",
+          "source_url": "https://x.com/heisenbergtrx/status/2118650282355634185"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "I think $MU will reach its old high as long as the index recovers",
+          "source_url": "https://x.com/korkmazali08/status/2118753136227528946"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "My start-of-year analysis was when $MU was at $200. From there it went to 1200.",
+          "source_url": "https://x.com/ulkser/status/2118623554262442002"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Chip stocks are seeing a bit of a bounce in premarket trading ahead of the nonfarm payrolls report, following Thursday's AI-led rout: Micron +9.2%",
+          "source_url": "https://x.com/wallstengine/status/2118675645047898247"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Micron fell about 17%",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "Several people mentioned it; ulkser gave clear levels (bought at $183, sold part at $193) and Defiant Gatekeeper reported the weekly drop.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "I bought $NVDA at 183 and sold part of it at 193 today.",
+          "source_url": "https://x.com/ulkser/status/2118726462752567651"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Nvidia fell about 9%",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "TSMC WEIGHS MAKING 3D DRAM AT NVIDIA'S REQUEST",
+          "source_url": "https://x.com/wallstengine/status/2118707623835136039"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Nvidia is asking TSMC to produce memory chips!",
+          "source_url": "https://x.com/korkmazali08/status/2118759206455021598"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "priority": "medium",
+      "why": "Three sources relayed the same news (3D DRAM plan); none added their own view.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$TSM has reportedly begun drawing up plans to manufacture advanced 3D DRAM chips as AI-driven memory shortages push chip designers to seek additional supply",
+          "source_url": "https://x.com/wallstengine/status/2118707623835136039"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Nvidia was reported to be in talks with TSMC on 3D DRAM production.",
+          "source_url": "https://x.com/WallStDiaries/status/2118710013191446554"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "TSMC entering this sector could mean new long-term competition for $MU Micron, SK Hynix and Samsung.",
+          "source_url": "https://x.com/korkmazali08/status/2118759206455021598"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "priority": "medium",
+      "why": "Defiant Gatekeeper reported the 17% weekly drop and wallstengine the 8.3% premarket rebound.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "AMD also fell about 17%",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Chip stocks are seeing a bit of a bounce in premarket trading ahead of the nonfarm payrolls report, following Thursday's AI-led rout: Micron +9.2% AMD +8.3%",
+          "source_url": "https://x.com/wallstengine/status/2118675645047898247"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Micron +9.2% AMD +8.3% Intel +6.2% Nvidia +5% Broadcom +4.9%",
+          "source_url": "https://x.com/wallstengine/status/2118675645047898247"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "high",
+      "why": "Four sources relayed the same Bloomberg report (Microsoft winding down the rental deal); Oracle disputed it.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Microsoft has reportedly declined to renew its 2023 agreement to rent AI computing capacity from Oracle and has been gradually shutting down that capacity in recent months, Bloomberg reports.",
+          "source_url": "https://x.com/wallstengine/status/2118764006475497734"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Oracle representatives argued the details in the report do not reflect reality and that the partnership continues.",
+          "source_url": "https://x.com/WallStDiaries/status/2118761190755016923"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "Offf $MSFT $ORCL",
+          "source_url": "https://x.com/ulkser/status/2118775542308610474"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "priority": "medium",
+      "why": "The end of the Oracle deal was reported by several sources, but nobody gave their own view on Microsoft.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "MICROSOFT IS WINDING DOWN ITS DEAL TO RENT AI CLOUD CAPACITY FROM ORACLE $ORCL: BLOOMBERG",
+          "source_url": "https://x.com/wallstengine/status/2118760131068633460"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Microsoft fell about 4%",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        }
+      ]
+    },
+    {
+      "symbol": "NDX",
+      "name": "Nasdaq 100",
+      "priority": "high",
+      "why": "Five people gave levels: Yatirim101 a safe zone above 28,900, cevikfinance the 26,000/2025-high test, ulkser a weekly RSI of 38.",
+      "mentions": [
+        {
+          "person": "Yatirim101",
+          "sentiment": "neutral",
+          "quote": "For Nasdaq, the safe zone for me starts above 28,900.",
+          "source_url": "https://x.com/Yatirim101/status/2118733928521400618"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "Frankly I didn't think $NDX would test its 2025 high within the same day",
+          "source_url": "https://x.com/cevikfinance/status/2118662616394465723"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Personally I made a small purchase on Friday, I have scaled bids below",
+          "source_url": "https://x.com/ulkser/status/2118585682817843329"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "$QQQ is down 15% from its October 6 peak to the November 5 close.",
+          "source_url": "https://x.com/korkmazali08/status/2118740730197737686"
+        }
+      ]
+    },
+    {
+      "symbol": "SPY",
+      "name": "S&P 500 ETF",
+      "priority": "medium",
+      "why": "ulkser relayed a $230M put purchase as a concrete position and read it as a hedge.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "A $230M put was bought. I think it's a hedge.",
+          "source_url": "https://x.com/ulkser/status/2118844287211200632"
+        }
+      ]
+    },
+    {
+      "symbol": "SOX",
+      "name": "Semiconductor index",
+      "priority": "medium",
+      "why": "Defiant Gatekeeper gave figures for the 12% weekly drop and Thursday's sharp selloff.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "The semiconductor index fell another 12% this week",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent crude",
+      "priority": "medium",
+      "why": "Defiant Gatekeeper gave the 13% weekly drop and the $95 level; Heisenberg shared the opposite $225 claim.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Oil prices fell 13% this week.",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "I think Brent crude will reach $225 within 21 days.",
+          "source_url": "https://x.com/heisenbergtrx/status/2118581425481924993"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius",
+      "priority": "high",
+      "why": "ulkser gave clear entry/exit levels and profit; FinancewithIzzy also tagged the symbol.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "I bought the $NBIS option around 118 and sold it above 132 today.",
+          "source_url": "https://x.com/ulkser/status/2118726462752567651"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$NVDA $AMD $IREN $NBIS $PLTR",
+          "source_url": "https://x.com/FinancewithIzzy/status/2118801200103481694"
+        }
+      ]
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN",
+      "priority": "high",
+      "why": "FinancewithIzzy gave a clearly positive view based on the earnings figures ($20.3B contract backlog).",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "In my view the $IREN earnings show the AI infrastructure story isn't over yet!",
+          "source_url": "https://x.com/FinancewithIzzy/status/2118732347856019825"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "I also said I switched to stocks like Meta and Palantir in June with profit-taking proceeds",
+          "source_url": "https://x.com/korkmazali08/status/2118757774284997045"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I want to say $NET $CRWD $AAPL or $PLTR on fundamental grounds but I can’t because of valuation concerns",
+          "source_url": "https://x.com/jrouldz/status/2118787941875245193"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "I also said I switched to stocks like Meta and Palantir in June with profit-taking proceeds",
+          "source_url": "https://x.com/korkmazali08/status/2118757774284997045"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "The White House tech advisory board meeting planned for Friday was postponed",
+          "source_url": "https://x.com/WallStDiaries/status/2118718067387560188"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan said he added slightly to his position; one person, concrete action.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "a bit more $BE was added, that's all.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2118811512693228006"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "priority": "medium",
+      "why": "Two sources reported the $1.3B Firefly engine deal and share dilution with figures.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "The stock component will dilute existing shareholders. Under the licensing agreement, AST SpaceMobile will pay approximately $800M upfront, consisting of $400M in cash and 10M–14M Class A shares.",
+          "source_url": "https://x.com/wallstengine/status/2118685862234067182"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "AST SpaceMobile announced it will build its own reusable rocket",
+          "source_url": "https://x.com/WallStDiaries/status/2118703108419105169"
+        }
+      ]
+    },
+    {
+      "symbol": "FLY",
+      "name": "Firefly Aerospace",
+      "priority": "medium",
+      "why": "Two sources reported the 36-engine, $1.3B+ contract.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "FIREFLY SIGNS $1.3B+ ROCKET ENGINE DEAL WITH $ASTS",
+          "source_url": "https://x.com/wallstengine/status/2118683330589962663"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "The company signed a comprehensive $1.3 billion agreement with Firefly Aerospace for rocket engine supply and technical support.",
+          "source_url": "https://x.com/WallStDiaries/status/2118703108419105169"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Neutron rocket's Stage 1 forward dome has been built and cured.",
+          "source_url": "https://x.com/korkmazali08/status/2118804806315721052"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "Hmm if I was forced to pick from current levels $AMZN $IONQ $RKLB $ARKG $ABCL",
+          "source_url": "https://x.com/jrouldz/status/2118787941875245193"
+        }
+      ]
+    },
+    {
+      "symbol": "IBM",
+      "name": "IBM",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$IBM unveiled its first quantum computer in Illinois at Hyde Park Labs in Chicago.",
+          "source_url": "https://x.com/korkmazali08/status/2118801731723403608"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Because of this news quantum stocks were the best-performing theme today.",
+          "source_url": "https://x.com/cevikfinance/status/2118806553537261616"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$IBM has unveiled its first quantum computer in Illinois at Chicago's Hyde Park Labs.",
+          "source_url": "https://x.com/wallstengine/status/2118801292156145692"
+        }
+      ]
+    },
+    {
+      "symbol": "TEM",
+      "name": "Tempus AI",
+      "priority": "medium",
+      "why": "sgundoganX is keeping the position and considering adding another biotech; cevikfinance reported the value of Alphabet's stake rose 41.4%.",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "positive",
+          "quote": "I'm not not thinking about adding one more company alongside $TEM.",
+          "source_url": "https://x.com/sgundoganX/status/2118701448028377282"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$TEM Tempus AI's value rose 41.4% from $89.86 million to $127.04 million.",
+          "source_url": "https://x.com/cevikfinance/status/2118694430404206664"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "priority": "medium",
+      "why": "cevikfinance reported the 13F portfolio changes with figures (total value down 10.8%, Qualcomm a new purchase).",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "Alphabet published its portfolio details today. Reported total value fell from $99.08 billion to $88.35 billion.",
+          "source_url": "https://x.com/cevikfinance/status/2118694430404206664"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Google fell about 3%",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "wallstengine relayed Musk's Q4 revenue projection (~70% increase, ~$24.8B); cevikfinance gave the drop in the value of Alphabet's SpaceX stake.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$SPCX +9% Elon Musk projects SpaceX’s Q4 revenue will rise about 70% from Q3, implying roughly $24.8B, nearly $2B above estimates.",
+          "source_url": "https://x.com/wallstengine/status/2118795344901501184"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "$10.44 billion of this comes from the drop in the value of $SPCX SpaceX Class A.",
+          "source_url": "https://x.com/cevikfinance/status/2118694430404206664"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Tesla announced it will formally enter the Argentine market on November 20, 2026 as part of its Latin America expansion.",
+          "source_url": "https://x.com/WallStDiaries/status/2118726963552522541"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Tesla $TSLA has raised U.S. Cybertruck prices: Premium AWD: $92,490 (+ $7,500) Cyberbeast: $102,490 (+ $2,500)",
+          "source_url": "https://x.com/wallstengine/status/2118644492303818945"
+        }
+      ]
+    },
+    {
+      "symbol": "APP",
+      "name": "AppLovin",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$APP rose 73% this week. 🚀",
+          "source_url": "https://x.com/cevikfinance/status/2118810877319369104"
+        }
+      ]
+    },
+    {
+      "symbol": "KRMN",
+      "name": "Karman Holdings",
+      "priority": "medium",
+      "why": "jrouldz saw a strong earnings report and a chart breakout and noted it is still 66% below speculation highs.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "looks like a really strong earnings report AND chart breakout might just be getting started. Still -66% from speculation highs. will add to watch list",
+          "source_url": "https://x.com/jrouldz/status/2118760553988641191"
+        }
+      ]
+    },
+    {
+      "symbol": "QXO",
+      "name": "QXO",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "I bought $QXO at 15, it fell to 10.",
+          "source_url": "https://x.com/ulkser/status/2118809071797014606"
+        }
+      ]
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "VISTRA $VST Q3’26 EARNINGS HIGHLIGHTS Revenue: $6.35B (Est. $6.02B) Raises FY26 Guide: Ongoing Ops Adj. EBITDA: $7.1B-$7.5B",
+          "source_url": "https://x.com/wallstengine/status/2118675145489350801"
+        }
+      ]
+    },
+    {
+      "symbol": "ANT",
+      "name": "Anthropic",
+      "priority": "high",
+      "why": "Two sources gave the IPO timing (week of November 16) and valuation range ($1.2-1.3T) with concrete figures.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Anthropic reportedly plans to proceed with its IPO roadshow next week. The company is still targeting a public listing during the week of November 16, ahead of Thanksgiving.",
+          "source_url": "https://x.com/wallstengine/status/2118831182192464098"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Valuation discussions ahead of Anthropic's upcoming IPO fell to the $1.3 trillion level.",
+          "source_url": "https://x.com/WallStDiaries/status/2118698664860221644"
+        }
+      ]
+    },
+    {
+      "symbol": "HIMS",
+      "name": "Hims & Hers",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$LLY & $HIMS STRIKE GLP-1 ACCESS DEAL Under the agreement, Hims & Hers will offer Lilly's FDA-approved obesity medicines directly through its platform",
+          "source_url": "https://x.com/wallstengine/status/2118673115983278237"
+        }
+      ]
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$OKLO Q3’26 EARNINGS HIGHLIGHTS Revenue: $1.86M (Est. $1.02M) EPS: -$0.22 (Est. -$0.25) Cash & Marketable Securities: $3.13B",
+          "source_url": "https://x.com/wallstengine/status/2118683991398031765"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg's day centered largely on **Micron**: he explains that the company's gross margin expansion slowed quarter by quarter (+18.4, +10.2, +2.2 points) and that its own Q1'27 guidance shows -0.8 points for the first time. In his view, for a cyclical stock the price looks at the direction of margins rather than their level; a forward P/E that looks like about 4x is misleading because it is calculated on inflated margins. Technically, he gives $450-500 as the next zone if there is no sustained hold above $800-850; the peak ($1,213) was seen the day after the Q3 earnings.\n\nHe hopes those who bought **SanDisk**, **Micron** and similar names at the top eventually profit too, but adds that it shouldn't take months. He says a trade in a chip hardware basket at 3-5% risk \"worked out nicely\"; he also shared, without comment, Paradotor's claim that **Brent crude** will reach $225 in 21 days.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Micron's margin expansion rate is fading",
+          "url": "https://x.com/heisenbergtrx/status/2118687022055395790",
+          "published_at": "2026-11-06T12:48:44.000Z",
+          "summary": "Micron's gross margin gains were +18.4, +10.2 and +2.2 points quarter over quarter, and the company's own Q1'27 guidance shows -0.8 points for the first time, meaning the company itself expects contraction. Because a cyclical stock's price looks at the direction of margins, a stock priced for continued expansion tends to fall to more reasonable multiples once the direction turns. The stock peaked ($1,213) the day after the Q3 earnings; in September price approached the peak while volume didn't even reach half the June peak, which is a classic Wyckoff distribution. He says this doesn't mean it will sink, only that it deserves a lower valuation, and notes he has been writing the same thing since July.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Margin expansion rate is slowing and guidance shows contraction for the first time; the $1,213 peak came the day after Q3 earnings."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Zones of $800-850 and $450-500 for Micron",
+          "url": "https://x.com/heisenbergtrx/status/2118650282355634185",
+          "published_at": "2026-11-06T10:22:44.000Z",
+          "summary": "He says the liquidation volume at the support zone makes it an obvious long, and that if the reaction there doesn't hold above the 200-day average and the prior S/R zone of $800-850, the next zone is $450-500. He adds there was a volume divergence at the top technically and four quarters of margin contraction fundamentally.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "If no sustained hold above $800-850, the next zone is $450-500."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Micron's forward P/E is misleading",
+          "url": "https://x.com/heisenbergtrx/status/2118719106723594651",
+          "published_at": "2026-11-06T14:56:13.000Z",
+          "summary": "Annualizing the $38 EPS in Q1'27 guidance puts Micron at about 4x P/E, but that profit is calculated on an 86% gross margin; in the prior two cycles peak margins were 45-59%. He says that for a cyclical stock the P/E is usually most expensive when it looks lowest.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "The ~4x P/E is computed on an inflated 86% margin; margins are no longer rising."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Selling into rallies and rotation",
+          "url": "https://x.com/heisenbergtrx/status/2118631953851126208",
+          "published_at": "2026-11-06T09:09:54.000Z",
+          "summary": "Quoting his own older tweet, he reminds that the probability of index-carrying stocks carrying the index again after long drawdowns is 12%. He says he hopes those who bought SanDisk, Micron and similar names at the top eventually profit, that there may be rotation back into them after summer but he doesn't know if it will be to the extent expected. He writes that what he bought from the 780 support is still held and that he sold half of it each time people got excited again on rallies.",
+          "assets": [
+            {
+              "symbol": "SNDK",
+              "sentiment": "negative",
+              "note": "Those who bought at the top shouldn't need months to profit; the rotation expectation is limited."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Hopes those who bought at the top eventually profit, but it shouldn't take months."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "\"Nice trade\" in a chip hardware basket",
+          "url": "https://x.com/heisenbergtrx/status/2118639361046823127",
+          "published_at": "2026-11-06T09:39:20.000Z",
+          "summary": "Quoting his own earlier tweet he says \"Nice trade\"; in the quoted tweet he had written that a chip hardware basket could be bought at 3-5% risk and that he would sell when the group starts saying it will come back again.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Reaction to those still telling stories as stocks fall",
+          "url": "https://x.com/heisenbergtrx/status/2118615494378893815",
+          "published_at": "2026-11-06T08:04:30.000Z",
+          "summary": "He says stocks that were pushed for months while margin contractions were ignored have fallen 50-60%, options have melted, and those still saying \"you'll see\" should admit their mistakes. He stresses the issue is not companies going to zero but the money and time people lost.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Claim that Brent will hit $225 in 21 days",
+          "url": "https://x.com/heisenbergtrx/status/2118581425481924993",
+          "published_at": "2026-11-06T05:49:07.000Z",
+          "summary": "He shared Paradotor's tweet saying Brent crude will reach $225 within 21 days, without commenting.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Shared Paradotor's $225-in-21-days claim without comment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": "Defiant Gatekeeper groups this week's events under three headings: the AI narrative cracking, everything falling including oil and yields, and the ball returning to the Fed's court. The weekly drop was 2.7% for the S&P 500 and 3.4% for the Nasdaq, while the semiconductor index lost another 12% in a week. In his view the damage concentrated in chipmakers (**Micron** and **AMD** about 17%, **Nvidia** about 9%), while chip buyers **Microsoft**, **Amazon** and **Google** fell less; the causes are post-election fear over data center approvals and year-end positioning.\n\nOil fell 13% on the week, and he ties the drop in yields and inflation expectations to expectations of an exit from the war. On the Fed, the December hike odds that dipped Thursday returned to roughly 80% after Friday's jobs data; unless next week's CPI is weak he sees a December hike as the base case, adding that what matters most is what is said at the next FOMC.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "AI narrative cracking",
+          "url": "https://www.youtube.com/watch?v=agdhmni1OIU",
+          "published_at": "2026-11-07T07:14:34Z",
+          "summary": "Weekly market update: the S&P 500 fell 2.7%, the Nasdaq 3.4% and the Dow 0.9%; the semiconductor index lost 7.2% last week and 12% this week. Thursday was the S&P 500's worst day since April 2025 and about $2 trillion was wiped from the Nasdaq. The selling concentrated in chipmakers: Micron and AMD fell about 17% and Nvidia about 9%, while chip buyers Amazon fell about 2%, Google 3% and Microsoft 4%. He offers two explanations: fear that a Democratic Congress will slow data center approvals (one analyst puts about 30% of expected 2028 capacity at risk) and hedge funds taking profits before year-end; he stresses the 30% figure is an estimate and no actual bill exists. Oil fell about 13% on the week, its biggest weekly drop since 2022, with Brent near $95 on the Wednesday after the election; since inflation expectations fell too, he ties this to pricing of an exit from the war. On the Fed, December hike odds were ~70% last Friday, ~80% midweek and ~67% Thursday, and returned to ~80% after Friday's 165K jobs figure; Thursday's initial jobless claims of 189K were the lowest since 1969 and Hammack and Daly said they expect tighter policy. Unless next week's CPI is weak, he sees a December hike as the base case.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Fell about 17% on the week; among the hardest-hit chipmakers."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "negative",
+              "note": "Fell about 17%."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "negative",
+              "note": "Fell about 9%."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "negative",
+              "note": "Fell about 4% as a chip buyer, less than the chipmakers."
+            },
+            {
+              "symbol": "GOOGL",
+              "sentiment": "negative",
+              "note": "Fell about 3%."
+            },
+            {
+              "symbol": "SOX",
+              "sentiment": "negative",
+              "note": "Fell 12% this week and 7.2% the previous week."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "negative",
+              "note": "Fell about 13% on the week; Brent was near $95 on Wednesday."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser's day went to position management and hedge commentary: he saw a $230M put purchase on **SPY** and reads it as a delta-neutral hedge, though he says it is entirely his own scenario. He notes the Nasdaq weekly RSI has dropped to 38, that he made a small purchase Friday with scaled bids below, and that what he'll do if weekly RSI hits 30 is clear. Among his own trades, he says he bought **Nvidia** at $183 and sold part at $193, and bought a **Nebius** option around 118 and sold above 132; he bought **QXO** at 15 and has seen it fall to 10. On **Micron**, he defends his start-of-year $200 analysis and his warning not to buy at 1,200; he reacted negatively to the news that the **Microsoft**-**Oracle** deal is being wound down.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "$230M SPY put purchase",
+          "url": "https://x.com/ulkser/status/2118844287211200632",
+          "published_at": "2026-11-06T23:13:38.000Z",
+          "summary": "He says a $230M put was bought, that he thinks it is a hedge and that he normally doesn't look at index option flows; he adds it is for delta neutrality but is entirely a scenario he built in his head.",
+          "assets": [
+            {
+              "symbol": "SPY",
+              "sentiment": "neutral",
+              "note": "Reads the $230M put purchase as a hedge."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "End of the Microsoft-Oracle deal",
+          "url": "https://x.com/ulkser/status/2118775542308610474",
+          "published_at": "2026-11-06T18:40:28.000Z",
+          "summary": "He reacts with \"Offf\" to the news that Microsoft is winding down its AI cloud capacity rental deal with Oracle.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Reacted negatively to the news the deal is being wound down."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Shared the news with no comment of his own."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "I'm not an enemy of AI stocks, I'm an enemy of inflated prices",
+          "url": "https://x.com/ulkser/status/2118726462752567651",
+          "published_at": "2026-11-06T15:25:27.000Z",
+          "summary": "He writes that he bought Nvidia at $183 and sold part at $193 today, and bought a Nebius option around 118 and sold above 132; he says one must know how to wait for opportunities.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Bought at $183 and sold part at $193."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Bought the option around 118 and sold above 132."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "$650 profit per contract on Nebius option",
+          "url": "https://x.com/ulkser/status/2118718571689722133",
+          "published_at": "2026-11-06T14:54:06.000Z",
+          "summary": "He notes the NBIS option is showing $650 profit per contract on a $2 move.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "$650 profit per contract on the option."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Defending his start-of-year Micron analysis",
+          "url": "https://x.com/ulkser/status/2118623554262442002",
+          "published_at": "2026-11-06T08:36:32.000Z",
+          "summary": "His start-of-year analysis had $MU at $200 and it went to 1,200; he asks whether the market regime will stay fixed for 11 months. He says he doesn't delete tweets, that he also wrote AMD blew up badly, and he defends his warning not to buy at 1,200.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Was $200 at year start and went to 1,200; defends his warning not to buy at 1,200."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "negative",
+              "note": "Notes he wrote in his start-of-year analysis that AMD blew up badly."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nasdaq weekly RSI 38",
+          "url": "https://x.com/ulkser/status/2118585682817843329",
+          "published_at": "2026-11-06T06:06:02.000Z",
+          "summary": "Quoting his own earlier tweet he points out weekly RSI is at 38; he says he made a small purchase Friday, has scaled bids below, and wrote last year what he'd do if weekly RSI sees 30.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "positive",
+              "note": "Made a small purchase Friday with scaled bids below."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Bought QXO at 15",
+          "url": "https://x.com/ulkser/status/2118809071797014606",
+          "published_at": "2026-11-06T20:53:42.000Z",
+          "summary": "He writes that he bought $QXO at 15, it fell to 10, and that he manages risk well in his own way and is good on the scalp side.",
+          "assets": [
+            {
+              "symbol": "QXO",
+              "sentiment": "neutral",
+              "note": "Bought at 15, it dropped to 10."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan says portfolio details will come over the weekend, that there isn't much change and that he only added a bit more **Bloom Energy**. He writes that he gave back yesterday's scalp gains with a single mistake. Because stocks held on margin could be force-sold with debt after a single mistake, he recommends buying hedges below the 50-day in such periods.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Portfolio details over the weekend, BE slightly increased",
+          "url": "https://x.com/AhmetSunelcan1/status/2118811512693228006",
+          "published_at": "2026-11-06T21:03:24.000Z",
+          "summary": "He writes portfolio details will come over the weekend, there isn't much change and a bit more $BE was added.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "Added slightly to the position."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Scalp gains given back with a single mistake",
+          "url": "https://x.com/AhmetSunelcan1/status/2118719656152240366",
+          "published_at": "2026-11-06T14:58:24.000Z",
+          "summary": "He writes he gave back everything he made from scalping yesterday with a single mistake, and that it doesn't always work out.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Hedge suggestion on margin",
+          "url": "https://x.com/AhmetSunelcan1/status/2118689629167599768",
+          "published_at": "2026-11-06T12:59:05.000Z",
+          "summary": "He says stocks held on margin could be force-sold with debt after a single mistake, so in such periods buying hedges below the 50-day is enough.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "sgundoganX shared the piece showing Sequoia is turning toward biotech and says he is considering adding another company alongside his **Tempus AI** position.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Sequoia says biotech too",
+          "url": "https://x.com/sgundoganX/status/2118701448028377282",
+          "published_at": "2026-11-06T13:46:03.000Z",
+          "summary": "He shared the article where Sequoia emphasizes biotech and says he is considering adding one more company alongside $TEM.",
+          "assets": [
+            {
+              "symbol": "TEM",
+              "sentiment": "positive",
+              "note": "Holds a position; considering adding another company next to it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 pushes back against those who blame the drop on hedge funds, writing that **QQQ** is down 15% from its October 6 peak and that macro and valuation problems shouldn't be ignored; buying at -10% and -20% levels makes sense, but he prefers leaving 15% at the bottom in case it falls. He thinks **Micron** will reach its old high as the index recovers. He reminds that in June he moved into stocks like **Meta** and **Palantir** with profit-taking proceeds. He also shared news on the **Rocket Lab** Neutron dome, the **IBM** quantum computer and Nvidia asking TSMC for 3D DRAM.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Pushback on the hedge fund excuse",
+          "url": "https://x.com/korkmazali08/status/2118740730197737686",
+          "published_at": "2026-11-06T16:22:09.000Z",
+          "summary": "QQQ is down 15% from its October 6 peak to the November 5 close and many tech stocks are 20-60% below their peaks; he says blaming hedge funds on every sharp drop is self-defeating, and ignoring macro and geopolitical uncertainty and valuations doesn't make one a good investor.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "negative",
+              "note": "QQQ is 15% below its peak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Buying at -10% and -20% levels",
+          "url": "https://x.com/korkmazali08/status/2118753832435888159",
+          "published_at": "2026-11-06T17:14:12.000Z",
+          "summary": "He says an 11% drop is quite fine in this environment, that buying at -10% and -20% levels makes sense and that some cheap companies can be bought yesterday and today; he himself leaves 15% at the bottom in case of a drop, or buys higher after the market turns.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Micron will reach its old high",
+          "url": "https://x.com/korkmazali08/status/2118753136227528946",
+          "published_at": "2026-11-06T17:11:26.000Z",
+          "summary": "He writes he thinks $MU will reach its old high as long as the index recovers.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Thinks it will reach its old high as long as the index recovers."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "June move into Meta and Palantir",
+          "url": "https://x.com/korkmazali08/status/2118757774284997045",
+          "published_at": "2026-11-06T17:29:52.000Z",
+          "summary": "He writes that in past posts he mentioned QQQ levels, caution until uncertainties are resolved and profit-taking at peaks, and that he moved into stocks like Meta and Palantir in June with profit-taking proceeds.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Says he moved into Meta in June with profit-taking proceeds."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "Says he moved into Palantir in June with profit-taking proceeds."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia asks TSMC for 3D DRAM",
+          "url": "https://x.com/korkmazali08/status/2118759206455021598",
+          "published_at": "2026-11-06T17:35:34.000Z",
+          "summary": "He relays that, per The Information, Nvidia asked TSMC to make next-generation 3D DRAM to ease the memory bottleneck, which could mean new long-term competition for Micron, SK Hynix and Samsung.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Relayed the news that it asked TSMC to make 3D DRAM."
+            },
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "Considering building a fab or buying an existing facility for 3D DRAM."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Could mean new competition in the long term."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Rocket Lab Neutron forward dome completed",
+          "url": "https://x.com/korkmazali08/status/2118804806315721052",
+          "published_at": "2026-11-06T20:36:45.000Z",
+          "summary": "He shared Rocket Lab's news that the Neutron rocket's Stage 1 forward dome was built and cured; next steps are analysis and material tests.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Shared the news without his own view."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IBM unveils its first quantum computer in Illinois",
+          "url": "https://x.com/korkmazali08/status/2118801731723403608",
+          "published_at": "2026-11-06T20:24:32.000Z",
+          "summary": "He relays that IBM unveiled the Nighthawk-powered Quantum System Two at Hyde Park Labs in Chicago and plans 750 new jobs.",
+          "assets": [
+            {
+              "symbol": "IBM",
+              "sentiment": "neutral",
+              "note": "Shared the news."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump's superintelligence support",
+          "url": "https://x.com/korkmazali08/status/2118758471801995286",
+          "published_at": "2026-11-06T17:32:38.000Z",
+          "summary": "Saying \"the President has taken the field\", he shared Trump's messages saying he is 100% behind superintelligence and that the stock market had one of its worst days due to the election results.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": "Yatirim101 reminds that the Nasdaq 100 has fallen more than 10% from a record 35 times since 1985 and that about a quarter of those turned into bear markets; he says sharp rebound days are not bottom signals and that for him the safe zone starts above 28,900. He also wrote that for an index, 26,400 from yesterday's candle is important and 23,000 is its cheapest zone.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "History of Nasdaq 100 corrections",
+          "url": "https://x.com/Yatirim101/status/2118733928521400618",
+          "published_at": "2026-11-06T15:55:07.000Z",
+          "summary": "The Nasdaq 100 has fallen more than 10% 35 times since 1985; of the 34 completed corrections, 8 went past 20% into bear markets and in 26 the decline stopped at an average of 13%. He notes rebound moves are not bottom signals and 18 of the best 20 days happened mid-bear-market; the safe zone starts above 28,900.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "Safe zone starts above 28,900."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Levels of 26,400 and 23,000",
+          "url": "https://x.com/Yatirim101/status/2118736280578400307",
+          "published_at": "2026-11-06T16:04:28.000Z",
+          "summary": "He writes that 26,400, where the candle printed yesterday, is important and that 23,000 is the index's cheapest zone; the tweet doesn't specify which index.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries mostly relayed political and financing risk in AI infrastructure today: new governors' pledges to halt data center construction could affect about 40% of pending capacity, the rental deal between **Microsoft** and **Oracle** was called off, and discussion of **Anthropic**'s IPO valuation fell to $1.3 trillion. It relayed that strong jobs data could make the Fed more cautious and Katie Stockton's warning that a November close could make Q1 2027 difficult. In company news, **AST SpaceMobile**'s $1.3B engine deal with Firefly, **Nvidia**'s talks with TSMC on 3D DRAM and the **Hims & Hers**-**Eli Lilly** partnership stood out.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Microsoft-Oracle cloud deal called off",
+          "url": "https://x.com/WallStDiaries/status/2118761190755016923",
+          "published_at": "2026-11-06T17:43:27.000Z",
+          "summary": "Per Bloomberg, Microsoft ended talks on an AI cloud rental deal of about $3 billion, citing FedRAMP certification snags; Oracle denied the details.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Ended rental talks with Oracle."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Deal called off; Oracle disputed the report."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "OpenAI will cover electricity and infrastructure costs",
+          "url": "https://x.com/WallStDiaries/status/2118745317935808820",
+          "published_at": "2026-11-06T16:40:22.000Z",
+          "summary": "He relayed from CNBC-e OpenAI's commitment to cover electricity and infrastructure costs amid growing backlash against data centers.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "New political hurdles for data centers",
+          "url": "https://x.com/WallStDiaries/status/2118738058954641473",
+          "published_at": "2026-11-06T16:11:32.000Z",
+          "summary": "Per Cleanview data, new governors' pledges to halt construction could affect about 40% of pending capacity; Texas has the largest share at 88.4 GW, followed by Ohio 21.9, Georgia 20.2, New Mexico 11 and New York 9.9 GW.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Katie Stockton's warning on the November close",
+          "url": "https://x.com/WallStDiaries/status/2118731515433570599",
+          "published_at": "2026-11-06T15:45:32.000Z",
+          "summary": "According to Katie Stockton of Fairlead, if indexes close November at fragile levels, medium-term momentum could break and the technical damage could make Q1 2027 difficult.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "negative",
+              "note": "If November closes weak, critical supports could be lost."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla enters Argentina",
+          "url": "https://x.com/WallStDiaries/status/2118726963552522541",
+          "published_at": "2026-11-06T15:27:26.000Z",
+          "summary": "Tesla enters the Argentine market from November 20, 2026, planning a showroom in Buenos Aires and a Supercharger network nationwide.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Entering Argentina on November 20."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fox completes $22B Roku acquisition",
+          "url": "https://x.com/WallStDiaries/status/2118720896370200946",
+          "published_at": "2026-11-06T15:03:20.000Z",
+          "summary": "Fox's acquisition of Roku in a cash-and-stock deal of about $22 billion was completed as of November 6; Roku shareholders received $96 in cash and about 0.97 Fox Class A shares per share.",
+          "assets": [
+            {
+              "symbol": "FOXA",
+              "sentiment": "neutral",
+              "note": "Acquired Roku for $22 billion."
+            },
+            {
+              "symbol": "ROKU",
+              "sentiment": "neutral",
+              "note": "Joined Fox; standalone trading ended."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "White House tech board meeting postponed",
+          "url": "https://x.com/WallStDiaries/status/2118718067387560188",
+          "published_at": "2026-11-06T14:52:05.000Z",
+          "summary": "The White House tech advisory board meeting on Friday, which includes Jensen Huang and Mark Zuckerberg, was postponed without explanation.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "The board meeting that includes Zuckerberg was postponed."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "The board meeting that includes Jensen Huang was postponed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia's 3D DRAM move with TSMC",
+          "url": "https://x.com/WallStDiaries/status/2118710013191446554",
+          "published_at": "2026-11-06T14:20:05.000Z",
+          "summary": "It is reported that Nvidia is in talks with TSMC on 3D DRAM production to ease the memory supply crisis; commercial-scale mass production would take several years and wouldn't solve the shortage in the short term.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "In talks with TSMC on 3D DRAM."
+            },
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "In talks on 3D DRAM production."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "A move to reduce dependence on traditional memory makers."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump is 100% behind superintelligence",
+          "url": "https://x.com/WallStDiaries/status/2118708474825552062",
+          "published_at": "2026-11-06T14:13:58.000Z",
+          "summary": "He relayed Trump's message saying he is 100% behind superintelligence and will work with states that want to get rich from it.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Hims & Hers and Eli Lilly partnership",
+          "url": "https://x.com/WallStDiaries/status/2118704635355545668",
+          "published_at": "2026-11-06T13:58:43.000Z",
+          "summary": "Hims & Hers users will be able to access Lilly's Zepbound and next-generation obesity drugs through the platform at self-pay prices; Hims shares moved higher on the news.",
+          "assets": [
+            {
+              "symbol": "HIMS",
+              "sentiment": "positive",
+              "note": "Shares rose on the news."
+            },
+            {
+              "symbol": "LLY",
+              "sentiment": "neutral",
+              "note": "Its drugs become accessible through the platform."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AST SpaceMobile will build its own rocket",
+          "url": "https://x.com/WallStDiaries/status/2118703108419105169",
+          "published_at": "2026-11-06T13:52:39.000Z",
+          "summary": "AST SpaceMobile will build its 20-ton reusable Blacklift rocket under a $1.3 billion engine agreement with Firefly.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "neutral",
+              "note": "Announced it will build its own rocket."
+            },
+            {
+              "symbol": "FLY",
+              "sentiment": "positive",
+              "note": "Signed a $1.3 billion engine agreement."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "October jobs data beat expectations",
+          "url": "https://x.com/WallStDiaries/status/2118698268599173603",
+          "published_at": "2026-11-06T13:33:25.000Z",
+          "summary": "Nonfarm payrolls were 165K (est. 65K), unemployment 4.1% and hourly earnings 3.1% YoY; the strong data raises the expectation that the Fed may act more cautiously.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic IPO valuation fell",
+          "url": "https://x.com/WallStDiaries/status/2118698664860221644",
+          "published_at": "2026-11-06T13:34:59.000Z",
+          "summary": "Per Bloomberg, discussion of Anthropic's IPO valuation fell from $1.5-2 trillion to $1.3 trillion and the planned raise from $100 billion to $80 billion.",
+          "assets": [
+            {
+              "symbol": "ANT",
+              "sentiment": "negative",
+              "note": "Valuation expectations fell to $1.3 trillion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy reads the **IREN** earnings as a sign the AI infrastructure story isn't over: revenue of $228 million, contract backlog of $20.3 billion; in his view the key point is new contract pricing, while the risks are the $263 million net loss and the delay in reaching the $4 billion ARR target. He also shared a podcast debating whether the decline is over and the previous day's episode on **Nvidia**, **AMD**, **Nebius** and **Palantir**.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "IREN earnings: AI infrastructure story isn't over",
+          "url": "https://x.com/FinancewithIzzy/status/2118732347856019825",
+          "published_at": "2026-11-06T15:48:50.000Z",
+          "summary": "Revenue was $228 million (+66% QoQ), AI Cloud revenue $200 million (+182%), adjusted EBITDA $66 million, AI Cloud gross margin 86% and contract backlog $20.3 billion. New 5-year deals stand out with about $22 million revenue per MW and 90% of GPU investment funded upfront, while the short-term contract is priced at $40 million/MW. The risks are the $263 million net loss and the delay in reaching the $4 billion ARR target; the critical question is how fast demand converts into cash.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "Earnings show the AI infrastructure story isn't over; risks are the $263M net loss and the ARR target delay."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Tagged."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "neutral",
+              "note": "Tagged."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "\"Market split in two\" podcast",
+          "url": "https://x.com/FinancewithIzzy/status/2118801200103481694",
+          "published_at": "2026-11-06T20:22:26.000Z",
+          "summary": "He announced a new podcast episode on whether the decline is over after yesterday's sharp selloff and today's rebound buying, covering Wall Street, the Fed, AI stocks and next week's risks.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "IREN",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "\"Is the AI bubble bursting\" podcast",
+          "url": "https://x.com/FinancewithIzzy/status/2118624382662705329",
+          "published_at": "2026-11-06T08:39:49.000Z",
+          "summary": "He re-shared the podcast from last night that reached many people, discussing the market's sharp decline and selling pressure in AI stocks.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Podcast tag."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine's day centered on two themes: the October jobs report coming in far above expectations, and the financing and infrastructure side of AI. **Anthropic** plans to start its IPO roadshow next week, SoftBank's CDS spread widened to 466 bps, and 41% of planned data center capacity sits in states whose governors back a pause. On the company side, **Microsoft** winding down its rental deal with **Oracle**, TSMC weighing 3D DRAM at Nvidia's request, the **Vistra**, **Oklo** and **Moderna** earnings and Musk's SpaceX revenue targets stood out.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "October jobs report",
+          "url": "https://x.com/wallstengine/status/2118697437061685731",
+          "published_at": "2026-11-06T13:30:07.000Z",
+          "summary": "Nonfarm payrolls +165K (est. +65K), unemployment 4.1% (est. 4.2%), hourly earnings 3.1% YoY (est. 2.9%), participation rate 61.9%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Best hiring month at U.S. chip factories",
+          "url": "https://x.com/wallstengine/status/2118701173461127358",
+          "published_at": "2026-11-06T13:44:57.000Z",
+          "summary": "Computer and electronics makers added 6,700 jobs in October; U.S. factories overall added 19K (est. 5K).",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "UMich consumer sentiment",
+          "url": "https://x.com/wallstengine/status/2118720737850851812",
+          "published_at": "2026-11-06T15:02:42.000Z",
+          "summary": "November preliminary reading 51.0 (est. 48.0); 1-year inflation expectations 4.3%, 5-year 3.4%.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Consumer credit rose $27.8B in September",
+          "url": "https://x.com/wallstengine/status/2118806959914897869",
+          "published_at": "2026-11-06T20:45:19.000Z",
+          "summary": "The biggest monthly increase in nearly 4 years; credit card/revolving debt +$16.3B, auto and student loans +$11.5B.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Unemployment duration rose to 27.1 weeks",
+          "url": "https://x.com/wallstengine/status/2118872664194617490",
+          "published_at": "2026-11-07T01:06:24.000Z",
+          "summary": "The average unemployed American has been out of work for 27.1 weeks, the longest since 2016 outside the pandemic.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic IPO roadshow next week",
+          "url": "https://x.com/wallstengine/status/2118831182192464098",
+          "published_at": "2026-11-06T22:21:34.000Z",
+          "summary": "Per The Information, the company is still targeting a listing the week of November 16, ahead of Thanksgiving.",
+          "assets": [
+            {
+              "symbol": "ANT",
+              "sentiment": "neutral",
+              "note": "Week of November 16 IPO target remains."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kalshi odds of Anthropic IPO at 85%",
+          "url": "https://x.com/wallstengine/status/2118822253362335762",
+          "published_at": "2026-11-06T21:46:05.000Z",
+          "summary": "Kalshi odds of an Anthropic IPO this month jumped back to 85%; the FT reports the company is pressing ahead, potentially raising $80B-$100B at a $1.25T-$1.75T valuation.",
+          "assets": [
+            {
+              "symbol": "ANT",
+              "sentiment": "neutral",
+              "note": "IPO targeted at $80B-$100B raise and $1.25T-$1.75T valuation."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic valuation talk down to $1.2-1.3T",
+          "url": "https://x.com/wallstengine/status/2118699611653345649",
+          "published_at": "2026-11-06T13:38:45.000Z",
+          "summary": "Per Bloomberg some investors are discussing $1.2T-$1.3T, down from $1.4T-$1.5T weeks ago and estimates up to $2T in early October, a roughly 40% drop from the peak.",
+          "assets": [
+            {
+              "symbol": "ANT",
+              "sentiment": "negative",
+              "note": "Valuation expectations fell about 40% from the peak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SoftBank to put only hundreds of millions into OpenAI round",
+          "url": "https://x.com/wallstengine/status/2118704603508474151",
+          "published_at": "2026-11-06T13:58:35.000Z",
+          "summary": "Per NYT DealBook, SoftBank is in talks to put in only hundreds of millions of dollars in OpenAI's new round.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SoftBank CDS spread widens to 466 bps",
+          "url": "https://x.com/wallstengine/status/2118657064579043353",
+          "published_at": "2026-11-06T10:49:41.000Z",
+          "summary": "SoftBank's 5-year CDS spread widened to 466 bps, the widest since 2022.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Thinking Machines nears $5B round",
+          "url": "https://x.com/wallstengine/status/2118651183489548319",
+          "published_at": "2026-11-06T10:26:19.000Z",
+          "summary": "Mira Murati's Thinking Machines Lab is reportedly nearing a $5B round led by Accel at a $40B pre-money valuation.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "41% of data center capacity in states backing a pause",
+          "url": "https://x.com/wallstengine/status/2118660880317751623",
+          "published_at": "2026-11-06T11:04:51.000Z",
+          "summary": "Per Cleanview, 41% of planned capacity, 158.6 GW across nine states: Texas 88.4, Ohio 21.9, Georgia 20.2, New Mexico 11.0 and New York 9.9 GW.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Susquehanna: 8% of capacity could be canceled",
+          "url": "https://x.com/wallstengine/status/2118667467275010059",
+          "published_at": "2026-11-06T11:31:01.000Z",
+          "summary": "Per Susquehanna, 8% of planned AI data center capacity (out of 148GW) could be canceled in a worst-case scenario.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Hassett: room for data center growth",
+          "url": "https://x.com/wallstengine/status/2118709205821718970",
+          "published_at": "2026-11-06T14:16:53.000Z",
+          "summary": "Kevin Hassett says there is plenty of room for data center growth to continue and that Trump respects localities that don't want data centers.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump backs superintelligence",
+          "url": "https://x.com/wallstengine/status/2118676172754374881",
+          "published_at": "2026-11-06T12:05:37.000Z",
+          "summary": "Trump wrote he is 100% in favor of superintelligence and will work with the states.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "White House tech panel meeting called off",
+          "url": "https://x.com/wallstengine/status/2118709453054947424",
+          "published_at": "2026-11-06T14:17:51.000Z",
+          "summary": "Per Reuters, the planned meeting of the tech panel that includes Nvidia's Jensen Huang and Meta's Mark Zuckerberg was called off.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "The panel meeting including Huang was called off."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "The panel meeting including Zuckerberg was called off."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft winds down AI cloud deal with Oracle",
+          "url": "https://x.com/wallstengine/status/2118764006475497734",
+          "published_at": "2026-11-06T17:54:38.000Z",
+          "summary": "Per Bloomberg, Microsoft declined to renew the 2023 agreement and has been gradually shutting down the capacity; the servers used older-generation Nvidia GPUs, and Oracle says demand remains strong.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Declined to renew the rental agreement."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Older-GPU capacity no longer met Microsoft's specs; Oracle says demand is strong."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TSMC weighs 3D DRAM at Nvidia's request",
+          "url": "https://x.com/wallstengine/status/2118707623835136039",
+          "published_at": "2026-11-06T14:10:35.000Z",
+          "summary": "Per The Information, TSMC has begun drawing up 3D DRAM manufacturing plans; it could compete directly with Samsung, SK Hynix and Micron, with no timeline set.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "Considering new fabs or converting an existing facility for 3D DRAM."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Direct competition risk."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CME delays Nvidia GPU rental futures",
+          "url": "https://x.com/wallstengine/status/2118736880913260548",
+          "published_at": "2026-11-06T16:06:51.000Z",
+          "summary": "CME delayed the launch of futures tied to Nvidia GPU rental prices for a second time, pushing any approval into January.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "GPU rental futures pushed into January."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Chip stocks bounce in premarket",
+          "url": "https://x.com/wallstengine/status/2118675645047898247",
+          "published_at": "2026-11-06T12:03:31.000Z",
+          "summary": "After Thursday's AI-led rout, premarket Micron rose 9.2%, AMD 8.3%, Intel 6.2%, Nvidia 5% and Broadcom 4.9%.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Up 9.2% premarket."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Up 8.3% premarket."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Up 5% premarket."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Up 4.9% premarket."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX Q4 revenue projection",
+          "url": "https://x.com/wallstengine/status/2118795344901501184",
+          "published_at": "2026-11-06T19:59:10.000Z",
+          "summary": "Musk projects SpaceX's Q4 revenue will rise about 70% from Q3 to roughly $24.8B, nearly $2B above estimates; $SPCX rose 9%.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Q4 revenue projection nearly $2B above estimates; shares rose 9%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX $100B+ revenue run rate",
+          "url": "https://x.com/wallstengine/status/2118785767015329930",
+          "published_at": "2026-11-06T19:21:06.000Z",
+          "summary": "Musk says SpaceX is tracking toward a $100B+ annual revenue rate by December 2026 and could exceed $500B by December 2027.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Target of a $500B+ revenue rate by December 2027."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX space-based AI computers",
+          "url": "https://x.com/wallstengine/status/2118789898799063171",
+          "published_at": "2026-11-06T19:37:31.000Z",
+          "summary": "Musk says SpaceX could begin deploying space-based AI computers co-designed with Nvidia around Q3 2027, ramping to significant volume in 2028.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Space AI computers co-designed with SpaceX."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Terafab: 1 terawatt of AI chips a year",
+          "url": "https://x.com/wallstengine/status/2118786795076997331",
+          "published_at": "2026-11-06T19:25:11.000Z",
+          "summary": "Musk says Terafab aims to produce 1 terawatt of AI chips annually and could cost $1 trillion.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Government revenue under 10% of SpaceX revenue",
+          "url": "https://x.com/wallstengine/status/2118741211255341486",
+          "published_at": "2026-11-06T16:24:03.000Z",
+          "summary": "Musk says government revenue will be less than 10% of SpaceX's revenue this quarter and that Tesla has no government contracts.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Government revenue under 10%."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla raises Cybertruck prices",
+          "url": "https://x.com/wallstengine/status/2118644492303818945",
+          "published_at": "2026-11-06T09:59:44.000Z",
+          "summary": "Premium AWD $92,490 (+$7,500), Cyberbeast $102,490 (+$2,500); Musk had said Cybertruck production will wind down mid-next year to make room for Cybercab.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Cybertruck prices raised."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AST SpaceMobile to build its own reusable rocket",
+          "url": "https://x.com/wallstengine/status/2118686227088175124",
+          "published_at": "2026-11-06T12:45:34.000Z",
+          "summary": "The 20-ton Blacklift rocket is targeted for late 2028; $1.3B+ agreement with Firefly, about $800M upfront ($400M cash plus 10M-14M shares).",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "neutral",
+              "note": "The stock component will dilute existing shareholders."
+            },
+            {
+              "symbol": "FLY",
+              "sentiment": "positive",
+              "note": "36-engine and licensing agreement."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oklo Q3 earnings",
+          "url": "https://x.com/wallstengine/status/2118683991398031765",
+          "published_at": "2026-11-06T12:36:41.000Z",
+          "summary": "Revenue $1.86M (est. $1.02M), EPS -$0.22 (est. -$0.25), cash $3.13B; FY26 cash used in operations $120M-$150M.",
+          "assets": [
+            {
+              "symbol": "OKLO",
+              "sentiment": "positive",
+              "note": "Revenue and EPS beat estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TeraWulf Q3 earnings",
+          "url": "https://x.com/wallstengine/status/2118675972039880831",
+          "published_at": "2026-11-06T12:04:49.000Z",
+          "summary": "Revenue $76.2M (est. $61.8M), adjusted EBITDA -$12.8M (est. +$12.8M); Anthropic lease of ~401 MW and ~$19B contracted revenue.",
+          "assets": [
+            {
+              "symbol": "WULF",
+              "sentiment": "neutral",
+              "note": "Revenue beat, adjusted EBITDA missed."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Vistra Q3 earnings and raised guidance",
+          "url": "https://x.com/wallstengine/status/2118675145489350801",
+          "published_at": "2026-11-06T12:01:32.000Z",
+          "summary": "Revenue $6.35B (est. $6.02B), adjusted EBITDA $2.36B (+51% YoY); FY26 EBITDA guidance raised to $7.1B-$7.5B.",
+          "assets": [
+            {
+              "symbol": "VST",
+              "sentiment": "positive",
+              "note": "Earnings beat and guidance raised."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Under Armour Q2'27 earnings",
+          "url": "https://x.com/wallstengine/status/2118674054169170345",
+          "published_at": "2026-11-06T11:57:12.000Z",
+          "summary": "Revenue $1.24B (-7% YoY), Q3 EPS guidance -$0.03 to -$0.01 (est. $0.05).",
+          "assets": [
+            {
+              "symbol": "UAA",
+              "sentiment": "negative",
+              "note": "Q3 guidance below estimates."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Moderna Q3 earnings",
+          "url": "https://x.com/wallstengine/status/2118671176075526487",
+          "published_at": "2026-11-06T11:45:46.000Z",
+          "summary": "Revenue $1.3B (est. $885M), EPS $0.38; FY26 revenue growth guidance raised to 15%-25%.",
+          "assets": [
+            {
+              "symbol": "MRNA",
+              "sentiment": "positive",
+              "note": "Revenue beat and guidance raised."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Humana Q3 earnings",
+          "url": "https://x.com/wallstengine/status/2118663258491977846",
+          "published_at": "2026-11-06T11:14:18.000Z",
+          "summary": "Revenue $41.16B, adjusted EPS -$0.70 (est. -$1.00); FY26 adjusted EPS guidance raised to at least $9.50.",
+          "assets": [
+            {
+              "symbol": "HUM",
+              "sentiment": "positive",
+              "note": "Guidance raised."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Lilly and Hims & Hers GLP-1 deal",
+          "url": "https://x.com/wallstengine/status/2118673115983278237",
+          "published_at": "2026-11-06T11:53:28.000Z",
+          "summary": "Hims & Hers will offer Lilly's Foundayo (oral) at $149/month and Zepbound at $299/month and committed not to offer compounded copies.",
+          "assets": [
+            {
+              "symbol": "LLY",
+              "sentiment": "positive",
+              "note": "Its products will be offered directly through the platform."
+            },
+            {
+              "symbol": "HIMS",
+              "sentiment": "positive",
+              "note": "Committed not to offer compounded copies."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IBM's first quantum computer",
+          "url": "https://x.com/wallstengine/status/2118801292156145692",
+          "published_at": "2026-11-06T20:22:48.000Z",
+          "summary": "IBM Quantum System Two, powered by the Nighthawk processor, was unveiled at Hyde Park Labs in Chicago; 750 jobs are planned.",
+          "assets": [
+            {
+              "symbol": "IBM",
+              "sentiment": "neutral",
+              "note": "The system will move to the Illinois Quantum and Microelectronics Park."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Google acquires Crusoe's Wyoming site",
+          "url": "https://x.com/wallstengine/status/2118796621681193297",
+          "published_at": "2026-11-06T20:04:14.000Z",
+          "summary": "Google acquired Crusoe's site near Cheyenne (2.7 GW) a day after announcing a $17B investment; first halls in H2 2028.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Acquired the Wyoming site with a $17B investment."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Alphabet takes a Qualcomm stake",
+          "url": "https://x.com/wallstengine/status/2118663505536757859",
+          "published_at": "2026-11-06T11:15:17.000Z",
+          "summary": "Alphabet's 13F filing shows about 3 million Qualcomm shares worth $548 million at the end of September.",
+          "assets": [
+            {
+              "symbol": "QCOM",
+              "sentiment": "neutral",
+              "note": "New position in Alphabet's 13F."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Blackstone doubles BXPE lock-ups",
+          "url": "https://x.com/wallstengine/status/2118616970367287500",
+          "published_at": "2026-11-06T08:10:22.000Z",
+          "summary": "Per FT, Blackstone is doubling lock-up periods to four years for new Hong Kong and Singapore investors in its $29B BXPE fund, with a 5% penalty for early exits.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz writes that if forced to pick from current levels on fundamentals he would say **Cloudflare**, **CrowdStrike**, **Apple** or **Palantir** but can't because of valuation concerns. **Karman**'s strong earnings and chart breakout caught his eye; it is still 66% below speculation highs and he'll add it to his watchlist. On the market, he wants green that lasts more than 48 hours: a green close, a gap-up and green close Monday, and a green premarket Tuesday before he gets excited.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Theme baskets and valuation concerns",
+          "url": "https://x.com/jrouldz/status/2118787941875245193",
+          "published_at": "2026-11-06T19:29:45.000Z",
+          "summary": "He writes that if forced to pick from current levels on fundamentals he'd say NET, CRWD, AAPL or PLTR, can't because of valuation concerns, and likes diversification across theme baskets.",
+          "assets": [
+            {
+              "symbol": "NET",
+              "sentiment": "neutral",
+              "note": "A fundamental favorite but with valuation concerns."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "neutral",
+              "note": "A fundamental favorite but with valuation concerns."
+            },
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "A fundamental favorite but with valuation concerns."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "A fundamental favorite but with valuation concerns."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Strong earnings and breakout at Karman",
+          "url": "https://x.com/jrouldz/status/2118760553988641191",
+          "published_at": "2026-11-06T17:40:55.000Z",
+          "summary": "He writes $KRMN reported strong earnings and its chart breakout might just be starting, that it's still 66% below speculation highs, and says he'll add it to his watchlist.",
+          "assets": [
+            {
+              "symbol": "KRMN",
+              "sentiment": "positive",
+              "note": "Strong earnings and breakout; will add to watchlist."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Waiting for a green close",
+          "url": "https://x.com/jrouldz/status/2118757222100635795",
+          "published_at": "2026-11-06T17:27:41.000Z",
+          "summary": "He writes he won't get excited without a green close, a gap-up and green close Monday, and a green premarket Tuesday.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance's day centered largely on Iran: he relays talk of a possible strike on nuclear sites and the rumor that neighboring countries are preparing, writes that it scares him, and also shared Trump saying the U.S. is talking to Iran. On the market he says \"our troubles aren't over yet\" and that he was surprised the **NDX** tested its 2025 high on the same day; he also noted **AppLovin** rose 73% on the week and quantum stocks led on the **IBM** news. Per Alphabet's 13F its portfolio value fell 10.8%, of which $10.44 billion came from its **SpaceX** stake.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "\"Bloodbath on the U.S. market\" video",
+          "url": "https://x.com/cevikfinance/status/2118764457560043751",
+          "published_at": "2026-11-06T17:56:26.000Z",
+          "summary": "He announced a new video assessing whether the rise after the sharp selloff is the start of a reversal or a reaction before another drop.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "Discusses in the video whether the rebound will last."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SPX boxes: our troubles aren't over",
+          "url": "https://x.com/cevikfinance/status/2118793891985904120",
+          "published_at": "2026-11-06T19:53:23.000Z",
+          "summary": "He shared Frank Cappelleri's SPX chart as a \"nice analysis\" and writes he mentioned it in his video today too, that the pain isn't over yet.",
+          "assets": [
+            {
+              "symbol": "SPX",
+              "sentiment": "negative",
+              "note": "The pain isn't over yet."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NDX tested its 2025 high",
+          "url": "https://x.com/cevikfinance/status/2118662616394465723",
+          "published_at": "2026-11-06T11:11:45.000Z",
+          "summary": "He says he was amazed that the 2025 high he had written about yesterday as 26,000 was tested just a few hours after his tweet.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "Tested its 2025 high from the 26,000 level on the same day."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Rumor of neighbors preparing for a nuclear strike",
+          "url": "https://x.com/cevikfinance/status/2118801375693869516",
+          "published_at": "2026-11-06T20:23:08.000Z",
+          "summary": "He relays, quoting his own earlier post, that according to some rumors countries neighboring Iran have started preparing against the possibility of a nuclear attack.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Claim Iran is distributing iodine tablets near nuclear sites",
+          "url": "https://x.com/cevikfinance/status/2118755079029223730",
+          "published_at": "2026-11-06T17:19:10.000Z",
+          "summary": "He shared WarMonitor's claim that Iran is distributing iodine tablets around nuclear sites, signaling large upcoming strikes, without adding comment.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "The Iran attack scares me",
+          "url": "https://x.com/cevikfinance/status/2118802295290782026",
+          "published_at": "2026-11-06T20:26:47.000Z",
+          "summary": "He writes he doesn't think negatively easily but the Iran attack scares him and that nuclear use would be a catastrophe.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump says the U.S. is talking to Iran",
+          "url": "https://x.com/cevikfinance/status/2118805300958662712",
+          "published_at": "2026-11-06T20:38:43.000Z",
+          "summary": "He shared The Spectator Index's report that Trump says the United States is talking to Iran, with \"on the other hand\".",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "The aim is to destroy Iran's uranium",
+          "url": "https://x.com/cevikfinance/status/2118760992708399401",
+          "published_at": "2026-11-06T17:42:39.000Z",
+          "summary": "He writes the aim is to destroy Iran's uranium, that victory would be declared if it succeeds, and that if it fails the world meets a nuclear-armed Iran.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "AppLovin rose 73% on the week",
+          "url": "https://x.com/cevikfinance/status/2118810877319369104",
+          "published_at": "2026-11-06T21:00:53.000Z",
+          "summary": "Among stocks that made him smile, he writes $APP rose 73% this week.",
+          "assets": [
+            {
+              "symbol": "APP",
+              "sentiment": "positive",
+              "note": "Rose 73% on the week."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Quantum stocks rose on IBM news",
+          "url": "https://x.com/cevikfinance/status/2118806553537261616",
+          "published_at": "2026-11-06T20:43:42.000Z",
+          "summary": "He writes quantum stocks were the best-performing theme today because IBM unveiled its most advanced quantum computer in Chicago.",
+          "assets": [
+            {
+              "symbol": "IBM",
+              "sentiment": "positive",
+              "note": "The quantum computer news lifted the theme."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Alphabet's 13F portfolio",
+          "url": "https://x.com/cevikfinance/status/2118694430404206664",
+          "published_at": "2026-11-06T13:18:10.000Z",
+          "summary": "Alphabet's reported portfolio value fell from $99.08B to $88.35B (-10.8%), with $10.44B of the drop from SpaceX Class A; Tempus AI's value rose 41.4%, Qualcomm was newly bought (2.98 million shares, $547.88M) and GitLab was fully closed.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Portfolio value fell 10.8%."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "negative",
+              "note": "The value of Alphabet's stake fell 11.1%."
+            },
+            {
+              "symbol": "TEM",
+              "sentiment": "positive",
+              "note": "The stake's value rose 41.4%."
+            },
+            {
+              "symbol": "QCOM",
+              "sentiment": "neutral",
+              "note": "Alphabet opened a new position."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump's superintelligence support",
+          "url": "https://x.com/cevikfinance/status/2118679022976782611",
+          "published_at": "2026-11-06T12:16:56.000Z",
+          "summary": "He relays Trump saying he is 100% behind superintelligence and will work with Republican or AI-friendly states if Democrats try to block it.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Protest at Microsoft data center in the Netherlands",
+          "url": "https://x.com/cevikfinance/status/2118711081862324282",
+          "published_at": "2026-11-06T14:24:20.000Z",
+          "summary": "He writes about roughly 100 protesters entering a Microsoft data center near Amsterdam and compares this mindset to anti-nuclear activism in Germany.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "negative",
+              "note": "Protesters entered the data center."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "At 18.8% it is the largest position; as a high-beta fintech it is the most exposed to swings in risk appetite, and single-stock concentration is the main risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: the October jobs data was strong (+165K), unemployment 4.1%; a solid labor market supports credit quality.",
+          "Against: high-beta stocks swing harder in a Nasdaq drop; the Fed hike odds (about 80% per Defiant Gatekeeper) pressure funding costs.",
+          "Against: 18.8% weight in a single stock."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "The Turkey ETF could benefit from the drop in oil (energy import bill), but a global risk-off and regional tension from Iran can pressure emerging-market assets; lira and local rate developments need separate monitoring.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: per Defiant Gatekeeper oil fell 13% on the week; positive for an energy importer.",
+          "Against: the renewed rise in December hike odds in the U.S. can pressure emerging-market flows.",
+          "Against: the Iran tension relayed by cevikfinance can raise the regional risk premium."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [
+          {
+            "person": "wallstengine",
+            "sentiment": "positive",
+            "quote": "Chip stocks are seeing a bit of a bounce in premarket trading ahead of the nonfarm payrolls report, following Thursday's AI-led rout: Micron +9.2% AMD +8.3% Intel +6.2% Nvidia +5% Broadcom +4.9%",
+            "source_url": "https://x.com/wallstengine/status/2118675645047898247"
+          }
+        ],
+        "action": "hold",
+        "why": "Per wallstengine Broadcom rose 4.9% premarket; there is no concrete rationale to act.",
+        "opinion": "As an AI supplier at the center of the semiconductor selloff, political uncertainty over data center approvals and hyperscaler spending news are the key items to follow.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: per Defiant Gatekeeper, Microsoft, Amazon and Google (the buyers) fell less than chipmakers; the demand side looks solid.",
+          "Against: the semiconductor index fell 12% in a week; the stock can come under pressure in a sector selloff.",
+          "Against: per Cleanview, 41% of planned data center capacity is in states backing a pause."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "neutral",
+            "quote": "I also said I switched to stocks like Meta and Palantir in June with profit-taking proceeds",
+            "source_url": "https://x.com/korkmazali08/status/2118757774284997045"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "The White House tech advisory board meeting, which includes Jensen Huang and Mark Zuckerberg, was postponed",
+            "source_url": "https://x.com/WallStDiaries/status/2118718067387560188"
+          }
+        ],
+        "action": "hold",
+        "why": "korkmazali08 said he moved into Meta in June but gave no concrete level or date today.",
+        "opinion": "As a large AI spender it was relatively less affected by the chip drop, but political obstacles to data center construction could affect cost and timing.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: per Defiant Gatekeeper chip buyers fell less than the sellers.",
+          "Against: the postponement of the White House tech board meeting without explanation adds policy uncertainty.",
+          "Against: 12.8% weight and the Nasdaq being 15% below its peak."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "As a nuclear supplier it can benefit from data center power demand; but the possibility of slower data center construction and dependence on government spending are risks to watch.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: Musk says 'there isn't enough power on the ground' for AI infrastructure (wallstengine).",
+          "Against: 41% of planned data center capacity is in states with governors backing a pause (Cleanview).",
+          "Against: 10.5% weight and no direct information on the company in today's sources."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "A high-beta platform tied to ad revenue; it can swing sharply when risk appetite weakens, and what to watch is the trend in ad budgets and user growth.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: strong U.S. employment and consumer sentiment beating expectations (UMich 51.0) can support ad spending.",
+          "Against: the Nasdaq being 15% below its peak hits high-beta growth stocks harder.",
+          "Against: no company-specific information in today's sources, so the rationale to act is lacking."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "Its subscription-based, cash-generating structure can remain relatively defensive in a selloff; what to watch is the ad tier and subscriber growth.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: not at the center of the AI infrastructure selloff; consumer sentiment beat expectations (UMich 51.0).",
+          "Against: the Nasdaq's broad decline pressures growth stocks.",
+          "Against: no concrete company information in today's sources."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "Defiant Gatekeeper",
+            "sentiment": "neutral",
+            "quote": "Oil fell 13% this week and bond yields fell too.",
+            "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+          }
+        ],
+        "action": "hold",
+        "why": "Per Defiant Gatekeeper a December hike is the base case and next week's CPI is decisive; there is no concrete change in direction.",
+        "opinion": "Long-term U.S. Treasuries lose if rate hike expectations rise, but safe-haven demand and falling inflation expectations from the oil drop can pull yields down; CPI and the next FOMC language are decisive.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: per Defiant Gatekeeper yields and inflation expectations fell with the oil drop.",
+          "Against: with strong jobs data, December hike odds returned to about 80%.",
+          "Against: U.S. consumer credit rose $27.8B, beating expectations (wallstengine); the economy is staying warm."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "No new information today.",
+        "opinion": "It looks like a small representative of the data center electrical infrastructure theme; political delays in data center construction and the sector-wide selloff are the main risks, and order and backlog news are the key items to follow.",
+        "ai_action": "hold",
+        "ai_points": [
+          "In favor: Musk says 'there isn't enough power on the ground' for data center demand (wallstengine).",
+          "Against: 41% of planned data center capacity is in states with governors backing a pause (Cleanview).",
+          "Against: no direct information on the company in today's sources."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "IREN",
+        "name": "IREN",
+        "why": "FinancewithIzzy highlights the $20.3 billion contract backlog and 86% AI Cloud gross margin in the earnings; he sees the $263 million net loss and the ARR target delay as risks.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2118732347856019825"
+      },
+      {
+        "symbol": "KRMN",
+        "name": "Karman Holdings",
+        "why": "jrouldz saw a strong earnings report and a chart breakout, noted it is still 66% below speculation highs, and said he will add it to his watchlist.",
+        "source_url": "https://x.com/jrouldz/status/2118760553988641191"
+      },
+      {
+        "symbol": "TEM",
+        "name": "Tempus AI",
+        "why": "sgundoganX is considering adding another company next to his position based on Sequoia's biotech emphasis; cevikfinance reported the value of Alphabet's stake rose 41.4%.",
+        "source_url": "https://x.com/sgundoganX/status/2118701448028377282"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2487 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T08:17:56.000Z",
+  "errors": [],
+  "attention": [
+    {
+      "title": "Yarı iletken endeksi haftada %12 düştü, Aralık faiz artırımı ihtimali yeniden %80'e döndü",
+      "person": "Defiant Gatekeeper",
+      "why": "Videoya göre Perşembe günü S&P 500 Nisan 2025'ten beri en kötü gününü yaşadı; asıl zarar chip üreticilerinde (Micron ve AMD yaklaşık %17, Nvidia yaklaşık %9) kalırken, Cuma günkü istihdam verisi sonrası Aralık'ta faiz artırımı ihtimali yaklaşık %80'e döndü.",
+      "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+    },
+    {
+      "title": "Ekim tarım dışı istihdamı 165 bin geldi, beklenti 65 binti",
+      "person": "wallstengine",
+      "why": "İşsizlik oranı %4,1 (beklenti %4,2), saatlik kazançlar yıllık %3,1 (beklenti %2,9) oldu; fabrika istihdamı da 19 bin ile beklentinin (5 bin) neredeyse dört katı geldi.",
+      "source_url": "https://x.com/wallstengine/status/2118697437061685731"
+    },
+    {
+      "title": "Planlanan veri merkezi kapasitesinin %41'i duraklamayı destekleyen valilerin eyaletlerinde",
+      "person": "WallStDiaries",
+      "why": "Cleanview verisine göre bu, dokuz eyalette 158,6 GW; Teksas 88,4 GW ile başı çekiyor ve yeni valilerin inşaatları durdurma sözü onay bekleyen kapasitenin yaklaşık %40'ını etkileyebilir.",
+      "source_url": "https://x.com/WallStDiaries/status/2118738058954641473"
+    },
+    {
+      "title": "Anthropic halka arz yol gösterimini gelecek hafta başlatmayı planlıyor",
+      "person": "wallstengine",
+      "why": "The Information'a atıfla şirket 16 Kasım haftasında, Şükran Günü öncesi listelenmeyi hedefliyor; Bloomberg'e göre bazı yatırımcılar 1,2-1,3 trilyon dolarlık değerleme konuşuyor, bu Ekim başındaki 2 trilyon dolara varan tahminlerin yaklaşık %40 altında.",
+      "source_url": "https://x.com/wallstengine/status/2118831182192464098"
+    },
+    {
+      "title": "Micron'da brüt marj artış hızı eriyor, Heisenberg 800-850 dolar üstü kalıcılık arıyor",
+      "person": "Heisenberg",
+      "why": "Heisenberg'e göre marj artışı çeyreklik +18,4, +10,2, +2,2 puan olarak yavaşladı ve şirketin kendi Q1'27 rehberinde ilk kez -0,8 puan var; 800-850$ üstünde kalıcılık olmazsa bir sonraki bölge 450-500$.",
+      "source_url": "https://x.com/heisenbergtrx/status/2118650282355634185"
+    }
+  ],
+  "macro": [
+    {
+      "topic": "Fed, istihdam ve faiz beklentisi",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Aralık'ta faiz artırımı ana senaryo; Hammack ve Daly'nin şahin açıklamalarına rağmen Perşembe düşen artırım ihtimali Cuma verisiyle yeniden yaklaşık %80'e çıktı, önümüzdeki hafta zayıf bir CPI gelmedikçe karar değişmeyebilir.",
+          "quote": "Önümüzdeki haftaki CPI verisi zayıf gelmedikçe, piyasada büyük bir çöküş yaşanmazsa Aralık'taki faiz artırımının ana karar olarak kalacağını düşünüyorum.",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Ekim istihdam raporu beklentilerin çok üzerinde geldi; ayrıca UMich tüketici güveni 51,0 ile beklentiyi (48,0) aştı, 1 yıllık enflasyon beklentisi %4,3 ile tahminin (%4,6) altında kaldı.",
+          "quote": "OCTOBER U.S. JOBS REPORT 👇 NONFARM PAYROLLS +165K, (Est. +65K) UNEMPLOYMENT RATE 4.1%, (Est. 4.2%)",
+          "source_url": "https://x.com/wallstengine/status/2118697437061685731"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Güçlü istihdam ve ücret artışı enflasyonist baskının sürebileceğine işaret ediyor ve Fed'in daha temkinli hareket edebileceği beklentisini öne çıkarıyor.",
+          "quote": "Güçlü istihdam artışı ve ücretlerdeki ivme, enflasyonist baskıların devam edebileceğine işaret ederek Fed'in faiz indirim döngüsünde daha temkinli hareket edebileceği beklentisini öne çıkarıyor.",
+          "source_url": "https://x.com/WallStDiaries/status/2118698268599173603"
+        }
+      ]
+    },
+    {
+      "topic": "Seçim sonrası yapay zeka veri merkezi riski",
+      "views": [
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Perşembe satışının nedeni kısmen Demokrat Kongre'nin veri merkezi onaylarını yavaşlatacağı korkusu (bir analiste göre 2028 kapasitesinin yaklaşık %30'u risk altında), kısmen yıl sonu pozisyonlanma; bu rakam tahmin, henüz yasa yok.",
+          "quote": "30% rakamı sadece bir analistin tahmini; veri merkezi inşasını durdurmak için gerçekte bir yasa tasarısı yok, bu yüzden bu hâlâ bir soru işareti.",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Cleanview verisine göre yeni valilerin inşaatları durdurma sözü ABD'de onay bekleyen veri merkezi kapasitesinin yaklaşık %40'ını doğrudan etkileyebilir.",
+          "quote": "Cleanview verilerine göre, yeni valilerin veri merkezi inşaatlarını durdurma taahhütleri ABD'deki onay bekleyen kapasitenin yaklaşık %40'ını doğrudan etkileyebilir.",
+          "source_url": "https://x.com/WallStDiaries/status/2118738058954641473"
+        },
+        {
+          "person": "wallstengine",
+          "view": "Hassett veri merkezi büyümesi için yeterli alan olduğunu söyledi; Susquehanna en kötü senaryoda planlı kapasitenin %8'inin iptal edilebileceğini hesaplıyor.",
+          "quote": "White House economic director Kevin Hassett says there is plenty of room for data center growth to continue, and that Trump respects localities that don't want data centers, per CNBC",
+          "source_url": "https://x.com/wallstengine/status/2118709205821718970"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Trump'ın süper zeka desteğini ve zengin olmak isteyen eyaletlerle çalışacağını aktardı; Hollanda'da Microsoft veri merkezini basan protestocuları nükleer karşıtı akılla kıyasladı.",
+          "quote": "Trump diyor ki süper zeka konusunu %100 destekliyorum. Demokratlar engellemeye çalışırsa da Cumhuriyetçi eyaletler veya yapay zekaya sıcak bakan \"zengin olmak isteyen\" eyaletler ile çalışırız.",
+          "source_url": "https://x.com/cevikfinance/status/2118679022976782611"
+        }
+      ]
+    },
+    {
+      "topic": "Düzeltme bitti mi: toparlanma mı, tepki mi",
+      "views": [
+        {
+          "person": "Yatirim101",
+          "view": "Nasdaq 100 1985'ten beri 35 kez %10'dan fazla düşmüş; sert tepki günleri dip işareti değil, kendisi için güvenli bölge 28.900 üzerinde başlıyor.",
+          "quote": "Nasdaq adına benim için güvenli bölge 28.900 üzerinde başlar.",
+          "source_url": "https://x.com/Yatirim101/status/2118733928521400618"
+        },
+        {
+          "person": "cevikfinance",
+          "view": "Henüz çilemizin bitmediğini düşünüyor; NDX'in 26.000'den 2025 zirvesini aynı gün test etmesine şaşırdığını söyledi.",
+          "quote": "Güzel analiz. Bugünkü videomda ben de bahsetmiştim. Henüz çilemiz bitmedi anlayacağınız.",
+          "source_url": "https://x.com/cevikfinance/status/2118793891985904120"
+        },
+        {
+          "person": "korkmazali08",
+          "view": "QQQ zirvesinden %15 düştü; sert düşüşlerde -%10 ve -%20 seviyelerinde alım mantıklı, bazı ucuz şirketler dün de bugün de alınabilir.",
+          "quote": "biliyorsunuz -10 ve -20 seviyelerde alım mantıklı demiştim. Tabi burda istisna olan bazı iyi ve ucuz şirketler var bunlar dün de alınabikirdi bugünde alınır.",
+          "source_url": "https://x.com/korkmazali08/status/2118753832435888159"
+        },
+        {
+          "person": "ulkser",
+          "view": "Nasdaq haftalık RSI'ın 30'u görmesi halinde ne yapacağı net; Cuma günü küçük alım yaptı, altta kademeleri var; ayrıca 230 milyon dolarlık SPY put alımını hedge olarak yorumladı.",
+          "quote": "Ben şahsen ufak bir alım yaptım Cuma günü, altta kademelerim mevcut ama haftalık rsi 30 görürse ne yapacağım çok net",
+          "source_url": "https://x.com/ulkser/status/2118585682817843329"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Katie Stockton'a göre endeksler Kasım'ı bu kırılgan seviyelerde kapatırsa teknik hasar derinleşip 2027'nin ilk çeyreğini zorlaştırabilir.",
+          "quote": "Kasım Kapanışı 2027’nin İlk Çeyreğini Zorlaştırabilir",
+          "source_url": "https://x.com/WallStDiaries/status/2118731515433570599"
+        }
+      ]
+    },
+    {
+      "topic": "İran gerilimi ve petrol",
+      "views": [
+        {
+          "person": "cevikfinance",
+          "view": "İran'a nükleer tesis saldırısı ihtimalinin konuşulduğunu, komşu ülkelerin hazırlık yaptığı söylentisini aktardı; Trump'ın İran'la konuştuğunu söylemesini de paylaştı.",
+          "quote": "Kolay kolay negatif düşünmem ama şu İran saldırısı beni korkutuyor açıkçası. Nükleer kullanılması bir felaket olur.",
+          "source_url": "https://x.com/cevikfinance/status/2118802295290782026"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "view": "Petrol haftada yaklaşık %13 düşerek 2022'den beri en büyük haftalık kaybını yaşadı, Brent seçim sonrası Çarşamba 95 dolara yaklaştı; bunu savaştan çıkış beklentisine bağlıyor ve 10 yıllık getiriler de düştü.",
+          "quote": "Bu hafta petrol fiyatları %13 düştü.",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "Heisenberg",
+          "view": "Paradotor'un Brent petrolün 21 günde 225 dolara ulaşacağı iddiasını yorum yapmadan paylaştı.",
+          "quote": "Brent petrol’ün 21 gün içinde 225$’a ulaşacağını düşünüyorum.",
+          "source_url": "https://x.com/heisenbergtrx/status/2118581425481924993"
+        }
+      ]
+    },
+    {
+      "topic": "Yapay zeka finansmanı ve halka arzlar",
+      "views": [
+        {
+          "person": "wallstengine",
+          "view": "SoftBank'ın 5 yıllık CDS spreadi 2022'den beri en yüksek seviye olan 466 baza çıktı; SoftBank OpenAI turuna sadece yüzlerce milyon koymayı konuşuyor; Anthropic halka arz yol gösterimi gelecek hafta.",
+          "quote": "SOFTBANK'S 5-YEAR CREDIT DEFAULT SWAP SPREAD WIDENS TO 466 BPS, THE WIDEST SINCE 2022",
+          "source_url": "https://x.com/wallstengine/status/2118657064579043353"
+        },
+        {
+          "person": "WallStDiaries",
+          "view": "Bloomberg'e göre Anthropic'in halka arz değerleme tartışması 1,5-2 trilyon dolardan 1,3 trilyon dolara, toplanacak tutar 100 milyardan 80 milyar dolara geriledi.",
+          "quote": "halka arz hedefinin 1,3 trilyon dolara ve toplanması planlanan kaynağın 80 milyar dolar seviyelerine çekilmesine yol açtı",
+          "source_url": "https://x.com/WallStDiaries/status/2118698664860221644"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "priority": "high",
+      "why": "Dört kaynak görüş bildirdi; Heisenberg somut seviye (800-850$ üstü kalıcılık, aksi halde 450-500$) verdi.",
+      "mentions": [
+        {
+          "person": "Heisenberg",
+          "sentiment": "negative",
+          "quote": "800-850$ üstü kalıcılık sağlamassa bir sonraki bölge 450-500$",
+          "source_url": "https://x.com/heisenbergtrx/status/2118650282355634185"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "$MU endeks toparladığı sürece eski zirvesine ulaşacağını düşünüyorum",
+          "source_url": "https://x.com/korkmazali08/status/2118753136227528946"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "Yıl başı analizim o $MU 200 dolardaydı. Ordan 1200 e gitti.",
+          "source_url": "https://x.com/ulkser/status/2118623554262442002"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Chip stocks are seeing a bit of a bounce in premarket trading ahead of the nonfarm payrolls report, following Thursday's AI-led rout: Micron +9.2%",
+          "source_url": "https://x.com/wallstengine/status/2118675645047898247"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Micron yaklaşık %17 düştü",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "Nvidia",
+      "priority": "high",
+      "why": "Birden fazla kişi bahsetti; ulkser 183$ alış / 193$ satış gibi net seviye verdi, Defiant Gatekeeper haftalık düşüşü aktardı.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$NVDA 183 ten aldım bugün bir kısmını 193 ten verdim.",
+          "source_url": "https://x.com/ulkser/status/2118726462752567651"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Nvidia yaklaşık %9 düştü",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "TSMC WEIGHS MAKING 3D DRAM AT NVIDIA'S REQUEST",
+          "source_url": "https://x.com/wallstengine/status/2118707623835136039"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Nvidia, TSMC'den bellek çipi üretmesini istiyor!",
+          "source_url": "https://x.com/korkmazali08/status/2118759206455021598"
+        }
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "priority": "medium",
+      "why": "Üç kaynak aynı haberi aktardı (3D DRAM planı); kimse kendi görüşünü eklemedi.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$TSM has reportedly begun drawing up plans to manufacture advanced 3D DRAM chips as AI-driven memory shortages push chip designers to seek additional supply",
+          "source_url": "https://x.com/wallstengine/status/2118707623835136039"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Nvidia'nın, ... TSMC ile 3D DRAM üretimi konusunda görüşmeler yürüttüğü bildirildi.",
+          "source_url": "https://x.com/WallStDiaries/status/2118710013191446554"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "TSMC'nin bu sektöre girmesi, $MU Micron, SK Hynix ve Samsung için uzun vadede yeni bir rekabet anlamına gelebilir.",
+          "source_url": "https://x.com/korkmazali08/status/2118759206455021598"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "priority": "medium",
+      "why": "Defiant Gatekeeper haftalık %17 düşüşü, wallstengine açılış öncesi %8,3 toparlanmayı aktardı.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "AMD de yaklaşık %17 düştü",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Chip stocks are seeing a bit of a bounce in premarket trading ahead of the nonfarm payrolls report, following Thursday's AI-led rout: Micron +9.2% AMD +8.3%",
+          "source_url": "https://x.com/wallstengine/status/2118675645047898247"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "Micron +9.2% AMD +8.3% Intel +6.2% Nvidia +5% Broadcom +4.9%",
+          "source_url": "https://x.com/wallstengine/status/2118675645047898247"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "priority": "high",
+      "why": "Dört kaynak aynı Bloomberg haberini aktardı (Microsoft kira anlaşmasını sonlandırıyor); Oracle haberi yalanladı.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "Microsoft has reportedly declined to renew its 2023 agreement to rent AI computing capacity from Oracle and has been gradually shutting down that capacity in recent months, Bloomberg reports.",
+          "source_url": "https://x.com/wallstengine/status/2118764006475497734"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Oracle temsilcileri haberdeki detayların gerçeği yansıtmadığını ve iki şirket arasındaki ortaklığın sürdüğünü savundu.",
+          "source_url": "https://x.com/WallStDiaries/status/2118761190755016923"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "negative",
+          "quote": "Offf $MSFT $ORCL",
+          "source_url": "https://x.com/ulkser/status/2118775542308610474"
+        }
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "priority": "medium",
+      "why": "Oracle anlaşmasının sonlanması haberi birden fazla kaynakta, ama kimse Microsoft için kendi görüşünü vermedi.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "MICROSOFT IS WINDING DOWN ITS DEAL TO RENT AI CLOUD CAPACITY FROM ORACLE $ORCL: BLOOMBERG",
+          "source_url": "https://x.com/wallstengine/status/2118760131068633460"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Microsoft yaklaşık %4 düştü",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        }
+      ]
+    },
+    {
+      "symbol": "NDX",
+      "name": "Nasdaq 100",
+      "priority": "high",
+      "why": "Beş kişi seviye verdi: Yatirim101 28.900 üstü güvenli bölge, cevikfinance 26.000/2025 zirvesi testi, ulkser haftalık RSI 38.",
+      "mentions": [
+        {
+          "person": "Yatirim101",
+          "sentiment": "neutral",
+          "quote": "Nasdaq adına benim için güvenli bölge 28.900 üzerinde başlar.",
+          "source_url": "https://x.com/Yatirim101/status/2118733928521400618"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "$NDX 2025 zirvesini aynı gün içinde test edeceğini düşünmüyordum açıkçası",
+          "source_url": "https://x.com/cevikfinance/status/2118662616394465723"
+        },
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "Ben şahsen ufak bir alım yaptım Cuma günü, altta kademelerim mevcut",
+          "source_url": "https://x.com/ulkser/status/2118585682817843329"
+        },
+        {
+          "person": "korkmazali08",
+          "sentiment": "negative",
+          "quote": "$QQQ, 6 Ekim’deki zirvesinden 5 Kasım kapanışına kadar %15 gerilemiş.",
+          "source_url": "https://x.com/korkmazali08/status/2118740730197737686"
+        }
+      ]
+    },
+    {
+      "symbol": "SPY",
+      "name": "S&P 500 ETF",
+      "priority": "medium",
+      "why": "ulkser 230 milyon dolarlık put alımını net bir pozisyon olarak aktardı ve hedge yorumu yaptı.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "230m $ put alinmis. Ben hedge oldugunu dusunuyorum.",
+          "source_url": "https://x.com/ulkser/status/2118844287211200632"
+        }
+      ]
+    },
+    {
+      "symbol": "SOX",
+      "name": "Yarı iletken endeksi",
+      "priority": "medium",
+      "why": "Defiant Gatekeeper haftalık %12 düşüşü ve Perşembe sert satışı rakamlarla aktardı.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Semikondüktör endeksi bu hafta %12 düştü",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        }
+      ]
+    },
+    {
+      "symbol": "BRENT",
+      "name": "Brent petrol",
+      "priority": "medium",
+      "why": "Defiant Gatekeeper haftalık %13 düşüş ve 95$ seviyesini verdi; Heisenberg tam tersi 225$ iddiasını paylaştı.",
+      "mentions": [
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Bu hafta petrol fiyatları %13 düştü.",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        },
+        {
+          "person": "Heisenberg",
+          "sentiment": "neutral",
+          "quote": "Brent petrol’ün 21 gün içinde 225$’a ulaşacağını düşünüyorum.",
+          "source_url": "https://x.com/heisenbergtrx/status/2118581425481924993"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius",
+      "priority": "high",
+      "why": "ulkser net giriş/çıkış seviyeleri ve kâr verdi, FinancewithIzzy da sembolü etiketledi.",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "positive",
+          "quote": "$NBIS opsiyonu 118 civarinda aldim bugun 132 ustunde verdim.",
+          "source_url": "https://x.com/ulkser/status/2118726462752567651"
+        },
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "neutral",
+          "quote": "$NVDA $AMD $IREN $NBIS $PLTR",
+          "source_url": "https://x.com/FinancewithIzzy/status/2118801200103481694"
+        }
+      ]
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN",
+      "priority": "high",
+      "why": "FinancewithIzzy bilanço rakamlarına (20,3 milyar $ kontrat birikimi) dayanarak net olumlu görüş verdi.",
+      "mentions": [
+        {
+          "person": "FinancewithIzzy",
+          "sentiment": "positive",
+          "quote": "$IREN bilançosu bana göre AI altyapı hikâyesinin henüz bitmediğini gösteriyor!",
+          "source_url": "https://x.com/FinancewithIzzy/status/2118732347856019825"
+        }
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "kar satışlarıyla haziran ayında meta gibi palantir gibi hisseleere geçtiğimide söyledim",
+          "source_url": "https://x.com/korkmazali08/status/2118757774284997045"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "I want to say $NET $CRWD $AAPL or $PLTR on fundamental grounds but I can’t because of valuation concerns",
+          "source_url": "https://x.com/jrouldz/status/2118787941875245193"
+        }
+      ]
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "positive",
+          "quote": "kar satışlarıyla haziran ayında meta gibi palantir gibi hisseleere geçtiğimide söyledim",
+          "source_url": "https://x.com/korkmazali08/status/2118757774284997045"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Beyaz Saray teknoloji danışma kurulunun cuma günü gerçekleştirmesi planlanan toplantısı ertelendi",
+          "source_url": "https://x.com/WallStDiaries/status/2118718067387560188"
+        }
+      ]
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "priority": "medium",
+      "why": "Ahmet Sunelcan pozisyonu biraz daha artırdığını söyledi; tek kişi somut hareket.",
+      "mentions": [
+        {
+          "person": "Ahmet Sunelcan",
+          "sentiment": "positive",
+          "quote": "biraz daha $BE arttı o kadar.",
+          "source_url": "https://x.com/AhmetSunelcan1/status/2118811512693228006"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "priority": "medium",
+      "why": "İki kaynak Firefly ile 1,3 milyar dolarlık motor anlaşmasını ve hisse seyrelmesini rakamlarla aktardı.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "negative",
+          "quote": "The stock component will dilute existing shareholders. Under the licensing agreement, AST SpaceMobile will pay approximately $800M upfront, consisting of $400M in cash and 10M–14M Class A shares.",
+          "source_url": "https://x.com/wallstengine/status/2118685862234067182"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "AST SpaceMobile Kendi Yeniden Kullanılabilir Roketini İnşa Edeceğini Duyurdu",
+          "source_url": "https://x.com/WallStDiaries/status/2118703108419105169"
+        }
+      ]
+    },
+    {
+      "symbol": "FLY",
+      "name": "Firefly Aerospace",
+      "priority": "medium",
+      "why": "İki kaynak 36 motorluk, 1,3 milyar dolardan fazla sözleşmeyi aktardı.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "FIREFLY SIGNS $1.3B+ ROCKET ENGINE DEAL WITH $ASTS",
+          "source_url": "https://x.com/wallstengine/status/2118683330589962663"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Şirket, roket motoru tedariki ve teknik altyapı desteği için Firefly Aerospace ile 1,3 milyar dolar değerinde kapsamlı bir anlaşma imzaladı.",
+          "source_url": "https://x.com/WallStDiaries/status/2118703108419105169"
+        }
+      ]
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "Neutron roketinin 1. aşama ön kubbesinin (Forward Dome) üretimi ve kürleme işlemi tamamlandı.",
+          "source_url": "https://x.com/korkmazali08/status/2118804806315721052"
+        },
+        {
+          "person": "jrouldz",
+          "sentiment": "neutral",
+          "quote": "Hmm if I was forced to pick from current levels $AMZN $IONQ $RKLB $ARKG $ABCL",
+          "source_url": "https://x.com/jrouldz/status/2118787941875245193"
+        }
+      ]
+    },
+    {
+      "symbol": "IBM",
+      "name": "IBM",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "korkmazali08",
+          "sentiment": "neutral",
+          "quote": "$IBM, Illinois eyaletinde, Chicago’daki Hyde Park Labs’te ilk kuantum bilgisayarını tanıttı.",
+          "source_url": "https://x.com/korkmazali08/status/2118801731723403608"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "Bu haber nedeniyle bugün Quantum hisseleri en çok yükselen tema oldu.",
+          "source_url": "https://x.com/cevikfinance/status/2118806553537261616"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "$IBM has unveiled its first quantum computer in Illinois at Chicago's Hyde Park Labs.",
+          "source_url": "https://x.com/wallstengine/status/2118801292156145692"
+        }
+      ]
+    },
+    {
+      "symbol": "TEM",
+      "name": "Tempus AI",
+      "priority": "medium",
+      "why": "sgundoganX pozisyonunu koruyup yanına biotech eklemeyi düşünüyor; cevikfinance Alphabet'in payının değerinin %41,4 arttığını aktardı.",
+      "mentions": [
+        {
+          "person": "sgundoganX",
+          "sentiment": "positive",
+          "quote": "$TEM ile birlikte yanına bir şirket daha eklesem mi diye düşünmüyor değilim.",
+          "source_url": "https://x.com/sgundoganX/status/2118701448028377282"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$TEM Tempus AI'nin değeri %41,4 artarak 89,86 milyon dolardan 127,04 milyon dolara çıktı.",
+          "source_url": "https://x.com/cevikfinance/status/2118694430404206664"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "priority": "medium",
+      "why": "cevikfinance 13F portföy değişimini rakamlarla aktardı (toplam değer %10,8 düştü, Qualcomm yeni alım).",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "neutral",
+          "quote": "Alphabet, bugün portföy detaylarını yayınladı. Raporlanan toplam değer 99,08 milyar dolardan 88,35 milyar dolara indi.",
+          "source_url": "https://x.com/cevikfinance/status/2118694430404206664"
+        },
+        {
+          "person": "Defiant Gatekeeper",
+          "sentiment": "negative",
+          "quote": "Google yaklaşık %3 düştü",
+          "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+        }
+      ]
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "priority": "high",
+      "why": "wallstengine Musk'ın Q4 gelir tahminini (~%70 artış, ~24,8 milyar $) aktardı; cevikfinance Alphabet'in SpaceX payındaki değer düşüşünü verdi.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$SPCX +9% Elon Musk projects SpaceX’s Q4 revenue will rise about 70% from Q3, implying roughly $24.8B, nearly $2B above estimates.",
+          "source_url": "https://x.com/wallstengine/status/2118795344901501184"
+        },
+        {
+          "person": "cevikfinance",
+          "sentiment": "negative",
+          "quote": "Bunun 10,44 milyar doları $SPCX SpaceX Class A'daki değer düşüşünden geliyor.",
+          "source_url": "https://x.com/cevikfinance/status/2118694430404206664"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "WallStDiaries",
+          "sentiment": "neutral",
+          "quote": "Tesla, Latin Amerika’daki genişleme stratejisi kapsamında 20 Kasım 2026 itibarıyla Arjantin pazarına resmi giriş yapacağını duyurdu.",
+          "source_url": "https://x.com/WallStDiaries/status/2118726963552522541"
+        },
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Tesla $TSLA has raised U.S. Cybertruck prices: Premium AWD: $92,490 (+ $7,500) Cyberbeast: $102,490 (+ $2,500)",
+          "source_url": "https://x.com/wallstengine/status/2118644492303818945"
+        }
+      ]
+    },
+    {
+      "symbol": "APP",
+      "name": "AppLovin",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "cevikfinance",
+          "sentiment": "positive",
+          "quote": "$APP bu hafta %73 yükseldi. 🚀",
+          "source_url": "https://x.com/cevikfinance/status/2118810877319369104"
+        }
+      ]
+    },
+    {
+      "symbol": "KRMN",
+      "name": "Karman Holdings",
+      "priority": "medium",
+      "why": "jrouldz güçlü bilanço ve grafikte kırılım gördüğünü, hâlâ spekülasyon zirvesinden %66 aşağıda olduğunu yazdı.",
+      "mentions": [
+        {
+          "person": "jrouldz",
+          "sentiment": "positive",
+          "quote": "looks like a really strong earnings report AND chart breakout might just be getting started. Still -66% from speculation highs. will add to watch list",
+          "source_url": "https://x.com/jrouldz/status/2118760553988641191"
+        }
+      ]
+    },
+    {
+      "symbol": "QXO",
+      "name": "QXO",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "ulkser",
+          "sentiment": "neutral",
+          "quote": "$QXO yu 15 ten aldim 10 a kadar dustu.",
+          "source_url": "https://x.com/ulkser/status/2118809071797014606"
+        }
+      ]
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "VISTRA $VST Q3’26 EARNINGS HIGHLIGHTS Revenue: $6.35B (Est. $6.02B) Raises FY26 Guide: Ongoing Ops Adj. EBITDA: $7.1B-$7.5B",
+          "source_url": "https://x.com/wallstengine/status/2118675145489350801"
+        }
+      ]
+    },
+    {
+      "symbol": "ANT",
+      "name": "Anthropic",
+      "priority": "high",
+      "why": "İki kaynak halka arz tarihi (16 Kasım haftası) ve değerleme aralığını (1,2-1,3 trilyon $) somut rakamlarla aktardı.",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "neutral",
+          "quote": "Anthropic reportedly plans to proceed with its IPO roadshow next week. The company is still targeting a public listing during the week of November 16, ahead of Thanksgiving.",
+          "source_url": "https://x.com/wallstengine/status/2118831182192464098"
+        },
+        {
+          "person": "WallStDiaries",
+          "sentiment": "negative",
+          "quote": "Anthropic'in yaklaşan halka arzı (IPO) öncesindeki değerleme tartışmaları 1,3 trilyon dolar seviyesine geriledi.",
+          "source_url": "https://x.com/WallStDiaries/status/2118698664860221644"
+        }
+      ]
+    },
+    {
+      "symbol": "HIMS",
+      "name": "Hims & Hers",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$LLY & $HIMS STRIKE GLP-1 ACCESS DEAL Under the agreement, Hims & Hers will offer Lilly's FDA-approved obesity medicines directly through its platform",
+          "source_url": "https://x.com/wallstengine/status/2118673115983278237"
+        }
+      ]
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "priority": "low",
+      "mentions": [
+        {
+          "person": "wallstengine",
+          "sentiment": "positive",
+          "quote": "$OKLO Q3’26 EARNINGS HIGHLIGHTS Revenue: $1.86M (Est. $1.02M) EPS: -$0.22 (Est. -$0.25) Cash & Marketable Securities: $3.13B",
+          "source_url": "https://x.com/wallstengine/status/2118683991398031765"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Bora Özkent",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Heisenberg",
+      "digest": "Heisenberg'in günü büyük ölçüde **Micron** etrafında geçti: şirketin brüt marj artışının çeyrek çeyrek yavaşladığını (+18,4, +10,2, +2,2 puan) ve kendi Q1'27 rehberinde ilk kez -0,8 puan beklendiğini anlatıyor. Ona göre döngüsel hissede fiyat marjın seviyesine değil yönüne bakıyor; ileriye dönük F/K'nın yaklaşık 4x görünmesi de şişmiş marjla hesaplandığı için yanıltıcı. Teknik olarak 800-850$ üstünde kalıcılık yoksa bir sonraki bölgeyi 450-500$ olarak veriyor; zirve (1.213$) Q3 bilançosunun ertesi günü görülmüştü.\n\n**SanDisk** ve **Micron** gibi kağıtlarda en tepede alanların da bir ara kâr etmesini umuyor ama bunun aylar sürmemesi gerektiğini ekliyor. Bir çip donanım sepetinden %3-5 riskle aldığı işlem için \"güzel trade oldu\" diyor; Paradotor'un **Brent petrol**ün 21 günde 225$'a çıkacağı iddiasını da yorumsuz paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Micron'da marj genişleme hızı eriyor",
+          "url": "https://x.com/heisenbergtrx/status/2118687022055395790",
+          "published_at": "2026-11-06T12:48:44.000Z",
+          "summary": "Micron'da brüt marj artışı çeyreklik +18,4, +10,2 ve +2,2 puan oldu, şirketin kendi Q1'27 rehberinde ilk kez -0,8 puan var; yani daralmayı şirketin kendisi bekliyor. Döngüsel hissede fiyat marjın yönüne baktığı için \"genişleme devam edecek\" diye fiyatlanan hisse yön dönünce daha makul çarpanlara iner. Hisse zirvesini (1.213$) Q3 bilançosunun ertesi günü gördü; eylülde fiyat zirveye yaklaşırken hacim haziran zirvesinin yarısına bile ulaşmadı ve bu klasik bir Wyckoff dağıtımı. Bunun batar demek olmadığını, sadece hak ettiği değerin daha düşük olduğunu söylüyor ve Temmuz'dan beri aynı şeyi yazdığını belirtiyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Marj genişleme hızı yavaşlıyor, rehberde ilk kez daralma var; zirve 1.213$ Q3 bilançosunun ertesi günü görüldü."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Micron için 800-850$ ve 450-500$ bölgeleri",
+          "url": "https://x.com/heisenbergtrx/status/2118650282355634185",
+          "published_at": "2026-11-06T10:22:44.000Z",
+          "summary": "Destek bölgesindeki likidasyon hacmine bakınca bariz bir long olduğunu, bu bölgedeki tepkinin 200 günlük ortalama ve önceki SR bölgesi olan 800-850$ üstünde kalıcılık sağlamazsa bir sonraki bölgenin 450-500$ olduğunu söylüyor. Teknikte tepede hacim uyumsuzluğu, temelde dört çeyrektir marj daralması olduğunu da ekliyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "800-850$ üstü kalıcılık olmazsa bir sonraki bölge 450-500$."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "MU'nun ileriye dönük F/K'sı yanıltıcı",
+          "url": "https://x.com/heisenbergtrx/status/2118719106723594651",
+          "published_at": "2026-11-06T14:56:13.000Z",
+          "summary": "Q1'27 rehberindeki 38$ EPS yıllıklandırılınca Micron yaklaşık 4x F/K'da görünüyor ama bu kâr %86 brüt marjla hesaplanıyor; önceki iki döngüde zirve marj %45-59'du. Döngüsel hissede F/K en düşük göründüğünde genelde en pahalı andır diyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "~4x görünen F/K, %86'lık şişmiş marjla hesaplanıyor; marj artık artmıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yükselişlerde çıkılan paylar ve rotasyon",
+          "url": "https://x.com/heisenbergtrx/status/2118631953851126208",
+          "published_at": "2026-11-06T09:09:54.000Z",
+          "summary": "Kendi eski tweet'ini alıntılayıp endeksi taşıyan hisselerin uzun geri çekilmelerden sonra yeniden endeksi taşıma ihtimalinin %12 olduğunu hatırlatıyor. SanDisk ve Micron gibi kağıtlarda tepede alanların da bir ara kâr etmesini umduğunu, yaz sonrası bu kağıtlara rotasyon olabileceğini ama beklenen ölçüde olup olmayacağını bilmediğini söylüyor. 780 desteğinden aldıklarının durduğunu, yarısını her yükselişte yeniden gaza gelindiğini gördükçe okuttuğunu yazıyor.",
+          "assets": [
+            {
+              "symbol": "SNDK",
+              "sentiment": "negative",
+              "note": "Tepede alanların kâr etmesi için aylar gerekmemeli; yeniden rotasyon beklentisi sınırlı."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Tepede alanların bir ara kâr etmesini umuyor ama bunun aylar sürmemesi gerekiyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Çip donanım sepeti için \"güzel trade\"",
+          "url": "https://x.com/heisenbergtrx/status/2118639361046823127",
+          "published_at": "2026-11-06T09:39:20.000Z",
+          "summary": "Kendi eski tweet'ini alıntılayarak \"Güzel trade oldu\" diyor; alıntıladığı tweet'te %3-5 risk ile bir çip donanım sepeti alınabileceğini yazmış ve grup tekrar \"geri döner\" demeye başladığında satacağını belirtmişti.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Hisse düşerken hikâye anlatmaya devam edenlere tepki",
+          "url": "https://x.com/heisenbergtrx/status/2118615494378893815",
+          "published_at": "2026-11-06T08:04:30.000Z",
+          "summary": "Aylarca önerilen ve marj daralmalarının göz ardı edildiği hisselerin %50-60 düştüğünü, opsiyonların eridiğini ve hâlâ \"göreceksiniz\" diyenlerin hata yaptıklarını kabul etmeleri gerektiğini söylüyor. Mesele şirketlerin sıfıra gitmesi değil, insanların kaybettiği para ve zaman olduğunu vurguluyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Brent'in 21 günde 225$'a çıkacağı iddiası",
+          "url": "https://x.com/heisenbergtrx/status/2118581425481924993",
+          "published_at": "2026-11-06T05:49:07.000Z",
+          "summary": "Paradotor'un Brent petrolün 21 gün içinde 225$'a ulaşacağını düşündüğü tweet'ini yorum yapmadan paylaştı.",
+          "assets": [
+            {
+              "symbol": "BRENT",
+              "sentiment": "neutral",
+              "note": "Paradotor'un 21 günde 225$ iddiasını yorumsuz paylaştı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Defiant Gatekeeper",
+      "digest": "Defiant Gatekeeper bu hafta yaşananları üç başlıkta topluyor: yapay zeka hikâyesinin çatlaması, petrol ve getirilerin de dahil her şeyin düşmesi ve topun yeniden Fed'e geçmesi. Haftalık düşüş S&P 500'de %2,7, Nasdaq'ta %3,4; yarı iletken endeksi ise bir haftada %12 daha kaybetti. Ona göre zarar çip üreticilerinde yoğunlaştı (**Micron** ve **AMD** yaklaşık %17, **Nvidia** yaklaşık %9), çip alıcıları olan **Microsoft**, **Amazon** ve **Google** daha az düştü; nedenler seçim sonrası veri merkezi onayı korkusu ve yıl sonu pozisyonlanma.\n\nPetrol haftada %13 düşerken getirilerin ve enflasyon beklentilerinin de düşmesini savaştan çıkış beklentisine bağlıyor. Fed tarafında ise Perşembe düşen Aralık artırımı ihtimali Cuma'daki istihdam verisiyle yeniden yaklaşık %80'e döndü; önümüzdeki haftaki CPI zayıf gelmedikçe Aralık artırımını ana senaryo görüyor ve asıl önemli olanın sonraki FOMC'de ne söylendiği olduğunu ekliyor.",
+      "items": [
+        {
+          "platform": "youtube",
+          "title": "AI anlatısı çatlıyor",
+          "url": "https://www.youtube.com/watch?v=agdhmni1OIU",
+          "published_at": "2026-11-07T07:14:34Z",
+          "summary": "Haftalık piyasa güncellemesi: S&P 500 %2,7, Nasdaq %3,4, Dow %0,9 düştü; yarı iletken endeksi geçen hafta %7,2, bu hafta %12 kaybetti. Perşembe S&P 500 Nisan 2025'ten beri en kötü gününü yaşadı ve Nasdaq'tan yaklaşık 2 trilyon dolar silindi. Satışın yoğunlaştığı yer chip üreticileri: Micron ve AMD yaklaşık %17, Nvidia yaklaşık %9 düştü; chip alıcıları Amazon yaklaşık %2, Google %3, Microsoft %4 geriledi. İki açıklama öne sürüyor: Demokrat Kongre'nin veri merkezi onaylarını yavaşlatacağı korkusu (bir analiste göre 2028'de beklenen kapasitenin yaklaşık %30'u risk altında) ve hedge fonların yıl sonundan önce kâr realize etmesi; 30% rakamının bir tahmin olduğunu, gerçek bir yasa tasarısı bulunmadığını vurguluyor. Petrol haftada yaklaşık %13 düşerek 2022'den beri en büyük haftalık kaybını yaşadı, Brent seçimden sonra Çarşamba 95 dolara yaklaştı; enflasyon beklentisi de düştüğü için bunu savaştan çıkış fiyatlamasına bağlıyor. Fed'de Aralık artırımı ihtimali geçen Cuma ~%70, hafta içi ~%80, Perşembe ~%67 oldu ve Cuma'daki 165 bin istihdam verisiyle yeniden ~%80'e döndü; Perşembe işsizlik başvuruları 189 bin ile 1969'dan beri en düşük seviyedeydi, Hammack ve Daly de sıkı politika beklediklerini söyledi. Önümüzdeki haftaki CPI zayıf gelmedikçe Aralık artırımını ana karar olarak görüyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Haftada yaklaşık %17 düştü; chip üreticilerinin en çok zarar görenleri arasında."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "negative",
+              "note": "Yaklaşık %17 düştü."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "negative",
+              "note": "Yaklaşık %9 düştü."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "negative",
+              "note": "Chip alıcısı olarak yaklaşık %4 düştü, chip üreticilerinden daha az."
+            },
+            {
+              "symbol": "GOOGL",
+              "sentiment": "negative",
+              "note": "Yaklaşık %3 düştü."
+            },
+            {
+              "symbol": "SOX",
+              "sentiment": "negative",
+              "note": "Bir haftada %12, geçen hafta %7,2 düştü."
+            },
+            {
+              "symbol": "BRENT",
+              "sentiment": "negative",
+              "note": "Haftada yaklaşık %13 düştü; Brent Çarşamba 95 dolara yaklaştı."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbarians Trading",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Berk Dinçtürk",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "ulkser",
+      "digest": "ulkser'in günü pozisyon yönetimi ve hedge yorumlarıyla geçti: **SPY** üzerinde 230 milyon dolarlık put alındığını görüp bunu delta-nötr hedge olarak yorumluyor, ama tamamen kendi senaryosu olduğunu söylüyor. Nasdaq haftalık RSI'ın 38'e indiğini, Cuma günü küçük bir alım yaptığını ve altta kademeleri olduğunu, haftalık RSI 30'u görürse ne yapacağının net olduğunu belirtiyor. Kendi işlemlerinden **Nvidia**'yı 183$'dan alıp bir kısmını 193$'dan, bir **Nebius** opsiyonunu yaklaşık 118'den alıp 132 üstünden sattığını yazıyor; **QXO**'yu ise 15'ten alıp 10'a düşmesini yaşıyor. **Micron** için de yıl başındaki 200$ analizini, 1.200'lerde almama uyarısını savunuyor; **Microsoft** ile **Oracle** arasındaki anlaşmanın sonlanması haberine ise olumsuz tepki verdi.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "230 milyon dolarlık SPY put alımı",
+          "url": "https://x.com/ulkser/status/2118844287211200632",
+          "published_at": "2026-11-06T23:13:38.000Z",
+          "summary": "230 milyon dolarlık put alındığını, bunun hedge olduğunu düşündüğünü ve endeks opsiyon akışlarına genelde bakmadığını söylüyor; delta-nötr olmak için olduğunu ama bunun tamamen kendi kurduğu senaryo olduğunu ekliyor.",
+          "assets": [
+            {
+              "symbol": "SPY",
+              "sentiment": "neutral",
+              "note": "230 milyon dolarlık put alımını hedge olarak yorumluyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft ile Oracle anlaşmasının sonlanması",
+          "url": "https://x.com/ulkser/status/2118775542308610474",
+          "published_at": "2026-11-06T18:40:28.000Z",
+          "summary": "Microsoft'un Oracle ile yapay zeka bulut kapasitesi kiralama anlaşmasını sonlandırdığı haberine \"Offf\" diyerek tepki veriyor.",
+          "assets": [
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Anlaşmanın sonlanması haberine olumsuz tepki verdi."
+            },
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Haberi paylaştı, kendi yorumu yok."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AI hissesi düşmanı değilim, şişmiş fiyat düşmanıyım",
+          "url": "https://x.com/ulkser/status/2118726462752567651",
+          "published_at": "2026-11-06T15:25:27.000Z",
+          "summary": "Nvidia'yı 183$'dan alıp bugün bir kısmını 193$'dan, bir Nebius opsiyonunu yaklaşık 118'den alıp 132 üstünden sattığını yazıyor; fırsat beklemeyi bilmek gerektiğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "183$'dan aldı, bir kısmını 193$'dan sattı."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Opsiyonu yaklaşık 118'den aldı, 132 üstünden sattı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nebius opsiyonunda kontrat başına 650$ kâr",
+          "url": "https://x.com/ulkser/status/2118718571689722133",
+          "published_at": "2026-11-06T14:54:06.000Z",
+          "summary": "NBIS opsiyonunun kontrat başına 2$ hareketle 650$ kâr verdiğini belirtiyor.",
+          "assets": [
+            {
+              "symbol": "NBIS",
+              "sentiment": "positive",
+              "note": "Opsiyonda kontrat başına 650$ kâr."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Micron'da yıl başı analizi savunması",
+          "url": "https://x.com/ulkser/status/2118623554262442002",
+          "published_at": "2026-11-06T08:36:32.000Z",
+          "summary": "Yıl başı analizinde $MU 200 dolardaydı, oradan 1.200'e gitti; piyasa rejimi 11 ay sabit mi kalacak diye soruyor. Tweet silmediğini, AMD'nin kötü patladığını da yazdığını ve 1.200'lerde almama uyarısının geçerli olduğunu savunuyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Yıl başında 200$'dı, 1.200'e gitti; 1.200'lerde almama uyarısını savunuyor."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "negative",
+              "note": "Yıl başı analizinde AMD'nin kötü patladığını yazdığını belirtiyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nasdaq haftalık RSI 38",
+          "url": "https://x.com/ulkser/status/2118585682817843329",
+          "published_at": "2026-11-06T06:06:02.000Z",
+          "summary": "Kendi eski tweet'ini alıntılayarak haftalık RSI'ın 38 olduğunu hatırlatıyor; Cuma günü küçük alım yaptığını, altta kademeleri olduğunu ve haftalık RSI 30'u görürse ne yapacağını geçen yıl yazdığını söylüyor.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "positive",
+              "note": "Cuma günü küçük alım yaptı, altta kademeleri var."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "QXO'da 15'ten alım",
+          "url": "https://x.com/ulkser/status/2118809071797014606",
+          "published_at": "2026-11-06T20:53:42.000Z",
+          "summary": "$QXO'yu 15'ten aldığını, 10'a kadar düştüğünü ve risk yönetimini kendince iyi yaptığını, scalp tarafta iyi olduğunu yazıyor.",
+          "assets": [
+            {
+              "symbol": "QXO",
+              "sentiment": "neutral",
+              "note": "15'ten aldı, 10'a kadar düştü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jeoekonomiTR",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Ahmet Sunelcan",
+      "digest": "Ahmet Sunelcan portföy detaylarının hafta sonu geleceğini, çok değişim olmadığını ve sadece biraz daha **Bloom Energy** aldığını söylüyor. Dün scalp'tan kazandığını tek hatayla geri verdiğini yazıyor. Marjinle tutulan hisselerin tek hatada borçla satılmak zorunda kalabileceği için bu dönemlerde öğrenme yerine 50 günlüğün altında hedge almayı öneriyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Portföy detayları hafta sonu, BE biraz arttı",
+          "url": "https://x.com/AhmetSunelcan1/status/2118811512693228006",
+          "published_at": "2026-11-06T21:03:24.000Z",
+          "summary": "Portföy detaylarının hafta sonu geleceğini, pek değişim olmadığını ve biraz daha $BE arttığını yazıyor.",
+          "assets": [
+            {
+              "symbol": "BE",
+              "sentiment": "positive",
+              "note": "Pozisyonu biraz daha artırdı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Scalp kazancı tek hatayla geri verildi",
+          "url": "https://x.com/AhmetSunelcan1/status/2118719656152240366",
+          "published_at": "2026-11-06T14:58:24.000Z",
+          "summary": "Dün scalp'tan ne aldıysa hepsini tek hatayla geri verdiğini, her zaman olmayabileceğini yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Marjinde hedge önerisi",
+          "url": "https://x.com/AhmetSunelcan1/status/2118689629167599768",
+          "published_at": "2026-11-06T12:59:05.000Z",
+          "summary": "Marjinle tutulan hisselerin tek hatada borçla sattırılabileceğini, bu yüzden bu dönemlerde 50 günlüğün altında hedge almanın yeteceğini söylüyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "sgundoganX",
+      "group": "Others",
+      "digest": "sgundoganX, Sequoia'nın biotech'e yöneldiğini gösteren yazıyı paylaşarak **Tempus AI** pozisyonunun yanına bir şirket daha eklemeyi düşündüğünü söylüyor.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Sequoia da biotech diyor",
+          "url": "https://x.com/sgundoganX/status/2118701448028377282",
+          "published_at": "2026-11-06T13:46:03.000Z",
+          "summary": "Sequoia'nın biotech'e vurgu yaptığı yazıyı paylaşıp $TEM'in yanına bir şirket daha eklemeyi düşündüğünü söylüyor.",
+          "assets": [
+            {
+              "symbol": "TEM",
+              "sentiment": "positive",
+              "note": "Pozisyonu var; yanına bir şirket daha eklemeyi düşünüyor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "korkmazali08",
+      "group": "Others",
+      "digest": "korkmazali08 düşüşü hedge fon bahanesine bağlayanlara karşı çıkıp **QQQ**'nun 6 Ekim zirvesinden %15 gerilediğini, makro ve değerleme sorunlarının görmezden gelinmemesi gerektiğini yazıyor; -%10 ve -%20 seviyelerinde alım mantıklı, ama %15'ini düşerse diye dipte bırakmayı tercih ediyor. **Micron**'un endeks toparladıkça eski zirvesine ulaşacağını düşünüyor. Haziranda kâr satışlarıyla **Meta** ve **Palantir** gibi hisselere geçtiğini hatırlatıyor. Ayrıca **Rocket Lab** Neutron kubbesi, **IBM** kuantum bilgisayarı ve Nvidia'nın TSMC'den 3D DRAM istemesi haberlerini paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Hedge fon bahanesine itiraz",
+          "url": "https://x.com/korkmazali08/status/2118740730197737686",
+          "published_at": "2026-11-06T16:22:09.000Z",
+          "summary": "QQQ 6 Ekim zirvesinden 5 Kasım kapanışına %15 gerilemiş, birçok teknoloji hissesi zirvelerinden %20-60 düşmüş; her sert düşüşte hedge fon bahanesini öne sürmenin kendine kötülük olduğunu, makro, jeopolitik belirsizlik ve değerleme sorunlarını görmezden gelmenin iyi yatırımcı yapmayacağını söylüyor.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "negative",
+              "note": "QQQ zirvesinden %15 geriledi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "-%10 ve -%20 seviyelerinde alım",
+          "url": "https://x.com/korkmazali08/status/2118753832435888159",
+          "published_at": "2026-11-06T17:14:12.000Z",
+          "summary": "-%11 düşüşün bu ortamda gayet iyi olduğunu, -%10 ve -%20 seviyelerinde alımın mantıklı olduğunu, ucuz bazı şirketlerin dün de bugün de alınabileceğini söylüyor; kendisi %15'i düşerse diye dipte bırakıyor ya da piyasa döndükten sonra yukarıdan alıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Micron eski zirvesine ulaşır",
+          "url": "https://x.com/korkmazali08/status/2118753136227528946",
+          "published_at": "2026-11-06T17:11:26.000Z",
+          "summary": "$MU'nun endeks toparladığı sürece eski zirvesine ulaşacağını düşündüğünü yazıyor.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Endeks toparladıkça eski zirvesine ulaşacağını düşünüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Haziranda Meta ve Palantir'e geçiş",
+          "url": "https://x.com/korkmazali08/status/2118757774284997045",
+          "published_at": "2026-11-06T17:29:52.000Z",
+          "summary": "Geçmiş paylaşımlarında QQQ seviyelerini, belirsizlikler çözülmedikçe dikkatli olunmasını ve zirvelerde kâr alınmasını söylediğini, kâr satışlarıyla haziranda Meta ve Palantir gibi hisselere geçtiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "positive",
+              "note": "Haziranda kâr satışlarıyla Meta'ya geçtiğini söylüyor."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "positive",
+              "note": "Haziranda kâr satışlarıyla Palantir'e geçtiğini söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia, TSMC'den 3D DRAM istiyor",
+          "url": "https://x.com/korkmazali08/status/2118759206455021598",
+          "published_at": "2026-11-06T17:35:34.000Z",
+          "summary": "The Information'a göre Nvidia'nın bellek darboğazını aşmak için TSMC'den yeni nesil 3D DRAM üretmesini istediğini, bunun Micron, SK Hynix ve Samsung için uzun vadede yeni rekabet anlamına gelebileceğini aktarıyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "TSMC'den 3D DRAM üretmesini talep ettiği haberini aktardı."
+            },
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "3D DRAM için fabrika kurmayı ya da mevcut tesisi almayı değerlendiriyor."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Uzun vadede yeni rekabet anlamına gelebilir."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Rocket Lab Neutron ön kubbesi tamamlandı",
+          "url": "https://x.com/korkmazali08/status/2118804806315721052",
+          "published_at": "2026-11-06T20:36:45.000Z",
+          "summary": "Rocket Lab'in Neutron roketinin 1. aşama ön kubbesinin üretiminin ve kürlemesinin tamamlandığı haberini paylaştı; sıradaki adımlar analiz ve malzeme testleri.",
+          "assets": [
+            {
+              "symbol": "RKLB",
+              "sentiment": "neutral",
+              "note": "Haberi paylaştı, kendi görüşü yok."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IBM ilk kuantum bilgisayarını Illinois'de tanıttı",
+          "url": "https://x.com/korkmazali08/status/2118801731723403608",
+          "published_at": "2026-11-06T20:24:32.000Z",
+          "summary": "IBM'in Chicago'daki Hyde Park Labs'te Nighthawk işlemcili Quantum System Two'yu tanıttığını ve 750 yeni istihdam planladığını aktarıyor.",
+          "assets": [
+            {
+              "symbol": "IBM",
+              "sentiment": "neutral",
+              "note": "Haberi paylaştı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump'ın süper zeka desteği",
+          "url": "https://x.com/korkmazali08/status/2118758471801995286",
+          "published_at": "2026-11-06T17:32:38.000Z",
+          "summary": "\"Başkan sahaya indi\" diyerek Trump'ın süper zekayı %100 desteklediği ve seçim sonuçları nedeniyle borsanın çok kötü bir gün yaşadığını yazan mesajlarını paylaştı.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "dtfinans_",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "Yatirim101",
+      "group": "Others",
+      "digest": "Yatirim101, Nasdaq 100'ün 1985'ten beri 35 kez rekorundan %10'dan fazla düştüğünü, bunların yaklaşık dörtte birinin ayı piyasasına döndüğünü hatırlatıyor; sert tepki günlerinin dip işareti olmadığını, kendisi için güvenli bölgenin 28.900 üzerinde başladığını söylüyor. Bir endeks için dün atılan mumun 26.400'ünün önemli, 23.000'in ise en ucuz bölge olduğunu da yazdı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Nasdaq 100 düzeltmeleri tarihi",
+          "url": "https://x.com/Yatirim101/status/2118733928521400618",
+          "published_at": "2026-11-06T15:55:07.000Z",
+          "summary": "Nasdaq 100 1985'ten beri 35 kez %10'dan fazla düşmüş; biten 34 düzeltmenin 8'i %20'yi aşıp ayı piyasasına dönmüş, 26'sında düşüş ortalama %13'te durmuş. Tepki hareketlerinin dip işareti olmadığını ve en iyi 20 günün 18'inin ayı piyasası ortasında yaşandığını belirtiyor; güvenli bölge 28.900 üzerinde başlıyor.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "Güvenli bölge 28.900 üzerinde başlıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "26.400 ve 23.000 seviyeleri",
+          "url": "https://x.com/Yatirim101/status/2118736280578400307",
+          "published_at": "2026-11-06T16:04:28.000Z",
+          "summary": "Dün mum attığı 26.400'ün önemli olduğunu, 23.000'in endeksin en ucuz bölgesi olduğunu yazıyor; hangi endeksten bahsettiği tweet'te belirtilmemiş.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "WallStDiaries",
+      "group": "Others",
+      "digest": "WallStDiaries bugün ağırlıklı olarak yapay zeka altyapısındaki siyasi ve finansman riskini aktardı: yeni valilerin veri merkezi inşaatlarını durdurma sözü onay bekleyen kapasitenin yaklaşık %40'ını etkileyebilir, **Microsoft** ile **Oracle** arasındaki kiralama anlaşması masadan kalktı, **Anthropic**'in halka arz değerleme tartışması 1,3 trilyon dolara geriledi. Güçlü istihdam verisinin Fed'i daha temkinli yapabileceğini, Katie Stockton'ın da Kasım kapanışının 2027'nin ilk çeyreğini zorlaştırabileceği uyarısını aktardı. Şirket haberlerinde **AST SpaceMobile**'ın Firefly ile 1,3 milyar dolarlık motor anlaşması, **Nvidia**'nın TSMC ile 3D DRAM görüşmesi ve **Hims & Hers** ile **Eli Lilly** ortaklığı öne çıktı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Microsoft-Oracle bulut anlaşması masadan kalktı",
+          "url": "https://x.com/WallStDiaries/status/2118761190755016923",
+          "published_at": "2026-11-06T17:43:27.000Z",
+          "summary": "Bloomberg'e göre Microsoft yaklaşık 3 milyar dolarlık yapay zeka bulut kiralama görüşmelerini sonlandırdı; nedenler arasında FedRAMP sertifikasyon pürüzleri gösteriliyor, Oracle haberin detaylarını yalanladı.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Oracle ile kiralama görüşmelerini sonlandırdı."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Anlaşma masadan kalktı; Oracle haberi yalanladı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "OpenAI elektrik ve altyapı masraflarını üstlenecek",
+          "url": "https://x.com/WallStDiaries/status/2118745317935808820",
+          "published_at": "2026-11-06T16:40:22.000Z",
+          "summary": "Veri merkezlerine yönelik tepkilerin büyümesi üzerine OpenAI'nin elektrik ve altyapı maliyetlerini karşılama taahhüdünü CNBC-e'den aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Veri merkezlerine yeni siyasi engeller",
+          "url": "https://x.com/WallStDiaries/status/2118738058954641473",
+          "published_at": "2026-11-06T16:11:32.000Z",
+          "summary": "Cleanview verilerine göre yeni valilerin inşaatları durdurma taahhütleri onay bekleyen kapasitenin yaklaşık %40'ını etkileyebilir; Teksas 88,4 GW ile en büyük payda, Ohio 21,9, Georgia 20,2, New Mexico 11 ve New York 9,9 GW.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Katie Stockton'dan Kasım kapanışı uyarısı",
+          "url": "https://x.com/WallStDiaries/status/2118731515433570599",
+          "published_at": "2026-11-06T15:45:32.000Z",
+          "summary": "Fairlead'den Katie Stockton'a göre endeksler Kasım'ı kırılgan seviyelerde kapatırsa orta vadeli ivme bozulabilir ve teknik hasar 2027'nin ilk çeyreğini zorlaştırabilir.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "negative",
+              "note": "Kasım zayıf kapanırsa kritik destekler kaybedilebilir."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla Arjantin'e giriyor",
+          "url": "https://x.com/WallStDiaries/status/2118726963552522541",
+          "published_at": "2026-11-06T15:27:26.000Z",
+          "summary": "Tesla 20 Kasım 2026'dan itibaren Arjantin pazarına giriyor; Buenos Aires'te showroom ve ülke genelinde Supercharger ağı planlıyor.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Arjantin'e 20 Kasım'da giriyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Fox, Roku'yu 22 milyar dolara tamamladı",
+          "url": "https://x.com/WallStDiaries/status/2118720896370200946",
+          "published_at": "2026-11-06T15:03:20.000Z",
+          "summary": "Fox'un Roku'yu yaklaşık 22 milyar dolarlık nakit ve hisse takasıyla satın alma süreci 6 Kasım itibarıyla tamamlandı; Roku hissedarlarına hisse başına 96 dolar nakit ve yaklaşık 0,97 Fox A hissesi verildi.",
+          "assets": [
+            {
+              "symbol": "FOXA",
+              "sentiment": "neutral",
+              "note": "Roku'yu 22 milyar dolara satın aldı."
+            },
+            {
+              "symbol": "ROKU",
+              "sentiment": "neutral",
+              "note": "Fox bünyesine katıldı, bağımsız işlem sona erdi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Beyaz Saray teknoloji kurulu toplantısı ertelendi",
+          "url": "https://x.com/WallStDiaries/status/2118718067387560188",
+          "published_at": "2026-11-06T14:52:05.000Z",
+          "summary": "Jensen Huang ve Mark Zuckerberg'in de yer aldığı Beyaz Saray teknoloji danışma kurulunun Cuma günkü toplantısı nedeni açıklanmadan ertelendi.",
+          "assets": [
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Zuckerberg'in yer aldığı kurul toplantısı ertelendi."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Jensen Huang'ın yer aldığı kurul toplantısı ertelendi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Nvidia'dan TSMC'ye 3D DRAM hamlesi",
+          "url": "https://x.com/WallStDiaries/status/2118710013191446554",
+          "published_at": "2026-11-06T14:20:05.000Z",
+          "summary": "Nvidia'nın bellek tedarik krizini aşmak için TSMC ile 3D DRAM üretimi görüştüğü, ticari ölçekte seri üretimin birkaç yıl süreceği ve bunun kısa vadede kıtlığı çözmeyeceği aktarılıyor.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "TSMC ile 3D DRAM görüşüyor."
+            },
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "3D DRAM üretimi için görüşmelerde."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Geleneksel bellek üreticilerine bağımlılığı azaltma hamlesi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump süper zekayı %100 destekliyor",
+          "url": "https://x.com/WallStDiaries/status/2118708474825552062",
+          "published_at": "2026-11-06T14:13:58.000Z",
+          "summary": "Trump'ın süper zekayı %100 desteklediğini ve bu teknolojiyle zenginleşmek isteyen eyaletlerle çalışacağını söyleyen mesajını aktardı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Hims & Hers ve Eli Lilly ortaklığı",
+          "url": "https://x.com/WallStDiaries/status/2118704635355545668",
+          "published_at": "2026-11-06T13:58:43.000Z",
+          "summary": "Hims & Hers kullanıcıları Lilly'nin Zepbound ve yeni nesil obezite ilaçlarına platform üzerinden sigortasız fiyatlarla erişebilecek; haberle birlikte Hims hisselerinde yukarı yönlü hareket oldu.",
+          "assets": [
+            {
+              "symbol": "HIMS",
+              "sentiment": "positive",
+              "note": "Haberle birlikte hisse yükseldi."
+            },
+            {
+              "symbol": "LLY",
+              "sentiment": "neutral",
+              "note": "İlaçlarına platform üzerinden erişim sağlanıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AST SpaceMobile kendi roketini yapacak",
+          "url": "https://x.com/WallStDiaries/status/2118703108419105169",
+          "published_at": "2026-11-06T13:52:39.000Z",
+          "summary": "AST SpaceMobile, 20 ton taşıma kapasiteli yeniden kullanılabilir Blacklift roketini Firefly ile yapılan 1,3 milyar dolarlık motor anlaşmasıyla inşa edecek.",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "neutral",
+              "note": "Kendi roketini inşa edeceğini duyurdu."
+            },
+            {
+              "symbol": "FLY",
+              "sentiment": "positive",
+              "note": "1,3 milyar dolarlık motor anlaşması imzaladı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Ekim istihdam verisi beklentileri aştı",
+          "url": "https://x.com/WallStDiaries/status/2118698268599173603",
+          "published_at": "2026-11-06T13:33:25.000Z",
+          "summary": "Tarım dışı istihdam 165K (beklenti 65K), işsizlik %4,1, saatlik kazançlar yıllık %3,1; güçlü veri Fed'in daha temkinli hareket edebileceği beklentisini öne çıkarıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic halka arz değerlemesi geriledi",
+          "url": "https://x.com/WallStDiaries/status/2118698664860221644",
+          "published_at": "2026-11-06T13:34:59.000Z",
+          "summary": "Bloomberg'e göre Anthropic'in halka arz değerleme tartışmaları 1,5-2 trilyon dolardan 1,3 trilyon dolara, toplanması planlanan tutar 100 milyardan 80 milyar dolara geriledi.",
+          "assets": [
+            {
+              "symbol": "ANT",
+              "sentiment": "negative",
+              "note": "Değerleme beklentisi 1,3 trilyon dolara düştü."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tunç Şatıroğlu",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "MrTradeer",
+      "group": "Others",
+      "digest": [],
+      "items": []
+    },
+    {
+      "name": "FinancewithIzzy",
+      "group": "Others",
+      "digest": "FinancewithIzzy **IREN** bilançosunu AI altyapı hikâyesinin bitmediğinin işareti olarak okuyor: gelir 228 milyon dolar, kontrat birikimi 20,3 milyar dolar; ona göre asıl önemli olan yeni kontrat fiyatlaması, risk ise 263 milyon dolar net zarar ve 4 milyar dolar ARR hedefindeki gecikme. Ayrıca düşüşün bitip bitmediğini tartıştığı bir podcast ile **Nvidia**, **AMD**, **Nebius** ve **Palantir** üzerine bir önceki günün yayınını paylaştı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "IREN bilançosu: AI altyapı hikâyesi bitmedi",
+          "url": "https://x.com/FinancewithIzzy/status/2118732347856019825",
+          "published_at": "2026-11-06T15:48:50.000Z",
+          "summary": "Gelir 228 milyon dolar (çeyreklik +%66), AI Cloud geliri 200 milyon dolar (+%182), düzeltilmiş EBITDA 66 milyon dolar, AI Cloud brüt marjı %86 ve kontrat birikimi 20,3 milyar dolar. 5 yıllık anlaşmada MW başına yaklaşık 22 milyon dolar gelir ve GPU yatırımının %90'ının peşin karşılanması, kısa vadeli kontratta ise 40 milyon dolar/MW fiyat öne çıkıyor. Riskler 263 milyon dolar net zarar ve 4 milyar dolar ARR hedefindeki gecikme; kritik soru artık talebin ne kadar hızlı nakde dönüşeceği.",
+          "assets": [
+            {
+              "symbol": "IREN",
+              "sentiment": "positive",
+              "note": "Bilanço AI altyapı hikâyesinin bitmediğini gösteriyor; risk 263 milyon $ net zarar ve ARR hedefindeki gecikme."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Etiketledi."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "neutral",
+              "note": "Etiketledi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Piyasa ikiye bölündü podcast'i",
+          "url": "https://x.com/FinancewithIzzy/status/2118801200103481694",
+          "published_at": "2026-11-06T20:22:26.000Z",
+          "summary": "Dünkü sert satış ve bugünkü tepki alımlarının ardından düşüşün bitip bitmediğini, Wall Street, Fed, AI hisseleri ve önümüzdeki haftanın risklerini konuştuğu yeni podcast bölümünü duyurdu.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Podcast etiketi."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "neutral",
+              "note": "Podcast etiketi."
+            },
+            {
+              "symbol": "IREN",
+              "sentiment": "neutral",
+              "note": "Podcast etiketi."
+            },
+            {
+              "symbol": "NBIS",
+              "sentiment": "neutral",
+              "note": "Podcast etiketi."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Podcast etiketi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AI balonu patlıyor mu podcast'i",
+          "url": "https://x.com/FinancewithIzzy/status/2118624382662705329",
+          "published_at": "2026-11-06T08:39:49.000Z",
+          "summary": "Dün geceki yayının birçok kişiye ulaştığını, piyasanın sert düşüşünü ve AI hisselerindeki satış baskısını konuştukları podcast'i yeniden paylaştı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Podcast etiketi."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "neutral",
+              "note": "Podcast etiketi."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Podcast etiketi."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "neutral",
+              "note": "Podcast etiketi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wallstengine",
+      "group": "Others",
+      "digest": "wallstengine'in günü iki ana konuda toplandı: Ekim istihdam raporunun beklentilerin çok üzerinde gelmesi ve yapay zekanın finansman ile altyapı tarafı. **Anthropic** halka arz yol gösterimine gelecek hafta başlamayı planlıyor, SoftBank'ın CDS spreadi 466 baza çıktı, planlı veri merkezi kapasitesinin %41'i duraklamayı destekleyen valilerin eyaletlerinde. Şirket tarafında **Microsoft**'un **Oracle** ile kiralama anlaşmasını sonlandırması, TSMC'nin Nvidia'nın talebiyle 3D DRAM planlaması, **Vistra**, **Oklo** ve **Moderna** bilançoları ve Musk'ın SpaceX gelir hedefleri öne çıktı.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Ekim istihdam raporu",
+          "url": "https://x.com/wallstengine/status/2118697437061685731",
+          "published_at": "2026-11-06T13:30:07.000Z",
+          "summary": "Tarım dışı istihdam +165K (beklenti +65K), işsizlik %4,1 (beklenti %4,2), saatlik kazançlar yıllık %3,1 (beklenti %2,9), katılım oranı %61,9.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "ABD çip fabrikalarında en iyi istihdam ayı",
+          "url": "https://x.com/wallstengine/status/2118701173461127358",
+          "published_at": "2026-11-06T13:44:57.000Z",
+          "summary": "Bilgisayar ve elektronik üreticileri Ekim'de 6.700 kişi işe aldı, ABD fabrikaları toplamda 19 bin istihdam ekledi (beklenti 5 bin).",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "UMich tüketici güveni",
+          "url": "https://x.com/wallstengine/status/2118720737850851812",
+          "published_at": "2026-11-06T15:02:42.000Z",
+          "summary": "Kasım ön okuma 51,0 (beklenti 48,0); 1 yıllık enflasyon beklentisi %4,3, 5 yıllık %3,4.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Tüketici kredisi Eylül'de 27,8 milyar dolar arttı",
+          "url": "https://x.com/wallstengine/status/2118806959914897869",
+          "published_at": "2026-11-06T20:45:19.000Z",
+          "summary": "Yaklaşık 4 yılın en büyük aylık artışı; kredi kartı/döner borç +16,3 milyar, taşıt ve öğrenci kredileri +11,5 milyar dolar.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "İşsizlik süresi 27,1 haftaya çıktı",
+          "url": "https://x.com/wallstengine/status/2118872664194617490",
+          "published_at": "2026-11-07T01:06:24.000Z",
+          "summary": "İşsiz Amerikalıların ortalama işsizlik süresi pandemi dışında 2016'dan beri en uzun olan 27,1 hafta.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic halka arz yol gösterimi gelecek hafta",
+          "url": "https://x.com/wallstengine/status/2118831182192464098",
+          "published_at": "2026-11-06T22:21:34.000Z",
+          "summary": "The Information'a göre şirket 16 Kasım haftasında, Şükran Günü öncesi halka arz hedefini sürdürüyor.",
+          "assets": [
+            {
+              "symbol": "ANT",
+              "sentiment": "neutral",
+              "note": "16 Kasım haftası halka arz hedefi sürüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic halka arz Kalshi oranı %85",
+          "url": "https://x.com/wallstengine/status/2118822253362335762",
+          "published_at": "2026-11-06T21:46:05.000Z",
+          "summary": "Kalshi'de Anthropic'in bu ay halka arz olma ihtimali %85'e çıktı; FT şirketin 80-100 milyar dolar toplamayı 1,25-1,75 trilyon dolar değerlemeyle hedeflediğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "ANT",
+              "sentiment": "neutral",
+              "note": "Halka arz 80-100 milyar $ ve 1,25-1,75 trilyon $ değerleme ile hedefleniyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Anthropic değerleme beklentisi 1,2-1,3 trilyon dolara indi",
+          "url": "https://x.com/wallstengine/status/2118699611653345649",
+          "published_at": "2026-11-06T13:38:45.000Z",
+          "summary": "Bloomberg'e göre bazı yatırımcılar 1,2-1,3 trilyon dolar konuşuyor; bu birkaç hafta önceki 1,4-1,5 trilyon ve Ekim başındaki 2 trilyon tahminlerinin altında, zirveden yaklaşık %40 düşüş.",
+          "assets": [
+            {
+              "symbol": "ANT",
+              "sentiment": "negative",
+              "note": "Değerleme beklentisi zirveden yaklaşık %40 düştü."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SoftBank OpenAI turuna sadece yüzlerce milyon koyacak",
+          "url": "https://x.com/wallstengine/status/2118704603508474151",
+          "published_at": "2026-11-06T13:58:35.000Z",
+          "summary": "NYT DealBook'a göre SoftBank, OpenAI'nin yeni turuna yalnızca yüzlerce milyon dolar koymayı görüşüyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "SoftBank CDS spreadi 466 baza çıktı",
+          "url": "https://x.com/wallstengine/status/2118657064579043353",
+          "published_at": "2026-11-06T10:49:41.000Z",
+          "summary": "SoftBank'ın 5 yıllık CDS spreadi 2022'den beri en geniş seviye olan 466 baz puana çıktı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Thinking Machines 5 milyar dolarlık tura yaklaşıyor",
+          "url": "https://x.com/wallstengine/status/2118651183489548319",
+          "published_at": "2026-11-06T10:26:19.000Z",
+          "summary": "Mira Murati'nin Thinking Machines Lab'inin Accel liderliğinde 40 milyar dolar pre-money değerlemeyle 5 milyar dolarlık tura yaklaştığı aktarılıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Veri merkezi kapasitesinin %41'i duraklamayı destekleyen eyaletlerde",
+          "url": "https://x.com/wallstengine/status/2118660880317751623",
+          "published_at": "2026-11-06T11:04:51.000Z",
+          "summary": "Cleanview'a göre planlı kapasitenin %41'i, dokuz eyalette 158,6 GW; Teksas 88,4, Ohio 21,9, Georgia 20,2, New Mexico 11,0 ve New York 9,9 GW.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Susquehanna: kapasitenin %8'i iptal edilebilir",
+          "url": "https://x.com/wallstengine/status/2118667467275010059",
+          "published_at": "2026-11-06T11:31:01.000Z",
+          "summary": "Susquehanna'ya göre en kötü senaryoda planlı AI veri merkezi kapasitesinin %8'i (148 GW üzerinden) iptal edilebilir.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Hassett: veri merkezi büyümesi için yer var",
+          "url": "https://x.com/wallstengine/status/2118709205821718970",
+          "published_at": "2026-11-06T14:16:53.000Z",
+          "summary": "Kevin Hassett veri merkezi büyümesinin sürmesi için yeterli alan olduğunu ve Trump'ın istemeyen yerel yönetimlere saygı duyduğunu söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump süper zekayı destekliyor",
+          "url": "https://x.com/wallstengine/status/2118676172754374881",
+          "published_at": "2026-11-06T12:05:37.000Z",
+          "summary": "Trump, süper zekayı %100 desteklediğini ve eyaletlerle çalışacağını yazdı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Beyaz Saray teknoloji paneli toplantısı iptal",
+          "url": "https://x.com/wallstengine/status/2118709453054947424",
+          "published_at": "2026-11-06T14:17:51.000Z",
+          "summary": "Reuters'a göre Jensen Huang ve Mark Zuckerberg'in de olduğu teknoloji paneli toplantısı iptal edildi.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "Huang'ın yer aldığı panel toplantısı iptal."
+            },
+            {
+              "symbol": "META",
+              "sentiment": "neutral",
+              "note": "Zuckerberg'in yer aldığı panel toplantısı iptal."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Microsoft Oracle ile AI bulut anlaşmasını sonlandırıyor",
+          "url": "https://x.com/wallstengine/status/2118764006475497734",
+          "published_at": "2026-11-06T17:54:38.000Z",
+          "summary": "Bloomberg'e göre Microsoft 2023 anlaşmasını yenilememiş ve kapasiteyi kademeli kapatıyor; kullanılan sunucular eski nesil Nvidia GPU'larıydı, Oracle talebin güçlü olduğunu söylüyor.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "neutral",
+              "note": "Kiralama anlaşmasını yenilemedi."
+            },
+            {
+              "symbol": "ORCL",
+              "sentiment": "negative",
+              "note": "Eski GPU'lu kapasite Microsoft'un gereksinimlerini karşılamadı; Oracle talebin güçlü olduğunu söylüyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TSMC Nvidia'nın talebiyle 3D DRAM planlıyor",
+          "url": "https://x.com/wallstengine/status/2118707623835136039",
+          "published_at": "2026-11-06T14:10:35.000Z",
+          "summary": "The Information'a göre TSMC 3D DRAM üretim planları çiziyor; Samsung, SK Hynix ve Micron ile doğrudan rekabet yaratabilir, zaman çizelgesi yok.",
+          "assets": [
+            {
+              "symbol": "TSM",
+              "sentiment": "neutral",
+              "note": "3D DRAM için yeni fabrika ya da mevcut tesis dönüşümü düşünüyor."
+            },
+            {
+              "symbol": "MU",
+              "sentiment": "negative",
+              "note": "Doğrudan rekabet riski."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "CME Nvidia GPU kira vadelilerini erteledi",
+          "url": "https://x.com/wallstengine/status/2118736880913260548",
+          "published_at": "2026-11-06T16:06:51.000Z",
+          "summary": "CME, Nvidia GPU kira fiyatlarına bağlı vadeli işlemleri ikinci kez erteledi; onay Ocak'a kaydı.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "GPU kira vadelileri Ocak'a ertelendi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Chip hisseleri açılış öncesi toparlanıyor",
+          "url": "https://x.com/wallstengine/status/2118675645047898247",
+          "published_at": "2026-11-06T12:03:31.000Z",
+          "summary": "Perşembe'nin AI kaynaklı satışının ardından açılış öncesi Micron %9,2, AMD %8,3, Intel %6,2, Nvidia %5 ve Broadcom %4,9 yükseldi.",
+          "assets": [
+            {
+              "symbol": "MU",
+              "sentiment": "positive",
+              "note": "Açılış öncesi %9,2 yükseldi."
+            },
+            {
+              "symbol": "AMD",
+              "sentiment": "positive",
+              "note": "Açılış öncesi %8,3 yükseldi."
+            },
+            {
+              "symbol": "NVDA",
+              "sentiment": "positive",
+              "note": "Açılış öncesi %5 yükseldi."
+            },
+            {
+              "symbol": "AVGO",
+              "sentiment": "positive",
+              "note": "Açılış öncesi %4,9 yükseldi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX Q4 gelir tahmini",
+          "url": "https://x.com/wallstengine/status/2118795344901501184",
+          "published_at": "2026-11-06T19:59:10.000Z",
+          "summary": "Musk SpaceX'in Q4 gelirinin Q3'e göre yaklaşık %70 artıp yaklaşık 24,8 milyar dolara çıkacağını, beklentinin yaklaşık 2 milyar üzerinde olduğunu söyledi; $SPCX %9 yükseldi.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Q4 gelir tahmini beklentinin yaklaşık 2 milyar $ üzerinde; hisse %9 yükseldi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX 100 milyar dolar+ gelir hızı",
+          "url": "https://x.com/wallstengine/status/2118785767015329930",
+          "published_at": "2026-11-06T19:21:06.000Z",
+          "summary": "Musk SpaceX'in Aralık 2026'da 100 milyar dolar üzeri yıllık gelir hızını, Aralık 2027'de 500 milyar doları aşabileceğini söyledi.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "positive",
+              "note": "Aralık 2027'de 500 milyar $ üzeri gelir hızı hedefi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SpaceX uzay tabanlı AI bilgisayarları",
+          "url": "https://x.com/wallstengine/status/2118789898799063171",
+          "published_at": "2026-11-06T19:37:31.000Z",
+          "summary": "Musk Nvidia ile birlikte tasarlanan uzay tabanlı AI bilgisayarlarının 2027 üçüncü çeyrek civarında devreye girebileceğini, 2028'de önemli hacme ulaşacağını söyledi.",
+          "assets": [
+            {
+              "symbol": "NVDA",
+              "sentiment": "neutral",
+              "note": "SpaceX ile birlikte tasarlanan uzay AI bilgisayarları."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Terafab: yılda 1 terawatt AI çipi",
+          "url": "https://x.com/wallstengine/status/2118786795076997331",
+          "published_at": "2026-11-06T19:25:11.000Z",
+          "summary": "Musk Terafab'ın yılda 1 terawatt AI çipi üretmeyi hedeflediğini, maliyetin 1 trilyon dolar olabileceğini söyledi.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Hükümet geliri SpaceX gelirinin %10'undan az",
+          "url": "https://x.com/wallstengine/status/2118741211255341486",
+          "published_at": "2026-11-06T16:24:03.000Z",
+          "summary": "Musk bu çeyrekte hükümet gelirinin SpaceX gelirinin %10'undan az olacağını, Tesla'nın hükümet sözleşmesi olmadığını söyledi.",
+          "assets": [
+            {
+              "symbol": "SPCX",
+              "sentiment": "neutral",
+              "note": "Hükümet geliri %10'dan az."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Tesla Cybertruck fiyatlarını artırdı",
+          "url": "https://x.com/wallstengine/status/2118644492303818945",
+          "published_at": "2026-11-06T09:59:44.000Z",
+          "summary": "Premium AWD 92.490 dolar (+7.500), Cyberbeast 102.490 dolar (+2.500); Musk Cybertruck üretimini gelecek yıl ortasında bitirip Cybercab'e yer açacağını söylemişti.",
+          "assets": [
+            {
+              "symbol": "TSLA",
+              "sentiment": "neutral",
+              "note": "Cybertruck fiyatları artırıldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "AST SpaceMobile kendi yeniden kullanılabilir roketini yapacak",
+          "url": "https://x.com/wallstengine/status/2118686227088175124",
+          "published_at": "2026-11-06T12:45:34.000Z",
+          "summary": "Blacklift 20 tonluk roket 2028 sonu hedefli; Firefly ile 1,3 milyar dolar+ anlaşma, yaklaşık 800 milyon dolar peşin (400 milyon nakit + 10-14 milyon hisse).",
+          "assets": [
+            {
+              "symbol": "ASTS",
+              "sentiment": "neutral",
+              "note": "Hisse bileşeni mevcut hissedarları sulandıracak."
+            },
+            {
+              "symbol": "FLY",
+              "sentiment": "positive",
+              "note": "36 motor ve lisans anlaşması."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Oklo Q3 bilançosu",
+          "url": "https://x.com/wallstengine/status/2118683991398031765",
+          "published_at": "2026-11-06T12:36:41.000Z",
+          "summary": "Gelir 1,86 milyon dolar (beklenti 1,02 milyon), EPS -0,22 (beklenti -0,25), nakit 3,13 milyar dolar; 2026 nakit kullanımı 120-150 milyon dolar.",
+          "assets": [
+            {
+              "symbol": "OKLO",
+              "sentiment": "positive",
+              "note": "Gelir ve EPS beklentiyi aştı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "TeraWulf Q3 bilançosu",
+          "url": "https://x.com/wallstengine/status/2118675972039880831",
+          "published_at": "2026-11-06T12:04:49.000Z",
+          "summary": "Gelir 76,2 milyon dolar (beklenti 61,8 milyon), düzeltilmiş EBITDA -12,8 milyon (beklenti +12,8 milyon); Anthropic ile yaklaşık 401 MW, ~19 milyar dolar kontratlı gelir.",
+          "assets": [
+            {
+              "symbol": "WULF",
+              "sentiment": "neutral",
+              "note": "Gelir beklentiyi aştı, düzeltilmiş EBITDA altında kaldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Vistra Q3 bilançosu ve rehber artışı",
+          "url": "https://x.com/wallstengine/status/2118675145489350801",
+          "published_at": "2026-11-06T12:01:32.000Z",
+          "summary": "Gelir 6,35 milyar dolar (beklenti 6,02 milyar), düzeltilmiş EBITDA 2,36 milyar dolar (+%51); 2026 EBITDA rehberi 7,1-7,5 milyar dolara yükseltildi.",
+          "assets": [
+            {
+              "symbol": "VST",
+              "sentiment": "positive",
+              "note": "Bilanço beklentiyi aştı, rehber yükseltildi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Under Armour Q2'27 bilançosu",
+          "url": "https://x.com/wallstengine/status/2118674054169170345",
+          "published_at": "2026-11-06T11:57:12.000Z",
+          "summary": "Gelir 1,24 milyar dolar (-%7 yıllık), Q3 EPS rehberi -0,03 ile -0,01 (beklenti 0,05).",
+          "assets": [
+            {
+              "symbol": "UAA",
+              "sentiment": "negative",
+              "note": "Q3 rehberi beklentinin altında."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Moderna Q3 bilançosu",
+          "url": "https://x.com/wallstengine/status/2118671176075526487",
+          "published_at": "2026-11-06T11:45:46.000Z",
+          "summary": "Gelir 1,3 milyar dolar (beklenti 885 milyon), EPS 0,38; 2026 gelir büyüme rehberi %15-25'e yükseltildi.",
+          "assets": [
+            {
+              "symbol": "MRNA",
+              "sentiment": "positive",
+              "note": "Gelir beklentiyi aştı, rehber yükseltildi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Humana Q3 bilançosu",
+          "url": "https://x.com/wallstengine/status/2118663258491977846",
+          "published_at": "2026-11-06T11:14:18.000Z",
+          "summary": "Gelir 41,16 milyar dolar, düzeltilmiş EPS -0,70 (beklenti -1,00); 2026 düzeltilmiş EPS rehberi en az 9,50 dolara yükseltildi.",
+          "assets": [
+            {
+              "symbol": "HUM",
+              "sentiment": "positive",
+              "note": "Rehber yükseltildi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Lilly ve Hims & Hers GLP-1 anlaşması",
+          "url": "https://x.com/wallstengine/status/2118673115983278237",
+          "published_at": "2026-11-06T11:53:28.000Z",
+          "summary": "Hims & Hers, Lilly'nin Foundayo'sunu (oral) aylık 149 dolardan, Zepbound'unu 299 dolardan sunacak ve bileşik kopyaları sunmama taahhüdü verdi.",
+          "assets": [
+            {
+              "symbol": "LLY",
+              "sentiment": "positive",
+              "note": "Ürünleri platformdan doğrudan sunulacak."
+            },
+            {
+              "symbol": "HIMS",
+              "sentiment": "positive",
+              "note": "Bileşik kopya sunmama taahhüdü verdi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "IBM ilk kuantum bilgisayarı",
+          "url": "https://x.com/wallstengine/status/2118801292156145692",
+          "published_at": "2026-11-06T20:22:48.000Z",
+          "summary": "IBM Quantum System Two, Nighthawk işlemcisiyle Chicago'daki Hyde Park Labs'te tanıtıldı; 750 yeni istihdam planlanıyor.",
+          "assets": [
+            {
+              "symbol": "IBM",
+              "sentiment": "neutral",
+              "note": "Sistem Illinois Kuantum Parkı'na taşınacak."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Google Crusoe'nun Wyoming sahasını satın aldı",
+          "url": "https://x.com/wallstengine/status/2118796621681193297",
+          "published_at": "2026-11-06T20:04:14.000Z",
+          "summary": "Google, 17 milyar dolarlık yatırım duyurusunun ertesi günü Crusoe'nun Cheyenne yakınındaki 2,7 GW'lık sahasını satın aldı; ilk salonlar 2028 ikinci yarıda.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "17 milyar $ yatırımla Wyoming sahasını aldı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Alphabet Qualcomm hissesi aldı",
+          "url": "https://x.com/wallstengine/status/2118663505536757859",
+          "published_at": "2026-11-06T11:15:17.000Z",
+          "summary": "Alphabet'in 13F bildirimine göre Eylül sonu itibarıyla yaklaşık 3 milyon Qualcomm hissesi, 548 milyon dolar değerinde.",
+          "assets": [
+            {
+              "symbol": "QCOM",
+              "sentiment": "neutral",
+              "note": "Alphabet 13F'inde yeni pozisyon."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Blackstone BXPE kilit süresini ikiye katlıyor",
+          "url": "https://x.com/wallstengine/status/2118616970367287500",
+          "published_at": "2026-11-06T08:10:22.000Z",
+          "summary": "FT'ye göre Blackstone, 29 milyar dolarlık BXPE fonunda Hong Kong ve Singapur yatırımcıları için kilit süresini 4 yıla çıkarıyor, erken çıkışa %5 ceza uygulanacak.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "jrouldz",
+      "group": "Others",
+      "digest": "jrouldz mevcut seviyelerden seçmek zorunda kalsa temel analiz açısından **Cloudflare**, **CrowdStrike**, **Apple** veya **Palantir** diyeceğini ama değerleme endişesi nedeniyle diyemediğini yazıyor. **Karman**'ın güçlü bilançosu ve grafik kırılımı dikkatini çekti, spekülasyon zirvesinden hâlâ %66 aşağıda ve izleme listesine ekleyecek. Piyasada ise 48 saatten uzun süren yeşil istiyor: yeşil kapanış, Pazartesi gap-up ve yeşil kapanış, Salı yeşil açılış öncesi görmeden heyecanlanmayacak.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "Tema sepetleri ve değerleme endişesi",
+          "url": "https://x.com/jrouldz/status/2118787941875245193",
+          "published_at": "2026-11-06T19:29:45.000Z",
+          "summary": "Mevcut seviyelerden seçmek zorunda kalsa temel analiz açısından NET, CRWD, AAPL veya PLTR diyeceğini, değerleme endişesi yüzünden diyemediğini ve tema sepetleri arasında çeşitlendirmeyi sevdiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "NET",
+              "sentiment": "neutral",
+              "note": "Temel açıdan favori ama değerleme endişesi var."
+            },
+            {
+              "symbol": "CRWD",
+              "sentiment": "neutral",
+              "note": "Temel açıdan favori ama değerleme endişesi var."
+            },
+            {
+              "symbol": "AAPL",
+              "sentiment": "neutral",
+              "note": "Temel açıdan favori ama değerleme endişesi var."
+            },
+            {
+              "symbol": "PLTR",
+              "sentiment": "neutral",
+              "note": "Temel açıdan favori ama değerleme endişesi var."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Karman'da güçlü bilanço ve kırılım",
+          "url": "https://x.com/jrouldz/status/2118760553988641191",
+          "published_at": "2026-11-06T17:40:55.000Z",
+          "summary": "$KRMN'in güçlü bir bilanço açıkladığını ve grafik kırılımının yeni başlıyor olabileceğini, hâlâ spekülasyon zirvelerinden %66 aşağıda olduğunu yazıp izleme listesine ekleyeceğini söylüyor.",
+          "assets": [
+            {
+              "symbol": "KRMN",
+              "sentiment": "positive",
+              "note": "Güçlü bilanço ve kırılım; izleme listesine ekleyecek."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Yeşil kapanış bekliyor",
+          "url": "https://x.com/jrouldz/status/2118757222100635795",
+          "published_at": "2026-11-06T17:27:41.000Z",
+          "summary": "Yeşil kapanış, Pazartesi gap-up ve yeşil kapanış, Salı yeşil açılış öncesi görmeden heyecanlanmayacağını yazıyor.",
+          "assets": []
+        }
+      ]
+    },
+    {
+      "name": "cevikfinance",
+      "group": "Others",
+      "digest": "cevikfinance'in günü büyük ölçüde İran etrafında geçti: nükleer tesislere saldırı ihtimalinin konuşulduğunu ve komşu ülkelerin hazırlık yaptığı söylentisini aktarıp bunun kendisini korkuttuğunu yazıyor, Trump'ın İran'la konuştuğunu söylemesini de paylaştı. Piyasada \"henüz çilemiz bitmedi\" diyor, **NDX**'in 2025 zirvesini aynı gün test etmesine şaşırdığını söylüyor; öte yandan **AppLovin**'in haftada %73 yükseldiğini ve kuantum hisselerinin **IBM** haberiyle öne çıktığını aktardı. Alphabet'in 13F'ine göre portföy değeri %10,8 düştü, bunun 10,44 milyar doları **SpaceX** payından.",
+      "items": [
+        {
+          "platform": "x",
+          "title": "ABD borsasında katliam videosu",
+          "url": "https://x.com/cevikfinance/status/2118764457560043751",
+          "published_at": "2026-11-06T17:56:26.000Z",
+          "summary": "Sert satış sonrası gelen yükselişin dönüşün başlangıcı mı yoksa yeni düşüş öncesi tepki mi olduğunu değerlendirdiği yeni videoyu duyurdu.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "Videoda tepki yükselişinin kalıcılığını tartışıyor."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "SPX kutuları: çilemiz bitmedi",
+          "url": "https://x.com/cevikfinance/status/2118793891985904120",
+          "published_at": "2026-11-06T19:53:23.000Z",
+          "summary": "Frank Cappelleri'nin SPX grafiğini \"güzel analiz\" diye paylaşıp bugünkü videosunda da değindiğini, henüz çilenin bitmediğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "SPX",
+              "sentiment": "negative",
+              "note": "Henüz çile bitmedi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "NDX 2025 zirvesini test etti",
+          "url": "https://x.com/cevikfinance/status/2118662616394465723",
+          "published_at": "2026-11-06T11:11:45.000Z",
+          "summary": "Dün 26.000 seviyesinin 2025 zirvesine gittiğini yazdığı tweet'in birkaç saat sonra aynı gün test edildiğine şaştığını söylüyor.",
+          "assets": [
+            {
+              "symbol": "NDX",
+              "sentiment": "neutral",
+              "note": "26.000 seviyesinden 2025 zirvesini aynı gün test etti."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Komşu ülkeler nükleer hazırlık yapıyor söylentisi",
+          "url": "https://x.com/cevikfinance/status/2118801375693869516",
+          "published_at": "2026-11-06T20:23:08.000Z",
+          "summary": "Bazı dedikodulara göre İran'a komşu ülkelerin nükleer saldırı ihtimaline karşı hazırlık yapmaya başladığını, kendi eski paylaşımını alıntılayarak aktarıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "İran nükleer sahalar çevresinde iyot tableti dağıtıyor iddiası",
+          "url": "https://x.com/cevikfinance/status/2118755079029223730",
+          "published_at": "2026-11-06T17:19:10.000Z",
+          "summary": "WarMonitor'ün İran'ın nükleer tesisler çevresinde iyot tableti dağıttığı ve büyük saldırıların yaklaştığına işaret ettiği iddiasını yorum eklemeden paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "İran saldırısı beni korkutuyor",
+          "url": "https://x.com/cevikfinance/status/2118802295290782026",
+          "published_at": "2026-11-06T20:26:47.000Z",
+          "summary": "Kolay kolay negatif düşünmediğini ama İran saldırısının kendisini korkuttuğunu, nükleer silah kullanılmasının felaket olacağını yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Trump İran'la konuştuklarını söyledi",
+          "url": "https://x.com/cevikfinance/status/2118805300958662712",
+          "published_at": "2026-11-06T20:38:43.000Z",
+          "summary": "The Spectator Index'in Trump'ın ABD'nin İran'la konuştuğunu söylediği haberini \"öte yandan\" diyerek paylaştı.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "İran'ın uranyumunu yok etmek amaç",
+          "url": "https://x.com/cevikfinance/status/2118760992708399401",
+          "published_at": "2026-11-06T17:42:39.000Z",
+          "summary": "Amacın İran'ın elindeki uranyumu yok etmek olduğunu, bunu yaparsa zafer ilan edileceğini, yapamazsa dünyanın nükleer bombalı İran'la karşılaşacağını yazıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "AppLovin haftada %73 yükseldi",
+          "url": "https://x.com/cevikfinance/status/2118810877319369104",
+          "published_at": "2026-11-06T21:00:53.000Z",
+          "summary": "Yüzümüzü güldüren hisseler arasında $APP'nin bu hafta %73 yükseldiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "APP",
+              "sentiment": "positive",
+              "note": "Haftada %73 yükseldi."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Kuantum hisseleri IBM haberiyle yükseldi",
+          "url": "https://x.com/cevikfinance/status/2118806553537261616",
+          "published_at": "2026-11-06T20:43:42.000Z",
+          "summary": "IBM'in Chicago'da en gelişmiş kuantum bilgisayarını tanıtması nedeniyle bugün kuantum hisselerinin en çok yükselen tema olduğunu yazıyor.",
+          "assets": [
+            {
+              "symbol": "IBM",
+              "sentiment": "positive",
+              "note": "Kuantum bilgisayar haberi temayı yükseltti."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Alphabet'in 13F portföyü",
+          "url": "https://x.com/cevikfinance/status/2118694430404206664",
+          "published_at": "2026-11-06T13:18:10.000Z",
+          "summary": "Alphabet'in raporlanan portföy değeri 99,08 milyar dolardan 88,35 milyar dolara (-%10,8) indi, 10,44 milyar dolarlık düşüş SpaceX Class A'dan; Tempus AI değeri %41,4 arttı, Qualcomm yeni alındı (2,98 milyon hisse, 547,88 milyon dolar), GitLab tamamen kapatıldı.",
+          "assets": [
+            {
+              "symbol": "GOOGL",
+              "sentiment": "neutral",
+              "note": "Portföy değeri %10,8 düştü."
+            },
+            {
+              "symbol": "SPCX",
+              "sentiment": "negative",
+              "note": "Alphabet'in payının değeri %11,1 düştü."
+            },
+            {
+              "symbol": "TEM",
+              "sentiment": "positive",
+              "note": "Payın değeri %41,4 arttı."
+            },
+            {
+              "symbol": "QCOM",
+              "sentiment": "neutral",
+              "note": "Alphabet yeni pozisyon açtı."
+            }
+          ]
+        },
+        {
+          "platform": "x",
+          "title": "Trump süper zeka desteği",
+          "url": "https://x.com/cevikfinance/status/2118679022976782611",
+          "published_at": "2026-11-06T12:16:56.000Z",
+          "summary": "Trump'ın süper zekayı %100 desteklediğini, Demokratlar engellemeye çalışırsa Cumhuriyetçi ya da yapay zekaya sıcak bakan eyaletlerle çalışacağını söylediğini aktarıyor.",
+          "assets": []
+        },
+        {
+          "platform": "x",
+          "title": "Hollanda'da Microsoft veri merkezi protestosu",
+          "url": "https://x.com/cevikfinance/status/2118711081862324282",
+          "published_at": "2026-11-06T14:24:20.000Z",
+          "summary": "Amsterdam yakınındaki Microsoft veri merkezine yaklaşık 100 protestocunun girdiğini, bu zihniyeti Almanya'daki nükleer karşıtlığına benzettiğini yazıyor.",
+          "assets": [
+            {
+              "symbol": "MSFT",
+              "sentiment": "negative",
+              "note": "Veri merkezine protestocular girdi."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_weight": 0.0007,
+    "holdings": [
+      {
+        "isin": "US83406F1021",
+        "name": "SoFi Technologies",
+        "weight": 0.1877,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "%18,8 ile en büyük pozisyon; yüksek beta fintech olarak risk iştahındaki dalgalanmaya en açık kalem, tek hisse yoğunlaşması asıl risk.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Ekim istihdam verisi güçlü geldi (+165K), işsizlik %4,1; sağlam iş piyasası kredi kalitesine destek olur.",
+          "Aleyhte: Nasdaq düşüşünde yüksek beta hisseler daha sert dalgalanır; Fed'in artırım ihtimali (Defiant Gatekeeper'a göre ~%80) finansman maliyetini zorlar.",
+          "Aleyhte: tek hissede %18,8 ağırlık."
+        ]
+      },
+      {
+        "isin": "LU1900067601",
+        "name": "Amundi MSCI Turkey (Acc)",
+        "weight": 0.1293,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Türkiye ETF'i petroldeki düşüşten (enerji ithalat faturası) fayda görebilir, ama küresel risk kaçışı ve İran kaynaklı bölgesel gerilim gelişen piyasa varlıklarına baskı yapabilir; lira ve yerel faiz gelişmelerini ayrıca izlemek gerekir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Defiant Gatekeeper'a göre petrol haftada %13 düştü; enerji ithalatçısı için olumlu.",
+          "Aleyhte: ABD'de Aralık artırımı ihtimalinin yeniden yükselmesi gelişen piyasa akışlarına baskı yapabilir.",
+          "Aleyhte: cevikfinance'in aktardığı İran gerilimi bölgesel risk primini yükseltebilir."
+        ]
+      },
+      {
+        "isin": "US11135F1012",
+        "name": "Broadcom",
+        "weight": 0.1291,
+        "mentions": [
+          {
+            "person": "wallstengine",
+            "sentiment": "positive",
+            "quote": "Chip stocks are seeing a bit of a bounce in premarket trading ahead of the nonfarm payrolls report, following Thursday's AI-led rout: Micron +9.2% AMD +8.3% Intel +6.2% Nvidia +5% Broadcom +4.9%",
+            "source_url": "https://x.com/wallstengine/status/2118675645047898247"
+          }
+        ],
+        "action": "hold",
+        "why": "wallstengine'e göre Broadcom açılış öncesi %4,9 yükseldi; karar için somut bir gerekçe yok.",
+        "opinion": "Yarı iletken satışının merkezindeki bir AI tedarikçisi olarak, veri merkezi onaylarındaki siyasi belirsizlik ve hyperscaler harcama haberleri en önemli takip kalemi.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Defiant Gatekeeper'a göre Microsoft, Amazon ve Google (alıcılar) çip üreticilerinden daha az düştü; talep tarafı sağlam görünüyor.",
+          "Aleyhte: yarı iletken endeksi bir haftada %12 düştü; sektör satışında hisse de baskı görebilir.",
+          "Aleyhte: Cleanview verisine göre planlı veri merkezi kapasitesinin %41'i duraklamayı destekleyen eyaletlerde."
+        ]
+      },
+      {
+        "isin": "US30303M1027",
+        "name": "Meta Platforms A",
+        "weight": 0.1278,
+        "mentions": [
+          {
+            "person": "korkmazali08",
+            "sentiment": "neutral",
+            "quote": "kar satışlarıyla haziran ayında meta gibi palantir gibi hisseleere geçtiğimide söyledim",
+            "source_url": "https://x.com/korkmazali08/status/2118757774284997045"
+          },
+          {
+            "person": "WallStDiaries",
+            "sentiment": "neutral",
+            "quote": "Jensen Huang ve Mark Zuckerberg'in de yer aldığı Beyaz Saray teknoloji danışma kurulunun toplantısı ertelendi",
+            "source_url": "https://x.com/WallStDiaries/status/2118718067387560188"
+          }
+        ],
+        "action": "hold",
+        "why": "korkmazali08 Meta'ya haziranda geçtiğini söyledi ama bugün için somut seviye ya da tarih vermedi.",
+        "opinion": "Büyük ölçekli AI harcaması yapan bir alıcı olarak çip düşüşünden görece az etkilendi, ancak veri merkezi inşasındaki siyasi engeller maliyet ve takvimi etkileyebilir.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Defiant Gatekeeper'a göre çip alıcıları satıcılardan daha az düştü.",
+          "Aleyhte: Beyaz Saray teknoloji kurulu toplantısının nedeni açıklanmadan ertelenmesi politika belirsizliğini artırıyor.",
+          "Aleyhte: %12,8 ağırlık ve Nasdaq'ın zirveden %15 gerilemesi."
+        ]
+      },
+      {
+        "isin": "US05605H1005",
+        "name": "BWX Technologies",
+        "weight": 0.1051,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Nükleer tedarikçi olarak veri merkezi enerji talebinden fayda sağlayabilir; ama veri merkezi inşasını yavaşlatma ihtimali ve devlet harcamalarına bağımlılık izlenmesi gereken riskler.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: AI altyapısının güç ihtiyacı konusunda Musk 'yerde yeterli güç yok' diyor (wallstengine).",
+          "Aleyhte: planlı veri merkezi kapasitesinin %41'i duraklama yanlısı valilerin eyaletlerinde (Cleanview).",
+          "Aleyhte: %10,5 ağırlık ve bugün kaynaklarda şirkete dair doğrudan bilgi yok."
+        ]
+      },
+      {
+        "isin": "US75734B1008",
+        "name": "Reddit A",
+        "weight": 0.0943,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Reklam gelirine bağlı yüksek beta bir platform; risk iştahı zayıfladığında dalgalanması yüksek olabilir, takip edilecek şey reklam bütçelerinin ve kullanıcı büyümesinin seyri.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: güçlü ABD istihdamı ve tüketici güveninin beklentiyi aşması (UMich 51,0) reklam harcamalarına destek olabilir.",
+          "Aleyhte: Nasdaq'ın zirveden %15 gerilemesi yüksek beta büyüme hisselerini daha çok vurur.",
+          "Aleyhte: bugün kaynaklarda şirkete dair bilgi yok, karar için gerekçe eksik."
+        ]
+      },
+      {
+        "isin": "US64110L1061",
+        "name": "Netflix",
+        "weight": 0.0935,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Abonelik gelirli, nakit üreten yapısı satış dalgasında görece savunmacı kalabilir; asıl izlenecek konu reklam katmanı ve abone büyümesi.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: AI altyapı satışının merkezinde değil; tüketici güveni beklentiyi aştı (UMich 51,0).",
+          "Aleyhte: Nasdaq'ın genel düşüşü büyüme hisselerine baskı yapıyor.",
+          "Aleyhte: bugün kaynaklarda şirkete dair somut bilgi yok."
+        ]
+      },
+      {
+        "isin": "IE00BD8PGZ49",
+        "name": "iShares USD Treasury Bond 20+yr EUR Hedged (Dist)",
+        "weight": 0.0799,
+        "mentions": [
+          {
+            "person": "Defiant Gatekeeper",
+            "sentiment": "neutral",
+            "quote": "Bu hafta petrol %13 düştü ve tahvil getirileri de düştü.",
+            "source_url": "https://www.youtube.com/watch?v=agdhmni1OIU"
+          }
+        ],
+        "action": "hold",
+        "why": "Defiant Gatekeeper'a göre Aralık'ta faiz artırımı ana senaryo ve önümüzdeki haftaki CPI belirleyici; yön için somut bir değişim yok.",
+        "opinion": "Uzun vadeli ABD tahvili faiz artırımı beklentisi yükselirse zarar eder, ama güvenli liman talebi ve petrol düşüşüyle enflasyon beklentilerinin gerilemesi getirileri aşağı çekebilir; CPI ve sonraki FOMC dili belirleyici.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: Defiant Gatekeeper'a göre petrol düşüşüyle 10 yıllık getiriler ve enflasyon beklentileri geriledi.",
+          "Aleyhte: güçlü istihdam verisiyle Aralık artırımı ihtimali yeniden yaklaşık %80'e döndü.",
+          "Aleyhte: ABD tüketici kredisi 27,8 milyar dolar artarak beklentileri aştı (wallstengine); ekonomi sıcaklığını koruyor."
+        ]
+      },
+      {
+        "isin": "US34631F1021",
+        "name": "FORGENT POWER SOLUTIONS INC.",
+        "weight": 0.0527,
+        "mentions": [],
+        "action": "hold",
+        "why": "Bugün yeni bilgi yok.",
+        "opinion": "Veri merkezi elektrik altyapısı temasının küçük bir temsilcisi gibi görünüyor; veri merkezi inşasındaki politik gecikmeler ve sektör çapındaki satış en büyük risk, sipariş ve backlog haberleri en önemli takip kalemi.",
+        "ai_action": "hold",
+        "ai_points": [
+          "Lehte: veri merkezi güç talebi için Musk 'yerde yeterli güç yok' diyor (wallstengine).",
+          "Aleyhte: planlı veri merkezi kapasitesinin %41'i duraklama yanlısı valilerin eyaletlerinde (Cleanview).",
+          "Aleyhte: bugün şirkete dair kaynakta doğrudan bilgi yok."
+        ]
+      }
+    ],
+    "ideas": [
+      {
+        "symbol": "IREN",
+        "name": "IREN",
+        "why": "FinancewithIzzy bilançoda 20,3 milyar dolar kontrat birikimi ve %86 AI Cloud brüt marjını öne çıkarıyor; riskleri 263 milyon dolar net zarar ve ARR hedefindeki gecikme olarak görüyor.",
+        "source_url": "https://x.com/FinancewithIzzy/status/2118732347856019825"
+      },
+      {
+        "symbol": "KRMN",
+        "name": "Karman Holdings",
+        "why": "jrouldz güçlü bilanço ve grafik kırılımı gördüğünü, hâlâ spekülasyon zirvesinden %66 aşağıda olduğunu yazıp izleme listesine ekleyeceğini söyledi.",
+        "source_url": "https://x.com/jrouldz/status/2118760553988641191"
+      },
+      {
+        "symbol": "TEM",
+        "name": "Tempus AI",
+        "why": "sgundoganX Sequoia'nın biotech vurgusuna dayanarak pozisyonunun yanına bir şirket daha eklemeyi düşünüyor; cevikfinance Alphabet'in payının değerinin %41,4 arttığını aktardı.",
+        "source_url": "https://x.com/sgundoganX/status/2118701448028377282"
+      }
+    ]
+  }
+}
